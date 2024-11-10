@@ -100,6 +100,8 @@ hb:
       #category_id: DIC_kwDOJP3qtM4CVavM
   docs:
     #https://hugomods.com/docs/comment-engines/giscus/
+    #https://github.com/apps/giscus
+    #https://giscus.app/#repository
     giscus:
       repo: MasteryEducation/MyAmazigProject
       repo_id: R_kgDONJh4uw
