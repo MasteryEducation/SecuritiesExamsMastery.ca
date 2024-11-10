@@ -18,7 +18,7 @@ hb:
   revision:
     repo_service: github
     repo_owner: MasteryEducation
-    repo_name: MyAmazingProject
+    repo_name: SecuritiesExamsMastery.ca
     repo_branch: main
     repo_subpath: ''
     repo_contributors: true
@@ -36,7 +36,7 @@ hb:
   full_width: true
 
   header:
-    brand: MyAmazingProject
+    brand: Canadian Securities Exams Mastery
     socials:
       github: MasteryEducation
       twitter: TokenizerCA
@@ -53,7 +53,7 @@ hb:
   blog:
     sidebar:
       profile:
-        title: MyAmazingProject
+        title: Canadian Securities Exams Mastery
       posts:
         recent_count: 0
         featured_count: 0
@@ -127,7 +127,7 @@ pwa:
   manifest:
     background_color: '#712cf9'
     theme_color: '#712cf9'
-    short_name: 'MyAmazingProject'
+    short_name: 'Canadian Securities Exams Mastery'
 
 # https://hugomods.com/search/configurations/
 search:
