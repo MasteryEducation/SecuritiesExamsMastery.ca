@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1130000
+canonical: "https://securitiesexamsmastery.ca/14/9/23"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 21.22 Distressed Securities Strategy

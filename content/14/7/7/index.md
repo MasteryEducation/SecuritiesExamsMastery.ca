@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 770000
+canonical: "https://securitiesexamsmastery.ca/14/7/7"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 19.6 Creation and Redemption Process of Standard Exchange-Traded Funds

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 780000
+canonical: "https://securitiesexamsmastery.ca/14/7/8"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 19.7 Key Features of Exchange-Traded Funds

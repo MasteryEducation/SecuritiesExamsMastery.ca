@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1120000
+canonical: "https://securitiesexamsmastery.ca/14/10/12"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 22.11 Disadvantages of Closed-End Funds

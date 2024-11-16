@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1510000
+canonical: "https://securitiesexamsmastery.ca/14/13/21"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## Conclusion of Chapter 25: Fee-Based Accounts in Wealth Management

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1230000
+canonical: "https://securitiesexamsmastery.ca/14/10/23"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## Glossary for Chapter 22: Other Managed Products

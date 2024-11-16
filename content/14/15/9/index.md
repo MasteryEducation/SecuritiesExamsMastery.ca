@@ -17,6 +17,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1590000
+canonical: "https://securitiesexamsmastery.ca/14/15/9"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 27.8 Organizational Structure of Sell-Side Trading Firms

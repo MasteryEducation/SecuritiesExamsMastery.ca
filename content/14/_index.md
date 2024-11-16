@@ -18,6 +18,8 @@ menu:
         name: book
         className: text-primary
 # homepage: true
+canonical: "https://securitiesexamsmastery.ca/14"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 

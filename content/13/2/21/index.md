@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 410000
+canonical: "https://securitiesexamsmastery.ca/13/2/21"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 2.20 Clearing and Settlement in Financial Markets

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 170000
+canonical: "https://securitiesexamsmastery.ca/13/1/7"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 1.6 Principal and Agency Transactions

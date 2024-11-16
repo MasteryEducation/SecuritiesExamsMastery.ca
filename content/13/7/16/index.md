@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 860000
+canonical: "https://securitiesexamsmastery.ca/13/7/16"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.16 The Impact of Coupon Rate

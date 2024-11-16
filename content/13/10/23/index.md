@@ -17,6 +17,8 @@ date: 2024-10-25
 type: docs
 nav_weight: 12300
 
+canonical: "https://securitiesexamsmastery.ca/13/10/23"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 10.22 Conclusion of Chapter 10

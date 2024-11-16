@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1280000
+canonical: "https://securitiesexamsmastery.ca/14/12/8"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 24.7 Registered Retirement Savings Plans (RRSPs)

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 610000
+canonical: "https://securitiesexamsmastery.ca/14/5/11"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 17.10 Load Types: Front-End, Back-End, and No-Load

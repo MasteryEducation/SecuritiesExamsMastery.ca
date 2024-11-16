@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 940000
+canonical: "https://securitiesexamsmastery.ca/14/7/24"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 19.23 Covered Call Exchange-Traded Funds

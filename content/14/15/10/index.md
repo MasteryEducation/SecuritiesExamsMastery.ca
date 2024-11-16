@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1600000
+canonical: "https://securitiesexamsmastery.ca/14/15/10"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 27.9 Equity Sales and Trading Departments

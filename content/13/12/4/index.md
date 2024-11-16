@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1240000
+canonical: "https://securitiesexamsmastery.ca/13/12/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.3 Bringing Securities to the Market

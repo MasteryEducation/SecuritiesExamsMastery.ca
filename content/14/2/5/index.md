@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 250000
+canonical: "https://securitiesexamsmastery.ca/14/2/5"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 14.4 Statement of Financial Position Analysis

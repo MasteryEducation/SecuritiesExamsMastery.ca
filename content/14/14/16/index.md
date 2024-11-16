@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1560000
+canonical: "https://securitiesexamsmastery.ca/14/14/16"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 26.14 Glossary for Chapter 26

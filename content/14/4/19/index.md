@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 590000
+canonical: "https://securitiesexamsmastery.ca/14/4/19"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## Glossary for Chapter 16: The Portfolio Management Process

@@ -5,6 +5,8 @@ description: |
   Achieve success with Securities Exams Mastery.ca! Explore comprehensive Canadian securities courses, certification guides, and realistic sample exam questions to ace your financial exams.
 homepage: true
 type: docs
+canonical: "https://securitiesexamsmastery.ca"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 

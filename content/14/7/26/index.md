@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 960000
+canonical: "https://securitiesexamsmastery.ca/14/7/26"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 19.25 Taxation of Investors in Exchange-Traded Funds

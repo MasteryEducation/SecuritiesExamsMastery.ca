@@ -16,6 +16,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 440000
+canonical: "https://securitiesexamsmastery.ca/14/2/24"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 14.23 Continuous Monitoring and Qualitative Analysis

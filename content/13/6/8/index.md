@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 680000
+canonical: "https://securitiesexamsmastery.ca/13/6/8"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 6.7 Term to Maturity and Bond Classifications

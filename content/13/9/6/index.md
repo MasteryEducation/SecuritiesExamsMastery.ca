@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 960000
+canonical: "https://securitiesexamsmastery.ca/13/9/6"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 9.5 Margin Risks

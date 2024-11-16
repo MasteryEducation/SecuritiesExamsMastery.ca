@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1510000
+canonical: "https://securitiesexamsmastery.ca/14/14/11"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 26.10 Handling Client Confidentiality

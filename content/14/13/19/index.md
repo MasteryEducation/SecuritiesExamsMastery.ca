@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1490000
+canonical: "https://securitiesexamsmastery.ca/14/13/19"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 25.18 Direct Guidance in Self-Directed Accounts

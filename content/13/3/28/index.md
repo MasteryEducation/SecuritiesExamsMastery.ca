@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 580000
+canonical: "https://securitiesexamsmastery.ca/13/3/28"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## Glossary for Chapter 3: Understanding the Canadian Regulatory Environment

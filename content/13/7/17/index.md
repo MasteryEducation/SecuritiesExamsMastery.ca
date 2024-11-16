@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 870000
+canonical: "https://securitiesexamsmastery.ca/13/7/17"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 7.17 The Impact of Yield Changes

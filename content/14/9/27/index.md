@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1170000
+canonical: "https://securitiesexamsmastery.ca/14/9/27"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 21.26 Dedicated Short Bias Strategy

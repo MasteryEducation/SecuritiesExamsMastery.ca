@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1310000
+canonical: "https://securitiesexamsmastery.ca/14/12/11"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 24.10 Tax-Free Savings Accounts (TFSAs)

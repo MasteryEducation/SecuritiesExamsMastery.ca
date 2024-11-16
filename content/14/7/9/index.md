@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 790000
+canonical: "https://securitiesexamsmastery.ca/14/7/9"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 19.8 Low Cost

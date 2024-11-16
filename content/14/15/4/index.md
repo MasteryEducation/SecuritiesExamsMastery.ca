@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1540000
+canonical: "https://securitiesexamsmastery.ca/14/15/4"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 27.3 Types of Sell-Side Firms

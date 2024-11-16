@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1520000
+canonical: "https://securitiesexamsmastery.ca/14/14/12"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 26.11 Five Primary Ethical Values in Financial Advisory

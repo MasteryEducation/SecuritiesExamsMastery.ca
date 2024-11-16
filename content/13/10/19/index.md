@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1190000
+canonical: "https://securitiesexamsmastery.ca/13/10/19"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 10.18 Common Misconceptions about Derivatives

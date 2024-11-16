@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 950000
+canonical: "https://securitiesexamsmastery.ca/14/8/15"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 20.14 Exempt Market Alternative Funds (Hedge Funds)

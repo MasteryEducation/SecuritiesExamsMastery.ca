@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 910000
+canonical: "https://securitiesexamsmastery.ca/13/8/11"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 8.11 Capital Appreciation of Common Shares

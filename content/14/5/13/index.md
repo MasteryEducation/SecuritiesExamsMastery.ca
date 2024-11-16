@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 630000
+canonical: "https://securitiesexamsmastery.ca/14/5/13"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 17.12 Mutual Fund Regulation: SROs and National Instruments

@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 490000
+canonical: "https://securitiesexamsmastery.ca/13/4/9"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 4.8 Productivity and Determinants of Economic Growth

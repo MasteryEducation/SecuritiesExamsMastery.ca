@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 730000
+canonical: "https://securitiesexamsmastery.ca/13/6/13"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 6.12 Sinking Funds and Purchase Funds

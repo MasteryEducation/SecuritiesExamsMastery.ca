@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1550000
+canonical: "https://securitiesexamsmastery.ca/14/15/5"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 27.4 Revenue Sources for Sell-Side Trading Firms

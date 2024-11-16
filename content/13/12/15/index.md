@@ -15,6 +15,8 @@ tags:
 date: 2024-10-25
 type: docs
 nav_weight: 1350000
+canonical: "https://securitiesexamsmastery.ca/13/12/15"
+license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
 ## 12.14 Capital Raising Strategies
