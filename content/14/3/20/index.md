@@ -128,7 +128,9 @@ To deepen your understanding of portfolio beta and alpha, consider exploring the
 
 Understanding portfolio beta and alpha is essential for evaluating investment performance and making informed decisions. By mastering these concepts, investors and portfolio managers can better assess risk, measure excess returns, and optimize their investment strategies within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

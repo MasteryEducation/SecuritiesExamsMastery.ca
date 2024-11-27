@@ -81,7 +81,9 @@ For those interested in deepening their understanding of equity securities and t
 
 These resources provide comprehensive insights into equity asset management and the Canadian securities landscape, offering valuable knowledge for both novice and experienced investors.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

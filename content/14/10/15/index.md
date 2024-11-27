@@ -81,7 +81,9 @@ When investing in income trusts, consider the following best practices and poten
 
 Understanding the taxation of income trusts is essential for making informed investment decisions. By leveraging the tax advantages of REITs and Business Trusts, investors can enhance their returns while complying with Canadian tax regulations. As always, consult with a financial advisor or tax professional to tailor strategies to your specific financial situation.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

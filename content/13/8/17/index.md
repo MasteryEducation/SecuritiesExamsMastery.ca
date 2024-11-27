@@ -81,7 +81,9 @@ These resources provide valuable insights into the mechanics of floating-rate pr
 
 Floating-rate preferred shares offer a compelling investment opportunity, particularly in environments where interest rates are expected to rise. By understanding the benefits and risks associated with these securities, investors can make informed decisions that align with their financial goals and risk tolerance. As always, it's crucial to conduct thorough research and consider consulting with a financial advisor to tailor investment strategies to individual needs.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

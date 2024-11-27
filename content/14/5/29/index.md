@@ -127,7 +127,9 @@ graph TD;
 
 Understanding mutual funds' structure and regulation is an ongoing process. By leveraging the resources outlined in this section, you can enhance your knowledge and make informed investment decisions. Stay curious, seek out new information, and apply what you learn to optimize your investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

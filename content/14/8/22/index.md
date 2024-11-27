@@ -100,7 +100,9 @@ In Canada, regulatory bodies such as the Canadian Securities Administrators (CSA
 
 Fund transparency is a critical factor in the investment decision-making process. By understanding the varying levels of transparency across different fund structures, investors can make informed choices that align with their financial goals and risk tolerance. As the investment landscape continues to evolve, transparency will remain a key component of investor protection and market integrity.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

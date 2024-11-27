@@ -102,7 +102,9 @@ For those interested in deepening their understanding of fixed-income securities
 
 Understanding and effectively utilizing strip bonds can significantly enhance an investor's fixed-income strategy, particularly within the Canadian market. By applying the principles discussed in this section, investors can optimize their portfolios for tax efficiency and long-term growth.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

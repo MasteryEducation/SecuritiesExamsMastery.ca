@@ -70,7 +70,9 @@ Retractable preferred shares offer a unique blend of income stability, capital p
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

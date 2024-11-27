@@ -107,7 +107,9 @@ For more information on deflation and its effects, consider the following resour
 
 Understanding deflation and disinflation is essential for making informed investment decisions and navigating economic challenges. By applying the principles and strategies discussed in this section, financial professionals can better manage their portfolios and contribute to economic stability.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

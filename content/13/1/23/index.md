@@ -82,7 +82,9 @@ To deepen your understanding of the Canadian securities industry, consider explo
 
 As you progress through the CSC® Exam Prep Guide, remember that the financial industry is dynamic and requires continuous learning. Revisit sections of this chapter to reinforce your understanding and apply these concepts to real-world scenarios. Embrace the evolving nature of the industry and leverage the resources provided to stay informed and ahead in your financial career.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

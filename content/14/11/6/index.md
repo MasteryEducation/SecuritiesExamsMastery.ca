@@ -92,7 +92,9 @@ Market-Linked GICs are subject to Canadian financial regulations, ensuring trans
 
 Market-Linked GICs offer a compelling blend of safety and potential returns, making them an attractive option for conservative investors seeking market exposure. By understanding their structure, benefits, and risks, investors can make informed decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

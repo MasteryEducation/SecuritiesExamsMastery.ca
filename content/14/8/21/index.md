@@ -91,7 +91,9 @@ These resources provide deeper insights into the complexities of hedge fund liqu
 
 Hedge fund liquidity is a multifaceted topic that requires careful consideration by both investors and fund managers. By understanding the unique liquidity features of hedge funds, investors can make informed decisions that align with their financial goals and risk tolerance. Fund managers, on the other hand, must balance the need for liquidity with the pursuit of high-return investment opportunities, all while adhering to regulatory requirements.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

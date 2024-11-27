@@ -100,7 +100,9 @@ Let's consider a case study involving the Royal Bank of Canada (RBC). Suppose RB
 
 These resources provide deeper insights into valuation techniques and financial analysis, enhancing your understanding of the DDM and its applications.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

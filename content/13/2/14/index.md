@@ -82,7 +82,9 @@ For further exploration of auction markets and the bid-ask spread, consider the 
 
 By understanding the intricacies of auction markets, investors can make informed decisions and optimize their trading strategies within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

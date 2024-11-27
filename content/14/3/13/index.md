@@ -102,7 +102,9 @@ For those interested in further exploring sector rotation, consider the followin
 
 Sector rotation is a sophisticated investment strategy that requires a deep understanding of economic cycles and sector dynamics. By leveraging a top-down approach, investors can potentially enhance portfolio performance by aligning investments with the phases of the economic cycle. However, this strategy also involves risks, including timing challenges and market volatility. As with any investment strategy, thorough research and continuous monitoring are essential for success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

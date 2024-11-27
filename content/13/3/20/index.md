@@ -97,7 +97,9 @@ For further exploration of KYC requirements and best practices, consider the fol
 
 The Know Your Client (KYC) rule is a fundamental aspect of securities regulation, ensuring that financial professionals act in the best interests of their clients while maintaining market integrity. By following the steps outlined in this chapter, financial advisors can effectively gather and verify client information, conduct suitability assessments, and prevent fraudulent activities. As the financial landscape continues to evolve, staying informed about KYC requirements and best practices is essential for success in the Canadian securities industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

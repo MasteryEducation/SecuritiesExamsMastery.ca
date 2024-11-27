@@ -70,7 +70,9 @@ For those interested in delving deeper into the world of hedge funds and alterna
 
 The evolution of alternative investments, particularly the accessibility of hedge fund strategies through alternative mutual funds, marks a significant development in the Canadian investment landscape. By understanding the benefits and risks associated with these investments, retail investors can make informed decisions to enhance their portfolios. As the market continues to evolve, staying informed and leveraging available resources will be key to navigating the complexities of alternative investments.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

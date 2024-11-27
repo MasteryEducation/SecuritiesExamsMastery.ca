@@ -121,7 +121,9 @@ These resources provide valuable insights into economic principles and their app
 - **Inflation:** The rate at which the general level of prices for goods and services is rising, eroding purchasing power.
 - **Business Cycle:** The fluctuations in economic activity that an economy experiences over a period, typically consisting of expansion, peak, contraction, and trough phases.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

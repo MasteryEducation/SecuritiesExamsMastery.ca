@@ -90,7 +90,9 @@ For further exploration of gifting strategies and tax implications in Canada, co
 
 Gifting is a versatile tool in financial planning, offering opportunities to transfer wealth efficiently while supporting family members. By understanding the tax implications, attribution rules, and strategic approaches to gifting, individuals can optimize their financial plans and minimize tax liabilities. As with any financial strategy, consulting with a tax professional or financial advisor is recommended to tailor gifting strategies to individual circumstances and ensure compliance with Canadian tax laws.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

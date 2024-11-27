@@ -116,7 +116,9 @@ For further exploration of Canadian financial regulations and institutions, cons
 - [Investment Industry Regulatory Organization of Canada (IIROC)](https://www.iiroc.ca/)
 - [Financial Consumer Agency of Canada (FCAC)](https://www.canada.ca/en/financial-consumer-agency.html)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

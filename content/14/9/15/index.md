@@ -92,7 +92,9 @@ Understanding the regulatory environment is crucial for executing relative value
 
 Relative value strategies offer a compelling approach to alternative investments, particularly within the Canadian financial landscape. By focusing on pricing inefficiencies and employing sophisticated analysis techniques, investors can achieve market-neutral returns. However, success requires a deep understanding of market dynamics, rigorous risk management, and adherence to regulatory standards.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

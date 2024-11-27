@@ -103,7 +103,9 @@ graph TD;
 
 Understanding interest rates is crucial for making informed financial decisions. By keeping abreast of economic trends and central bank policies, you can better navigate the complexities of the financial markets and optimize your investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

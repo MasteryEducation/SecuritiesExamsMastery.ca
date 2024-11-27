@@ -142,7 +142,9 @@ The use of mezzanine financing by Canadian pension funds to support infrastructu
 
 Private equity offers a diverse range of investment opportunities, each with its own set of risks and rewards. Understanding the nuances of each type can help investors make informed decisions and capitalize on the potential for substantial returns. By exploring real-world examples and considering the pros and cons, investors can better navigate the complex landscape of private equity.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

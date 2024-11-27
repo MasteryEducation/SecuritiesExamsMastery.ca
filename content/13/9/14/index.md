@@ -134,7 +134,9 @@ For further exploration of order types and their strategic applications, conside
 - **On-Stop Buy Order:** A buy order that becomes a market order once a specified price is reached.
 - **PRO Order:** A professional order used by institutional investors.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -95,7 +95,9 @@ A growth-oriented portfolio initially allocated 70% to equities and 30% to fixed
 
 Through these practical examples and case studies, we have explored the portfolio management process, asset allocation strategies, and performance analysis. By understanding these real-world applications, you can enhance your ability to manage portfolios effectively within the Canadian financial landscape. Remember to apply these principles to your own investment decisions, considering best practices and regulatory compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

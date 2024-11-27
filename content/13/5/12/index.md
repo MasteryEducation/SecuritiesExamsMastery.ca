@@ -116,7 +116,9 @@ graph TD;
 - **Keynesian Economics:** An economic theory advocating for active government intervention through fiscal policy to manage economic cycles.
 - **Monetarist Theory:** An economic theory emphasizing the role of the money supply in controlling inflation and stabilizing the economy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

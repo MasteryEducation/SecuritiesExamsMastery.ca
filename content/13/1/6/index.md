@@ -126,7 +126,9 @@ graph TD;
 
 Understanding the organizational structure of investment dealers is fundamental for anyone involved in the Canadian securities industry. By recognizing the distinct roles of the front, middle, and back offices, and the importance of senior management, professionals can better navigate the complexities of this sector. As the industry continues to evolve, staying informed and adaptable is key to success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

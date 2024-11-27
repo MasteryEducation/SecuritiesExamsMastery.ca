@@ -103,7 +103,9 @@ Syndicates and selling groups are integral to the successful issuance of large s
 
 For further exploration, consider reviewing resources from the Canadian Securities Administrators (CSA) and the Investment Industry Regulatory Organization of Canada (IIROC). Additionally, books such as "Investment Banking: Valuation, Leveraged Buyouts, and Mergers & Acquisitions" by Joshua Rosenbaum and Joshua Pearl provide deeper insights into the intricacies of investment banking and syndicate operations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

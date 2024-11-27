@@ -106,7 +106,9 @@ graph TD;
 
 Mutual fund wraps offer a sophisticated investment solution for Canadian investors seeking a managed approach to their portfolios. By leveraging the expertise of overlay managers, these accounts provide optimized asset allocation, currency hedging options, and ongoing oversight, making them a valuable tool for achieving financial goals. As with any investment, understanding the structure, fees, and management approach is crucial to maximizing returns and minimizing risks.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -100,7 +100,9 @@ To deepen your understanding of income trusts, consider exploring the following 
 
 These resources provide valuable insights into the structure, benefits, and considerations of investing in income trusts.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

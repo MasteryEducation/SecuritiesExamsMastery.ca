@@ -96,7 +96,9 @@ To deepen your understanding of the Canadian regulatory environment, consider ex
 
 Understanding the Canadian regulatory environment is essential for anyone involved in the financial markets. By recognizing the roles of various regulatory bodies, the importance of principles-based regulation, and the ethical standards that guide market conduct, you can navigate the complexities of the financial landscape with confidence and integrity.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

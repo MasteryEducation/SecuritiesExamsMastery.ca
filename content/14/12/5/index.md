@@ -106,7 +106,9 @@ For further exploration of capital gains and losses, consider the following reso
 
 Understanding capital gains and losses is essential for effective financial planning and compliance with Canadian tax laws. By accurately calculating gains and losses, leveraging preferential tax treatments, and avoiding common pitfalls, investors can optimize their tax outcomes and enhance their financial strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

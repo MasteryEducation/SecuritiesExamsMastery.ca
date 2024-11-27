@@ -97,7 +97,9 @@ For more information on Canadian bond yields and investment strategies, consider
 
 Understanding bond yields is fundamental for making informed investment decisions in the fixed-income market. By exploring different yield measures and their implications, investors can better assess the potential returns and risks of bond investments. As you continue to build your knowledge, consider how these concepts apply to your own portfolio and financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

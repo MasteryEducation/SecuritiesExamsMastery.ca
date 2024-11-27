@@ -112,7 +112,9 @@ These resources provide deeper insights into portfolio management strategies and
 
 Choosing the right portfolio management style is a critical decision that influences investment outcomes. By understanding the objectives, methodologies, and implications of active and passive management, investors can make informed choices that align with their financial goals and risk tolerance. Whether opting for the dynamic approach of active management or the cost-effective strategy of passive management, the key is to remain informed, adaptable, and aligned with market conditions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

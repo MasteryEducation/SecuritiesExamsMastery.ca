@@ -86,7 +86,9 @@ For further exploration, consider reading *"Securities Clearing"* by Paul P. Jac
 
 Understanding the clearing and settlement process is essential for anyone involved in the Canadian securities market. By leveraging the services of CDS and utilizing netting, participants can reduce risks and enhance the efficiency of their transactions. As you continue to explore the Canadian financial landscape, consider how these principles can be applied to your own investment strategies and business practices.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

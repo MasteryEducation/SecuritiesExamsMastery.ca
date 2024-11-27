@@ -85,7 +85,9 @@ Common pitfalls include:
 
 Participating and deferred preferred shares offer unique opportunities for investors seeking a blend of stability and potential growth. By understanding their features and purposes, investors can make informed decisions that align with their financial goals. As always, staying informed about Canadian financial regulations and leveraging available resources will enhance your investment strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -105,7 +105,9 @@ graph TD;
 
 Investors are encouraged to explore index funds as a component of their investment strategy, leveraging their benefits for long-term financial growth. By understanding the principles and practices outlined in this section, you can make informed decisions that align with your financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -98,7 +98,9 @@ When measuring the performance of alternative strategy funds, consider the follo
 
 Measuring the performance of alternative strategy funds is a complex but essential task for investors seeking to maximize returns while managing risk. By employing a range of tools and metrics, investors can gain a nuanced understanding of fund performance, enabling informed decision-making. As the Canadian financial landscape continues to evolve, staying informed about regulatory changes and best practices is crucial for success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

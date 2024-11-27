@@ -94,7 +94,9 @@ Unemployment is a multifaceted issue with significant implications for the econo
 - **Books:** *"Labor Economics"* by George Borjas
 - **Online Resources:** [Understanding Types of Unemployment](https://www.khanacademy.org/economics-finance-domain/microeconomics/labor-market-topic/unemployment/v/types-of-unemployment)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

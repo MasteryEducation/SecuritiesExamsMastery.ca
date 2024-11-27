@@ -79,7 +79,9 @@ As we conclude this chapter, remember that the essence of working with retail cl
 
 Embrace the journey of continuous learning and professional growth, and leverage the resources available to refine your skills and expand your expertise. In doing so, you'll be well-equipped to navigate the challenges and opportunities of the Canadian financial landscape, delivering exceptional value to your clients.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

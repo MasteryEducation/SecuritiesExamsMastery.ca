@@ -133,7 +133,9 @@ A **Market Index** represents the performance of a specific segment of the marke
 
 Understanding these terms is essential for navigating the complex world of equity securities. By mastering this glossary, you will be better equipped to analyze investment opportunities and make informed decisions in the Canadian and global markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

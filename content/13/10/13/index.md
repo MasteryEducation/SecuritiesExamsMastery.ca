@@ -126,7 +126,9 @@ Understanding intrinsic and time value is essential for anyone involved in tradi
 - Canadian Securities Institute (CSI) courses on derivatives
 - Online resources such as Investopedia for foundational knowledge
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

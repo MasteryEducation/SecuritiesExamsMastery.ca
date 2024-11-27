@@ -51,7 +51,9 @@ To effectively apply these analytical methods, consider hypothetical scenarios t
 
 For additional practice, the Canadian Securities Institute offers online quizzes and practice tests that can further enhance your understanding and readiness for the CSC® exam. These resources provide a valuable opportunity to apply your knowledge in a simulated exam environment.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

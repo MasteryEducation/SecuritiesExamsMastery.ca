@@ -94,7 +94,9 @@ To deepen your understanding of client confidentiality in financial services, co
 
 These resources provide valuable insights into the legal and practical aspects of maintaining client confidentiality.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

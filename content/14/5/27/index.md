@@ -82,7 +82,9 @@ For further exploration of mutual fund regulations and best practices, consider 
 - **Books:**
   - "The Mutual Fund Industry: Performance, Pricing and Structure" by James M. Cliff
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

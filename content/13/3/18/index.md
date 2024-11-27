@@ -99,7 +99,9 @@ For more information on registration requirements and compliance, visit the [IIR
 
 The registration of securities dealers and advisors is a cornerstone of the Canadian financial regulatory framework, ensuring that only qualified and ethical individuals are authorized to operate in the market. By understanding the registration requirements, the role of the NRD, and the ongoing compliance obligations, aspiring financial professionals can navigate the path to becoming a Registered Investment Advisor or Investment Representative with confidence.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

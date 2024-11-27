@@ -135,7 +135,9 @@ These resources provide additional insights into performance measurement techniq
 
 Measuring mutual fund performance is a vital component of investment analysis. By understanding and applying methods like TWRR, the Daily Valuation Method, and the Modified Dietz Method, investors can make informed decisions that align with their financial goals. Comparing performance against benchmarks and peer groups further enhances the evaluation process, ensuring that investors choose funds that meet their expectations and risk tolerance. As the Canadian financial landscape continues to evolve, staying informed about performance measurement techniques and regulatory requirements is essential for successful investment management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

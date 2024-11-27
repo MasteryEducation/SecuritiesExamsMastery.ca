@@ -99,7 +99,9 @@ Challenges faced by investment dealers include adapting to technological advance
 
 Investment dealers are integral to the functioning of the Canadian securities industry, offering a wide range of services that facilitate capital raising, enhance market liquidity, and support informed investment decisions. By understanding the roles and responsibilities of investment dealers, investors can better navigate the financial markets and achieve their investment objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

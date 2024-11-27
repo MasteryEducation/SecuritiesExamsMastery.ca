@@ -85,7 +85,9 @@ RBC Wealth Management offers managed fee-based accounts that exemplify the benef
 
 Managed fee-based accounts offer a robust framework for achieving personalized investment goals through professional management. By understanding their features and leveraging the expertise of portfolio managers, investors can optimize their financial strategies within the Canadian market. Consider applying these principles to your own investment portfolio, ensuring alignment with your financial objectives and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

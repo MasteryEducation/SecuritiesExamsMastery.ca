@@ -93,7 +93,9 @@ Understanding demand and supply dynamics is essential for making informed invest
 
 By mastering these concepts, you can better navigate the complexities of the Canadian financial market, making strategic decisions that align with market dynamics.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

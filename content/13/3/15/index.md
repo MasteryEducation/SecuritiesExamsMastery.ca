@@ -102,7 +102,9 @@ For those interested in exploring principles-based regulation further, consider 
 
 Principles-based regulation offers a flexible and innovative approach to financial regulation, particularly suited to the dynamic Canadian financial landscape. While it presents challenges, such as subjective judgment and documentation requirements, its advantages in terms of flexibility and reduced compliance costs make it a valuable framework for many financial institutions. By understanding and effectively implementing principles-based regulation, financial professionals can navigate the complexities of the Canadian regulatory environment with confidence.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -92,7 +92,9 @@ When using on-stop buy orders, investors should consider the following best prac
 
 By understanding and effectively utilizing on-stop buy orders, investors can enhance their portfolio management strategies, protect against potential losses, and capitalize on market opportunities. Consider incorporating on-stop buy orders into your investment toolkit, and explore additional resources to deepen your understanding of this versatile order type.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

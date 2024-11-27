@@ -129,7 +129,9 @@ The **Spread** is the difference between the buying price and selling price of a
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

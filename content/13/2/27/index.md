@@ -55,7 +55,9 @@ To deepen your understanding of capital markets and their future trends, conside
 
 As you continue your journey in understanding capital markets, consider how these principles apply to your own financial planning or business strategies. Analyze your investment portfolio's asset allocation, evaluate the impact of Canadian tax laws on your returns, and stay informed about regulatory changes that may affect your investments. By applying the knowledge gained from this chapter, you can make informed decisions that align with your financial goals and contribute to the broader economic landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

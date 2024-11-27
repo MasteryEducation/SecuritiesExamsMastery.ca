@@ -122,7 +122,9 @@ graph TD;
 
 Understanding the types of underlying assets is essential for anyone involved in the derivatives market. By recognizing the unique characteristics of commodities and financial assets, investors can make informed decisions and develop effective strategies. As the Canadian financial landscape continues to evolve, staying informed and adaptable is key to success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

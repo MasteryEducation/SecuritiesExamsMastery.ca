@@ -120,7 +120,9 @@ For those interested in deepening their understanding of equity manager styles, 
 
 Understanding the nuances of growth, value, and sector rotation styles is essential for effective equity management. By aligning investment strategies with personal goals and market conditions, investors can optimize their portfolios for success in the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

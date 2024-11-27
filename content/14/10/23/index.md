@@ -130,7 +130,9 @@ Volatility is the degree of variation in a trading price series over time. High 
 
 By familiarizing yourself with these terms, you can enhance your understanding of managed products and their role in the Canadian financial landscape. Whether you're an investor, financial advisor, or student, this glossary serves as a valuable resource for navigating the complexities of investment strategies and financial planning.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

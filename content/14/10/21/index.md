@@ -127,7 +127,9 @@ When considering managed products, it's essential to align your investment choic
 
 Understanding the differences between segregated funds, LSVCCs, closed-end funds, income trusts, and private equity is crucial for making informed investment decisions. Each product offers unique benefits and risks, and the right choice depends on your individual financial situation and objectives. By leveraging the insights provided in this section, you can better navigate the complex world of managed products and optimize your investment strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

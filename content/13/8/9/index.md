@@ -103,7 +103,9 @@ For those seeking a deeper understanding of securities regulation in Canada, "Se
 
 Preferred shares offer a versatile investment option, combining elements of equity and fixed income. By understanding the different types of preferred shares and their features, investors can make informed decisions that align with their financial goals and risk tolerance. Whether seeking stable income through cumulative shares or flexibility with convertible options, preferred shares can play a vital role in a diversified investment portfolio.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

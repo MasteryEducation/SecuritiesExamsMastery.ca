@@ -90,7 +90,9 @@ These resources provide comprehensive insights into fixed-income securities and 
 
 The Expectations Theory offers valuable insights into the behavior of interest rates and the shape of the yield curve. By understanding this theory, investors can make informed decisions about bond investments and manage interest rate risk more effectively. As the Canadian financial landscape continues to evolve, staying informed about market expectations and economic indicators will be crucial for successful investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

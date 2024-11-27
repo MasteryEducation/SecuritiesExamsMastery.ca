@@ -115,7 +115,9 @@ For further exploration of incorporation in Canada, consider the following resou
 
 Incorporation offers numerous advantages, including limited liability, continuity, and growth potential, but also presents challenges such as double taxation and higher costs. Understanding these factors is crucial for making informed decisions about incorporating a business in Canada. By considering the real-world examples and resources provided, you can better navigate the complexities of incorporation and leverage its benefits effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -105,7 +105,9 @@ For those interested in further exploring the organizational structure of sell-s
 
 Understanding the organizational structure of sell-side trading firms is crucial for navigating the financial markets. By recognizing the roles and responsibilities of the front, middle, and back offices, professionals can better appreciate the complexities of trading activities and the importance of compliance and risk management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

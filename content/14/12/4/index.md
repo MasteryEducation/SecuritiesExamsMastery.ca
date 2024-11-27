@@ -90,7 +90,9 @@ Understanding the different types of income and their respective tax implication
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

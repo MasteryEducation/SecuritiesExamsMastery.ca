@@ -85,7 +85,9 @@ In Canada, alternative investments are subject to specific regulatory frameworks
 
 Alternative investments provide a valuable means of enhancing portfolio diversification, generating alpha, and achieving absolute returns. However, they also come with unique risks that require careful consideration and management. By understanding the benefits and risks, investors can make informed decisions and effectively incorporate alternatives into their investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

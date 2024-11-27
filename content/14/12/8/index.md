@@ -92,7 +92,9 @@ graph TD;
 - **Self-Directed RRSP:** An RRSP that allows the holder to choose and manage their own investments.
 - **Single Vendor RRSP:** An RRSP managed by a financial institution with predefined investment options.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -224,7 +224,9 @@ This indicates that the company has $30 million in excess current assets to cove
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -99,7 +99,9 @@ For those interested in deepening their understanding of investment strategies a
 
 Understanding the risk-return trade-offs among different mutual fund types is essential for aligning investments with personal financial goals and risk tolerance. By carefully selecting funds that match their objectives, investors can optimize their portfolios for success in the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

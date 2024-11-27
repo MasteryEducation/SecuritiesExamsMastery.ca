@@ -113,7 +113,9 @@ graph TD;
 
 Bringing securities to the market is a multifaceted process that requires careful planning, regulatory compliance, and strategic execution. By understanding the prospectus system and the nuances of issuing and trading securities, financial professionals can effectively navigate the Canadian securities landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -85,7 +85,9 @@ In Canada, financial regulations play a crucial role in shaping investment strat
 
 Performance measurement tools are indispensable for evaluating alternative investment strategies. By employing a range of statistical measures, investors can gain a comprehensive understanding of an investment's risk-return profile. In the Canadian context, adhering to regulatory guidelines and leveraging available resources can further enhance performance analysis. As the landscape of alternative investments continues to evolve, staying informed and adaptable is key to achieving investment success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

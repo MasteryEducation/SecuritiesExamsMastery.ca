@@ -103,7 +103,9 @@ For further exploration of alternative investment strategies, consider the follo
 
 Alternative investment strategies offer investors powerful tools to achieve higher returns and diversification in their portfolios. By understanding and effectively implementing relative value, event-driven, and directional strategies, investors can navigate the complexities of the Canadian financial landscape and capitalize on unique opportunities. As the financial world continues to evolve, these strategies will play an increasingly vital role in shaping successful investment outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

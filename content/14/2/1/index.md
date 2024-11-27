@@ -90,7 +90,9 @@ By analyzing these ratios and comparing them to industry benchmarks, investors c
 
 Company analysis is an indispensable tool for investors seeking to understand the intrinsic value of a company. By examining financial statements, calculating financial ratios, and assessing investment quality, investors can make informed decisions about potential investments. This chapter provides a comprehensive overview of the key concepts and techniques involved in company analysis, empowering you to evaluate companies effectively and identify risks and opportunities.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

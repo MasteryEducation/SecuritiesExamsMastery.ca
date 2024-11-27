@@ -97,7 +97,9 @@ For further exploration of dividends and investment strategies, consider the fol
 
 These resources provide valuable insights into dividend policies, market trends, and investment strategies, enhancing your understanding of dividends on common shares.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

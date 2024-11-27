@@ -90,7 +90,9 @@ These resources provide valuable insights into the principles and applications o
 
 Rules-based ETFs represent a dynamic and innovative approach to investing, offering goal-oriented strategies that can enhance portfolio performance. By understanding the principles of smart beta and the regulatory landscape in Canada, investors can effectively incorporate these ETFs into their investment strategies, achieving specific financial objectives while navigating the complexities of the market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

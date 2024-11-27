@@ -104,7 +104,9 @@ For further exploration, consider the following resources:
 
 As you navigate the complexities of the Canadian capital markets, consider how these social and economic shifts impact your financial strategies. Whether you're advising clients or managing your own investments, staying informed and adaptable is key to success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

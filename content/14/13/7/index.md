@@ -103,7 +103,9 @@ Consider a Canadian pension fund that utilizes an ETF wrap account to manage its
 
 By understanding the structure, management approaches, and advantages of ETF wraps, investors can make informed decisions about incorporating these investment vehicles into their portfolios. Whether opting for a passive or active strategy, ETF wraps offer a flexible and cost-effective way to achieve diversified market exposure.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -81,7 +81,9 @@ Investors in Canada should be aware of the regulatory framework governing levera
 
 Leveraged ETFs offer a powerful tool for investors seeking to amplify their returns, but they come with significant risks that must be carefully managed. By understanding the mechanics of leveraged ETFs, recognizing the potential pitfalls, and implementing sound investment strategies, investors can effectively incorporate these instruments into their portfolios within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

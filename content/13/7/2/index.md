@@ -146,7 +146,9 @@ For those looking to automate these calculations, the [Bank of Canada Bond Calcu
 
 Calculating the price and yield of a bond is a fundamental skill for finance professionals. By understanding the present value of future cash flows and adjusting for coupon frequency, you can accurately assess a bond's fair price. This knowledge is crucial for making informed investment decisions in the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

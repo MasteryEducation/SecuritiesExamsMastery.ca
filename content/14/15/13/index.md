@@ -110,7 +110,9 @@ For those interested in exploring algorithmic trading and HFT further, consider 
 - **Algorithmic Trading:** Use of mathematical algorithms to execute trades automatically.
 - **High-Frequency Trading (HFT):** Subset of algorithmic trading characterized by very high speeds and large order volumes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

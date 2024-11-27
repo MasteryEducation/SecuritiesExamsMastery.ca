@@ -110,7 +110,9 @@ For those interested in exploring these topics further, consider the following r
 
 Measuring economic growth through GDP is a complex but essential task for understanding a nation's economic health. By examining GDP through different lenses—expenditure, income, and production—financial professionals can gain valuable insights into the economy's performance and make informed decisions. As you continue your studies, consider how these concepts apply to real-world scenarios and explore additional resources to deepen your understanding.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

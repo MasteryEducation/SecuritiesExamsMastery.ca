@@ -99,7 +99,9 @@ For those interested in exploring structured products further, consider the foll
 
 Structured products offer a versatile and powerful tool for Canadian investors seeking to enhance their portfolios. By leveraging professional management, diversification, enhanced yields, and capital protection, these products can help investors achieve their financial goals while managing risk effectively. As with any investment, it is crucial to conduct thorough research and align structured products with your overall investment strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

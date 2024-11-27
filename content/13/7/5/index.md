@@ -109,7 +109,9 @@ In Canada, T-Bills are a vital component of the fixed-income market. For more in
 
 Understanding T-Bill yields is a foundational skill for financial professionals and investors. By mastering this concept, you can make informed investment decisions and optimize your portfolio's performance. We encourage you to explore additional resources and practice yield calculations to deepen your understanding.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

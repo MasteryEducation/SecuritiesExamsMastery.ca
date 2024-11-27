@@ -86,7 +86,9 @@ For further exploration of bond performance metrics and their application in the
 
 Understanding the current yield on a bond is a fundamental skill for any investor involved in fixed-income securities. While it provides valuable insights into the income potential of a bond, it is important to recognize its limitations and use it in conjunction with other performance metrics. By doing so, investors can make more informed decisions and optimize their bond portfolios within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

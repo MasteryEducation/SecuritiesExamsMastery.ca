@@ -89,7 +89,9 @@ To illustrate the importance of compliance and regulatory requirements, consider
 
 Compliance and regulatory requirements are integral to the functioning of the Canadian securities market. By understanding and adhering to continuous disclosure obligations and maintaining regulatory approvals, companies can foster transparency, build investor confidence, and ensure long-term success. As the financial landscape continues to evolve, staying informed and proactive in compliance matters will be key to navigating the complexities of the market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

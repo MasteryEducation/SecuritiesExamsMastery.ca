@@ -102,7 +102,9 @@ Understanding the business cycle is essential for financial professionals and in
 - Fuchs, Victor R. *Business Cycles: Theory, History, Indicators, and Forecasting*.
 - [Understanding the Business Cycle](https://www.khanacademy.org/economics-finance-domain/macroeconomics/business-cycles-topic)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

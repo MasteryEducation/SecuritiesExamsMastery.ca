@@ -108,7 +108,9 @@ For further exploration of fiscal and monetary policies, consider the following 
 
 Understanding fiscal and monetary policy is crucial for navigating the Canadian financial landscape. These policies significantly impact economic conditions and investment strategies. By grasping the roles of the government and the Bank of Canada, financial professionals can better anticipate market changes and make informed decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

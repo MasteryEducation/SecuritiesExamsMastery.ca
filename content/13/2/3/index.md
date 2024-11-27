@@ -104,7 +104,9 @@ For further exploration of investment capital and related topics, consider the f
 
 Investment capital is a fundamental component of the Canadian financial market, driving economic growth and innovation. By understanding the distinctions between real and representational capital, and the dynamics of direct and indirect investments, investors can make informed decisions that align with their financial objectives. Investment advisors play a crucial role in facilitating these investments, ensuring compliance and optimizing returns. As the financial landscape evolves, staying informed and adaptable is key to successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

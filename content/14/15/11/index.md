@@ -121,7 +121,9 @@ For those interested in exploring these topics further, consider the following r
 
 Prime brokerage and securities lending are integral components of the financial ecosystem, particularly for hedge funds and market makers. Understanding these services and their implications within the Canadian context is essential for financial professionals. By leveraging these services effectively, firms can enhance their operational efficiency and profitability while navigating the complexities of the financial markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

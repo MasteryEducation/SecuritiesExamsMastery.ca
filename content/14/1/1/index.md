@@ -69,7 +69,9 @@ Additionally, open-source financial tools and frameworks, such as those provided
 
 In summary, Chapter 13 offers a detailed exploration of fundamental and technical analysis, highlighting their significance in the valuation of securities. By understanding these methodologies, readers will be better equipped to navigate the complexities of the financial markets, particularly within the Canadian context. As you progress through this chapter, consider how these analytical approaches can be applied to your own investment strategies, fostering a deeper understanding of market dynamics and enhancing your decision-making capabilities.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

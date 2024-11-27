@@ -104,7 +104,9 @@ Major Canadian banks like RBC and TD also utilize diversification in their inves
 
 Understanding the relationship between risk and return in a portfolio is essential for effective investment management. By leveraging concepts such as weighted average return and diversification, investors can optimize their portfolios to achieve their financial objectives. As you continue to explore these principles, consider applying them to your own investment strategies, keeping in mind the unique aspects of the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

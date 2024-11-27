@@ -106,7 +106,9 @@ Investors in Canada must navigate a regulatory landscape designed to protect the
 
 Managed products play a vital role in the investment landscape, offering investors a way to diversify their portfolios and access professional management. By understanding the different types of managed products, their advantages, and potential drawbacks, investors can make informed decisions that align with their financial goals. As with any investment, it's crucial to consider the associated risks and costs, as well as the regulatory environment, to maximize the benefits of managed products.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

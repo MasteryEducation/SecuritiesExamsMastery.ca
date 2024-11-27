@@ -87,7 +87,9 @@ Understanding the costs of inflation and its impact on various economic agents i
 
 For further reading, consider exploring *"Macroeconomics"* by N. Gregory Mankiw and online resources such as [The Costs of Inflation](https://www.khanacademy.org/economics-finance-domain/microeconomics/inflation-topic/inflation-tutorial/v/the-costs-of-inflation).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

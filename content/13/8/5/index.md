@@ -102,7 +102,9 @@ For those interested in further exploring restricted shares and their implicatio
 
 Restricted shares are a complex yet integral part of the Canadian equity market. By understanding their features, categories, and regulatory environment, investors can make informed decisions that align with their financial goals and risk tolerance. As always, continuous learning and critical thinking are essential for navigating the dynamic landscape of equity securities.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

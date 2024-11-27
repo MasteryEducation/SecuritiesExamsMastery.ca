@@ -74,7 +74,9 @@ These resources provide additional insights into the mechanics of day orders and
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

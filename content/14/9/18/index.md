@@ -85,7 +85,9 @@ For those interested in deepening their understanding of equity market-neutral s
 
 Equity market-neutral strategies offer a compelling approach for investors seeking to achieve consistent returns while minimizing market risk. By understanding the mechanics and benefits of these strategies, and applying them within the Canadian financial landscape, investors can enhance their portfolio's performance and resilience.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

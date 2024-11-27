@@ -123,7 +123,9 @@ Investors seeking to closely match the performance of a specific index may prefe
 
 Choosing between ETFs and mutual funds depends on various factors, including management style, costs, liquidity, tax efficiency, and personal investment goals. By understanding the key differences and trade-offs, investors can make informed decisions that align with their financial objectives and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

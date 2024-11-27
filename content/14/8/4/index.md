@@ -91,7 +91,9 @@ These resources provide valuable insights into the strategies and operations of 
 
 Alternative strategy funds offer a compelling investment option for those seeking to diversify their portfolios and pursue absolute returns. By understanding the various strategies employed by these funds and their associated risks and returns, investors can make informed decisions that align with their financial goals. As the Canadian financial landscape continues to evolve, alternative strategy funds will remain a vital component of sophisticated investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

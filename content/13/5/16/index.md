@@ -84,7 +84,9 @@ For further exploration, consider the following resources:
 - [Understanding Deflation](https://www.investopedia.com/terms/d/deflation.asp)
 - [The Effects of Deflation](https://www.bankofcanada.ca/2020/05/inflation-deflation-survival-2020/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

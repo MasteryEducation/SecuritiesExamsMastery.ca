@@ -89,7 +89,9 @@ For further exploration of ATS and related topics, consider the following resour
 - **Books:** "Electronic and Algorithmic Trading Technology: The Complete Guide" by Kendall Kim
 - **Online Courses:** "Introduction to Electronic Trading" - Coursera
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

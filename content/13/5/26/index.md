@@ -59,7 +59,9 @@ For those looking to deepen their understanding of economic policy, consider exp
 
 As you continue your journey in the financial services industry, remember that staying informed about economic policies is not just beneficial—it's essential for success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

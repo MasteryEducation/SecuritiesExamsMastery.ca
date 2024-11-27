@@ -84,7 +84,9 @@ In Canada, private equity is subject to specific regulations and institutional f
 
 Private equity offers a diverse range of investment opportunities, each with its own set of challenges and rewards. Understanding the different types of private equity investments and their implications within the Canadian market is crucial for investors looking to diversify their portfolios and achieve long-term growth. By leveraging the resources and frameworks available, investors can navigate the complexities of private equity and capitalize on its potential.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

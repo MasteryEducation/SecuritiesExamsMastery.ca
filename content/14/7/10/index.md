@@ -97,7 +97,9 @@ Understanding the regulatory environment is crucial for effective ETF trading. I
 
 ETFs offer a dynamic investment vehicle with the benefits of tradability, liquidity, and continuous price discovery. By understanding these mechanisms, investors can make informed decisions and optimize their investment strategies within the Canadian market. As you explore the world of ETFs, consider the interplay of market forces, regulatory frameworks, and practical strategies to enhance your investment outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

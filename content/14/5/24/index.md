@@ -95,7 +95,9 @@ The Mutual Fund Dealers Association of Canada (MFDA) provides guidelines and pol
 
 Switching and early redemption fees are integral components of mutual fund investments, influencing investor behavior and fund management. By understanding these fees and their implications, investors can make informed decisions that align with their financial objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

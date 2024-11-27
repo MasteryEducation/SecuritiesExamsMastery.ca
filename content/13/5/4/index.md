@@ -95,7 +95,9 @@ For further exploration, consider reading "The Bank of Canada: A History" by Joh
 
 Monetary policy is a powerful tool for managing the economy, with the Bank of Canada playing a pivotal role in controlling inflation and stabilizing the currency. By understanding the relationship between money supply, interest rates, and economic activity, financial professionals can make informed decisions that align with economic conditions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

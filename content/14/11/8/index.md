@@ -90,7 +90,9 @@ For those interested in further exploration of ABS, consider the following resou
 
 Asset-Backed Securities are a cornerstone of modern financial markets, offering liquidity, risk distribution, and diversification benefits. Understanding the securitization process and the structure of ABS is crucial for finance professionals navigating the Canadian investment landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -107,7 +107,9 @@ For those interested in exploring the capital market further, consider the follo
 
 The capital market is a dynamic and integral part of the Canadian economy, providing a framework for the efficient allocation of resources. By understanding its components and functions, investors can make informed decisions and contribute to economic growth. As the market continues to evolve, staying informed about regulatory changes and market trends is essential for success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

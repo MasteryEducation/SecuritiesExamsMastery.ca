@@ -102,7 +102,9 @@ For further exploration of investment risks and strategies, consider the followi
 
 Investing in common shares offers numerous benefits, including the potential for capital appreciation, dividend income, and voting rights. However, it also involves risks such as market risk, investment risk, and liquidity risk. By understanding these risks and employing strategies such as diversification, fundamental analysis, and regular portfolio review, investors can effectively manage their investments and work towards achieving their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

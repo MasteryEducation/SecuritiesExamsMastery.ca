@@ -84,7 +84,9 @@ These resources provide further insights into the strategic use of inverse ETFs 
 
 Inverse ETFs offer unique opportunities for investors to hedge against market downturns or profit from declining indices. However, they come with specific risks and require a deep understanding of their mechanics and market conditions. By leveraging these tools wisely and in accordance with Canadian regulations, investors can enhance their portfolio strategies and manage risks effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

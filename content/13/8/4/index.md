@@ -85,7 +85,9 @@ When investing in common shares, consider the following best practices and poten
 
 Voting rights are a cornerstone of shareholder influence, enabling investors to participate in corporate governance and decision-making. By understanding the nuances of different share classes and their impact on corporate governance, investors can make informed decisions and effectively exercise their rights.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -131,7 +131,9 @@ For further exploration of due diligence processes and investment strategies, co
 
 These resources provide additional insights into best practices and regulatory requirements for conducting due diligence in the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

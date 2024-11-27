@@ -120,7 +120,9 @@ This diagram illustrates how labour supply and demand influence key indicators, 
 
 Understanding the labour market is essential for financial professionals and investors, as it provides insights into economic trends and potential investment opportunities. By analyzing key indicators and considering influencing factors, one can make informed decisions that align with market dynamics.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -115,7 +115,9 @@ C --> D[Reduced Private Investment]
 
 The federal budget is a vital instrument for managing the Canadian economy. By understanding its structure, budget positions, and the impact of fiscal policy, finance professionals can make informed decisions and effectively navigate the financial landscape. Continuous learning and adaptation to fiscal changes are essential for success in the dynamic world of finance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

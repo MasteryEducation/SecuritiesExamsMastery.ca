@@ -105,7 +105,9 @@ Financial markets are dynamic and complex systems that play a crucial role in th
 
 For further exploration, consider reading "What Are Financial Markets?" on [Investopedia](https://www.investopedia.com/terms/f/financial-market.asp) and exploring resources provided by the Toronto Stock Exchange and other Canadian financial institutions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

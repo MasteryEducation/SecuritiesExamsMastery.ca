@@ -109,7 +109,9 @@ Chapter 15 provides a comprehensive overview of the portfolio approach, equippin
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -141,7 +141,9 @@ For further exploration of derivatives and their applications in the Canadian ma
 
 By mastering the terminology and concepts outlined in this glossary, readers will be well-equipped to navigate the complex world of derivatives and leverage these powerful financial instruments effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -87,7 +87,9 @@ To effectively apply the knowledge gained from these resources, consider the fol
 
 Exploring managed products requires a comprehensive understanding of financial regulations, analytical tools, and investment strategies. By leveraging the resources provided in this section, you can enhance your knowledge and skills, enabling you to make informed decisions in the Canadian financial market. Remember to continuously seek out new learning opportunities and stay updated with industry trends to maintain a competitive edge.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

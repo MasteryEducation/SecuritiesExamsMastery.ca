@@ -81,7 +81,9 @@ Mastering the art of financing and listing securities requires a blend of strate
 
 As you continue your journey in the world of finance, remember that continuous learning and adaptation are key to staying ahead in this dynamic field. We hope this chapter has equipped you with the foundational tools and insights needed to excel in securities financing and listing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

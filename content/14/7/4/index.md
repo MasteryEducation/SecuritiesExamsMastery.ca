@@ -118,7 +118,9 @@ To deepen your understanding of mutual fund trusts, mutual fund corporations, an
 
 Understanding the structures and regulations of mutual fund trusts, mutual fund corporations, and ETFs is crucial for making informed investment decisions in the Canadian market. By familiarizing yourself with the different types of ETFs and their regulatory framework, you can effectively incorporate these investment vehicles into your portfolio. Remember to stay informed, consider costs, and diversify your investments to achieve your financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

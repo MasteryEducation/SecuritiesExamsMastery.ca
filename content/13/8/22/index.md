@@ -78,7 +78,9 @@ As you continue your journey in the world of equity securities, remember that kn
 
 By understanding the intricacies of common and preferred shares, you are better equipped to make strategic investment decisions that align with your financial objectives. Continue to explore and apply these insights to enhance your investment acumen.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

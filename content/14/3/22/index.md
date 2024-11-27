@@ -128,7 +128,9 @@ The **term to maturity** is the length of time until a bond's principal is repai
 
 **Alpha** is the excess return of a portfolio relative to the return predicted by its beta. It is a measure of a portfolio manager's ability to generate returns above the market benchmark. A positive alpha indicates outperformance, while a negative alpha indicates underperformance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

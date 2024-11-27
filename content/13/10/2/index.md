@@ -119,7 +119,9 @@ graph TD;
 
 Derivatives are powerful financial instruments that offer a range of benefits, from risk management to speculative opportunities. However, they also carry inherent risks that require careful consideration and management. By understanding the fundamentals of derivatives and their role in the financial ecosystem, investors and financial professionals can harness their potential while mitigating associated risks.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

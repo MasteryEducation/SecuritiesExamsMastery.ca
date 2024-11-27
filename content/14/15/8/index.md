@@ -81,7 +81,9 @@ For further exploration, consider the following resources:
 
 Buy-side portfolio managers and traders play critical roles in the financial ecosystem, each contributing to the effective management and optimization of investment portfolios. By understanding their distinct responsibilities and leveraging strong relationships with sell-side firms, these professionals can enhance portfolio performance and achieve their clients' investment objectives. As the Canadian financial landscape continues to evolve, staying informed about regulatory changes and market trends is essential for success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

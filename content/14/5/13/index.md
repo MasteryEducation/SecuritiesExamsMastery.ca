@@ -127,7 +127,9 @@ For further exploration of mutual fund regulations in Canada, consider the follo
 
 Understanding the regulatory framework governing mutual funds in Canada is essential for financial professionals and investors. By adhering to the guidelines set forth by SROs and National Instruments, the mutual fund industry can maintain high standards of integrity, transparency, and investor protection. As you continue to explore the world of mutual funds, consider how these regulations impact your investment strategies and decision-making processes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

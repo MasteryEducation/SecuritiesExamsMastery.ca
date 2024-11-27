@@ -93,7 +93,9 @@ Consider the case of a major Canadian bank like RBC. With a history of stable di
 
 Dividend Yield is a vital metric for investors seeking income from their investments. By understanding its calculation and implications, investors can make informed decisions and optimize their portfolios for both income and growth. As with any financial metric, it is essential to consider Dividend Yield in the context of broader market conditions and individual investment goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

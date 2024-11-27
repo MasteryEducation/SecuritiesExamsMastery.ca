@@ -61,7 +61,9 @@ As you apply the principles and strategies discussed in this chapter, consider h
 
 In summary, Chapter 11 has provided a comprehensive overview of corporate structures, financial statements, and regulatory requirements within the Canadian context. By embracing continuous learning and applying these concepts in real-world scenarios, you can navigate the complexities of corporate finance with confidence and precision.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

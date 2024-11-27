@@ -110,7 +110,9 @@ These resources provide valuable insights into diversification strategies and in
 
 Low-cost diversification through ETFs offers a strategic advantage for investors seeking to optimize their portfolios. By leveraging the diverse range of ETFs available, investors can achieve broad market exposure, reduce unsystematic risk, and enhance their investment outcomes. As you continue your journey in the Canadian financial landscape, remember to apply these principles and strategies to build a resilient and diversified portfolio.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

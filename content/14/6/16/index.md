@@ -75,7 +75,9 @@ Consider an investor who purchased mutual fund units for $10,000. Over time, the
 
 Understanding the tax consequences of mutual fund redemptions is essential for effective financial planning. By comprehending the differences between registered and non-registered accounts, the role of T3 and T5 forms, and how to calculate capital gains tax, investors can make informed decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -90,7 +90,9 @@ In Canada, alternative investment funds are subject to specific regulations and 
 
 By understanding and managing the various risk drivers associated with alternative strategy funds, investors can enhance their ability to achieve their financial goals while minimizing potential losses.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

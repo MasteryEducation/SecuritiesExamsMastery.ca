@@ -86,7 +86,9 @@ The listing process is a transformative journey for companies, offering access t
 
 For further exploration, consider resources such as the Canadian Securities Administrators' website, which provides detailed guidelines on securities regulations, or the TSX's official site for specific listing requirements.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

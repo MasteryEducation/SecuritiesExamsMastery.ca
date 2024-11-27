@@ -85,7 +85,9 @@ To further explore the world of fintech, consider the following resources:
 
 Fintech is reshaping the Canadian securities industry by introducing innovative solutions that enhance accessibility, efficiency, and customer experience. As fintech continues to evolve, it presents both opportunities and challenges for traditional financial intermediaries. By understanding the impact of fintech and staying informed about regulatory developments, financial professionals can effectively navigate this dynamic landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

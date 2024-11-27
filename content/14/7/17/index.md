@@ -100,7 +100,9 @@ For further exploration, consider the following resources:
 
 Standard ETFs offer a compelling investment option for those seeking market exposure with the benefits of diversification and cost efficiency. By understanding the nuances of full replication and sampling methods, investors can make informed decisions that align with their financial goals. As the Canadian ETF market continues to evolve, staying informed about regulatory changes and market trends will be crucial for successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

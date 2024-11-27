@@ -117,7 +117,9 @@ For further exploration of due diligence in investment management, consider the 
 
 By thoroughly examining these key due diligence areas, investors can make informed decisions that align with their financial goals and risk tolerance. This process not only enhances the potential for returns but also safeguards against unforeseen risks and challenges.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

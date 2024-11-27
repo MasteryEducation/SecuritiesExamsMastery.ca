@@ -108,7 +108,9 @@ Understanding shareholder rights and protections is essential for navigating the
 
 For further exploration, consider reading *Corporate Governance and Control* by Thomas Clarke, which provides deeper insights into corporate governance practices.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

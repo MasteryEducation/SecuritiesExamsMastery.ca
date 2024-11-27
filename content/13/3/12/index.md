@@ -101,7 +101,9 @@ These resources provide comprehensive information on CDIC's operations, coverage
 
 The Canada Deposit Insurance Corporation (CDIC) is a vital component of the Canadian financial system, providing essential protection for depositors. By understanding CDIC's role, coverage limits, and eligibility criteria, depositors can confidently manage their finances, knowing their savings are secure. As you navigate the Canadian financial landscape, remember to leverage CDIC's resources and best practices to optimize your financial security.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

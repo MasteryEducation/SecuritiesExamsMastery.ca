@@ -115,7 +115,9 @@ For further exploration, consider the following resources:
 
 Financial intermediaries are indispensable to the Canadian capital markets, facilitating the efficient allocation of capital and supporting economic growth. By understanding their functions, forms, and the concept of capital channeling, investors and finance professionals can make informed decisions and contribute to a stable and prosperous financial system.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

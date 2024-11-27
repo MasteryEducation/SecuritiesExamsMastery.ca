@@ -120,7 +120,9 @@ For further exploration of public company disclosures and investor rights, consi
 
 Understanding public company disclosures and investor rights is essential for navigating the Canadian securities market. By adhering to continuous disclosure requirements, respecting investor rights, and complying with regulatory frameworks, companies can foster transparency and trust. Investors, in turn, can make informed decisions and protect their interests in the dynamic financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

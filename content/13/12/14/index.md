@@ -77,7 +77,9 @@ A Canadian technology firm might decide to repurchase shares during a period of 
 
 Secondary offerings and treasury shares are powerful tools in corporate finance, each with its own set of implications and strategic uses. Understanding these concepts is essential for navigating the complexities of the Canadian financial market. By considering market perceptions, regulatory requirements, and strategic objectives, companies can effectively manage these financial instruments to enhance shareholder value.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

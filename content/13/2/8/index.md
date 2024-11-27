@@ -99,7 +99,9 @@ When investing in equity securities, consider the following best practices:
 
 Equity securities play a crucial role in the capital markets, offering investors the opportunity to participate in the growth and success of companies. By understanding the differences between common and preferred shares, the benefits of capital gains and dividends, and the associated risks, investors can make informed decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

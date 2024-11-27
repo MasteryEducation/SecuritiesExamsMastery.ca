@@ -98,7 +98,9 @@ For further exploration of fixed-income securities, consider the following resou
 - **Investment Industry Regulatory Organization of Canada (IIROC):** [www.iiroc.ca](https://www.iiroc.ca)
 - **Additional Reading:** "Canadian Fixed-Income Securities" by Frank J. Fabozzi
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

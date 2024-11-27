@@ -117,7 +117,9 @@ graph TD;
 
 Understanding fundamental macroeconomic analysis is essential for navigating the complexities of financial markets. By analyzing fiscal policy, monetary policy, and inflation, investors can make more informed decisions and better anticipate market movements. Additionally, being aware of unpredictable events and their potential impacts can help investors manage risk effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

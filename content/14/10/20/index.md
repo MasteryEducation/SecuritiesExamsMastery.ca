@@ -89,7 +89,9 @@ A listed private equity firm with a focus on Canadian natural resources may face
 
 While listed private equity provides a unique avenue for investors to access private equity markets, it is not without its challenges. Understanding the disadvantages, such as illiquidity, dependence on managerial expertise, volatility, and concentration risk, is essential for making informed investment decisions. By considering these factors and leveraging resources for further exploration, investors can better navigate the complexities of listed private equity within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

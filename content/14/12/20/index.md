@@ -114,7 +114,9 @@ For further exploration of pension sharing and retirement planning, consider the
 - **Quebec Pension Plan (QPP):** The counterpart to the CPP for residents of Quebec, providing similar benefits.
 - **Pension Sharing:** The allocation of a portion of one spouse’s pension benefits to the other spouse to optimize tax outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -105,7 +105,9 @@ These resources provide detailed guidance on CRM requirements and best practices
 - **Client Relationship Model (CRM)**: IIROC’s framework to ensure fair treatment and transparency in client-advisor relationships.
 - **Relationship Disclosure Document**: A document outlining the terms of the client-advisor relationship, including fees, services, and conflict of interest policies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

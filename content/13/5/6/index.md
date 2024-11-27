@@ -82,7 +82,9 @@ During the 2008 financial crisis, the Bank of Canada aggressively cut the target
 
 Understanding the tools of monetary policy is essential for financial professionals and investors. By influencing interest rates and liquidity, the Bank of Canada plays a crucial role in steering the economy towards its goals. By staying informed about these tools and their implications, you can make more informed financial decisions and better anticipate market movements.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

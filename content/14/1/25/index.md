@@ -181,7 +181,9 @@ In Chapter 13, we delve into the intricacies of fundamental and technical analys
 
 Understanding these terms and concepts is crucial for navigating the complexities of financial markets. By mastering both fundamental and technical analysis, you can enhance your investment strategies and make informed decisions in the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

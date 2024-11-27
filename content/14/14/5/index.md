@@ -93,7 +93,9 @@ To deepen your understanding of ethics in financial advising, consider exploring
 
 Ethics and the advisor's standards of conduct are integral to the financial advising profession. By adhering to the core ethical values of duty of care, integrity, professionalism, compliance, and confidentiality, advisors can build trust, maintain their reputation, and ensure regulatory compliance. These principles not only guide decision-making but also foster long-lasting client relationships. As you continue your journey in financial advising, remember that ethical conduct is the foundation of your professional success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

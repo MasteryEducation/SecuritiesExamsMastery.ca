@@ -103,7 +103,9 @@ Canadian pension funds, such as the Canada Pension Plan Investment Board (CPPIB)
 
 Developing the asset mix is a dynamic process that requires a deep understanding of asset classes, client objectives, and market conditions. By employing strategies such as diversification and regular portfolio reviews, investors can optimize their asset allocation to achieve their financial goals. As you continue to explore portfolio management, consider how these principles apply to your own investment strategies and client interactions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

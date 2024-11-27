@@ -85,7 +85,9 @@ For further exploration of split shares and related investment strategies, consi
 
 Split shares offer a unique investment opportunity by dividing the attributes of underlying equities into preferred and capital shares. While they provide flexibility and potential for tailored investment strategies, they also come with inherent risks, particularly for capital shares. Understanding the mechanics, risks, and regulatory considerations of split shares is crucial for investors looking to incorporate them into their portfolios.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

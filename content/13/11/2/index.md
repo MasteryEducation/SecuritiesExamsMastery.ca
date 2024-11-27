@@ -90,7 +90,9 @@ Choosing the right business structure is a foundational decision that impacts le
 - **Online Courses:** "Introduction to Canadian Business Law" on Coursera
 - **Articles:** "Choosing the Right Business Structure in Canada" on Investopedia
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

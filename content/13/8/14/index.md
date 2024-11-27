@@ -78,7 +78,9 @@ Canadian pension funds, such as the Canada Pension Plan Investment Board (CPPIB)
 
 Stock Dividend Reinvestment Plans offer a strategic advantage for investors seeking to enhance their portfolio growth through compounding. By understanding the mechanics, benefits, and tax implications of DRIPs, Canadian investors can make informed decisions that align with their financial goals. As you explore DRIPs, consider how this strategy fits within your broader investment plan, and leverage the resources available to optimize your approach.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -77,7 +77,9 @@ For further exploration of income transfer strategies and tax planning, consider
 
 By understanding and applying these principles, you can effectively manage income transfers within your family, optimizing tax outcomes while adhering to Canadian tax laws.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

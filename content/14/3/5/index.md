@@ -139,7 +139,9 @@ For those interested in deepening their understanding of risk measurement, consi
 
 Measuring risk is a fundamental aspect of portfolio management. By understanding and applying metrics like standard deviation and beta, investors can better navigate the complexities of the financial markets. These tools, when used alongside qualitative analysis and market insights, empower investors to make informed decisions that align with their risk tolerance and investment goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

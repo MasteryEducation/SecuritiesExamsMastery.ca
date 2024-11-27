@@ -142,7 +142,9 @@ In Canada, options trading is regulated by the Canadian Investment Regulatory Or
 
 Options are a powerful tool in the financial markets, offering flexibility and strategic opportunities. By understanding call and put positions, investors can effectively navigate market conditions and enhance their portfolios. As with any financial instrument, thorough research and prudent risk management are essential to success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -102,7 +102,9 @@ While trading interruptions are essential for maintaining market stability, they
 
 Temporary interruptions of trading are vital tools for maintaining orderly markets and protecting investors. By understanding the different types of interruptions and their implications, investors can navigate the Canadian securities landscape more effectively. Staying informed, diversifying portfolios, and leveraging technology are key strategies for managing the challenges associated with trading interruptions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

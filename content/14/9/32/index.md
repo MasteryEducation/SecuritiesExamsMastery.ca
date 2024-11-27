@@ -86,7 +86,9 @@ For further exploration, consider the following resources:
 
 Understanding investor suitability for liquid alternatives is crucial for maximizing the benefits of these investment strategies. By identifying the right investor profiles and aligning them with appropriate strategies, investors can enhance their portfolio performance while managing risk effectively. As the market for liquid alternatives continues to grow, staying informed and working with knowledgeable advisors will be key to successful investment outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

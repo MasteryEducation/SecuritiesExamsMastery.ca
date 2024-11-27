@@ -94,7 +94,9 @@ The diverse array of financial intermediaries, including investment funds, savin
 
 For further exploration, consider reviewing resources such as the [Canadian Securities Administrators (CSA)](https://www.securities-administrators.ca/) for regulatory insights and [Investopedia's article on financial institutions](https://www.investopedia.com/articles/07/financial_institutions.asp) for a broader understanding of financial intermediaries.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

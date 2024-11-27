@@ -93,7 +93,9 @@ Listing shares on a stock exchange is a transformative step for any company, off
 
 For further exploration, consider reviewing resources from the Canadian Securities Administrators (CSA) and the Toronto Stock Exchange (TSX) for detailed guidelines on the listing process and regulatory requirements.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

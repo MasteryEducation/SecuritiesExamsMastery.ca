@@ -74,7 +74,9 @@ For further exploration of the benefits of managed products, consider the follow
 
 These resources provide valuable insights into the structure and regulation of managed products in Canada, helping investors make informed decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

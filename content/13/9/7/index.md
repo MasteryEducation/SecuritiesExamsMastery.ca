@@ -95,7 +95,9 @@ For further reading and exploration of short selling, consider the following res
 
 These resources provide deeper insights into the risks and strategies associated with short selling, helping investors make informed decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

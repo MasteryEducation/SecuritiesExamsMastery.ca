@@ -108,7 +108,9 @@ For further exploration, consider the following resources:
 - **Articles:** [Roles of Consumers, Businesses, and Governments in Economics](https://www.investopedia.com/terms/c/consumer-business-government.asp)
 - **Online Courses:** [MIT OpenCourseWare - Principles of Microeconomics](https://ocw.mit.edu/courses/economics/14-01sc-principles-of-microeconomics-fall-2011/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

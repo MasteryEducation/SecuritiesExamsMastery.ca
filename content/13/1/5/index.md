@@ -91,7 +91,9 @@ Understanding the different types of investment dealers in Canada is crucial for
 
 For those interested in exploring this topic further, consider reading *"Investment Banks, Hedge Funds, and Private Equity"* by David P. Stowell, which provides an in-depth look at the financial services industry. Additionally, the [IIROC Categories of Dealers](https://www.iiroc.ca/industry-participants) offers valuable insights into the regulatory framework governing investment dealers in Canada.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

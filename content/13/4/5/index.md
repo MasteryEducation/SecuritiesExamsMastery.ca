@@ -125,7 +125,9 @@ Understanding the structure and function of markets is essential for navigating 
 
 For further exploration, consider reading *"The Economics of Markets"* by Robert S. Pindyck and the article [How Markets Work](https://www.investopedia.com/terms/m/market.asp).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

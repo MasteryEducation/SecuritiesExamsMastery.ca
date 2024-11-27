@@ -91,7 +91,9 @@ For further exploration of bond pricing properties and their applications, consi
 
 Understanding the fundamental properties of bond pricing is essential for navigating the complexities of fixed-income investments. By mastering these concepts, investors can make informed decisions, optimize their portfolios, and effectively manage risk in the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

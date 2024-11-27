@@ -83,7 +83,9 @@ Yes, combining fundamental and technical analysis can provide a more comprehensi
 
 Consider the case of a Canadian pension fund that uses both analyses to manage its portfolio. The fund might use fundamental analysis to select stocks with strong financials and growth potential, while employing technical analysis to optimize the timing of trades. This dual approach can help the fund achieve its long-term investment goals while managing risk effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -95,7 +95,9 @@ For further exploration of the Canadian securities industry, consider the follow
 
 These resources provide comprehensive insights into the regulatory framework, institutional roles, and operational mechanisms of the Canadian securities industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

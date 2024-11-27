@@ -113,7 +113,9 @@ By strategically leveraging these financing alternatives, the firm can achieve i
 
 Corporate financing alternatives such as leasing, government grants, and export financing assistance offer valuable tools for businesses seeking to optimize their financial strategies. By carefully evaluating the suitability of each method based on corporate needs and market conditions, companies can make informed decisions that support their growth and success in the competitive Canadian market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -87,7 +87,9 @@ These resources provide valuable insights into valuation techniques and the role
 
 Equity Value Per Common Share is a fundamental metric in company analysis, offering insights into the book value backing each share. While it is a useful tool for assessing a company's financial health, it should be used alongside other metrics to gain a comprehensive understanding of a company's value. By understanding its calculation, significance, and limitations, investors can make more informed decisions in the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

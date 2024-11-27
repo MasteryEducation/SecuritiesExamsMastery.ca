@@ -102,7 +102,9 @@ graph TD;
 
 Investing in emerging markets requires a strategic approach and a willingness to embrace both opportunities and risks. By understanding the unique characteristics of these markets and employing sound investment strategies, Canadian investors can enhance their portfolios and achieve long-term financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

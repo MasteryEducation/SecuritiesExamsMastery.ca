@@ -77,7 +77,9 @@ Understanding the causes of inflation is crucial for navigating the complexities
 - [Types of Inflation: Demand-Pull and Cost-Push](https://www.bankofcanada.ca/education/inflation/)
 - [Understanding Inflationary Pressures](https://www.investopedia.com/terms/i/inflation.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

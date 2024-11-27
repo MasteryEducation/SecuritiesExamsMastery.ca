@@ -88,7 +88,9 @@ These resources provide comprehensive insights into corporate finance principles
 
 The Dividend Payout Ratio is a vital tool for evaluating a company's financial strategy and its approach to balancing shareholder returns with business growth. By understanding and applying this ratio, investors and financial professionals can make informed decisions that align with their investment goals and risk tolerance. As you continue to explore the Canadian financial landscape, consider how this ratio fits into broader investment strategies and regulatory frameworks.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

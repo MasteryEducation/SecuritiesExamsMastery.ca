@@ -114,7 +114,9 @@ These resources provide valuable insights into the functioning and dynamics of s
 
 Understanding the intricacies of Canadian stock exchanges and the role of TMX Group Limited is essential for navigating the financial markets effectively. By leveraging the liquidity and diverse investment opportunities available, investors can optimize their portfolios and achieve their financial goals. As you continue to explore the Canadian financial landscape, remember to apply these principles and strategies to enhance your investment decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

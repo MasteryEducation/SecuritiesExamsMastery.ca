@@ -125,7 +125,9 @@ Capital raising is a vital component of corporate strategy, enabling companies t
 - **Investment Industry Regulatory Organization of Canada (IIROC):** [IIROC Website](https://www.iiroc.ca/)
 - **Books:** "The Canadian Securities Course" by Canadian Securities Institute
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

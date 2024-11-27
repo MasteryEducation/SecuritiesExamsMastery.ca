@@ -90,7 +90,9 @@ Sentiment indicators are a powerful tool for understanding market psychology and
 
 For further exploration, consider resources such as the AAII's sentiment surveys or online courses on market psychology and sentiment analysis.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

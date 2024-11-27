@@ -73,7 +73,9 @@ Investors considering alternative strategies must be aware of the regulatory lan
 
 Alternative investment strategies offer unique opportunities for investors seeking diversification, risk mitigation, and specific financial objectives. However, these strategies are not universally suitable and require careful consideration of the investor's knowledge, objectives, investment horizon, and liquidity needs. By understanding the suitability of alternative strategies, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

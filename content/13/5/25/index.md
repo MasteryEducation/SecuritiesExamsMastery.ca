@@ -100,7 +100,9 @@ For further exploration, consider the following resources:
 - **International Finance:** The study of financial interactions that occur between two or more countries.
 - **Exchange Rate:** The value of one currency for the purpose of conversion to another.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

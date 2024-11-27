@@ -81,7 +81,9 @@ For further exploration of the risks and management of structured products, cons
 - **Online Resources:**
   - **CFA Institute:** [Risks in Structured Products](https://www.cfainstitute.org/en/research/foundation/2018/risks-structured-products)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -107,7 +107,9 @@ For further exploration, consider the following resources:
 - [Fiscal and Monetary Policy Interaction](https://www.bankofcanada.ca/2018/06/fiscal-policy-measures-bank-canadas-role-economic-activity/)
 - [Economic Policy Coordination](https://www.canada.ca/en/department-finance/programs/financial-sector-policy.html)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

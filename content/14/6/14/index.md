@@ -89,7 +89,9 @@ To deepen your understanding of fund management styles, consider exploring the f
 
 Understanding fund management styles is essential for making informed investment decisions. By weighing the benefits and challenges of active and passive management, investors can select strategies that align with their financial goals and risk tolerance. Whether you choose the cost-effective approach of passive management or the potential for higher returns with active management, a well-informed decision will enhance your investment journey.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

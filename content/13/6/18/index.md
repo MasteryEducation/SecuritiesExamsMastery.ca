@@ -110,7 +110,9 @@ Other fixed-income securities, such as BAs, commercial paper, term deposits, and
 
 For further exploration, consider resources from the Financial Consumer Agency of Canada (FCAC) and the CFA Institute, which offer comprehensive guides on banking products and fixed-income investments.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

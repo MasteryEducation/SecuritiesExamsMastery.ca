@@ -131,7 +131,9 @@ Roll Yield is the yield earned from rolling over futures contracts in a commodit
 ### Covered Call ETF
 A Covered Call ETF employs a covered call options strategy to enhance yield and reduce volatility. These ETFs are popular among income-focused investors.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

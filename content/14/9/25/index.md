@@ -91,7 +91,9 @@ Global macro strategies offer a powerful approach to navigating the complexities
 
 For further exploration, consider visiting the [International Monetary Fund (IMF) on Global Markets](https://www.imf.org) for additional insights and resources.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

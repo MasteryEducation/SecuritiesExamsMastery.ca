@@ -119,7 +119,9 @@ graph TD;
 
 Government of Canada securities offer a range of investment options that provide safety, income, and inflation protection. By understanding their features and roles, investors can effectively incorporate these instruments into their portfolios to achieve their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

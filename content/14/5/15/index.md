@@ -87,7 +87,9 @@ Client disclosure documents are essential tools for ensuring transparency and in
 
 For further exploration, consider reading "Mutual Fund Compliance: Advanced Automation Techniques" by Bonnie Bolvig, which provides insights into the compliance aspects of mutual fund management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

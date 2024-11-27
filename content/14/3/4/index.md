@@ -106,7 +106,9 @@ For those interested in exploring these concepts further, consider the following
 
 Understanding the distinction between systematic and non-systematic risk is essential for effective portfolio management. By recognizing the nature of these risks and employing strategies like diversification, investors can better manage their portfolios and enhance their potential for long-term success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

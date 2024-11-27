@@ -100,7 +100,9 @@ For those interested in further exploring the concepts discussed in this section
 
 These resources provide deeper insights into investment analysis and portfolio management, equipping readers with the knowledge to effectively engage with advisor-managed accounts.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -117,7 +117,9 @@ graph TD;
 
 Understanding the various types of corporate bonds is essential for navigating the fixed-income market and making informed investment decisions. By leveraging the unique features of each bond type, investors can tailor their portfolios to meet specific financial goals and risk preferences.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -121,7 +121,9 @@ These resources offer comprehensive insights into corporate debt analysis and ri
 
 Risk analysis ratios are essential tools for evaluating a company's financial leverage and solvency. By understanding and applying these ratios, investors and financial professionals can make informed decisions, assess risk exposure, and enhance investment quality. Regular monitoring, benchmarking, and prudent financial management are key to maintaining a healthy capital structure and ensuring long-term financial stability.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -108,7 +108,9 @@ graph TD;
 
 Understanding the nuances of interest payments on bonds is essential for effective fixed-income investing. By exploring different payment structures and their impact on bond valuation, investors can make informed decisions that align with their financial goals and market conditions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

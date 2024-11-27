@@ -80,7 +80,9 @@ For those seeking to deepen their understanding of equity transactions, the foll
 
 By leveraging these resources, investors can enhance their knowledge and skills, enabling them to make informed decisions in the dynamic world of equity trading.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

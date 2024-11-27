@@ -112,7 +112,9 @@ Canadian pension funds, such as the Canada Pension Plan Investment Board (CPPIB)
 
 Corporate bylaws are a fundamental component of corporate governance, providing the framework for effective management and operation of a corporation. By understanding the role of bylaws, the process for amending them, and the key areas they cover, corporations can enhance their governance practices and ensure compliance with Canadian regulations. As the business environment continues to evolve, maintaining robust and relevant bylaws will be essential for corporate success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

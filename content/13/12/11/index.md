@@ -81,7 +81,9 @@ While the short form prospectus and MI 11-102 Passport System offer significant 
 
 The prospectus exemptions and short form prospectus system, along with the MI 11-102 Passport System, are powerful tools for Canadian issuers seeking to raise capital efficiently. By understanding the conditions and strategic applications of these mechanisms, financial professionals can better navigate the complexities of the Canadian securities market. As the regulatory environment continues to evolve, staying informed and adaptable is key to leveraging these opportunities effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

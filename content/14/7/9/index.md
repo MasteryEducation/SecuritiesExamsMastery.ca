@@ -97,7 +97,9 @@ For those interested in exploring the topic further, consider the following reso
 
 ETFs offer a cost-effective investment vehicle for Canadian investors, primarily due to their low MERs, passive management strategies, and efficient in-kind creation/redemption processes. By understanding these cost-saving mechanisms, investors can make informed decisions that enhance their portfolio's performance while minimizing expenses. As the ETF market continues to evolve, staying informed about regulatory changes and emerging trends will be crucial for maximizing investment success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -89,7 +89,9 @@ These guidelines provide comprehensive insights into the expectations and requir
 
 Relationship disclosure information is a vital component of the investor-fund manager relationship, promoting transparency, trust, and informed decision-making. By understanding and implementing the key components of relationship disclosure, fund managers can enhance their service offerings and ensure compliance with Canadian regulations. Investors, in turn, benefit from a clearer understanding of their investments and the associated costs, empowering them to make better financial decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

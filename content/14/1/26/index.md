@@ -91,7 +91,9 @@ In technical analysis, be cautious of over-reliance on technical indicators and 
 
 The field of securities analysis is constantly evolving, and continuous learning is essential for staying ahead. We encourage you to explore these resources, apply the principles and strategies in your own investment decisions, and remain open to new insights and methodologies. By leveraging the wealth of knowledge available through these resources, you can enhance your analytical skills and achieve greater success in the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

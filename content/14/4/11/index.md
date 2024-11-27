@@ -125,7 +125,9 @@ E[Standard Deviation] --> D
 
 Evaluating portfolio performance is a multifaceted process that requires a thorough understanding of both returns and risks. By employing methods such as total return calculation, risk-adjusted metrics like the Sharpe ratio, and benchmark comparisons, investors can gain valuable insights into their portfolio's effectiveness. Emphasizing long-term performance evaluation ensures that investment strategies remain aligned with financial goals, fostering sustainable success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

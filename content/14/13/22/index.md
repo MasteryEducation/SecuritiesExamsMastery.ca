@@ -119,7 +119,9 @@ In Chapter 25, we delve into the world of fee-based accounts, a pivotal componen
 
 **Example:** A UMA at Raymond James might integrate strategies such as growth investing, income generation, and risk management, providing clients with a holistic investment solution.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

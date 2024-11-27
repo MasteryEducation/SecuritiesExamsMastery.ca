@@ -107,7 +107,9 @@ You have $10,000 and are considering using margin to invest in a stock priced at
 - [Margin Trading Strategies](https://www.moneycontrol.com/news/business/margin-trading-strategies/)
 - Online Course: [Leverage in Investing](https://www.coursera.org/learn/leverage-investing)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

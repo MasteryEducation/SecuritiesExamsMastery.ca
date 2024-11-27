@@ -106,7 +106,9 @@ A taxpayer donates $50,000 worth of publicly traded securities to a registered c
 - **Deemed Disposition:** A tax rule treating a transfer as a sale, triggering capital gains or losses.
 - **Attribution Rules:** Tax provisions preventing taxpayers from shifting income or capital gains to family members to minimize tax liability.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

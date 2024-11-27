@@ -83,7 +83,9 @@ For further exploration of the MFDA and its regulatory framework, consider the f
 
 The MFDA plays a crucial role in regulating the mutual fund industry in Canada, ensuring that dealers operate with integrity and transparency. By understanding the MFDA's responsibilities and jurisdiction, financial professionals can better navigate the regulatory landscape and uphold high standards of conduct.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

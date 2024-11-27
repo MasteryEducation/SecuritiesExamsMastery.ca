@@ -100,7 +100,9 @@ Consider a Canadian pension fund that needs to manage its long-term liabilities.
 
 Understanding the term structure of interest rates and the yield curve is essential for making informed investment decisions and anticipating economic trends. By analyzing the yield curve, financial professionals can gain insights into future interest rates, inflation, and economic growth, enabling them to optimize their investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

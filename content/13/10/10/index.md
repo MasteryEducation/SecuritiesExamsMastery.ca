@@ -97,7 +97,9 @@ In Canada, the trading of futures contracts is regulated by the Canadian Investm
 
 Understanding the nuances between forwards and futures contracts is essential for effectively managing risk and capitalizing on market opportunities. By leveraging these instruments, Canadian investors can enhance their investment strategies, whether for hedging or speculation.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

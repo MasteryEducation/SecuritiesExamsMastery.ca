@@ -137,7 +137,9 @@ Withdrawal of liquidity is the process of removing money from the financial syst
 ### Withdrawal of Spark
 The term "withdrawal of spark" is not a standard financial term and may refer to the withdrawal of liquidity. Context is needed to provide a precise definition.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

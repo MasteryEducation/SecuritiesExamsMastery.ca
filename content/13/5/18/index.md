@@ -92,7 +92,9 @@ For further exploration, readers can refer to the following resources:
 - [Understanding Balance of Payments](https://www.bankofcanada.ca/rates/interest-rates/bank-details/monetary-policy-tools/balance-of-payments/)
 - [Canada's Balance of Payments](https://www.worldbank.org/en/country/canada/overview)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -93,7 +93,9 @@ Understanding these learning objectives is crucial for navigating the complex la
 
 For further exploration, consider visiting the Bank of Canada's website for additional resources on Canadian financial regulations: [www.bankofcanada.ca](https://www.bankofcanada.ca).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

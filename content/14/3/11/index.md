@@ -85,7 +85,9 @@ The Canadian Investment Regulatory Organization (CIRO) oversees securities regul
 
 Growth managers play a crucial role in identifying and capitalizing on opportunities for earnings growth within equity portfolios. By focusing on EPS, understanding the characteristics of growth stocks, and managing associated risks, growth managers can achieve significant capital appreciation. Leveraging Canadian financial regulations and resources further enhances their ability to navigate the dynamic landscape of growth investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

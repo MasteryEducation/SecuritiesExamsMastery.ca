@@ -111,7 +111,9 @@ To deepen your understanding of liquidity ratios, consider exploring the followi
 
 Liquidity ratios are essential tools for evaluating a company's short-term financial health. By understanding and applying these ratios, investors and financial managers can make informed decisions about a company's ability to meet its obligations and sustain operations. As you continue to explore financial analysis, consider how liquidity ratios fit into the broader context of financial metrics and their role in strategic decision-making.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

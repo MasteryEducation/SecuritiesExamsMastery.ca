@@ -83,7 +83,9 @@ These resources provide deeper insights into the mechanics and strategies of lev
 
 Leveraged ETFs offer the potential for amplified returns but come with increased risk and complexity. Understanding the mechanics of these instruments, the impact of path dependency, and the regulatory environment is crucial for investors looking to incorporate leveraged ETFs into their portfolios. By leveraging the insights and resources provided, investors can navigate the challenges and opportunities presented by leveraged ETFs in the Canadian market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

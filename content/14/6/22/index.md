@@ -83,7 +83,9 @@ To solidify your understanding, consider practical scenarios such as evaluating 
 
 To deepen your knowledge, explore additional resources such as the [Practice Questions on Mutual Funds](https://www.proprofs.com/quiz-school/story.php?title=mutual-fund-quiz) and the book *Mutual Fund Review* by Charles D. Ellis. These materials offer further insights into mutual fund strategies and performance evaluation.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

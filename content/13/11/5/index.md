@@ -98,7 +98,9 @@ Financial statements are indispensable tools for evaluating a corporation's fina
 - **Books**: "Financial Statement Analysis" by Martin S. Fridson and Fernando Alvarez offers in-depth insights into analyzing financial statements.
 - **Online Courses**: Platforms like Coursera and edX offer courses on financial statement analysis, providing practical skills for finance professionals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

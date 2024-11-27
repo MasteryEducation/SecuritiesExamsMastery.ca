@@ -75,7 +75,9 @@ These resources provide comprehensive insights into the mechanics, strategies, a
 
 Closed-end funds offer a unique investment opportunity, characterized by their fixed share structure and trading dynamics on stock exchanges. Understanding the factors influencing discounts and premiums is crucial for investors seeking to capitalize on these investment vehicles. By exploring the resources provided and applying the principles discussed, investors can enhance their strategies and navigate the complexities of closed-end fund investing within the Canadian market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

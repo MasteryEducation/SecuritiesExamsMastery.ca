@@ -112,7 +112,9 @@ For more detailed information on convertible preferred shares, consider explorin
 
 Convertible preferred shares offer a unique blend of income and growth potential, making them a versatile tool for both investors and issuers. By understanding their features, advantages, and potential drawbacks, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

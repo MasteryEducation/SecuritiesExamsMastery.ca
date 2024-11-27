@@ -93,7 +93,9 @@ Let's consider a practical example involving a major Canadian bank, such as the 
 
 The Statement of Comprehensive Income is a vital tool for assessing a company's financial performance. By understanding its components and presentation formats, investors and analysts can make informed decisions. In the Canadian context, adherence to financial regulations and standards is essential for accurate and transparent reporting.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

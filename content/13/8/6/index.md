@@ -92,7 +92,9 @@ For further exploration, consider the following resources:
 
 Stock splits and consolidations are powerful tools that companies can use to manage their stock price and market perception. While these actions do not change the intrinsic value of a company or an investor's proportional ownership, they can influence investor behavior and market dynamics. Understanding these processes is essential for making informed investment decisions and effectively managing a portfolio.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -95,7 +95,9 @@ For further exploration of common shares and related topics, consider the follow
 
 Common shares offer investors a unique opportunity to participate in the growth and governance of companies. While they provide potential benefits such as capital appreciation and dividends, they also carry risks that must be carefully managed. By understanding the characteristics, benefits, and risks of common shares, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

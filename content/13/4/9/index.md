@@ -93,7 +93,9 @@ Understanding the determinants of productivity and their impact on economic grow
 - **Books:** *"Productivity and Economic Growth"* by Dale W. Jorgenson
 - **Articles:** [How Productivity Drives Economic Growth](https://www.investopedia.com/terms/p/productivity.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -108,7 +108,9 @@ Common challenges in private equity include market volatility, regulatory change
 
 Private equity offers a dynamic and potentially lucrative investment avenue, with diverse strategies catering to different risk appetites and investment goals. Understanding the intricacies of private equity, particularly within the Canadian context, can empower investors to make informed decisions and capitalize on opportunities in this evolving market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

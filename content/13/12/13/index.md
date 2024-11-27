@@ -108,7 +108,9 @@ graph TD;
 
 Understanding the different types of underwriting agreements is essential for anyone involved in the securities market. Each type of agreement has its own set of roles, responsibilities, and financial implications. By comprehending these agreements, finance professionals can make informed decisions and effectively manage the risks associated with securities offerings.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

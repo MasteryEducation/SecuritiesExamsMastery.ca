@@ -107,7 +107,9 @@ For those interested in deepening their understanding of fixed-income management
 
 Understanding the various styles of fixed-income management is essential for aligning investment strategies with specific objectives and risk profiles. By considering factors such as term to maturity, credit quality, and interest rate anticipation, investors can build resilient portfolios that withstand market fluctuations and achieve desired outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

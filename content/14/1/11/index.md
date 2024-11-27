@@ -124,7 +124,9 @@ This diagram visually represents the interconnected forces that shape industry s
 
 Fundamental industry analysis is a cornerstone of effective investment strategy. By understanding industry structure, competitive strategies, and the impact of pricing and cost structures, investors can make informed decisions that enhance portfolio performance. As you apply these principles, consider the unique dynamics of the Canadian market and leverage tools like Porter's Five Forces to guide your analysis.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -73,7 +73,9 @@ To further explore the disadvantages of managed products and enhance your unders
 
 While managed products offer the benefits of diversification and professional management, they also present several disadvantages that investors must consider. Lack of transparency, liquidity constraints, high fees, volatility of returns, and tax complications can all impact the effectiveness of these investments in achieving financial goals. By understanding these drawbacks and utilizing available resources, Canadian investors can make more informed decisions and better navigate the complexities of managed products.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

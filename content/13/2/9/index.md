@@ -121,7 +121,9 @@ These resources provide comprehensive insights into the mechanics of derivatives
 
 Derivatives are versatile financial instruments that play a crucial role in modern financial markets. Whether used for hedging or speculation, they offer opportunities for sophisticated investors to manage risk and enhance returns. Understanding the intricacies of derivatives, including their regulatory environment in Canada, is essential for anyone looking to incorporate these instruments into their investment strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

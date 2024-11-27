@@ -95,7 +95,9 @@ The Offering Memorandum Exemption is a valuable tool for both issuers and invest
   - **Books**:
     - "Securities Regulation in Canada" by David F. Larcombe and M. Bruce Smith.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

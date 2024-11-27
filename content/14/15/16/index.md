@@ -113,7 +113,9 @@ For further exploration of investment styles and strategies, consider the follow
 
 Understanding the nuances of passive and active investment styles is crucial for effective portfolio management. By considering the strategies, implications, and regulatory context, investors can make informed decisions that align with their financial goals. Whether opting for the steady approach of passive investing or the dynamic nature of active management, the key is to remain informed and adaptable in the ever-evolving financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

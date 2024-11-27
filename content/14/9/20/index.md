@@ -85,7 +85,9 @@ For more information on fixed-income markets in Canada, visit the [Bank of Canad
 
 Fixed-income arbitrage strategies offer the potential for attractive returns by exploiting inefficiencies in the fixed-income markets. However, these strategies require a deep understanding of the market dynamics, careful risk management, and adherence to regulatory requirements. By applying these principles within the Canadian context, investors can enhance their investment portfolios and achieve their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

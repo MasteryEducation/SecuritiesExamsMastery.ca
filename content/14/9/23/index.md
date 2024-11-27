@@ -111,7 +111,9 @@ For further exploration of distressed securities strategies, consider the follow
 
 Distressed securities strategies present a compelling opportunity for investors willing to embrace the complexities and risks associated with financially troubled companies. By employing rigorous analysis, strategic insight, and a thorough understanding of the Canadian regulatory environment, investors can potentially achieve significant returns. As with any investment strategy, success requires careful planning, expert guidance, and a willingness to adapt to changing market conditions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

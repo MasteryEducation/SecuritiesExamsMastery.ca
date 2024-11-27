@@ -84,7 +84,9 @@ For further reading on the effects of inflation and understanding real versus no
 - [Effects of Inflation](https://www.bankofcanada.ca/education/banknotes-money/inflation/)
 - [Understanding Real vs Nominal Interest Rates](https://www.investopedia.com/terms/r/realinterestrate.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

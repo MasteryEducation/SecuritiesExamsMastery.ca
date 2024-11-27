@@ -91,7 +91,9 @@ Investors considering participation in public or private offerings should evalua
 
 Understanding the differences between public and private offerings is crucial for making informed investment decisions. Each method has its advantages and challenges, and the choice between them depends on the specific needs and circumstances of both issuers and investors. By considering factors such as regulatory requirements, investor base, and liquidity, investors can better align their investment strategies with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

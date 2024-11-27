@@ -98,7 +98,9 @@ For further exploration of Canadian financial regulations, consider the followin
 
 Understanding the regulatory requirements for takeover bids and insider trading is essential for anyone involved in the Canadian financial markets. By adhering to these regulations, market participants can help maintain market integrity, protect investor interests, and avoid the severe consequences of non-compliance. As you continue your journey in the financial world, remember to stay informed and proactive in your approach to regulatory compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

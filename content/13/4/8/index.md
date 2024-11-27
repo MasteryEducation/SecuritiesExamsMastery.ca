@@ -90,7 +90,9 @@ Understanding the distinction between real and nominal GDP is crucial for accura
 - **Books:** *"Intermediate Macroeconomics"* by Robert J. Barro
 - **Online Resources:** [Real vs. Nominal GDP](https://www.khanacademy.org/economics-finance-domain/macroeconomics/gdp-topic/gdp-tutorial/a/real-vs-nominal-gdp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

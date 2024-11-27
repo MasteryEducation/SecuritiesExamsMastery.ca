@@ -102,7 +102,9 @@ To deepen your understanding of the Canadian securities industry, consider explo
 
 These resources provide valuable insights into the regulatory framework, market dynamics, and educational opportunities within the Canadian securities industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

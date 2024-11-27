@@ -84,7 +84,9 @@ A case study involving TD Direct Investing illustrates how a client can maximize
 
 - "Maximizing Benefits from Full-Service Brokerage Accounts" by Investment Strategies Today
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

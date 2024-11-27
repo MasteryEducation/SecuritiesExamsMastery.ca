@@ -111,7 +111,9 @@ Options offer a range of strategies for both speculation and hedging. By underst
 - **Covered Call:** Writing a call option while owning the underlying asset, mitigating potential losses but capping upside gains.
 - **Naked Option:** Writing an option without holding the underlying asset, exposing the writer to unlimited risk.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

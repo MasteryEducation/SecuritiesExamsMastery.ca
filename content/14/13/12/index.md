@@ -117,7 +117,9 @@ These resources provide deeper insights into the structure and management of UMA
 
 Multi-mandate managed accounts represent a powerful tool for investors seeking diversified management strategies within a unified framework. By leveraging the expertise of multiple portfolio managers and the oversight of an overlay manager, investors can achieve a balanced and optimized portfolio. As the financial landscape continues to evolve, multi-mandate managed accounts offer a flexible and efficient solution for meeting complex investment objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

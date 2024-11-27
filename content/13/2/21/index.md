@@ -98,7 +98,9 @@ graph TD;
 
 Understanding clearing and settlement processes is crucial for anyone involved in financial markets. By mastering these concepts, you can enhance your ability to manage investments effectively and contribute to market stability. Consider exploring additional resources and staying informed about regulatory changes to deepen your knowledge.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

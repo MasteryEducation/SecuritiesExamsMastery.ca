@@ -107,7 +107,9 @@ Mastering asset class timing and cycle management is a valuable skill for invest
 - **Equity Cycle**: The pattern of stock market movements aligned with economic phases.
 - **Economic Cycle**: The fluctuating levels of economic activity, including periods of expansion and contraction.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -123,7 +123,9 @@ For those interested in exploring dark pools further, consider the following res
 
 Dark pools represent a significant component of the modern equity trading landscape, offering both opportunities and challenges for institutional investors. Understanding their role, benefits, and regulatory environment is crucial for navigating the complexities of today's financial markets. By leveraging dark pools strategically and adhering to best practices, investors can enhance their trading strategies while maintaining compliance with Canadian regulations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

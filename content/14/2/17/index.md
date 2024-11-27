@@ -90,7 +90,9 @@ These resources provide comprehensive insights into financial ratios and their r
 - **Interest Coverage Ratio:** A debt and profitability ratio used to determine how easily a company can pay interest on its outstanding debt.
 - **EBIT:** Earnings Before Interest and Taxes, a measure of a firm's profit that includes all expenses except interest and income tax expenses.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

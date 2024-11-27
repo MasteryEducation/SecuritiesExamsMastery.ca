@@ -92,7 +92,9 @@ These resources provide deeper insights into the complexities of ETF taxation an
 
 Understanding the taxation of ETFs is vital for Canadian investors seeking to optimize their investment returns. By comprehending the different types of distributions and the tax mechanics related to ETF sales, investors can make informed decisions and implement tax-efficient strategies. Always consult with a tax professional or financial advisor to tailor these strategies to your specific financial situation.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -100,7 +100,9 @@ For further exploration, consider the following resources:
 
 By mastering the learning objectives outlined in this chapter, you will be well-equipped to analyze and interpret market trends, make informed investment decisions, and effectively manage your portfolio in the Canadian financial landscape. Remember to continuously apply these principles and strategies to enhance your investment acumen.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -86,7 +86,9 @@ graph TD;
 
 By understanding and managing margin risks, investors can make more informed decisions and potentially enhance their investment returns while minimizing potential losses. Always consider the implications of borrowing and the inherent risks involved in margin trading.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -91,7 +91,9 @@ The Bank of Canada is a cornerstone of the Canadian financial system, playing a 
 
 For further exploration, readers are encouraged to visit the [Bank of Canada Overview](https://www.bankofcanada.ca/about/) for more detailed information on the Bank's functions and initiatives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

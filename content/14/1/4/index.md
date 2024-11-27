@@ -87,7 +87,9 @@ Fundamental analysis is a dynamic and evolving field, requiring continuous learn
 
 Fundamental analysis is a powerful tool for evaluating the intrinsic value of securities and identifying investment opportunities. By examining capital market conditions, economic indicators, industry dynamics, and individual company performance, investors can make informed decisions about their portfolios. With a focus on best practices and continuous learning, fundamental analysis can provide valuable insights into the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

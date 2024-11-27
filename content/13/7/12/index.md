@@ -101,7 +101,9 @@ These resources provide deeper insights into the theory and its applications in 
 
 Market Segmentation Theory offers a valuable lens through which to view the dynamics of yield curves. By understanding the preferences of institutional investors and the independent operation of maturity segments, investors can better anticipate changes in yield curve shapes and make informed investment decisions. As you continue to explore fixed-income securities, consider how market segmentation might influence your strategies and portfolio management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

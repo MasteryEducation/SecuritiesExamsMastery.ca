@@ -84,7 +84,9 @@ In Canada, structured products are subject to regulatory oversight by the Canadi
 
 Structured products offer a versatile and customizable investment solution for Canadian investors seeking to diversify their portfolios and achieve specific financial goals. By understanding the features, benefits, and risks associated with structured products, investors can make informed decisions and leverage these innovative instruments to enhance their investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

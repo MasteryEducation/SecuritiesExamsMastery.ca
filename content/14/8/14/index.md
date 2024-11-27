@@ -122,7 +122,9 @@ Alternative investment structures offer a wide array of opportunities for invest
 - **Books**: "The ETF Book: All You Need to Know About Exchange-Traded Funds" by Richard A. Ferri.
 - **Online Articles**: [Understanding Different Fund Structures](https://www.investopedia.com/articles/mutualfund/09/types-of-mutual-funds.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

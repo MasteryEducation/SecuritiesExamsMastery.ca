@@ -91,7 +91,9 @@ Rights and warrants are valuable tools in the Canadian financial market, offerin
 
 For further exploration, consider reviewing resources from the Canadian Securities Administrators (CSA) and the Investment Industry Regulatory Organization of Canada (IIROC). Additionally, books such as "Options, Futures, and Other Derivatives" by John C. Hull provide deeper insights into derivative instruments.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

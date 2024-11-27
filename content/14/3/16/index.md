@@ -95,7 +95,9 @@ These resources offer comprehensive insights into credit risk assessment and man
 
 Understanding and managing credit quality is a cornerstone of successful fixed-income investing. By assessing credit ratings, analyzing the relationship between credit quality and yields, and implementing effective risk management strategies, investors can optimize their portfolios to achieve desired outcomes while mitigating potential risks.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

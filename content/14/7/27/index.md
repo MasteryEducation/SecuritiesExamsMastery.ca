@@ -94,7 +94,9 @@ Investors should be aware of Canadian financial regulations and resources when i
 
 By understanding and applying these strategies, investors can effectively utilize ETFs to enhance their portfolios, manage risk, and achieve their financial objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

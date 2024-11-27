@@ -94,7 +94,9 @@ The rapid growth of the cryptocurrency market has posed significant regulatory c
 
 Cryptocurrencies have become an integral part of the capital markets, offering new opportunities for diversification and growth. However, they also present unique challenges that require careful consideration and strategic planning. By understanding the underlying technology, exploring various investment vehicles, and staying informed about regulatory developments, investors can effectively navigate the evolving landscape of cryptocurrency in Canada.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

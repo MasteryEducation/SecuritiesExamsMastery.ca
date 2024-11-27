@@ -86,7 +86,9 @@ The long/short equity strategy offers a dynamic approach to investing, allowing 
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

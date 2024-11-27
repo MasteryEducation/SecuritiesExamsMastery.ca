@@ -87,7 +87,9 @@ While the gatekeeper role is crucial, it comes with its own set of challenges, i
 
 The gatekeeper role is integral to the health and integrity of the Canadian securities market. By diligently monitoring transactions, conducting due diligence, and adhering to regulatory standards, gatekeepers help prevent financial misconduct and protect investors. As the financial landscape continues to evolve, the importance of this role will only grow, underscoring the need for continuous education and adaptation.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -85,7 +85,9 @@ By combining these analyses, an investor can make informed decisions about when 
 
 Understanding and applying the methods of equity analysis is crucial for making informed investment decisions. Whether you are a long-term investor or a short-term trader, mastering both fundamental and technical analysis will enhance your ability to navigate the complexities of the Canadian financial market. For further reading, consider "Equity Valuation and Analysis" by Russell Lundholm and "Technical Analysis of the Financial Markets" by John Murphy, which provide comprehensive insights into these methodologies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

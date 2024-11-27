@@ -106,7 +106,9 @@ These resources provide comprehensive information on CIPF's coverage, claims pro
 
 The Canadian Investor Protection Fund (CIPF) is a vital component of the Canadian financial regulatory environment, providing essential protection to investors dealing with IIROC member firms. By understanding CIPF's coverage, funding mechanisms, and best practices, investors can make informed decisions and safeguard their financial assets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

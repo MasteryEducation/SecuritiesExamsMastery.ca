@@ -115,7 +115,9 @@ Investors should be aware of Canadian financial regulations that impact passive 
 
 Passive investment management offers a straightforward, cost-effective approach to achieving market returns. By understanding and implementing strategies like indexing and buy-and-hold, investors can build diversified portfolios that align with their financial goals. As with any investment strategy, it's crucial to stay informed about market trends and regulatory changes to optimize outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

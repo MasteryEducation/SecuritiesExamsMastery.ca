@@ -84,7 +84,9 @@ For those interested in exploring these topics further, consider the following r
 
 Understanding deflation and disinflation is vital for financial professionals navigating the Canadian market. By recognizing the economic implications and employing strategic investment practices, individuals can mitigate risks and capitalize on opportunities in deflationary environments. As you prepare for the CSC® exam, consider how these concepts apply to real-world scenarios and how they can inform your financial decision-making.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

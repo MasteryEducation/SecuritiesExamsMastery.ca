@@ -110,7 +110,9 @@ The efficient frontier is a concept from Modern Portfolio Theory that represents
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

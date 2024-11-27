@@ -126,7 +126,9 @@ Understanding the tax implications of investment decisions is crucial for optimi
   - [Understanding Canadian Taxes](https://www.investopedia.com/articles/personal-finance/091915/understanding-canadian-taxes.asp)
   - [Tax Planning Strategies for Canadians](https://www.thebalance.com/tax-planning-strategies-canada-1289581)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

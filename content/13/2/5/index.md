@@ -117,7 +117,9 @@ graph TD;
 - **Institutional Investor:** Organizations such as pension funds and mutual funds that invest large sums of money.
 - **Foreign Investor:** Non-Canadian entities that invest in Canadian securities and assets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

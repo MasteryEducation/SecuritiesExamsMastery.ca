@@ -80,7 +80,9 @@ Navigating disputes in the financial sector requires a clear understanding of th
 
 For further exploration, consider reviewing Canadian financial regulations and resources such as the [IIROC Arbitration Process](https://www.iiroc.ca/investors/arbitration) and [OBSI Services](https://www.obsi.ca/).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

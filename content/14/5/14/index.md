@@ -119,7 +119,9 @@ graph TD;
 
 The Know Your Client (KYC) rule and suitability assessments are integral to the ethical and regulatory framework of mutual fund sales in Canada. By diligently applying these principles, financial advisors can ensure that investment recommendations are tailored to the unique needs and objectives of each client, fostering trust and compliance in the financial industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

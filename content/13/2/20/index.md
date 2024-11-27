@@ -109,7 +109,9 @@ For further exploration of the unlisted equity market, consider the following re
 
 The unlisted equity market offers unique opportunities and challenges for investors. By understanding its characteristics, trading practices, and regulatory requirements, investors can make informed decisions and potentially benefit from the flexibility and opportunities it provides. As with any investment, thorough research and professional guidance are essential to navigate this complex market successfully.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

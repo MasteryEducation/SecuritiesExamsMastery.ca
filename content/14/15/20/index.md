@@ -104,7 +104,9 @@ For those interested in exploring soft-dollar arrangements further, consider the
 
 Soft-dollar arrangements are a valuable tool for investment managers, offering access to research and services that can enhance investment decision-making. However, they also present challenges that require careful management and compliance with regulatory standards. By understanding the benefits, limitations, and regulatory framework, investment managers can effectively leverage soft-dollar arrangements to benefit their clients and improve portfolio performance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

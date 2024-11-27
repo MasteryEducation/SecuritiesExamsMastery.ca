@@ -99,7 +99,9 @@ In Canada, financial professionals must adhere to regulations set by the Canadia
 
 The efficient frontier is a powerful tool for optimizing investment portfolios. By understanding and applying the principles of Modern Portfolio Theory, investors can construct portfolios that maximize returns for a given level of risk. Incorporating alternative investments and assets with low correlation to traditional investments can further enhance portfolio efficiency, providing Canadian investors with robust strategies for achieving their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

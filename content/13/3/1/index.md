@@ -94,7 +94,9 @@ To further explore the Canadian regulatory environment, consider the following r
 - **Investor Protection Fund:** A fund established to protect investors in the event of financial firm insolvencies.
 - **Principles-Based Regulation:** A regulatory approach that sets broad objectives rather than specific rules, allowing firms flexibility in compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

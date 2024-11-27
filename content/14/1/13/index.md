@@ -120,7 +120,9 @@ The telecommunications industry in Canada, with key players like Bell Canada and
 
 Understanding the industry life cycle is essential for making informed investment decisions. By recognizing the stage an industry is in, investors can tailor their strategies to align with the unique characteristics and challenges of that stage. This approach not only enhances stock valuation accuracy but also helps mitigate risks and capitalize on growth opportunities.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

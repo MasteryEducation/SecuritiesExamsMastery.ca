@@ -88,7 +88,9 @@ To deepen your understanding of managed account regulations, consider exploring 
 
 Navigating the documentation and regulatory landscape of managed accounts requires diligence and a commitment to compliance. By understanding the necessary agreements, adhering to IIROC guidelines, and staying informed about regulatory changes, financial professionals can effectively manage client accounts and uphold the integrity of the financial services industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

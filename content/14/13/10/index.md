@@ -97,7 +97,9 @@ For further exploration of SMAs, consider the following resources:
 
 As you explore the potential of SMAs, consider how these accounts can be integrated into your overall financial strategy. Whether you are managing your own investments or advising clients, the principles of customization, tax efficiency, and personalized management can enhance investment outcomes. Reflect on the examples provided and think critically about how SMAs can be tailored to meet specific financial objectives within the Canadian regulatory framework.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

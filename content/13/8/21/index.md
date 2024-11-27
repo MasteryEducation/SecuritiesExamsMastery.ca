@@ -91,7 +91,9 @@ These resources offer detailed explanations and examples, enhancing your underst
 
 Convertible preferred shares represent a dynamic investment option, combining the stability of fixed income with the potential for equity growth. By understanding their features, advantages, and challenges, both issuers and investors can make informed decisions that align with their financial goals. As you continue to explore the Canadian financial landscape, consider how convertible preferred shares might fit into your investment strategy or capital management plan.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

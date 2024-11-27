@@ -59,7 +59,9 @@ To deepen your understanding of the topics covered in this chapter, consider exp
 
 As we wrap up this chapter, it's important to emphasize the value of continuous learning and staying informed about economic developments. The financial markets are ever-evolving, and a solid understanding of economics is crucial for navigating these changes effectively. By applying the principles and strategies discussed in this chapter, you can enhance your investment decisions and better position yourself for success in the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

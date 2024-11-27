@@ -107,7 +107,9 @@ For further exploration of protective provisions in corporate bonds, consider th
 - **Debt Test**: A covenant limiting the issuer's ability to incur additional debt.
 - **Dividend Test**: Restrictions on dividend payments to preserve assets for bondholders.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -94,7 +94,9 @@ For those seeking to deepen their understanding of institutional clients and the
 
 By understanding the intricacies of institutional clients and their impact on the financial markets, professionals can better navigate the complexities of the Canadian financial landscape and enhance their service offerings.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

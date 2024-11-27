@@ -93,7 +93,9 @@ These resources provide comprehensive information on DNCL regulations, complianc
 
 By understanding and adhering to DNCL regulations, investment advisors and telemarketers can ensure compliance, protect consumer rights, and maintain a positive reputation in the Canadian financial services industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -83,7 +83,9 @@ In Canada, event-driven strategies must comply with regulations set by the Canad
 
 Event-driven strategies offer unique opportunities for investors to profit from corporate events. By understanding the dynamics of mergers, high-yield bonds, and distressed securities, investors can potentially achieve significant returns. However, these strategies require careful analysis, risk management, and regulatory compliance to be successful.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

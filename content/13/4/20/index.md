@@ -99,7 +99,9 @@ The balance of payments is a vital tool for understanding a country's economic i
 
 For further reading, consider the book *"International Economics"* by Paul Krugman and Maurice Obstfeld, and explore online resources such as [Understanding Balance of Payments](https://www.investopedia.com/terms/b/balanceofpayments.asp).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

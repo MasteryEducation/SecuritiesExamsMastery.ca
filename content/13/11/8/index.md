@@ -134,7 +134,9 @@ For further exploration, consider the following resources:
 
 The Statement of Cash Flows is an indispensable tool for assessing a company's financial health. By understanding and analyzing cash flows from operating, investing, and financing activities, stakeholders can make informed decisions about a company's liquidity, solvency, and growth potential. As you continue to explore financial statements, remember to consider the broader context of Canadian financial regulations and market conditions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

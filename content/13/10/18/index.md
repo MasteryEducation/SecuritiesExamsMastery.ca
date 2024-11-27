@@ -140,7 +140,9 @@ For those interested in exploring derivatives further, consider the following re
 
 Derivatives offer a versatile set of tools for managing financial risks and opportunities. By studying real-world applications and analyzing outcomes, finance professionals can enhance their understanding and application of these instruments in the Canadian market. As you continue your journey in finance, remember to apply these principles thoughtfully, considering both the potential benefits and risks.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

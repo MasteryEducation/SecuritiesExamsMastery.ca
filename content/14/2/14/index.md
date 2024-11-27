@@ -108,7 +108,9 @@ These resources provide comprehensive insights into preferred share evaluation a
 
 Assessing the investment quality of preferred shares involves a multifaceted approach, considering dividend coverage, equity cushion, dividend history, and credit assessment. By applying these criteria and utilizing key tests, investors can make informed decisions and enhance their investment portfolios. Remember to stay informed, diversify your holdings, and continuously evaluate the financial health of issuing companies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

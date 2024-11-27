@@ -109,7 +109,9 @@ Investors use EPS trends to make informed decisions about their portfolios. For 
 
 Earnings Per Share (EPS) is a vital metric in company analysis, offering insights into profitability and financial health. By understanding EPS and its implications, investors can make more informed decisions, enhancing their ability to achieve financial goals. As you continue to explore the world of finance, consider how EPS trends can influence your investment strategies and portfolio management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

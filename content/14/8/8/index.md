@@ -111,7 +111,9 @@ Investors should be aware of Canadian financial regulations and standards that g
 
 Diversification is a powerful tool in portfolio management, offering the potential to enhance returns while mitigating risk. By incorporating a broad array of alternative investments, Canadian investors can achieve a more resilient portfolio capable of withstanding market volatility and economic downturns. As you continue to explore diversification strategies, consider how these principles can be applied to your own investment decisions, keeping in mind the unique opportunities and challenges of the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

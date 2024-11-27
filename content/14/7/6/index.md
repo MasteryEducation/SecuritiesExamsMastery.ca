@@ -85,7 +85,9 @@ The ETF Facts document is a product of the regulatory efforts by the Canadian Se
 
 The ETF Facts document is an indispensable tool for Canadian investors, offering a wealth of information to guide investment decisions. By understanding its content and purpose, investors can better assess the suitability of ETFs for their portfolios. As the ETF market continues to evolve, staying informed about regulatory changes and market dynamics is crucial for successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

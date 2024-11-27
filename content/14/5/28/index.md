@@ -131,7 +131,9 @@ For further exploration of mutual funds and their regulation in Canada, consider
 
 These resources provide additional insights and detailed explanations of mutual fund concepts, enhancing your understanding and application of the material covered in this chapter.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

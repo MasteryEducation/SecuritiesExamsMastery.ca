@@ -108,7 +108,9 @@ graph TD;
 
 Understanding the regulation of segregated funds is essential for financial professionals in Canada. By recognizing the roles of provincial regulators, OSFI, and Assuris, and differentiating between segregated and mutual fund regulations, professionals can better serve their clients. The protective role of Assuris further enhances the appeal of segregated funds, offering peace of mind to investors. By adhering to best practices and avoiding common pitfalls, financial professionals can effectively navigate the complexities of segregated fund investments.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

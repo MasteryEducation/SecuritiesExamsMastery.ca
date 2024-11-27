@@ -154,7 +154,9 @@ For those interested in exploring mutual fund categories further, consider the f
 - **CIFSC:** Canadian Investment Funds Standards Committee, the body responsible for categorizing mutual funds in Canada.
 - **Taxable Account:** An investment account where earnings are taxable in the year they are received.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

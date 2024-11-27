@@ -90,7 +90,9 @@ For further exploration of RESPs and related financial planning strategies, cons
 - **Registered Education Savings Plan (RESP):** A tax-deferred savings plan that provides investment income and government grants for a beneficiary’s education.
 - **Canada Education Savings Grant (CESG):** A government grant that matches contributions to an RESP up to a certain limit.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

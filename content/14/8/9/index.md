@@ -81,7 +81,9 @@ Adding alpha through alternative investments requires a deep understanding of co
 
 For further exploration, consider reading [Understanding Hedge Fund Incentive Fees](https://www.investopedia.com/articles/investing/081015/how-do-hedge-fund-fees-work.asp).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

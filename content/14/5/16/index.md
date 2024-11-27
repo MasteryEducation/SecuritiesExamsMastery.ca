@@ -85,7 +85,9 @@ These resources provide comprehensive guidelines and updates on regulatory requi
 
 Understanding and adhering to mutual fund restrictions and prohibited selling practices are crucial for maintaining ethical standards and protecting investors in the Canadian financial market. By following these guidelines, mutual fund managers and representatives can ensure compliance, foster trust, and contribute to the integrity of the financial system. As you continue to deepen your knowledge of mutual funds, consider how these principles apply to your own investment strategies and professional conduct.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

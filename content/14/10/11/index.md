@@ -81,7 +81,9 @@ graph TD;
 
 Investors are encouraged to explore closed-end funds as part of a diversified investment strategy. By understanding the unique advantages and potential risks, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

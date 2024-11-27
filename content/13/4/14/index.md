@@ -100,7 +100,9 @@ For those interested in exploring the topic further, consider the following reso
 
 Interest rates are a powerful tool in the economic toolkit, influencing consumer behavior, business investment, and overall economic growth. Understanding their role and impact is essential for financial professionals and investors alike. By staying informed about central bank policies and economic trends, individuals and businesses can make more informed financial decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

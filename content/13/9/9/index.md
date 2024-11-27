@@ -78,7 +78,9 @@ In this situation, the investor faces a margin call due to the increased value o
 - [Comprehensive Short Selling Risks](https://www.investopedia.com/articles/stocks/collateral-short-selling.asp)
 - Research Paper: *"The Risks of Short Selling"* from the Journal of Finance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

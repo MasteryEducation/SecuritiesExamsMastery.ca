@@ -108,7 +108,9 @@ For those interested in delving deeper into the world of robo-advisors, consider
 
 Robo-advisors represent a significant shift in the investment management landscape, offering a cost-effective, convenient, and accessible alternative to traditional financial advisors. While they have their limitations, the advantages they offer make them a compelling choice for many investors, particularly those in Canada. As technology continues to evolve, the role of robo-advisors is likely to expand, further transforming how individuals manage their investments.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

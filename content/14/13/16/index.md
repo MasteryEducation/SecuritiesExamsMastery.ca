@@ -117,7 +117,9 @@ For further exploration of non-managed fee-based accounts, consider the followin
 
 Non-managed fee-based accounts offer a flexible and cost-effective solution for investors seeking control over their financial decisions. By understanding the differences between full-service and self-directed brokerage accounts, investors can choose the option that best suits their needs and investment style. As the Canadian financial landscape continues to evolve, staying informed and adaptable is key to successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

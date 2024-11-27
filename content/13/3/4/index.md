@@ -94,7 +94,9 @@ These resources provide valuable insights into the CSA's strategic priorities an
 
 The Canadian Securities Administrators (CSA) plays a vital role in harmonizing and coordinating securities regulation across Canada. Through its development of national policies and initiatives like the Passport System, the CSA ensures a consistent and efficient regulatory environment that protects investors and fosters market integrity. By understanding the CSA's mission and leveraging its resources, financial professionals can navigate the Canadian securities landscape with confidence and compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

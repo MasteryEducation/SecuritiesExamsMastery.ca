@@ -114,7 +114,9 @@ Security selection is a critical component of the portfolio management process, 
 - **Equity Analysis**: Evaluating stocks based on financial performance, growth potential, and market conditions.
 - **Fixed-Income Analysis**: Assessing bonds and other debt instruments based on credit quality, interest rates, and duration.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

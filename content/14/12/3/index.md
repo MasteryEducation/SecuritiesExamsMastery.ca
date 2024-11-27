@@ -117,7 +117,9 @@ These resources provide comprehensive information on Canadian tax regulations, h
 
 Calculating income tax in Canada requires careful consideration of income sources, deductions, and credits. By understanding these elements and utilizing available resources, you can effectively manage your tax liability and enhance your financial planning strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -88,7 +88,9 @@ The portfolio approach is a fundamental strategy in investment management, offer
 
 As you continue to explore the world of investment management, consider how the principles of the portfolio approach can be applied to your own financial planning and investment decisions. By leveraging the resources and strategies discussed in this chapter, you can enhance your understanding and effectiveness as an investor.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

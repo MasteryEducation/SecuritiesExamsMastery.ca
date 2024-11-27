@@ -83,7 +83,9 @@ To succeed in merger arbitrage, investors should adhere to best practices such a
 
 Merger arbitrage is a compelling strategy for investors seeking to profit from M&A activities. By understanding the intricacies of the strategy, analyzing potential deals, and managing risks effectively, investors can enhance their portfolios and capitalize on market opportunities. As with any investment strategy, continuous learning and adaptation are key to success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

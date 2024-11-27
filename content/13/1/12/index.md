@@ -89,7 +89,9 @@ When dealing with Canadian banks, consider the following best practices and chal
 
 Understanding the distinctions between Schedule I, II, and III banks is vital for anyone involved in the Canadian securities industry. Each schedule offers unique opportunities and challenges, shaped by ownership structures, operational capabilities, and regulatory requirements. By leveraging this knowledge, financial professionals can make informed decisions that align with their strategic objectives and regulatory obligations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

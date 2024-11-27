@@ -108,7 +108,9 @@ For further exploration of Canadian securities regulation, consider the followin
 
 Securities regulation in Canada presents a unique set of challenges and opportunities due to its provincial and territorial framework. While the absence of a federal regulator adds complexity, ongoing harmonization efforts aim to streamline processes and enhance market efficiency. By understanding the intricacies of this regulatory landscape, market participants can navigate the system effectively and capitalize on opportunities within the Canadian securities market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

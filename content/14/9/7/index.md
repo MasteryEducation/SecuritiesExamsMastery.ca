@@ -119,7 +119,9 @@ For those interested in exploring multi-strategy funds further, consider the fol
 
 Multi-strategy funds offer a compelling option for investors seeking diversification and risk management. By combining various investment strategies within a single fund, they provide a dynamic approach to navigating the complexities of financial markets. As with any investment, due diligence and an understanding of the regulatory landscape are crucial to making informed decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

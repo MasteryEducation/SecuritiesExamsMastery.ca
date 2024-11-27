@@ -94,7 +94,9 @@ For those interested in further exploring hedge funds, consider the following re
 
 Exempt market alternative funds, or hedge funds, offer a unique and flexible investment opportunity within the Canadian financial landscape. By understanding their strategies, structures, and regulatory environment, investors can make informed decisions and potentially enhance their investment portfolios. As with any investment, due diligence and risk management are key to navigating the complexities of hedge funds.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

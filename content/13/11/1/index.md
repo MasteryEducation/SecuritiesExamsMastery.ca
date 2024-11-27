@@ -120,7 +120,9 @@ To deepen your understanding of corporations and financial statements, consider 
 
 Mastering the concepts of corporate structures and financial statements is essential for anyone involved in the financial services industry. By understanding how corporations operate and communicate their financial health, investors can make informed decisions and effectively navigate the Canadian financial landscape. This knowledge not only enhances investment analysis but also fosters transparency and accountability in corporate governance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

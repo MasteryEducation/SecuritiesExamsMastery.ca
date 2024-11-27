@@ -152,7 +152,9 @@ Understanding the financial statements of corporations is crucial for anyone inv
 
 **Practical Insight:** YTM is a critical measure for bond investors, providing a comprehensive view of potential returns. It helps compare bonds with different maturities and coupon rates.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

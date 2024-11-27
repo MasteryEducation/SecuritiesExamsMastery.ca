@@ -89,7 +89,9 @@ Consider a Canadian investor with a portfolio initially allocated as 60% equitie
 
 Portfolio rebalancing is a vital component of effective investment management. By understanding the purpose, process, and implications of rebalancing, investors can maintain a disciplined approach to achieving their financial goals. In the Canadian context, considering tax implications and utilizing tax-advantaged accounts can enhance the benefits of rebalancing. As you apply these principles, remember to adapt your strategy to reflect changes in your financial situation and market conditions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -147,7 +147,9 @@ For further exploration, consider the following resources:
 
 The roles within institutional investment dealers are diverse and require a range of skills and qualifications. Understanding these roles and their interdependencies is essential for anyone looking to succeed in this field. By fostering collaboration and adhering to regulatory standards, professionals can effectively serve institutional clients and contribute to the overall success of their firms.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

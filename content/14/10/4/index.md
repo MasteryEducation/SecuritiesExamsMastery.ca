@@ -93,7 +93,9 @@ To deepen your understanding of segregated funds and their structure, consider e
 
 These resources provide additional insights into the intricacies of segregated funds and their role in financial planning.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

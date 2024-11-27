@@ -165,7 +165,9 @@ The **Toronto Stock Exchange (TSX)** is Canada’s largest stock exchange where 
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

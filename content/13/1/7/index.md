@@ -89,7 +89,9 @@ Understanding the nuances of principal and agency transactions is essential for 
 
 For further exploration of these concepts, consider delving into additional resources and engaging with industry professionals to deepen your understanding and refine your strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

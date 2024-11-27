@@ -111,7 +111,9 @@ Market theories provide valuable frameworks for understanding financial markets 
 - Canadian Institute of Financial Markets publications
 - "The Theory of Rational Expectations" by John F. Muth
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

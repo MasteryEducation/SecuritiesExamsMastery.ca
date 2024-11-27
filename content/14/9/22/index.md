@@ -94,7 +94,9 @@ Investors should be aware of Canadian financial regulations and resources when i
 
 High-yield bonds offer the potential for higher returns and diversification benefits, making them an attractive option for investors willing to accept higher risk. By understanding the risk profile and employing best practices, investors can effectively incorporate high-yield bonds into their portfolios to enhance returns and achieve their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -90,7 +90,9 @@ For further exploration of benchmarking and performance measurement, consider th
 
 Performance benchmarking is an essential component of evaluating alternative investments, providing investors with the tools needed to assess fund performance and make informed decisions. By selecting appropriate benchmarks and adhering to best practices, investors can better understand the value added by fund managers and optimize their investment strategies within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

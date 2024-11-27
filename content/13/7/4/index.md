@@ -106,7 +106,9 @@ In Canada, understanding bond pricing is essential for compliance with regulator
 
 To deepen your understanding of bond pricing and investment strategies, consider exploring additional resources such as online courses, financial workshops, and industry publications. Engaging with professional networks and forums can also provide valuable insights and support.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

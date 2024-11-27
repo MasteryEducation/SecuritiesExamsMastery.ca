@@ -121,7 +121,9 @@ These resources provide additional insights and tools to enhance your trend anal
 
 Trend analysis is a vital component of company analysis, offering valuable insights into financial performance over time. By mastering the calculation and interpretation of trend ratios, you can make informed investment decisions and assess the financial health of companies effectively. Remember to consider both historical data and future projections to build a comprehensive analysis.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

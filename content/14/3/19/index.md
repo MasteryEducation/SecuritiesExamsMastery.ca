@@ -109,7 +109,9 @@ For those interested in delving deeper into the topic of correlation in finance,
 
 Understanding and managing correlation is essential for effective portfolio management. By strategically diversifying assets based on their correlations, investors can optimize their portfolios to achieve desired risk-return objectives. As the financial landscape evolves, continuous learning and adaptation are key to maintaining a robust investment strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

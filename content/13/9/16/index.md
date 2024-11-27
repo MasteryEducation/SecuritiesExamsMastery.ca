@@ -104,7 +104,9 @@ For further exploration of limit orders and their strategic use, consider the fo
 - **Limit Price:** The specific price set by an investor for a limit order, acting as a threshold for execution.
 - **Execution Risk:** The risk that a limit order may not be executed if the market price does not reach the specified limit price.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

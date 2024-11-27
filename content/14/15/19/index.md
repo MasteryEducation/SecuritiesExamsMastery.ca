@@ -98,7 +98,9 @@ For further exploration, consider the following resources:
 - **Straight-Through Processing (STP):** Automated process that handles trades from initiation to settlement without manual intervention.
 - **Trade-Matching Elements:** Specific details required to confirm and settle trades.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

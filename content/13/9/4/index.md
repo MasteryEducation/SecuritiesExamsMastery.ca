@@ -88,7 +88,9 @@ The success of long and short positions is heavily influenced by market movement
 
 Understanding long and short positions is fundamental for navigating the equity markets. By mastering these concepts, investors can strategically position themselves to capitalize on market movements, whether in a rising or falling market. As you continue to explore the world of finance, consider how these strategies can be applied to your own investment portfolio, always keeping in mind the importance of risk management and regulatory compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

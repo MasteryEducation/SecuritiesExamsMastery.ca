@@ -101,7 +101,9 @@ graph TD;
 
 Understanding economic indicators is crucial for anyone involved in financial markets or economic policy. By differentiating between leading, coincident, and lagging indicators, investors and policymakers can better anticipate economic trends, assess current conditions, and confirm past performance. This knowledge empowers them to make informed decisions that align with their financial goals and economic objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

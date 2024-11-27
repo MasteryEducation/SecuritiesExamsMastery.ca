@@ -108,7 +108,9 @@ Major Canadian banks like RBC and TD closely monitor the Bank of Canada's policy
 
 Understanding the impact of monetary policy on economic growth, inflation, and the bond market is essential for Canadian investors. By staying informed and adapting investment strategies to changing economic conditions, investors can better navigate the complexities of the financial markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

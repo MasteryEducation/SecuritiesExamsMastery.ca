@@ -72,7 +72,9 @@ Listed private equity presents a compelling investment opportunity for those see
 - **Book:** *The Art of Private Equity* by David Owen
 - **Online Course:** [Listed Private Equity Analysis](https://www.coursera.org/learn/listed-private-equity)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

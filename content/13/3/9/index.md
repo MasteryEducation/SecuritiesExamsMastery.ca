@@ -100,7 +100,9 @@ Investor protection funds are a vital component of the Canadian financial system
 
 For further exploration, consider reviewing official resources and regulations, such as the [CIPF Details](http://www.cipf.ca/) and [CDIC Overview](https://www.cdic.ca/en/Pages/default.aspx).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

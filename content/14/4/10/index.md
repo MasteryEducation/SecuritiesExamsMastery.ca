@@ -104,7 +104,9 @@ Monitoring the client, the market, and the economy is a continuous process that 
 - **Economic Indicators:** Statistics that provide information about the economy’s performance, such as GDP, unemployment rates, and inflation.
 - **Capital Markets:** Financial markets where long-term debt and equity securities are traded.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

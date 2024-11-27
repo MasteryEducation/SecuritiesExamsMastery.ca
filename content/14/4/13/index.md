@@ -100,7 +100,9 @@ Despite Fund B having a higher return, Fund A has a better risk-adjusted return 
 
 The Sharpe Ratio is a powerful tool for evaluating the risk-adjusted performance of a portfolio. By understanding and applying this metric, investors can make more informed decisions about their investment strategies. Remember to consider the broader market context and use the Sharpe Ratio in conjunction with other performance metrics for a comprehensive analysis.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

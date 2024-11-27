@@ -99,7 +99,9 @@ Understanding the regulatory landscape is crucial for navigating dealer markets.
 
 Dealer markets play a vital role in the Canadian financial system, offering flexibility and liquidity for a wide range of securities. By understanding the dynamics of dealer and OTC markets, finance professionals can make informed decisions and optimize their trading strategies. As you continue to explore the world of securities trading, consider how these market structures impact your investment decisions and portfolio management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

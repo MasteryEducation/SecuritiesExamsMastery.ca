@@ -57,7 +57,9 @@ As we conclude this chapter, it is essential to recognize the dynamic nature of 
 
 By engaging with the resources provided and continuing your education, you can enhance your understanding and remain at the forefront of developments in the Canadian securities market. Remember, the regulatory landscape is ever-evolving, and continuous learning is key to navigating it effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -69,7 +69,9 @@ As you continue your journey in financial education, consider progressing to Cha
 
 By integrating the knowledge gained from this chapter, you can effectively utilize ETFs as part of a robust and diversified investment strategy, tailored to your unique financial goals and risk appetite.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

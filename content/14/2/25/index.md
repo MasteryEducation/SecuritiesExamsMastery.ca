@@ -69,7 +69,9 @@ To deepen your understanding of company analysis and investment strategies, cons
 
 By leveraging these resources, you can enhance your analytical skills and apply them effectively in the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -104,7 +104,9 @@ For further exploration of investor protection in alternative investments, consi
 
 - **Rights of Withdrawal:** The rights of investors to redeem their investments under certain conditions without penalty.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

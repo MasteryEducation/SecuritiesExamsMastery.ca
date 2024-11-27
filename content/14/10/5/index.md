@@ -104,7 +104,9 @@ For those interested in exploring segregated funds further, consider the followi
 
 These resources provide additional insights into the nuances of segregated funds and can help investors make informed decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

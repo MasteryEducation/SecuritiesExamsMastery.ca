@@ -118,7 +118,9 @@ Managing conflicts of interest is a fundamental aspect of maintaining trust and 
 
 For further exploration, consider reviewing additional resources such as the IIROC and MFDA guidelines, as well as engaging with open-source financial tools and frameworks that support conflict management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

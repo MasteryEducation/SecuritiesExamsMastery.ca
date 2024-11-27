@@ -88,7 +88,9 @@ For further reading, consider exploring the following resources:
 - [Bank of Canada on Exchange Rates](https://www.bankofcanada.ca/core-functions/monetary-policy/exchange-rate/)
 - [Understanding Exchange Rate Systems](https://www.investopedia.com/terms/e/exchangeratesystem.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

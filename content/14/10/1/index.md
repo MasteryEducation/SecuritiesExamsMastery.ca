@@ -95,7 +95,9 @@ To deepen your understanding of managed products, consider exploring the followi
 
 Chapter 22 equips you with the knowledge to navigate the diverse world of managed products beyond mutual funds and ETFs. By understanding their structures, features, and regulatory frameworks, you can make informed investment decisions that align with your financial goals and risk tolerance. Embrace the opportunities these products offer, and consider how they can enhance your investment strategy within the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

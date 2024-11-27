@@ -71,7 +71,9 @@ These resources provide comprehensive insights into bond pricing, interest rate 
 
 Understanding the impact of maturity on bond price volatility is essential for making informed investment decisions. By recognizing the differences in price sensitivity between short-term and long-term bonds, investors can better manage their portfolios in response to interest rate changes. As the Canadian financial landscape continues to evolve, staying informed about regulatory developments and market trends will be crucial for successful bond investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

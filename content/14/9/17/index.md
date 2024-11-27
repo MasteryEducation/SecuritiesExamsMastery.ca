@@ -101,7 +101,9 @@ In Canada, directional strategies must comply with regulations set by the Canadi
 
 Directional strategies are a powerful tool for investors seeking to capitalize on market trends. By understanding and implementing these strategies, investors can enhance their portfolios and navigate the complexities of the financial markets. As with any investment approach, thorough research, risk management, and compliance with Canadian regulations are essential for success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

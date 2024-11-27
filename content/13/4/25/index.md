@@ -83,7 +83,9 @@ To deepen your understanding of the economic concepts covered in this chapter, c
 
 In conclusion, a solid grasp of economic concepts such as GDP, business cycles, and economic indicators is indispensable for making informed investment decisions. By understanding the interconnectedness of these variables and continuously monitoring economic trends, investors can navigate the Canadian financial landscape with confidence and strategic foresight.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -115,7 +115,9 @@ For further exploration, consider the following resources:
 
 Equity sales and trading departments are integral to the functioning of financial markets, providing liquidity, executing trades, and offering advisory services to institutional clients. By understanding the roles of key personnel and the complexities of program trading, structured finance, and derivatives, finance professionals can better navigate the dynamic landscape of equity trading. As you continue to explore this field, consider how these principles and strategies can be applied to your own investment decisions and professional practices.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

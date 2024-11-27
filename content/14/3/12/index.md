@@ -89,7 +89,9 @@ Major Canadian banks, including RBC and TD, may also incorporate value investing
 
 Value managers play a vital role in identifying and capitalizing on undervalued investment opportunities. By employing fundamental analysis and focusing on stocks with lower valuation ratios and higher dividend yields, value managers aim to achieve long-term success. However, investors must be aware of the risks involved, including prolonged periods of market mispricing and industry-specific challenges. By understanding Canadian financial regulations and leveraging available resources, value managers can effectively navigate the complexities of the market and deliver value to their clients.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

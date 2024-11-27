@@ -91,7 +91,9 @@ Financial professionals may encounter situations where clients wish to execute u
 
 The Duty of Care is a vital aspect of financial services that ensures clients receive advice and recommendations that are in their best interests. By adhering to the principles of KYC and Due Diligence, financial professionals can build trust, manage risks, and deliver personalized financial solutions that meet the unique needs of their clients.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

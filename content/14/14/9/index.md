@@ -101,7 +101,9 @@ graph TD;
 
 Compliance is a critical component of the Canadian securities industry, ensuring that financial professionals operate within a framework that protects investors and maintains market integrity. By understanding and adhering to provincial laws and SRO regulations, professionals can avoid the severe consequences of non-compliance and foster a culture of trust and ethical behavior.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

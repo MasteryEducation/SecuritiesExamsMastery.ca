@@ -104,7 +104,9 @@ In another scenario, a major Canadian bank, such as RBC, might issue convertible
 
 Convertible bonds and debentures offer a unique blend of fixed-income security and equity potential, making them an attractive option for investors seeking diversification and growth opportunities. By understanding the mechanics of conversion, market behavior, and associated risks, investors can make informed decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

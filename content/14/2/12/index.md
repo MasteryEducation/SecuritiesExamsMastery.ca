@@ -96,7 +96,9 @@ These resources provide additional insights into the application and interpretat
 
 Operating performance ratios are indispensable tools for evaluating a company's efficiency and profitability. By mastering these ratios, investors and analysts can make informed decisions and gain a competitive edge in the financial markets. As you continue to explore the intricacies of financial analysis, remember to apply these principles to real-world scenarios, leveraging Canadian financial instruments and regulations to optimize your investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

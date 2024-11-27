@@ -128,7 +128,9 @@ Understanding government and corporate finance is crucial for navigating the fin
 
 For further exploration, consider reviewing resources such as the Bank of Canada's website for information on government securities auctions, or the Canadian Securities Administrators (CSA) for guidelines on public offerings and regulatory compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

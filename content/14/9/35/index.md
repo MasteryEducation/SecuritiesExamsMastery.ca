@@ -95,7 +95,9 @@ In Canada, alternative strategy funds are subject to specific regulations and gu
 
 Measuring the performance of alternative strategy funds requires a sophisticated approach that incorporates both risk and return. By leveraging a combination of performance measurement tools and adhering to Canadian regulatory guidelines, investors can make informed decisions and optimize their investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

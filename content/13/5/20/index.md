@@ -85,7 +85,9 @@ For further exploration, consider reviewing the following resources:
 - **Appreciation:** An increase in the value of a currency relative to another currency.
 - **Depreciation:** A decrease in the value of a currency relative to another currency.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

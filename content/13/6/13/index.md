@@ -78,7 +78,9 @@ Sinking funds and purchase funds are essential tools in the fixed-income landsca
 - **Corporate Bond Indentures**: Review the specific sinking fund provisions in bond indentures from Canadian corporations.
 - **Educational Materials**: Explore resources from financial institutions on debt repayment strategies and the role of sinking and purchase funds.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

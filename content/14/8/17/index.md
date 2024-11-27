@@ -93,7 +93,9 @@ For further exploration of the Minimum Investment Exemption and related topics, 
 
 Understanding and effectively utilizing the Minimum Investment Exemption can provide significant advantages in accessing alternative investments. Financial professionals should leverage this knowledge to enhance portfolio diversification and optimize investment strategies within the Canadian regulatory framework.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

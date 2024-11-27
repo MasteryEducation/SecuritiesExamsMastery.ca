@@ -111,7 +111,9 @@ In Canada, fixed-income securities are subject to regulations by the Canadian Se
 
 Fixed-income securities play a vital role in the Canadian financial market, offering stability and predictable returns to investors. By understanding the various types of fixed-income securities, their features, and the relationship between issuers and investors, individuals can make informed investment decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

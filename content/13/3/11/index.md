@@ -84,7 +84,9 @@ For further exploration of the MFDA IPC and related topics, consider the followi
 
 The MFDA IPC is a vital component of Canada's financial regulatory framework, providing essential protection to mutual fund investors. By understanding the coverage and limitations of the MFDA IPC, investors can make informed decisions and safeguard their investments. Coordination with Quebec's CSF further enhances the protection available to investors across Canada. By following best practices and staying informed, investors can navigate the mutual fund market with confidence.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

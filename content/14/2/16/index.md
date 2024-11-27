@@ -101,7 +101,9 @@ graph TD;
 
 Cash flow analysis is an essential tool for assessing a company's financial health and operational efficiency. By understanding cash flow from operating activities and the Cash Flow-to-Total Debt Ratio, investors and analysts can make informed decisions about a company's ability to meet its obligations and finance growth. Regular monitoring and analysis of cash flow statements are crucial for identifying trends and potential risks, ensuring long-term financial stability.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

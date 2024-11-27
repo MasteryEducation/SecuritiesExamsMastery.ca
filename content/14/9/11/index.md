@@ -162,7 +162,9 @@ Banks like RBC and TD employ these metrics to assess their mutual fund offerings
 
 Risk-adjusted return measures are invaluable tools for evaluating the performance of investments, particularly in the context of alternative investments. By understanding and applying these metrics, investors can make more informed decisions, aligning their portfolios with their risk tolerance and financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

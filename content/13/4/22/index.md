@@ -107,7 +107,9 @@ Understanding the exchange rate dynamics of the Canadian dollar is essential for
 - **Books:** *"Currency Wars"* by James Rickards
 - **Online Resources:** [Canadian Dollar Exchange Rate](https://www.bankofcanada.ca/rates/exchange/dollar-exchange-rates/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

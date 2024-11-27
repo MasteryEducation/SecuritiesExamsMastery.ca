@@ -86,7 +86,9 @@ For further reading, consider exploring the following resources:
 - [Bank of Canada - Open Market Operations](https://www.bankofcanada.ca/rates/interest-rates/bank-details/monetary-policy-tools/open-market-operations/)
 - [Understanding SPRAs vs. SRAs](https://www.bankofcanada.ca/rates/interest-rates/bank-details/monetary-policy-tools/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -95,7 +95,9 @@ For those seeking to deepen their understanding of the Accredited Investor Exemp
 
 Understanding the Accredited Investor Exemption is essential for those looking to leverage alternative investment opportunities in Canada. By meeting the criteria and adhering to best practices, investors can access a wider range of investment options while managing risk effectively. Continuous learning and staying informed about regulatory changes are crucial for success in this dynamic field.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

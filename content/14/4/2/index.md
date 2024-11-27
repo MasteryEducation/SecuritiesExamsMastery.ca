@@ -141,7 +141,9 @@ Determining investment objectives and constraints is a critical step in the port
 - **Legal and Regulatory Constraints:** Restrictions imposed by laws and regulations that affect investment choices.
 - **Unique Circumstances:** Specific client preferences or situations, such as ethical investing or family considerations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

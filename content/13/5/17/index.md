@@ -102,7 +102,9 @@ For further exploration, consider the following resources:
 - [Bank of Canada on International Finance](https://www.bankofcanada.ca/core-functions/monetary-policy/international-finance/)
 - [Understanding Exchange Rates](https://www.investopedia.com/terms/e/exchangerate.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

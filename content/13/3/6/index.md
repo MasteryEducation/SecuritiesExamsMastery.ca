@@ -94,7 +94,9 @@ These resources provide valuable insights into IIROC's operations and its role i
 
 IIROC's comprehensive regulatory framework plays a vital role in ensuring the integrity and stability of the Canadian financial markets. By overseeing investment dealers and trading activities, IIROC protects investors and fosters confidence in the market. Understanding IIROC's functions and standards is essential for finance professionals operating in Canada, as it enables them to navigate the regulatory landscape effectively and uphold the highest standards of practice.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

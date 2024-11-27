@@ -93,7 +93,9 @@ For further reading on exchange rate determinants, consider the following resour
 - [Factors Affecting Exchange Rates](https://www.investopedia.com/terms/e/exchangerate.asp)
 - [Bank of Canada - Exchange Rate Determinants](https://www.bankofcanada.ca/core-functions/monetary-policy/exchange-rate/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

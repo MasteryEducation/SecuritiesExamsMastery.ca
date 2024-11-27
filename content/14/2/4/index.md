@@ -89,7 +89,9 @@ These resources provide comprehensive insights into financial analysis technique
 
 Analyzing a company's Statement of Comprehensive Income is essential for understanding its financial performance and investment potential. By focusing on revenue growth and profitability metrics, investors can make informed decisions and identify opportunities for growth within the Canadian market. As you continue to explore financial analysis, remember to apply these principles to your own investment strategies and business practices.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

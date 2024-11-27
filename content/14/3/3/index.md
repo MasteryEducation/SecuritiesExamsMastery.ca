@@ -115,7 +115,9 @@ For those interested in deepening their understanding of risk and return, consid
 
 Understanding the relationship between risk and return is essential for making informed investment decisions. By balancing risk tolerance with expected returns and considering one's risk profile, investors can construct portfolios that align with their financial goals. Through diversification and regular portfolio reviews, investors can navigate the complexities of the financial markets and optimize their investment outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

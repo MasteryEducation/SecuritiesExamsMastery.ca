@@ -83,7 +83,9 @@ The challenges of government policy in the realm of fiscal and monetary manageme
 
 For further exploration, readers are encouraged to consult resources such as [Challenges in Fiscal Policy](https://www.investopedia.com/terms/f/fiscal-policy.asp) and the [Bank of Canada on Policy Challenges](https://www.bankofcanada.ca/core-functions/monetary-policy/).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

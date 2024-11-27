@@ -99,7 +99,9 @@ These resources provide comprehensive information on OSFI's guidelines, standard
 
 The Office of the Superintendent of Financial Institutions (OSFI) is a cornerstone of Canada's financial regulatory environment. By supervising and regulating banks, insurance companies, pension plans, and other financial institutions, OSFI ensures the stability and integrity of the financial system. Through its regulatory framework, supervision practices, and collaborative efforts, OSFI plays a vital role in safeguarding the interests of depositors, policyholders, and pension plan members.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -130,7 +130,9 @@ Volatility refers to the degree of variation of a trading price series over time
 
 By understanding these key terms and concepts, Canadian investors can better navigate the complex landscape of alternative investments, making informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

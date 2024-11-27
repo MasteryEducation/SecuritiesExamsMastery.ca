@@ -151,7 +151,9 @@ To deepen your understanding of financial ratios, consider exploring the followi
 
 Analyzing financial ratios is a dynamic process that requires continuous learning and adaptation to changing market conditions. By mastering these ratios and their applications, you can enhance your investment decision-making and achieve better financial outcomes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -115,7 +115,9 @@ Managing investor relations effectively is a critical aspect of financial manage
 - **Investor Relations:** The communication process between a company and its investors.
 - **Market Feedback:** Information received from the market that can influence a company’s strategies and operations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

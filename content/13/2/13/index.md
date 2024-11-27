@@ -108,7 +108,9 @@ For further exploration, consider the following resources:
 
 Understanding the primary and secondary markets is essential for navigating the financial landscape. These markets play a pivotal role in capital formation and investment, providing opportunities for issuers and investors alike. By grasping the processes, roles, and regulations involved, you can make informed decisions and effectively participate in the Canadian financial system.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

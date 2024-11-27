@@ -113,7 +113,9 @@ Canadian investors should be aware of the regulatory environment governing these
 
 Directional strategies offer a dynamic approach to investing, allowing investors to capitalize on market trends and inefficiencies. By understanding and applying these strategies, Canadian investors can enhance their portfolios and potentially achieve higher returns. However, it's crucial to remain vigilant and informed about market conditions and regulatory changes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

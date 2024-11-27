@@ -101,7 +101,9 @@ These resources provide valuable insights into the intricacies of fiscal policy 
 
 Fiscal policy is a powerful tool for managing economic performance. By understanding its components and impacts, financial professionals can better anticipate economic trends and make informed decisions. As you continue to explore fiscal policy, consider how these principles apply to your own financial planning and investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

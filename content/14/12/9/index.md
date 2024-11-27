@@ -128,7 +128,9 @@ Registered Retirement Income Funds (RRIFs) play a pivotal role in Canadian retir
 
 ---
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

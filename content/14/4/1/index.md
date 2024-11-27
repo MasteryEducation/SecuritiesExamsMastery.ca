@@ -123,7 +123,9 @@ For further exploration of portfolio management concepts and practices, consider
 
 By understanding and applying the principles outlined in this chapter, financial professionals can effectively manage portfolios to meet the diverse needs of their clients, ensuring alignment with their investment objectives and constraints.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

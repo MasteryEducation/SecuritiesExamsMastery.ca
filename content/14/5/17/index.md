@@ -77,7 +77,9 @@ These resources provide valuable insights into the regulatory framework and prac
 
 Relationship disclosure information is a vital component of mutual fund sales, ensuring clients are well-informed about their relationship with financial advisors. By providing clear and comprehensive RDI, dealers can enhance transparency, build trust, and foster long-term client relationships. As the financial landscape continues to evolve, staying informed about regulatory requirements and best practices is essential for maintaining compliance and delivering exceptional client service.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -99,7 +99,9 @@ Active managers in Canada must adhere to regulations set by the Canadian Investm
 
 Active investment management requires a deep understanding of financial markets, analytical skills, and strategic foresight. By applying the principles and strategies discussed, readers can enhance their investment portfolios and achieve superior returns. Consider analyzing your current portfolio's asset allocation and explore how active management strategies could improve performance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

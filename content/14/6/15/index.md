@@ -89,7 +89,9 @@ These resources provide additional insights into the mechanics of mutual fund re
 
 The redemption of mutual fund units or shares is a fundamental process that provides investors with liquidity and flexibility. By understanding the steps involved and the key concepts, investors can make informed decisions that align with their financial goals. As you continue to explore the world of mutual funds, consider how the right of redemption can be leveraged to enhance your investment strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

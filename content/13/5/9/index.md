@@ -91,7 +91,9 @@ For further reading, explore the following resources:
 - [Bank of Canada - Drawdowns and Redeposits](https://www.bankofcanada.ca/rates/interest-rates/bank-details/monetary-policy-tools/drawdowns-redeposits/)
 - [Impact on Money Supply](https://www.bankofcanada.ca/education/monetary-policy/money-supply/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

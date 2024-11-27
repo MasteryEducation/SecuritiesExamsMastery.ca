@@ -104,7 +104,9 @@ For those interested in further exploring single-mandate SMAs, consider the foll
 
 Single-mandate SMAs offer a focused and sophisticated approach to investment management, providing access to expert portfolio managers and opportunities for tax efficiency. While they present certain challenges, particularly in managing multiple mandates, the benefits of customization and control make them a valuable tool for Canadian investors seeking tailored investment solutions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

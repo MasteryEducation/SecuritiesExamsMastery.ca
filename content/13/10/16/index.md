@@ -125,7 +125,9 @@ graph TD;
 
 The regulatory environment for derivatives in Canada is designed to ensure market transparency, fairness, and protection against systemic risks. By understanding the key regulatory bodies and the regulations in place, market participants can navigate the complex landscape effectively and contribute to the stability and integrity of the Canadian financial system.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -125,7 +125,9 @@ For further exploration of these topics, consider the following resources:
 
 Understanding and effectively utilizing tax deferral and tax-free plans is essential for maximizing your investment strategy in Canada. By leveraging the benefits of RRSPs, RPPs, and TFSAs, you can optimize your savings, reduce your tax burden, and achieve your financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -93,7 +93,9 @@ For further exploration, consider the following resources:
 
 Understanding the types of sell-side firms and their roles in the Canadian financial markets is crucial for professionals navigating the securities industry. Each type of firm offers unique services and competes based on its strengths, whether it's the comprehensive offerings of full-service dealers, the specialized expertise of investment banking boutiques, or the cost-effective solutions of self-directed dealers. By leveraging these insights, financial professionals can better serve their clients and make informed decisions in their careers.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -86,7 +86,9 @@ By applying these analytical techniques, you can develop a comprehensive underst
 - [Practice Questions on Financial Ratios](https://www.proprofs.com/quiz-school/story.php?title=finance-ratios-quiz)
 - Book: *Financial Statement Analysis and Security Valuation* by Stephen Penman
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -120,7 +120,9 @@ Consider analyzing a major Canadian bank like TD Bank. Begin by reviewing its fi
 
 Performing a comprehensive company analysis is essential for making informed investment decisions and understanding a company's financial health. By following the steps outlined in this guide, finance professionals can gain valuable insights into a company's performance and position within the market. Encourage continuous learning and application of these principles to enhance your analytical skills and investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

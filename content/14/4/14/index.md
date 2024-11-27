@@ -115,7 +115,9 @@ Monitoring portfolio changes and adjustments is a critical component of effectiv
 - **Books:** "The Intelligent Investor" by Benjamin Graham, "A Random Walk Down Wall Street" by Burton Malkiel
 - **Online Courses:** Coursera's "Investment Management" Specialization, edX's "Introduction to Investments"
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

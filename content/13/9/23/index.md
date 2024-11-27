@@ -111,7 +111,9 @@ An **investment strategy** is a plan designed to achieve a long-term investment 
 
 These resources provide further insights into the terminology and concepts discussed in this glossary, offering valuable information for those seeking to deepen their understanding of equity transactions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

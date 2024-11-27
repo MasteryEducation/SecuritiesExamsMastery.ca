@@ -99,7 +99,9 @@ Investors can adopt several strategies to mitigate the impact of inflation:
 
 Inflation is a multifaceted economic force that influences investor confidence, interest rates, corporate profits, and stock valuations. By understanding these dynamics and employing strategic investment approaches, investors can navigate inflationary environments effectively. As the Canadian financial landscape evolves, staying informed about inflation trends and their implications remains crucial for achieving long-term financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

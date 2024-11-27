@@ -92,7 +92,9 @@ These resources provide comprehensive insights into the mechanics and strategies
 
 Understanding ABCP and MBS is essential for navigating the complexities of the Canadian financial market. By recognizing the structures, risks, and regulatory frameworks, investors can make informed decisions and effectively manage their portfolios. As the financial landscape evolves, continuous learning and adaptation remain key to success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

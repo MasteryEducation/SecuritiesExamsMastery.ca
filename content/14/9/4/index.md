@@ -81,7 +81,9 @@ Investors in Canada must adhere to specific regulations and guidelines when impl
 
 Relative value strategies offer a compelling approach for investors seeking to exploit pricing inefficiencies in the Canadian financial markets. By focusing on the relative performance of securities, these strategies provide an opportunity for risk-adjusted returns that are independent of market direction. However, successful implementation requires a deep understanding of market dynamics, rigorous research, and effective risk management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

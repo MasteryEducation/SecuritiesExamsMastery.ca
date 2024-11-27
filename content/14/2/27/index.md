@@ -104,7 +104,9 @@ Interpreting financial statements can be challenging, and several common pitfall
 - [Investopedia FAQs](https://www.investopedia.com/faq_ceo.aspx)
 - Online Forum: [Reddit r/FinancialCareers](https://www.reddit.com/r/FinancialCareers/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

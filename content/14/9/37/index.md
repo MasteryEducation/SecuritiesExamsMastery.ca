@@ -175,7 +175,9 @@ To further explore these concepts and enhance your understanding of alternative 
 
 These resources provide valuable insights into the terminology and strategies used in the field of alternative investments, offering a deeper understanding of the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

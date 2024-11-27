@@ -65,7 +65,9 @@ Taxation is a dynamic field, with regulations and strategies evolving over time.
 
 As you move forward, consider how these tax principles can be applied to your own financial planning or client portfolios. Reflect on the strategies discussed and explore additional resources to deepen your understanding. Remember, effective tax planning is a cornerstone of successful investment management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

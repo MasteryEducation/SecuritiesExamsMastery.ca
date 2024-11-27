@@ -79,7 +79,9 @@ These resources offer valuable insights into the principles of accounting and th
 
 Interpreting financial statements is both an art and a science. By understanding the flexibility in accounting practices and recognizing potential manipulations, you can make more informed investment decisions. Always approach financial statements with a critical eye, and use the notes to uncover hidden details that might impact your analysis. By applying these principles, you'll be better equipped to navigate the complexities of the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

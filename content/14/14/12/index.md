@@ -96,7 +96,9 @@ Embodying these values is crucial in every aspect of client interaction. It not 
 - **Book:** *Ethical Standards in Financial Services* by Robert J. Morgan
 - **Online Course:** [Ethics and Compliance in Finance](https://www.edx.org/course/ethics-and-compliance)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

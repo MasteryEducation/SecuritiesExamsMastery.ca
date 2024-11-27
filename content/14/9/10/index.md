@@ -102,7 +102,9 @@ When assessing risk measures, consider the following best practices and challeng
 
 By applying these best practices, investors can effectively manage risk and optimize their portfolios for success in the Canadian market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

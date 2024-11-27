@@ -103,7 +103,9 @@ To illustrate the interplay of these determinants, consider the Canadian dollar'
 
 Understanding the determinants of exchange rates is essential for financial professionals, particularly in a globalized economy. By analyzing factors such as commodity prices, inflation, and political stability, one can gain insights into currency movements and make informed investment decisions. As you continue to explore the world of finance, consider how these determinants interact and influence the Canadian dollar and other currencies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

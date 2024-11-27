@@ -120,7 +120,9 @@ For further exploration of ETFs and their regulation, consider the following res
 
 Understanding the regulation and structure of ETFs in Canada is crucial for investors and financial professionals. By adhering to the guidelines set out in National Instruments 81-102 and 81-104, and leveraging the oversight of bodies like the MFDA and IIROC, investors can confidently incorporate ETFs into their portfolios. As the ETF market continues to evolve, staying informed about regulatory changes and best practices will be key to successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

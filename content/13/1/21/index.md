@@ -91,7 +91,9 @@ Household debt levels in Canada are a complex issue with significant implication
 
 For further exploration, consider reading "The Impact of Rising Household Debt in Canada" on [Financial Post](https://financialpost.com/) and the book *"Debt and Morality"* by André Gorz.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

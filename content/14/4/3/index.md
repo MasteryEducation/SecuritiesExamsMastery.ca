@@ -79,7 +79,9 @@ Consider a Canadian pension fund that aims to provide stable, long-term returns 
 
 Designing an Investment Policy Statement is a fundamental step in the portfolio management process, providing a structured approach to achieving a client's investment goals. By clearly defining the investment strategy, objectives, and constraints, the IPS serves as a valuable tool for aligning the expectations of the client and the portfolio manager. As the financial landscape evolves, the IPS remains a dynamic document, guiding the portfolio's adaptation to changing circumstances and ensuring that it continues to meet the client's needs.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

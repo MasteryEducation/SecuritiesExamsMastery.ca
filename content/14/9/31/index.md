@@ -92,7 +92,9 @@ Benchmarking alternative investments is essential for evaluating fund performanc
 - **Books**: "Performance Measurement and Attribution" by Robert Higgins
 - **Online Courses**: Consider exploring courses on financial analysis and investment strategies offered by Canadian universities and financial institutions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

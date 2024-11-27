@@ -114,7 +114,9 @@ For further exploration of these topics, consider the following resources:
 
 Understanding liquidity, negotiability, and marketability is essential for navigating the fixed-income market effectively. By considering these factors, investors can make informed decisions that align with their financial goals and risk tolerance. As you continue to explore the Canadian financial landscape, apply these principles to optimize your bond investment strategies.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -87,7 +87,9 @@ For detailed definitions and updates on GICS sectors and industries, refer to th
 
 Understanding how industries are classified by product or service is essential for effective investment analysis and decision-making. The Global Industry Classification Standard (GICS) provides a robust framework for categorizing companies, enabling investors to conduct detailed sector and industry analysis. By leveraging GICS, financial professionals can enhance their investment strategies, optimize portfolio diversification, and gain deeper insights into market dynamics.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

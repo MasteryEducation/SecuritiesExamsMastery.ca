@@ -106,7 +106,9 @@ For further exploration, consider reviewing the following resources:
 - [Canadian Securities Administrators Overview](https://www.securities-administrators.ca/aboutcsa.aspx)
 - [Investment Industry Regulatory Organization of Canada (IIROC) Overview](https://www.iiroc.ca/about-iiroc)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

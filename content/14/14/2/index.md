@@ -105,7 +105,9 @@ The financial planning approach is a comprehensive process that goes beyond inve
 - Book: *Financial Planning for Dummies* by Eric Tyson
 - Online Course: [Financial Planning Foundations](https://www.coursera.org/learn/financial-planning)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

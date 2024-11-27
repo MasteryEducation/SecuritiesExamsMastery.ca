@@ -93,7 +93,9 @@ Integrity is an indispensable element of financial advising, ensuring that advis
 - [CIOB - Code of Ethics](https://www.ciob.org/about-us/code-of-ethics)
 - Book: *Ethical Decisions in Business* by Mary Ann Tobey
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

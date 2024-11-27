@@ -104,7 +104,9 @@ graph LR
 
 Value ratios like the P/E ratio and DDM are powerful tools for assessing the market valuation of a company's shares. By understanding and applying these ratios, investors can make informed decisions, compare companies effectively, and identify potential investment opportunities in the Canadian market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

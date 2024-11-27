@@ -97,7 +97,9 @@ In Canada, proxy statements and voting trusts are subject to regulations by the 
 
 Proxy statements and voting trusts are integral components of corporate governance, providing mechanisms for informed shareholder participation and strategic control of corporate decisions. By understanding these tools, finance professionals can better navigate the complexities of corporate governance and contribute to effective decision-making processes.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

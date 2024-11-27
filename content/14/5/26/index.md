@@ -78,7 +78,9 @@ For further exploration of mutual funds and their regulation in Canada, consider
 
 These resources provide valuable insights and practice opportunities to deepen your understanding of mutual funds and their regulatory environment.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

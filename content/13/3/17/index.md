@@ -94,7 +94,9 @@ Disclosure requirements are a fundamental aspect of the Canadian securities fram
 
 For further exploration, consider reviewing additional resources such as official Canadian financial regulations and frameworks. Continuous learning and adherence to best practices will empower you to navigate the complexities of the Canadian securities market effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

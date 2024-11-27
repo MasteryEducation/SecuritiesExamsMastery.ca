@@ -98,7 +98,9 @@ For those seeking to deepen their understanding of bond markets and strategies, 
 
 The term to maturity is a pivotal concept in fixed-income investing, influencing the risk and return dynamics of bond portfolios. By understanding and strategically managing term to maturity, investors can effectively navigate interest rate risks and align their portfolios with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

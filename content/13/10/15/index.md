@@ -109,7 +109,9 @@ Derivatives are indispensable tools in modern financial risk management. By unde
 
 For further exploration, consider resources such as the "Canadian Securities Course" offered by the Canadian Securities Institute (CSI) and the "Derivatives Fundamentals Course" by the Global Risk Institute.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

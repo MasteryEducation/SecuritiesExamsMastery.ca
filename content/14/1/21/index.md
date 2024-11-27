@@ -85,7 +85,9 @@ By integrating both analyses, an investor can gain a comprehensive understanding
 
 Incorporating both technical and fundamental analysis into your investment strategy can provide a more comprehensive view of the market, helping you make informed decisions. By understanding the strengths and limitations of each method, investors can better navigate the complexities of the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

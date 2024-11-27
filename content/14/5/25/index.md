@@ -103,7 +103,9 @@ For those seeking to deepen their understanding of mutual funds and investment s
 
 These resources provide valuable insights into the nuances of mutual fund investing and the regulatory landscape in Canada.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

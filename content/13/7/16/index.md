@@ -86,7 +86,9 @@ For those interested in exploring this topic further, consider the following res
 
 These resources provide additional insights into the mechanics of coupon rates and their impact on bond pricing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

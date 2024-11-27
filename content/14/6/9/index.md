@@ -95,7 +95,9 @@ Specialty funds offer a compelling opportunity for investors seeking to capitali
 - Article: [What Are Specialty Funds?](https://www.investopedia.com/terms/s/specialtyfund.asp)
 - Book: *Specialty Equity Funds: Understanding Sector Specific Investments* by Richard A. Ferri
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

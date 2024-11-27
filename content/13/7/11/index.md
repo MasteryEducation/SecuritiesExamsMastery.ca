@@ -114,7 +114,9 @@ For those interested in delving deeper into the Liquidity Preference Theory and 
 
 The Liquidity Preference Theory is a vital concept for understanding the dynamics of interest rates and yield curves in the Canadian financial market. By recognizing the role of liquidity premiums, investors can make more informed decisions about bond investments and interest rate risk management. As you continue to explore fixed-income securities, consider how liquidity preferences influence your investment strategies and regulatory compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -88,7 +88,9 @@ For those interested in exploring reinvestment strategies further, the [Bank of 
 
 Reinvestment risk is an inherent aspect of fixed-income investing, particularly in the context of bonds. By understanding its implications and employing strategic measures, investors can mitigate its impact and optimize their portfolios for varying interest rate environments. As the Canadian financial landscape continues to evolve, staying informed and adaptable remains crucial for achieving long-term investment success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

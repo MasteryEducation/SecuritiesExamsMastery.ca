@@ -101,7 +101,9 @@ These resources provide additional insights into the mechanics and strategic con
 
 Market orders are a fundamental tool in the trader's arsenal, offering execution certainty and speed. By understanding their mechanics, optimal usage scenarios, and potential pitfalls, investors can effectively incorporate market orders into their trading strategies, particularly within the Canadian financial markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

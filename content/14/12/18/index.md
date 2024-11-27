@@ -75,7 +75,9 @@ For further exploration of family loans and tax strategies, consider the followi
 
 These resources provide deeper insights into structuring family loans and navigating Canadian tax regulations effectively.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

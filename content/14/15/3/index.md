@@ -106,7 +106,9 @@ For further exploration, consider the following resources:
 
 Understanding the roles and functions of the sell side and buy side is fundamental for anyone involved in the financial markets. By grasping the distinctions between these two sides, financial professionals can better navigate the complexities of the industry and make informed decisions. Whether you are working with mutual funds, pension funds, or other investment vehicles, recognizing the interplay between the sell side and buy side will enhance your ability to succeed in the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

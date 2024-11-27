@@ -102,7 +102,9 @@ graph TD;
 
 Inflation is a multifaceted economic force with significant implications for consumers, businesses, investors, and governments. By understanding its effects and incorporating inflation considerations into investment strategies, financial professionals can better navigate the challenges and opportunities presented by inflation. As you continue to explore the Canadian financial landscape, consider how inflation impacts your financial planning and investment decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -114,7 +114,9 @@ For further exploration of the discount rate and its implications in bond pricin
 
 Understanding the discount rate and its impact on bond pricing is essential for making informed investment decisions. By applying these principles, investors can better navigate the complexities of the Canadian financial market, optimize their portfolios, and achieve their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -108,7 +108,9 @@ Direct and foreign bond issuances offer unique opportunities and challenges for 
 - **Online Courses**: "Global Financial Markets and Instruments" on Coursera
 - **Regulatory Bodies**: Canadian Securities Administrators (CSA), International Organization of Securities Commissions (IOSCO)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

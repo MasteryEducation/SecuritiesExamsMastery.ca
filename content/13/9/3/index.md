@@ -101,7 +101,9 @@ An investor with a margin account decides to buy 200 shares of a Canadian bank a
 - [IIROC Margin Rules](https://www.iiroc.ca/regulation/margin-inv)
 - Book Chapter: *"Brokerage Accounts Explained"* in *"The Intelligent Investor"* by Benjamin Graham.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

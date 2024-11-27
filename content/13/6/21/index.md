@@ -237,7 +237,9 @@ To deepen your understanding of fixed-income securities, consider exploring the 
 - **Canadian Securities Administrators (CSA):** Offers comprehensive guides on investing in bonds and fixed-income products, including regulatory insights.
 - **Additional Reading:** "Fixed Income Markets and Their Derivatives" by Suresh M. Sundaresan provides an in-depth look at the mechanics and strategies of fixed-income markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

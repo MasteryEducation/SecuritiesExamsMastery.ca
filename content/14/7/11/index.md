@@ -105,7 +105,9 @@ For those interested in exploring tracking error and ETF performance further, co
 
 Understanding and managing tracking error is vital for investors seeking to optimize their ETF investments. By considering factors such as fees, trading costs, and sampling methods, and by leveraging processes like in-kind exchanges, investors can minimize tracking error and enhance their portfolio's performance. As you continue to explore the world of ETFs, remember to apply these insights to your investment strategies and stay informed about the latest developments in the Canadian financial markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

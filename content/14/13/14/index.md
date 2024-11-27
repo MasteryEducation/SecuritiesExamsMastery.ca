@@ -114,7 +114,9 @@ graph TD;
 
 Private Family Offices represent the pinnacle of personalized wealth management, offering a comprehensive suite of services tailored to the unique needs of ultra-high-net-worth families. By centralizing professional services and developing tailored financial strategies, PFOs provide families with the tools they need to preserve and grow their wealth across generations. As the financial landscape continues to evolve, the role of PFOs will remain crucial in helping families navigate the complexities of wealth management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

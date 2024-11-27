@@ -105,7 +105,9 @@ For further exploration, consider the following resources:
 
 Preferred shares offer a unique blend of features that can enhance an investment portfolio, particularly for those seeking income and a degree of safety. By understanding their characteristics, benefits, and risks, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

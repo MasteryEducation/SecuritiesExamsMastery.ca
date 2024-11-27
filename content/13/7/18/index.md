@@ -98,7 +98,9 @@ In Canada, understanding duration is essential for compliance with regulatory fr
 
 Duration is a fundamental concept in bond investing, offering a measure of price sensitivity to interest rate changes. By understanding and applying duration, Canadian investors can effectively manage interest rate risk, optimize their portfolios, and achieve their financial objectives. As you explore the intricacies of fixed-income securities, consider how duration can enhance your investment strategies and align with your risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

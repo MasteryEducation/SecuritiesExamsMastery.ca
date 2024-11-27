@@ -127,7 +127,9 @@ To reinforce understanding, engage in interactive online learning activities. Th
 - Recommended Book: *"Trading for a Living"* by Dr. Alexander Elder.
 - Online Course: [Investing Basics on Coursera](https://www.coursera.org/courses?query=investing%20basics)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

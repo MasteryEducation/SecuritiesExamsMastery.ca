@@ -130,7 +130,9 @@ For further exploration of provincial and municipal government securities, consi
 
 Provincial and municipal government securities offer investors a range of opportunities to support public sector projects while diversifying their portfolios. By understanding the features, credit quality considerations, and unique characteristics of these securities, investors can make informed decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

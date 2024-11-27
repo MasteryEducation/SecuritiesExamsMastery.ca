@@ -108,7 +108,9 @@ Dividends are a vital component of shareholder value and investment strategy. Un
 
 For further exploration, consider reviewing additional resources and engaging with financial tools that provide insights into dividend strategies and tax planning.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

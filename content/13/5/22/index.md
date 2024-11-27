@@ -106,7 +106,9 @@ graph TD;
 
 Inflation is a complex phenomenon with wide-ranging effects on consumers, businesses, and investors. By understanding its impact on purchasing power, interest rates, and economic stability, individuals and organizations can make informed financial decisions. Employing strategies to mitigate inflation risk, such as diversification and inflation-linked investments, is crucial for preserving wealth and achieving long-term financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

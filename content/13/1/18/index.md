@@ -96,7 +96,9 @@ For those interested in exploring robo-advisors further, consider the following 
 
 Robo-advisors represent a significant shift in the investment management industry, offering a blend of technology and finance that caters to the evolving needs of investors. As they continue to gain traction in Canada, understanding their functionalities, benefits, and limitations is essential for making informed investment decisions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

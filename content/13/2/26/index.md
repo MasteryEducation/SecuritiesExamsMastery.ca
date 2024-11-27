@@ -89,7 +89,9 @@ For those seeking to deepen their understanding, consider revisiting sections of
 
 Understanding capital markets is essential for anyone involved in finance or investment. By grasping the role of investment capital, the types of financial instruments, and the operations of financial markets, individuals can make informed decisions that align with their financial goals. As the economic landscape evolves, staying informed and adaptable is key to successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

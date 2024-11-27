@@ -111,7 +111,9 @@ These resources provide additional insights and tools for calculating and unders
 
 Yield to Maturity is a vital metric for bond investors, offering a comprehensive view of potential returns. By understanding how to calculate and interpret YTM, investors can make more informed decisions, optimize their portfolios, and better navigate the Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

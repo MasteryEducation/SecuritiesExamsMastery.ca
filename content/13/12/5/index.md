@@ -129,7 +129,9 @@ Alternative methods of distributing securities offer flexibility and opportuniti
 - **TSX Venture Exchange:** [TSX Venture](https://www.tsx.com/)
 - **National Crowdfunding & Fintech Association of Canada:** [NCFA Canada](https://ncfacanada.org/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

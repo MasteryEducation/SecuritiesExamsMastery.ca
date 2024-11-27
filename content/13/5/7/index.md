@@ -79,7 +79,9 @@ The Bank of Canada's use of the overnight rate is a powerful tool for managing t
 
 For further reading, refer to the [Bank of Canada - Overnight Rate](https://www.bankofcanada.ca/rates/interest-rates/overnight-rate/) and the [Impact of Interest Rate Changes](https://www.bankofcanada.ca/education/impact-interest-rates/).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

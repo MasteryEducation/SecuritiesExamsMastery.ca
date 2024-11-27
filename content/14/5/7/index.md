@@ -102,7 +102,9 @@ For further exploration of mutual fund structures and their tax implications, co
 
 Understanding the differences between unincorporated open-end trusts and corporations is essential for financial professionals and investors navigating the Canadian mutual fund landscape. By leveraging the unique benefits of each structure, investors can optimize their portfolios, enhance tax efficiency, and achieve their financial objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

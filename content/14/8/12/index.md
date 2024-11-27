@@ -100,7 +100,9 @@ For further exploration, consider the following resources:
 
 Understanding investment risk is fundamental to successful investing. By exploring measures like volatility and drawdown, investors can better navigate the complexities of both traditional and alternative investments. Armed with this knowledge, you can make informed decisions that align with your financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -107,7 +107,9 @@ For further exploration of chartered banks and their role in the Canadian financ
 
 Chartered banks are integral to the Canadian economy, providing essential financial services and supporting economic growth. Understanding their classifications, regulatory framework, and best practices is crucial for anyone involved in the Canadian securities industry. By leveraging their strengths and addressing challenges, chartered banks can continue to thrive in an ever-evolving financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

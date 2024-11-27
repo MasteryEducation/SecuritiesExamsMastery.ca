@@ -89,7 +89,9 @@ For further exploration, consider visiting [Canadian Business on Mergers and Acq
 
 Event-driven strategies offer exciting opportunities for investors willing to navigate the complexities of corporate events. By understanding the mechanics, risks, and rewards, and by staying informed about Canadian regulations, investors can effectively implement these strategies in their portfolios.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

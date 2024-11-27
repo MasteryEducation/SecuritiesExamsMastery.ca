@@ -97,7 +97,9 @@ Understanding the causes of inflation is crucial for navigating the complexities
 
 For further reading, consider "Principles of Economics" by N. Gregory Mankiw and explore articles such as [Types of Inflation: Demand-Pull and Cost-Push](https://www.investopedia.com/terms/i/inflation.asp).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

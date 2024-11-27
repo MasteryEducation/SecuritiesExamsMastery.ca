@@ -144,7 +144,9 @@ For further exploration of these topics, consider the following resources:
   - Canadian Investment Regulatory Organization (CIRO) website for UMIR guidelines
   - Toronto Stock Exchange (TSX) resources for market maker roles and responsibilities
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

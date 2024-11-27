@@ -97,7 +97,9 @@ For those interested in deepening their understanding of target-date funds, cons
 
 Target-date funds offer a strategic and convenient approach to retirement planning, allowing investors to benefit from professional management and automatic asset allocation adjustments. By understanding the structure and glide path of these funds, Canadian investors can make informed decisions that align with their retirement goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

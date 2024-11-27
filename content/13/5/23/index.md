@@ -105,7 +105,9 @@ For further reading, explore the following resources:
 - [Types of Inflation: Demand-Pull and Cost-Push](https://www.bankofcanada.ca/education/inflation/)
 - [Government Policies and Inflation](https://www.investopedia.com/terms/i/inflation.asp)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

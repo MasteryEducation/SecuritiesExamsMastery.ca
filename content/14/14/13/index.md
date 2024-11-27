@@ -117,7 +117,9 @@ These case studies illustrate the complex ethical dilemmas financial advisors fa
 - Book: *Case Studies in Financial Ethics* by Gerald L. Epstein
 - Article: [Ethical Dilemmas in Financial Advising](https://www.financialadvisor.com/articles/ethical-dilemmas-in-financial-advising)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

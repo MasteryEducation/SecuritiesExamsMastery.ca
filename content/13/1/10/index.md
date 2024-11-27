@@ -107,7 +107,9 @@ Financial intermediaries other than investment dealers play a crucial role in th
 
 For further exploration, consider reading "Types of Financial Institutions in Canada" on [The Balance](https://www.thebalance.com/types-of-financial-institutions-5183033).
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

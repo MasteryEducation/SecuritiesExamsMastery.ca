@@ -98,7 +98,9 @@ These resources provide deeper insights into ETF investing and the regulatory fr
 
 Understanding the general disclosure requirements for ETFs is essential for both investors and financial professionals. By familiarizing themselves with the ETF Facts document and the amendments to NI 41-101, investors can make informed decisions that align with their financial goals and risk tolerance. As the ETF market continues to evolve, staying informed about regulatory changes and best practices will be crucial for successful investing.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

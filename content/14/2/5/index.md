@@ -96,7 +96,9 @@ Consider a Canadian pension fund investing in a diversified portfolio of equitie
 
 Analyzing a company's statement of financial position is essential for understanding its financial health and making informed investment decisions. By evaluating capital structure, leverage, and asset-liability management, investors can gain valuable insights into a company's risk profile and growth potential. As you continue to explore financial analysis, consider how these principles apply to your own investment strategies and financial planning.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

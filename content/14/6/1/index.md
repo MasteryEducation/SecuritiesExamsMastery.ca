@@ -116,7 +116,9 @@ graph TD;
 
 Understanding mutual funds' types, features, and management strategies is crucial for making informed investment decisions. By considering risk characteristics, tax implications, and performance metrics, investors can align their mutual fund choices with their financial goals. This chapter equips you with the knowledge to navigate the mutual fund landscape effectively, leveraging Canadian financial instruments and regulations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

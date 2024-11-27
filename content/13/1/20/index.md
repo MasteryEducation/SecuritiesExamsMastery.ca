@@ -91,7 +91,9 @@ For further exploration of savings rates and financial planning in Canada, consi
 
 Understanding and improving savings rates is crucial for the financial well-being of Canadians. By leveraging registered accounts, automating savings, and increasing financial literacy, individuals can enhance their financial security and prepare for future challenges. As the economic landscape evolves, staying informed and proactive about savings strategies will remain essential.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

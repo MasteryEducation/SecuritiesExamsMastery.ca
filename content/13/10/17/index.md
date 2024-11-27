@@ -110,7 +110,9 @@ Derivative instruments offer diverse opportunities for investors and businesses 
 
 - **Derivative Instrument:** A contract whose value is derived from the performance of an underlying entity.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -90,7 +90,9 @@ graph LR
 
 Classifying industries by their reaction to the economic cycle provides valuable insights for investors and financial analysts. By understanding the characteristics and historical performance of cyclical, defensive, and speculative industries, individuals can make informed investment decisions that align with their risk tolerance and financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

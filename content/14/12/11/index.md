@@ -78,7 +78,9 @@ For further exploration of TFSAs and their benefits, consider the following reso
 
 By understanding the rules and benefits of TFSAs, Canadians can effectively use this powerful tool to enhance their financial well-being and achieve their savings goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

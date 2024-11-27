@@ -93,7 +93,9 @@ For those interested in exploring LSVCCs further, the following resources provid
 
 Labour-Sponsored Venture Capital Corporations (LSVCCs) offer a unique opportunity for investors to support small and emerging businesses while benefiting from significant tax advantages. By integrating LSVCCs with registered accounts like RRSPs and RRIFs, investors can enhance their retirement savings and contribute to economic growth. As with any investment, it is crucial to conduct thorough research and consider the alignment of LSVCCs with your overall financial strategy.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

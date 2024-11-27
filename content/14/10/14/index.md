@@ -93,7 +93,9 @@ To illustrate the concepts discussed, consider the following examples:
 
 Income Trusts, including REITs and Business Trusts, offer Canadian investors a way to earn income and diversify their portfolios. By understanding the different types and subcategories, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

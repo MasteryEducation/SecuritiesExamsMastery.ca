@@ -96,7 +96,9 @@ For those interested in deepening their understanding of commodity ETFs, conside
 
 Commodity ETFs offer a versatile and accessible way for Canadian investors to participate in the commodities market. By understanding the differences between physical-based, futures-based, and equity-based ETFs, investors can make informed decisions that align with their financial goals and risk tolerance. As with any investment, it is crucial to consider the benefits, challenges, and regulatory environment before committing capital to commodity ETFs.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -76,7 +76,9 @@ For further exploration of fintech in capital markets, consider the following re
 - **Books**: *"Fintech Innovation: From Robo-Advisors to Goal Based Investing and Gamification"* by Paolo Sironi
 - **Articles**: "The Rise of Fintech in Canada" - [The Globe and Mail](https://www.theglobeandmail.com/business/rob-commentary/article-robolegalinsight-fintech-canada/)
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -102,7 +102,9 @@ For further exploration of investment dealers and their role in the securities i
 
 Investment dealers are indispensable to the Canadian securities industry, facilitating transactions, providing liquidity, and supporting capital formation. By understanding their roles and functions, investors can better navigate the financial markets and make informed decisions. As the industry evolves, investment dealers will continue to adapt, leveraging technology and innovation to meet the needs of their clients and the market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

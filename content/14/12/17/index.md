@@ -108,7 +108,9 @@ For further exploration, consider the following resources:
 
 Understanding and effectively managing deductible expenses related to investment income is a critical component of financial planning in Canada. By leveraging allowable carrying charges and investment management fees, investors can optimize their tax liabilities and enhance their overall financial strategy. Remember to maintain detailed records, consult with professionals, and stay informed about regulatory changes to maximize your deductions.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

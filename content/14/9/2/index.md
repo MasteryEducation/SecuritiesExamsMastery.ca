@@ -108,7 +108,9 @@ For further exploration of alternative investments, consider the following resou
 
 These resources provide deeper insights into the strategies and performance evaluation of alternative investments.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

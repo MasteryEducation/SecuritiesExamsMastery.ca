@@ -132,7 +132,9 @@ Conducting a comprehensive due diligence process is essential for making informe
 - **Due Diligence:** The investigation or audit of a potential investment to confirm all facts, such as reviewing financial records.
 - **Operational Controls:** Procedures and mechanisms that ensure the integrity and efficiency of a fund’s operations.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

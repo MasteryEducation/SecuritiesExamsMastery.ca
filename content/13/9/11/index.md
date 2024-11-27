@@ -92,7 +92,9 @@ graph TD;
 
 Understanding trading and settlement procedures is fundamental for navigating the Canadian securities market. By grasping the roles of investment dealers, the execution process on the TSX, and the functions of clearing corporations, you are better equipped to engage in informed and effective trading activities. As you continue to explore the world of finance, remember to apply these principles to your own investment strategies, ensuring compliance with regulatory standards and best practices.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

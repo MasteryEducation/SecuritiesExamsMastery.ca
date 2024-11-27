@@ -91,7 +91,9 @@ For those interested in exploring the Canadian capital markets further, the foll
 
 These resources provide comprehensive insights into the regulatory frameworks, market structures, and investment strategies prevalent in Canada.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

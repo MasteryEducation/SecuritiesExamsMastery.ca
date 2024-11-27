@@ -88,7 +88,9 @@ These resources provide valuable insights into the regulatory framework and best
 
 Effective record-keeping is a fundamental aspect of managing mutual funds and ensuring compliance with Canadian financial regulations. By maintaining detailed and organized records, financial professionals can enhance their service delivery, support suitability assessments, and ensure transparency in all client interactions. As you continue to develop your expertise in the financial industry, consider how these practices can be integrated into your daily operations to improve efficiency and compliance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

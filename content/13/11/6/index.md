@@ -100,7 +100,9 @@ Understanding the Statement of Financial Position within the Canadian context re
 
 The Statement of Financial Position is a vital tool for assessing a corporation's financial health. By understanding the structure and interpretation of assets, liabilities, and equity, financial professionals can make informed decisions and provide valuable insights into a company's financial standing. Regular analysis and adherence to best practices can enhance financial management and strategic planning.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

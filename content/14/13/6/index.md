@@ -85,7 +85,9 @@ Managed fee-based accounts offer a range of options to suit different investor n
 - **Articles:**
   - "Choosing the Right Managed Account for Your Portfolio" by Wealth Management Today
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

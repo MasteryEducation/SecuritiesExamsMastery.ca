@@ -130,7 +130,9 @@ Investors in Canada must adhere to regulations set by the Canadian Investment Re
 
 Diversification is a vital strategy for managing investment risk and optimizing portfolio performance. By understanding and applying effective diversification strategies, investors can achieve their financial goals while minimizing risk. Remember to regularly review and adjust your portfolio to align with changing market conditions and personal objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -74,7 +74,9 @@ For further exploration, consider the following resources:
 
 The inverse relationship between bond prices and interest rates is a fundamental concept in fixed-income investing. By understanding this relationship, investors can develop strategies to manage interest rate risk, capitalize on market opportunities, and achieve their financial goals. As you continue to explore the world of bonds, consider how these principles apply to your investment portfolio and the broader Canadian financial landscape.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

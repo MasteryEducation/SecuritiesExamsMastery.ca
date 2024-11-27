@@ -94,7 +94,9 @@ graph TD;
 
 Distributing securities through the TSX Venture Exchange offers emerging companies a valuable opportunity to access public capital markets. By understanding the specific requirements, processes, and prospectus exemption criteria, companies can effectively navigate the TSXV and achieve their financing goals. Financial professionals should stay informed about regulatory developments and leverage best practices to support their clients in successful securities offerings.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -109,7 +109,9 @@ These resources provide deeper insights into the strategies and considerations i
 
 Actively managed ETFs offer a compelling investment option for those seeking to outperform market indices through strategic decision-making. By understanding the unique characteristics and challenges of these funds, investors can make informed decisions that align with their financial goals. As the Canadian ETF market continues to evolve, actively managed ETFs will play an increasingly important role in portfolio management.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

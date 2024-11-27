@@ -100,7 +100,9 @@ Fiscal policy plays a crucial role in shaping the Canadian economy. By understan
 - Department of Finance Canada: [Federal Budget Documents](https://www.canada.ca/en/department-finance/services/publications/federal-budget.html)
 - Provincial Budget Documents: Available on respective provincial government websites.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

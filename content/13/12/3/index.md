@@ -102,7 +102,9 @@ Investment dealers are indispensable partners in the corporate financing process
 - **Due Diligence:** An investigation or audit of a potential investment to confirm all facts.
 - **Trust Indenture:** A legal and binding contract between bond issuers and bondholders.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

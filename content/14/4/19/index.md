@@ -163,7 +163,9 @@ The **Rebalancing Threshold** is the maximum allowable deviation from the strate
 
 A **Case Study** is a detailed analysis of a particular investment scenario to illustrate portfolio management principles. Case studies provide practical insights and help investors understand the application of theoretical concepts. For example, a case study might examine how a Canadian pension fund navigated market volatility through strategic asset allocation.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

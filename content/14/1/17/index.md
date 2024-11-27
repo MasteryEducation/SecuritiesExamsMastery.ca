@@ -105,7 +105,9 @@ To effectively apply chart analysis, investors can leverage various charting pla
 
 Chart analysis is a powerful tool for visualizing market data and making informed investment decisions. By understanding different chart types and key patterns, Canadian investors can enhance their ability to predict market movements and manage risk effectively. Continuous learning and practice are essential for mastering chart analysis and applying it successfully in the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

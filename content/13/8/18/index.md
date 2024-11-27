@@ -93,7 +93,9 @@ These resources provide additional insights into the mechanics and strategies as
 
 Foreign-pay preferred shares offer Canadian investors a unique opportunity to diversify their portfolios and potentially enhance returns through exposure to foreign currencies and markets. However, they also introduce currency risk, which must be carefully managed. By understanding the advantages and risks, and employing effective strategies, investors can make informed decisions that align with their financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

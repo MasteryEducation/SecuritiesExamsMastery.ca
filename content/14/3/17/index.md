@@ -82,7 +82,9 @@ For further exploration of interest rate anticipation and bond portfolio managem
 
 Interest rate anticipation is a powerful tool in the arsenal of fixed-income investors. By understanding and applying strategies such as duration switching, investors can effectively manage interest rate risk and enhance portfolio performance. As you continue to explore the world of fixed-income investing, consider how these concepts can be integrated into your own investment strategies, keeping in mind the unique dynamics of the Canadian financial market.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

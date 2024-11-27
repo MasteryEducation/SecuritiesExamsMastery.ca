@@ -77,7 +77,9 @@ For further exploration, consider the following resources:
 
 Convertible arbitrage is a powerful strategy for exploiting pricing inefficiencies and enhancing risk-adjusted returns. By understanding the mechanics of convertible bonds, employing effective hedging techniques, and navigating regulatory requirements, investors can successfully implement this strategy within the Canadian financial landscape. As with any investment approach, continuous learning and adaptation are key to achieving long-term success.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

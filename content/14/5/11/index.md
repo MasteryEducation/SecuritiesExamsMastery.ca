@@ -100,7 +100,9 @@ graph TD;
 
 Understanding the different load types is essential for making informed investment decisions in mutual funds. By considering the implications of front-end, back-end, and no-load funds, investors can align their choices with their financial goals and strategies. As you explore mutual fund options, keep in mind the importance of evaluating total costs and aligning your investments with your long-term objectives.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

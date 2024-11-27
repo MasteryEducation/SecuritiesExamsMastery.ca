@@ -94,7 +94,9 @@ For those interested in learning more about segregated funds, consider the follo
 
 Segregated funds offer a unique blend of investment and insurance features that can provide valuable benefits to investors, particularly those seeking protection against market volatility and creditor claims. By understanding the unique features and potential pitfalls of segregated funds, investors can make informed decisions that align with their financial goals and risk tolerance.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

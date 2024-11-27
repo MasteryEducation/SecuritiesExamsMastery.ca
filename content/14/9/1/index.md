@@ -99,7 +99,9 @@ For those interested in exploring alternative investments further, the following
 
 Chapter 21 provides a comprehensive overview of alternative investments, highlighting their significance in diversifying portfolios and enhancing returns. By understanding the various strategies and performance measurement tools, investors can make informed decisions and effectively incorporate alternative investments into their portfolios. As the Canadian market continues to evolve, staying informed about regulatory developments and best practices is essential for success in this dynamic field.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

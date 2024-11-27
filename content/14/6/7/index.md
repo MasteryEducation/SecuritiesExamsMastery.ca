@@ -121,7 +121,9 @@ graph TD;
 
 Equity funds offer a dynamic and potentially rewarding investment avenue for those seeking long-term capital growth. By understanding the various types of equity funds and their associated risks, investors can make informed decisions that align with their financial objectives. As you explore equity funds, consider how they fit within your broader investment strategy and remain vigilant in managing risk through diversification and ongoing portfolio assessment.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

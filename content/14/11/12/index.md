@@ -164,7 +164,9 @@ Satellite holdings are investments in specific sectors or themes that complement
 
 Understanding the terminology and concepts related to structured products is essential for navigating the complexities of modern investment strategies. This glossary provides a comprehensive overview of the key terms discussed in Chapter 23, equipping readers with the knowledge needed to make informed investment decisions in the Canadian financial market. By familiarizing yourself with these terms, you can better assess the risks and opportunities associated with structured products and related investment vehicles.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

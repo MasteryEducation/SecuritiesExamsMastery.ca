@@ -105,7 +105,9 @@ A retail investor places an order to sell shares of a Canadian bank. The dealer 
 
 Understanding and implementing best execution practices is essential for maintaining client trust and ensuring compliance with regulatory standards. By focusing on key elements such as price, speed, certainty, and total transaction cost, dealers can optimize trade outcomes and uphold the integrity of the Canadian financial markets.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

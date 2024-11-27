@@ -91,7 +91,9 @@ While LSVCCs offer significant tax advantages, investors should be mindful of ce
 
 Investing in LSVCCs can provide substantial tax benefits and support the growth of Canadian businesses. By understanding the available tax credits and leveraging registered accounts, investors can optimize their financial strategies. As with any investment, it is crucial to consider the associated risks and align investments with personal financial goals.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

@@ -67,7 +67,9 @@ In conclusion, the Canadian securities industry is a dynamic and essential compo
 
 As you continue your journey through the CSC® Exam Prep Guide, keep these foundational insights in mind. They will serve as a valuable reference point as you delve deeper into the intricacies of the Canadian securities industry.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 

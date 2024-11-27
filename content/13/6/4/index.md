@@ -124,7 +124,9 @@ These resources provide comprehensive insights into regulatory frameworks and fi
 
 Understanding the basic features and terminology of fixed-income securities is crucial for making informed investment decisions. By grasping the nuances of bonds and debentures, investors can effectively navigate the Canadian financial landscape, optimizing their portfolios for stability and growth.
 
-## Quiz Time!
+### **Ready to Test Your Knowledge?**
+
+**Practice 10 Essential CSC Exam Questions to Master Your Certification**
 
 {{< quizdown >}}
 
