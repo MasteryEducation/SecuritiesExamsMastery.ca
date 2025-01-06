@@ -9,13 +9,30 @@ canonical: "https://securitiesexamsmastery.ca"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-
 ## Welcome to Securities Exams Mastery.ca
 
 ### Your Premier Destination for Canadian Securities Education and Exam Preparation
 
 Unlock your potential in the Canadian securities industry with our extensive collection of expertly crafted books and resources. Whether you're a beginner aiming to understand the fundamentals or an experienced professional preparing for advanced certifications, Securities Exams Mastery.ca is your trusted partner on the path to success.
 
+---
+
+## 📱 Download Our Mobile Apps
+
+Enhance your study experience with our **CSC® Test Prep** applications available on both **iOS** and **Android** platforms. Access your study materials anytime, anywhere, and enjoy seamless synchronization across all your devices.
+
+- **iOS (iPhone, iPad, MacOS):** [Download on the App Store](https://apps.apple.com/us/app/csc-test-prep/id1667869674)
+- **Android (Phone, Tablet, ChromeOS):** [Get it on Google Play](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
+
+**Why Download?**
+- **Offline Mode:** Study without internet constraints.
+- **5000+ Free Questions:** Access additional free questions on our website.
+- **Synchronized Progress:** Seamlessly continue your studies across devices.
+- **Regular Updates:** Receive the latest questions and study materials.
+
+Start your free week today and take your exam preparation to the next level!
+
+---
 
 ## Explore Our Comprehensive Library
 
@@ -97,7 +114,24 @@ Our books are written by industry professionals with deep knowledge and experien
 ### Flexible Learning:
 Whether you prefer printed books or digital resources, our diverse range of materials caters to your preferred learning style.
 
+---
 
+## 🚀 Download Our Mobile Apps
+
+Take your study on the next level with the **CSC® Test Prep** mobile applications. Designed for both **iOS** and **Android** devices, our apps complement our comprehensive library with interactive features and seamless access.
+
+- **iOS (iPhone, iPad, MacOS):** [Download on the App Store](https://apps.apple.com/us/app/csc-test-prep/id1667869674)
+- **Android (Phone, Tablet, ChromeOS):** [Get it on Google Play](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
+
+**App Highlights:**
+- **Offline Access:** Study without an internet connection.
+- **Synchronized Progress:** Continue your studies seamlessly across devices.
+- **Interactive Quizzes:** Engage with dynamic questions and instant feedback.
+- **Regular Updates:** Benefit from continuous content enhancements.
+
+Start your free week today and unlock the full potential of your exam preparation!
+
+---
 
 ## Start Your Journey Today
 
@@ -105,8 +139,7 @@ Embark on your path to success in the Canadian securities industry with Securiti
 
 ---
 
-
-
 ## Contact Us
 
 Have questions or need recommendations? **[Contact our support team](mailto:info@tokenizer.ca?subject=SecuritiesExamsMastery.ca)** – we're here to help!
+
