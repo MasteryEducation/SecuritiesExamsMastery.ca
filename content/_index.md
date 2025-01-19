@@ -26,7 +26,7 @@ Below, you’ll find our specialized exam prep courses for the Canadian Securiti
 ---
 
 ## 1. Canadian Securities Course (CSC®) Exams  
-The Canadian Securities Course® (CSC®) is essential if you plan on selling securities, mutual funds, or alternative investments in Canada. It’s a benchmark requirement set by CSI® and recognized by the Mutual Fund Dealers Association. But don’t just rely on theory—practice is key to retaining knowledge and applying it to real-world scenarios.
+The Canadian Securities Course® (CSC®) is essential if you plan on selling securities, mutual funds, or alternative investments in Canada. It’s a benchmark requirement set by CSI® and recognized by the Canadian Investment Regulatory Organization ([CIRO](https://www.ciro.ca/)). But don’t just rely on theory—practice is key to retaining knowledge and applying it to real-world scenarios.
 
 - [Canadian Securities (CSC®) Mock Exams & Practice Tests Vol 1](https://www.udemy.com/course/canadian-securities-course-csc-exam-1-mastery/?couponCode=8CEB931251F7491329A4)
 > Ace CSC® Exam 1 with 1500+ practice questions covering marketplace fundamentals, the economy, fixed income, equities, derivatives, and more!  
