@@ -186,9 +186,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] Futures contracts have more credit risk than forwards.  
 - [ ] Forward contracts are typically standardized, while futures are customizable.  
 
-> **Explanation:** Forward contracts are privately negotiated (over-the-counter), whereas futures are traded on regulated exchanges under standardized terms.
+> **Explanation:**( Forward contracts are privately negotiated (over-the-counter), whereas futures are traded on regulated exchanges under standardized terms.)
 
----
 
 ### Under IFRS 9, how are derivatives generally measured on the balance sheet?
 
@@ -197,9 +196,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] At nominal or notional value only.  
 - [ ] At the maturity value.  
 
-> **Explanation:** IFRS 9 requires that derivatives be recognized at fair value, with changes in fair value typically recorded in profit or loss unless hedge accounting is applied.
+> **Explanation:**( IFRS 9 requires that derivatives be recognized at fair value, with changes in fair value typically recorded in profit or loss unless hedge accounting is applied.)
 
----
 
 ### Which type of entity generally poses a greater counterparty credit risk when entering into a forward contract?
 
@@ -208,9 +206,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] A provincial securities regulator.  
 - [ ] A clearinghouse.  
 
-> **Explanation:** Forward contracts are negotiated over the counter without an intermediary, thus exposing each party to the other’s credit risk. Exchanges and clearinghouses substantially lower this risk.
+> **Explanation:**( Forward contracts are negotiated over the counter without an intermediary, thus exposing each party to the other’s credit risk. Exchanges and clearinghouses substantially lower this risk.)
 
----
 
 ### What is one advantage of using hedge accounting for a forward or futures contract?
 
@@ -219,9 +216,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] It removes the requirement to disclose derivatives in financial statements.  
 - [ ] It guarantees a profit from the derivative instrument.  
 
-> **Explanation:** Hedge accounting allows gains or losses on the hedging instrument to be recognized in the same period as the offsetting losses or gains on the underlying hedged item, smoothing out earnings volatility.
+> **Explanation:**( Hedge accounting allows gains or losses on the hedging instrument to be recognized in the same period as the offsetting losses or gains on the underlying hedged item, smoothing out earnings volatility.)
 
----
 
 ### When a Canadian mining company wants to lock in the sale price of copper in three months, which contractual tool might it employ?
 
@@ -230,9 +226,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] Currency option.  
 - [ ] Commodity put option.  
 
-> **Explanation:** Copper is typically hedged through a forward or futures contract, securing a future price and mitigating commodity price risk.
+> **Explanation:**( Copper is typically hedged through a forward or futures contract, securing a future price and mitigating commodity price risk.)
 
----
 
 ### Which of the following disclosure items is commonly required for derivatives in the notes to the financial statements?
 
@@ -241,9 +236,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [x] Notional amounts, fair value, purpose of use (hedging vs. speculative), and risk exposure.  
 - [ ] Personal details of the counterparty’s board of directors.  
 
-> **Explanation:** IFRS 7 and CPA Canada guidelines dictate that corporations provide details on notional amounts, fair values, risk exposure, and instrument purpose.
+> **Explanation:**( IFRS 7 and CPA Canada guidelines dictate that corporations provide details on notional amounts, fair values, risk exposure, and instrument purpose.)
 
----
 
 ### Which Canadian body coordinates provincial and territorial securities regulators to issue harmonized rules on derivatives?
 
@@ -252,9 +246,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] Office of the Superintendent of Financial Institutions (OSFI).  
 - [ ] IIROC.  
 
-> **Explanation:** The CSA is an umbrella organization of provincial and territorial regulators in Canada, drafting consistent regulations across the country.
+> **Explanation:**( The CSA is an umbrella organization of provincial and territorial regulators in Canada, drafting consistent regulations across the country.)
 
----
 
 ### How does daily “marking to market” work for futures contracts?
 
@@ -263,9 +256,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] Gains are paid out at inception, and losses only at maturity.  
 - [ ] It applies only to forward contracts.  
 
-> **Explanation:** For exchange-traded futures, participants’ positions are revalued daily against the settle price, requiring margin adjustments to reflect gains or losses.
+> **Explanation:**( For exchange-traded futures, participants’ positions are revalued daily against the settle price, requiring margin adjustments to reflect gains or losses.)
 
----
 
 ### If a corporation documents a currency futures contract as a hedge of forecast future receipts, and the hedge is fully effective, where might the derivative’s gains or losses initially be reported under IFRS 9?
 
@@ -274,9 +266,8 @@ By understanding the distinct features of each contract type, the associated acc
 - [ ] In the operating expenses line item.  
 - [ ] They are never recognized until maturity.  
 
-> **Explanation:** Under hedge accounting for a cash flow hedge, changes in the fair value of the derivative instrument are typically recorded in OCI until the underlying forecast transaction occurs.
+> **Explanation:**( Under hedge accounting for a cash flow hedge, changes in the fair value of the derivative instrument are typically recorded in OCI until the underlying forecast transaction occurs.)
 
----
 
 ### A forward contract is negotiated privately and does not trade on an exchange. True or False?
 

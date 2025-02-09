@@ -177,106 +177,97 @@ Whether you’re considering a career path in institutional sales, focusing on r
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the primary role of portfolio managers in the institutional market?
+### Which of the following best describes the primary role of portfolio managers in the institutional market?
 
 - [ ] To execute trades at best possible prices.  
 - [x] To develop, implement, and monitor investment strategies in line with client objectives.  
 - [ ] To ensure compliance with regulatory requirements.  
 - [ ] To perform only research on market trends and sector fundamentals.  
 
-> **Explanation:** Portfolio managers are responsible for building and overseeing the investment strategy, including selecting securities, determining asset allocation, and ensuring the portfolio meets the clients’ objectives.
+> **Explanation:**( Portfolio managers are responsible for building and overseeing the investment strategy, including selecting securities, determining asset allocation, and ensuring the portfolio meets the clients’ objectives.)
 
----
 
-### 2. What is the primary responsibility of a Trader in an institutional setting?
+### What is the primary responsibility of a Trader in an institutional setting?
 
 - [ ] Designing investment policy statements for clients.  
 - [x] Executing buy and sell orders at optimal prices and minimizing transaction costs.  
 - [ ] Performing fundamental analysis of industries.  
 - [ ] Preparing annual reports for public companies.  
 
-> **Explanation:** Traders are tasked with obtaining the best possible execution for trades, aiming to achieve optimal pricing and minimal market impact.
+> **Explanation:**( Traders are tasked with obtaining the best possible execution for trades, aiming to achieve optimal pricing and minimal market impact.)
 
----
 
-### 3. Which role is most directly responsible for identifying and mitigating potential market, credit, and operational risks within an institution?
+### Which role is most directly responsible for identifying and mitigating potential market, credit, and operational risks within an institution?
 
 - [ ] Compliance Officer  
 - [ ] Research Analyst  
 - [x] Risk Manager  
 - [ ] Client Relationship Manager  
 
-> **Explanation:** Risk managers oversee different types of risk (market, credit, and operational) and implement strategies such as VaR models, stress testing, and counterparty assessments to control an institution’s overall risk exposure.
+> **Explanation:**( Risk managers oversee different types of risk (market, credit, and operational) and implement strategies such as VaR models, stress testing, and counterparty assessments to control an institution’s overall risk exposure.)
 
----
 
-### 4. Research analysts primarily contribute to the investment process by:
+### Research analysts primarily contribute to the investment process by:
 
 - [ ] Overseeing investment policies for compliance.  
 - [ ] Executing trades based on client instructions.  
 - [x] Conducting in-depth assessments of market trends and specific securities to inform investment decisions.  
 - [ ] Approving new issues before they hit the markets.  
 
-> **Explanation:** Research analysts provide fundamental and technical research, evaluation of financial statements, and market insights that guide portfolio managers and traders.
+> **Explanation:**( Research analysts provide fundamental and technical research, evaluation of financial statements, and market insights that guide portfolio managers and traders.)
 
----
 
-### 5. Identify the primary duty of a Compliance Officer:
+### Identify the primary duty of a Compliance Officer:
 
 - [ ] Securing best-execution pricing for large institutional orders.  
 - [ ] Building complex valuation models.  
 - [x] Ensuring the firm adheres to regulatory, ethical, and internal policy standards.  
 - [ ] Maintaining client relationships and communication.  
 
-> **Explanation:** Compliance officers design, implement, and supervise compliance processes to prevent insider trading, market manipulation, and other regulatory infractions.
+> **Explanation:**( Compliance officers design, implement, and supervise compliance processes to prevent insider trading, market manipulation, and other regulatory infractions.)
 
----
 
-### 6. A situation in which a broker executes a personal order ahead of a client’s known pending order to profit from potential price changes is known as:
+### A situation in which a broker executes a personal order ahead of a client’s known pending order to profit from potential price changes is known as:
 
 - [ ] Block trading  
 - [ ] Spread betting  
 - [x] Front-running  
 - [ ] Arbitrage  
 
-> **Explanation:** Front-running is an unethical and illegal practice where an individual trades based on privileged knowledge of upcoming client orders.
+> **Explanation:**( Front-running is an unethical and illegal practice where an individual trades based on privileged knowledge of upcoming client orders.)
 
----
 
-### 7. Which role primarily acts as the liaison between large institutional clients and the brokerage firm, focusing on relationship development?
+### Which role primarily acts as the liaison between large institutional clients and the brokerage firm, focusing on relationship development?
 
 - [x] Institutional Sales (Client Relationship Manager)  
 - [ ] Portfolio Manager  
 - [ ] Risk Manager  
 - [ ] Research Analyst  
 
-> **Explanation:** Institutional sales or client relationship managers ensure that each institutional client’s needs are met, providing research, new issue allocations, and coordinated solutions.
+> **Explanation:**( Institutional sales or client relationship managers ensure that each institutional client’s needs are met, providing research, new issue allocations, and coordinated solutions.)
 
----
 
-### 8. Which of the following best describes why professional development programs are important?
+### Which of the following best describes why professional development programs are important?
 
 - [x] They keep staff updated on evolving regulations, market practices, and product innovations.  
 - [ ] They primarily focus on IT training for system upgrades.  
 - [ ] They serve only as a marketing tool for new institutional clients.  
 - [ ] They are mandated only for traders and do not apply to other roles.  
 
-> **Explanation:** Continuous education ensures that professionals remain compliant, informed on emerging trends, and proficient in cutting-edge market skills.
+> **Explanation:**( Continuous education ensures that professionals remain compliant, informed on emerging trends, and proficient in cutting-edge market skills.)
 
----
 
-### 9. What is “Material Non-Public Information” (MNPI) in finance?
+### What is “Material Non-Public Information” (MNPI) in finance?
 
 - [ ] Officially announced profit estimates for public companies.  
 - [ ] Data that is widely known among all investors.  
 - [x] Information that could affect an investment decision but is not yet publicly disclosed.  
 - [ ] News about interest rates after the Bank of Canada’s press release.  
 
-> **Explanation:** MNPI includes any non-disclosed data that, if made public, might influence security prices or an investor’s decision. Handling such information improperly can lead to insider trading accusations.
+> **Explanation:**( MNPI includes any non-disclosed data that, if made public, might influence security prices or an investor’s decision. Handling such information improperly can lead to insider trading accusations.)
 
----
 
-### 10. A trustee of a university endowment fund who must preserve the endowment’s principal invests only its returns for operations. This approach is a typical example of managing:
+### A trustee of a university endowment fund who must preserve the endowment’s principal invests only its returns for operations. This approach is a typical example of managing:
 
 - [x] Endowment Funds  
 - [ ] Hedge Funds  

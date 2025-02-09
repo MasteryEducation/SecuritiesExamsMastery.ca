@@ -14,7 +14,7 @@ Evaluating portfolio performance is a critical step in the portfolio management 
 
 ---
 
-### 1. Overview of Portfolio Performance Evaluation
+### Overview of Portfolio Performance Evaluation
 
 Every portfolio has a specific objective, whether it be long-term growth, steady income, or capital preservation. The performance evaluation process determines how well the portfolio has achieved these objectives. This step revolves around three core tasks:
 
@@ -26,7 +26,7 @@ A comprehensive performance evaluation also involves analyzing the risks taken t
 
 ---
 
-### 2. The Importance of Performance Evaluation in the Portfolio Management Life Cycle
+### The Importance of Performance Evaluation in the Portfolio Management Life Cycle
 
 Performance evaluation serves multiple purposes, including:
 
@@ -48,7 +48,7 @@ flowchart LR
 
 ---
 
-### 3. Performance Benchmarks
+### Performance Benchmarks
 
 Performance benchmarks are reference points against which a portfolio’s returns can be compared. They may take the form of:
 
@@ -60,7 +60,7 @@ Selecting the right benchmark is crucial to achieving a fair evaluation; the ben
 
 ---
 
-### 4. Absolute vs. Relative Performance
+### Absolute vs. Relative Performance
 
 Portfolios are often evaluated on both absolute and relative bases:
 
@@ -72,7 +72,7 @@ Emphasizing both absolute and relative performance ensures that the client’s f
 
 ---
 
-### 5. Risk-Adjusted Measures
+### Risk-Adjusted Measures
 
 Assessing performance is not solely about returns. It also involves understanding how much risk was taken to achieve those returns. Various risk-adjusted measures help gauge this balance:
 
@@ -109,7 +109,7 @@ Assessing performance is not solely about returns. It also involves understandin
 
 ---
 
-### 6. Performance Attribution Analysis
+### Performance Attribution Analysis
 
 Performance attribution isolates the specific contributions to overall returns from different aspects of the manager’s strategy. Broadly, it divides performance into three categories:
 
@@ -121,7 +121,7 @@ A detailed attribution analysis can pinpoint where a manager’s skill is adding
 
 ---
 
-### 7. Global Investment Performance Standards (GIPS)
+### Global Investment Performance Standards (GIPS)
 
 The **Global Investment Performance Standards (GIPS)**, administered by the CFA Institute, establish ethical and standardized guidelines for calculating and reporting portfolio performance. While GIPS compliance is voluntary, it is widely considered a best practice in both Canada and globally. Key benefits of GIPS compliance include:
 
@@ -133,7 +133,7 @@ Many Canadian investment managers—particularly those working with institutiona
 
 ---
 
-### 8. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 Below are actionable insights to ensure robust performance evaluation:
 
@@ -152,7 +152,7 @@ Below are actionable insights to ensure robust performance evaluation:
 
 ---
 
-### 9. Real-World Examples and Use Cases
+### Real-World Examples and Use Cases
 
 To illustrate these concepts, consider two Canadian-focused case studies:
 
@@ -168,7 +168,7 @@ To illustrate these concepts, consider two Canadian-focused case studies:
 
 ---
 
-### 10. Applying Performance Evaluation in Practice
+### Applying Performance Evaluation in Practice
 
 Below is a simple step-by-step outline for evaluating portfolio performance:
 
@@ -195,7 +195,7 @@ Below is a simple step-by-step outline for evaluating portfolio performance:
 
 ---
 
-### 11. Key Takeaways
+### Key Takeaways
 
 • Thorough performance evaluation combines absolute and relative returns, risk metrics, and attribution analysis.  
 • **Risk-Adjusted Measurements** are crucial for understanding the balance between risk and reward.  

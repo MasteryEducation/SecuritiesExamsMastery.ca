@@ -172,106 +172,97 @@ By understanding the merits and complexities of each offering method, financial 
 
 {{< quizdown >}}
 
-### 1. Which of the following statements best describes a private placement in Canada?
+### Which of the following statements best describes a private placement in Canada?
 
 - [ ] It involves public disclosure of a full prospectus for retail investors.  
 - [ ] It is only accessible to government entities.  
 - [x] It is an offering exempt from prospectus requirements, targeting select accredited investors.  
 - [ ] It is a mandatory method for all new securities distributions.  
 
-> **Explanation:** Private placements are a way of selling securities to a limited number of accredited or institutional investors without filing a full public prospectus, as permitted by National Instrument 45-106.
+> **Explanation:**( Private placements are a way of selling securities to a limited number of accredited or institutional investors without filing a full public prospectus, as permitted by National Instrument 45-106.)
 
----
 
-### 2. Which document typically references existing continuous disclosure records rather than creating an entirely new disclosure document?
+### Which document typically references existing continuous disclosure records rather than creating an entirely new disclosure document?
 
 - [ ] Preliminary long-form prospectus  
 - [x] Short form prospectus  
 - [ ] Indicative term sheet  
 - [ ] Standby commitment agreement  
 
-> **Explanation:** A short form prospectus process allows qualified reporting issuers to incorporate by reference their previously filed disclosure documents to streamline the process.
+> **Explanation:**( A short form prospectus process allows qualified reporting issuers to incorporate by reference their previously filed disclosure documents to streamline the process.)
 
----
 
-### 3. Under a shelf prospectus, which of the following is NOT true?
+### Under a shelf prospectus, which of the following is NOT true?
 
 - [ ] It generally remains valid for a set period, often 25 months.  
 - [ ] It requires filing a base document, after which multiple offerings can be launched.  
 - [ ] It eliminates the need to file any subsequent supplements.  
 - [x] The issuer must still disclose material changes throughout the shelf period.  
 
-> **Explanation:** A shelf prospectus allows multiple offerings under a single base filing, but each new tranche typically requires a short supplement, and the issuer must continue filing ongoing disclosure for material changes.
+> **Explanation:**( A shelf prospectus allows multiple offerings under a single base filing, but each new tranche typically requires a short supplement, and the issuer must continue filing ongoing disclosure for material changes.)
 
----
 
-### 4. Which distribution method provides the issuer with certainty about the total proceeds from the offering before the preliminary prospectus is filed?
+### Which distribution method provides the issuer with certainty about the total proceeds from the offering before the preliminary prospectus is filed?
 
 - [ ] Agency offering  
 - [x] Bought deal  
 - [ ] Overnight marketed deal  
 - [ ] Warrant offering  
 
-> **Explanation:** In a bought deal, underwriters commit to purchasing the entire issue upfront, guaranteeing the issuer a specific amount of proceeds.
+> **Explanation:**( In a bought deal, underwriters commit to purchasing the entire issue upfront, guaranteeing the issuer a specific amount of proceeds.)
 
----
 
-### 5. Which best describes a challenge for underwriters in a bought deal?
+### Which best describes a challenge for underwriters in a bought deal?
 
 - [x] They assume the market risk of unsold securities.  
 - [ ] They have full recourse to the issuer for unsold securities.  
 - [ ] They wait until investor interest is confirmed before taking any risk.  
 - [ ] They are exempt from disclosure obligations.  
 
-> **Explanation:** In a bought deal, underwriters commit to buying the entire issue before gathering firm expressions of investor interest, placing market risk on the underwriters.
+> **Explanation:**( In a bought deal, underwriters commit to buying the entire issue before gathering firm expressions of investor interest, placing market risk on the underwriters.)
 
----
 
-### 6. Which entity provides guidelines and bulletins on distribution methods and compliance standards for capital markets in Canada?
+### Which entity provides guidelines and bulletins on distribution methods and compliance standards for capital markets in Canada?
 
 - [ ] The World Bank  
 - [ ] Canada Mortgage and Housing Corporation (CMHC)  
 - [x] Canadian Investment Regulatory Organization (CIRO)  
 - [ ] Bank for International Settlements  
 
-> **Explanation:** CIRO issues bulletins, guidelines, and updates on compliance standards for member firms engaged in securities distribution and other aspects of capital markets.
+> **Explanation:**( CIRO issues bulletins, guidelines, and updates on compliance standards for member firms engaged in securities distribution and other aspects of capital markets.)
 
----
 
-### 7. Why might a smaller Canadian startup opt for a private placement over a public offering?
+### Why might a smaller Canadian startup opt for a private placement over a public offering?
 
 - [ ] To benefit from extensive retail investor participation.  
 - [x] To expedite the capital raise process and avoid comprehensive public disclosure.  
 - [ ] To comply with mandatory government lending regulations.  
 - [ ] Because private placements are free of any legal documentation.  
 
-> **Explanation:** Private placements generally have fewer regulatory requirements, can close more quickly, and allow smaller issuers to maintain confidentiality about their strategic plans.
+> **Explanation:**( Private placements generally have fewer regulatory requirements, can close more quickly, and allow smaller issuers to maintain confidentiality about their strategic plans.)
 
----
 
-### 8. Which of the following best characterizes a short form prospectus issuer?
+### Which of the following best characterizes a short form prospectus issuer?
 
 - [ ] A company with zero reporting history that is listing for the first time.  
 - [ ] A firm exempt from all continuous disclosure obligations.  
 - [x] An existing reporting issuer with a history of timely filings and robust disclosure.  
 - [ ] An issuer that is legally restricted from disclosing financial statements.  
 
-> **Explanation:** Only reporting issuers that meet certain continuous disclosure requirements and have a strong track record can use the short form prospectus system.
+> **Explanation:**( Only reporting issuers that meet certain continuous disclosure requirements and have a strong track record can use the short form prospectus system.)
 
----
 
-### 9. When an issuer wants to time multiple issuances within a two-year horizon while minimizing repeated regulatory filings, which method is most suitable?
+### When an issuer wants to time multiple issuances within a two-year horizon while minimizing repeated regulatory filings, which method is most suitable?
 
 - [ ] Long form prospectus for each issuance  
 - [ ] Overnight marketed offering  
 - [ ] Private placement for each issuance  
 - [x] Shelf prospectus  
 
-> **Explanation:** A shelf prospectus lets an issuer file once and then issue securities in multiple tranches over a valid period, leveraging a shorter supplement filing process each time.
+> **Explanation:**( A shelf prospectus lets an issuer file once and then issue securities in multiple tranches over a valid period, leveraging a shorter supplement filing process each time.)
 
----
 
-### 10. Bought deals typically cater to:
+### Bought deals typically cater to:
 
 - [x] Seasoned issuers with stable credit and strong market demand.  
 - [ ] Only high-risk startups with uncertain revenue models.  

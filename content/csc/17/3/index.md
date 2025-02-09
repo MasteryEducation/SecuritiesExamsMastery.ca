@@ -14,7 +14,7 @@ Mutual funds are a cornerstone of the Canadian investment landscape, providing i
 
 ---
 
-### 1. Introduction to Mutual Fund Pricing
+### Introduction to Mutual Fund Pricing
 
 Mutual funds in Canada—whether managed by large banks such as RBC, TD, or independent investment firms—determine the value of each fund unit through a standardized measure known as the Net Asset Value Per Share (NAVPS). The NAVPS represents the price at which investors can buy or sell (redeem) mutual fund units. Canadian regulations mandate that mutual funds calculate and report their NAVPS consistently, ensuring transparency and fairness to all investors.
 
@@ -27,7 +27,7 @@ This concept ensures that all orders placed before the cutoff time receive that 
 
 ---
 
-### 2. Defining NAVPS
+### Defining NAVPS
 
 Mathematically, the NAVPS for a mutual fund can be expressed as follows:
 
@@ -64,7 +64,7 @@ Liabilities primarily encompass any fees or expenses that the fund owes but has 
 
 ---
 
-### 3. Daily Pricing Process and Cutoff Times
+### Daily Pricing Process and Cutoff Times
 
 Mutual funds establish a specific cutoff time (commonly 4:00 p.m. ET) for receiving purchase or redemption orders. Orders received before the cutoff time are executed at that day’s NAVPS, while orders placed after the cutoff time receive the next business day’s NAVPS.
 
@@ -76,7 +76,7 @@ This pricing mechanism is set to ensure fairness:
 
 ---
 
-### 4. Types of Sales Charges
+### Types of Sales Charges
 
 Understanding sales charges is crucial for measuring the total cost of investing in a mutual fund. These costs can significantly affect the return on an investor’s portfolio. Depending on the structure of the mutual fund, several types of sales charges exist:
 
@@ -101,7 +101,7 @@ Understanding sales charges is crucial for measuring the total cost of investing
 
 ---
 
-### 5. Impact of Distributions on NAVPS
+### Impact of Distributions on NAVPS
 
 A mutual fund may distribute dividends, interest, and/or capital gains to unitholders at prescribed intervals (e.g., monthly, quarterly, or annually). Here’s how this affects the NAVPS:
 
@@ -115,7 +115,7 @@ A mutual fund may distribute dividends, interest, and/or capital gains to unitho
 
 ---
 
-### 6. Practical Example: Daily NAVPS Calculation
+### Practical Example: Daily NAVPS Calculation
 
 Let us consider a simplified example to illustrate how the daily NAVPS might be calculated:
 
@@ -147,7 +147,7 @@ Investors submitting orders before the cutoff time receive the day’s NAVPS of 
 
 ---
 
-### 7. Step-by-Step Purchase and Redemption Process
+### Step-by-Step Purchase and Redemption Process
 
 1. **Submission of Order**  
    • The investor informs the dealer or online brokerage (e.g., RBC Direct Investing, TD Direct Investing) to purchase or redeem units.  
@@ -167,7 +167,7 @@ Investors submitting orders before the cutoff time receive the day’s NAVPS of 
 
 ---
 
-### 8. Regulatory Oversight and Best Practices
+### Regulatory Oversight and Best Practices
 
 Canada’s mutual fund industry is subject to substantial oversight to protect investor interests:
 
@@ -185,7 +185,7 @@ Canada’s mutual fund industry is subject to substantial oversight to protect i
 
 ---
 
-### 9. Common Pitfalls and Best Practices
+### Common Pitfalls and Best Practices
 
 1. **Missing Cutoff Times**  
    • Placing orders after the cutoff may lead to unexpected price deviations.  
@@ -210,13 +210,13 @@ Canada’s mutual fund industry is subject to substantial oversight to protect i
 
 ---
 
-### 10. Real-World Case Study: Canadian Pension Fund Example
+### Real-World Case Study: Canadian Pension Fund Example
 
 Consider a large Canadian pension fund that invests part of its assets in publicly offered mutual funds. The pension fund managers carefully monitor each fund’s NAVPS, sales charges, and distribution schedules. They place buy orders before the cutoff time to ensure they lock in the NAVPS for that day. If they anticipate upcoming distributions that could reduce the NAVPS, they may strategically time their purchases or redemptions to account for distribution effects. By staying aware of regulatory changes—such as amendments to NI 81-102—they safeguard the pension’s investments and remain compliant.
 
 ---
 
-### 11. Visualizing Mutual Fund Pricing
+### Visualizing Mutual Fund Pricing
 
 Below is a simple diagram illustrating the flow of mutual fund pricing at the end of each trading day.
 
@@ -237,7 +237,7 @@ flowchart LR
 
 ---
 
-### 12. Continuing Education and Reference Materials
+### Continuing Education and Reference Materials
 
 The topic of mutual fund pricing is vast and continually evolving. Below are some recommendations for further exploration:
 
@@ -271,106 +271,97 @@ Accurate and timely pricing underpins the success and integrity of the Canadian 
 
 {{< quizdown >}}
 
-### 1. Which formula is used to calculate the NAVPS of a mutual fund?
+### Which formula is used to calculate the NAVPS of a mutual fund?
 
 - [x] (Total Assets – Total Liabilities) / Number of Units Outstanding
 - [ ] (Current Market Price × Units Outstanding) – Manager’s Fees
 - [ ] (Stocks + Bonds – Cash) × Expected Yield
 - [ ] (Total Assets × Dividend Yield) / Market Capitalization
 
-> **Explanation:** The standard formula for NAVPS is (Total Assets – Total Liabilities) / Number of Units Outstanding, reflecting fair valuation of assets net of liabilities.
+> **Explanation:**( The standard formula for NAVPS is (Total Assets – Total Liabilities) / Number of Units Outstanding, reflecting fair valuation of assets net of liabilities.)
 
----
 
-### 2. What happens if you submit a mutual fund purchase order after the cutoff time?
+### What happens if you submit a mutual fund purchase order after the cutoff time?
 
 - [x] The order is priced at the next trading day’s NAVPS.
 - [ ] The order is automatically canceled.
 - [x] The order is priced at the current day’s NAVPS and backdated to the next day.
 - [ ] The order must be resubmitted at market open the next day.
 
-> **Explanation:** Any orders placed after the daily cutoff time (commonly 4:00 p.m. ET) are processed at the next business day’s NAVPS, ensuring fairness among all investors.
+> **Explanation:**( Any orders placed after the daily cutoff time (commonly 4:00 p.m. ET) are processed at the next business day’s NAVPS, ensuring fairness among all investors.)
 
----
 
-### 3. Which statement best describes the characteristics of a front-end load?
+### Which statement best describes the characteristics of a front-end load?
 
 - [ ] It is a fee paid upon redemption based on how long the units were held.
 - [x] It is an immediate sales charge subtracted from the purchase amount.
 - [ ] It fully reimburses management fees.
 - [ ] It causes the MER to be higher than average.
 
-> **Explanation:** A front-end load is a commission that investors pay at purchase, reducing the amount of money initially invested in the fund.
+> **Explanation:**( A front-end load is a commission that investors pay at purchase, reducing the amount of money initially invested in the fund.)
 
----
 
-### 4. What is a key difference between a no-load fund and a deferred sales charge (DSC) fund?
+### What is a key difference between a no-load fund and a deferred sales charge (DSC) fund?
 
 - [ ] No-load funds have significantly higher MERs by default.
 - [ ] DSC funds never charge any fees when redeeming units.
 - [x] No-load funds do not charge front-end or back-end fees, whereas DSC funds charge fees upon redemption if sold early.
 - [ ] DSC funds always generate higher returns due to lower fees.
 
-> **Explanation:** No-load funds don’t impose front-end or back-end sales charges, though they still have an MER. DSC funds may impose a fee if you sell the fund before the DSC schedule ends.
+> **Explanation:**( No-load funds don’t impose front-end or back-end sales charges, though they still have an MER. DSC funds may impose a fee if you sell the fund before the DSC schedule ends.)
 
----
 
-### 5. What happens to a mutual fund’s NAVPS when the fund makes a distribution?
+### What happens to a mutual fund’s NAVPS when the fund makes a distribution?
 
 - [x] The NAVPS temporarily decreases by the amount of the distribution.
 - [ ] The NAVPS remains unchanged, but the investor’s statement is adjusted.
 - [x] The NAVPS increases if distributions are reinvested.
 - [ ] The NAVPS depends solely on the performance of the underlying securities.
 
-> **Explanation:** When the fund pays out dividends or capital gains, the NAVPS drops by that same distribution amount. However, many investors reinvest distributions in additional units, which affects their total holdings.
+> **Explanation:**( When the fund pays out dividends or capital gains, the NAVPS drops by that same distribution amount. However, many investors reinvest distributions in additional units, which affects their total holdings.)
 
----
 
-### 6. Why might a Canadian investor choose to reinvest mutual fund distributions rather than receive them in cash?
+### Why might a Canadian investor choose to reinvest mutual fund distributions rather than receive them in cash?
 
 - [x] To potentially benefit from compounding and accumulate more units.
 - [ ] To avoid paying any taxes on the distribution.
 - [ ] Reinvestments are always guaranteed to yield double-digit returns.
 - [ ] Reinvestments eliminate sales charges and MERs entirely.
 
-> **Explanation:** Reinvesting distributions allows the investor to buy more units, increasing the potential for compounding growth. Taxes may still apply in non-registered accounts.
+> **Explanation:**( Reinvesting distributions allows the investor to buy more units, increasing the potential for compounding growth. Taxes may still apply in non-registered accounts.)
 
----
 
-### 7. Which regulatory document in Canada primarily governs how mutual funds must handle valuations and distributions?
+### Which regulatory document in Canada primarily governs how mutual funds must handle valuations and distributions?
 
 - [x] National Instrument 81-102
 - [ ] National Policy 12-202
 - [x] OSFI Guideline B-20
 - [ ] Sarbanes-Oxley Act
 
-> **Explanation:** NI 81-102 (Investment Funds) establishes the legislative framework for mutual fund operation, including valuations, distributions, and investor protection measures in Canada.
+> **Explanation:**( NI 81-102 (Investment Funds) establishes the legislative framework for mutual fund operation, including valuations, distributions, and investor protection measures in Canada.)
 
----
 
-### 8. How do accrued income and realized capital gains affect a mutual fund’s total assets?
+### How do accrued income and realized capital gains affect a mutual fund’s total assets?
 
 - [ ] They typically lower the fund’s total assets through interest charges.
 - [ ] They are not factored into the mutual fund’s NAVPS computation.
 - [x] They increase the fund’s total assets and can lead to distributions.
 - [ ] They allow investors to buy units at a discount price.
 
-> **Explanation:** Accrued income, such as dividends and interest, and realized capital gains add to the fund’s total assets. These amounts are eventually distributed or reinvested, affecting the NAVPS.
+> **Explanation:**( Accrued income, such as dividends and interest, and realized capital gains add to the fund’s total assets. These amounts are eventually distributed or reinvested, affecting the NAVPS.)
 
----
 
-### 9. During a single trading day, what best explains the factors that most directly influence a fund’s NAVPS at market close?
+### During a single trading day, what best explains the factors that most directly influence a fund’s NAVPS at market close?
 
 - [ ] Employee count changes and operational expansions by the fund company.
 - [x] Changes in the market value of the fund’s underlying securities and any accrued fees.
 - [ ] The previous day’s government bond yields and currency exchange rates.
 - [ ] The overall investor sentiment in international markets.
 
-> **Explanation:** The daily NAVPS depends on that day’s fluctuations in the value of the underlying assets, as well as any new liabilities like accrued fees or expenses.
+> **Explanation:**( The daily NAVPS depends on that day’s fluctuations in the value of the underlying assets, as well as any new liabilities like accrued fees or expenses.)
 
----
 
-### 10. True or False: If you redeem units of a mutual fund with a DSC schedule after 7 years, you are typically no longer charged a deferred sales fee.
+### True or False: If you redeem units of a mutual fund with a DSC schedule after 7 years, you are typically no longer charged a deferred sales fee.
 
 - [x] True
 - [ ] False

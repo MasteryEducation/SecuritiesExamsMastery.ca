@@ -198,9 +198,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] It guarantees full principal protection only if the policy is in force for less than five years.
 - [ ] It guarantees ongoing dividend payments, irrespective of market fluctuations.
 
-> **Explanation:** The defining characteristic of a segregated fund is the insurer’s contractual commitment to cover a percentage (often 75% or 100%) of the investor’s initial investment at the contract’s maturity or at death.
+> **Explanation:**( The defining characteristic of a segregated fund is the insurer’s contractual commitment to cover a percentage (often 75% or 100%) of the investor’s initial investment at the contract’s maturity or at death.)
 
----
 
 ### Which administrative authority primarily regulates segregated funds, given their nature as insurance contracts?
 
@@ -209,9 +208,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] The Investment Industry Regulatory Organization of Canada (IIROC).
 - [x] Provincial insurance regulators, with federal oversight by OSFI for federally licensed insurers.
 
-> **Explanation:** Since segregated funds are insurance contracts, they fall primarily under provincial insurance legislation, while the Office of the Superintendent of Financial Institutions (OSFI) oversees federally regulated insurers.
+> **Explanation:**( Since segregated funds are insurance contracts, they fall primarily under provincial insurance legislation, while the Office of the Superintendent of Financial Institutions (OSFI) oversees federally regulated insurers.)
 
----
 
 ### Which feature allows an investor to lock in gains by periodically updating the guaranteed amount?
 
@@ -220,9 +218,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] Probate Fee Waivers
 - [x] Reset Feature
 
-> **Explanation:** Reset features in segregated funds allow investors to lock in a new guaranteed amount if the investment’s market value exceeds the previously guaranteed floor, thereby preserving gains against future market downturns.
+> **Explanation:**( Reset features in segregated funds allow investors to lock in a new guaranteed amount if the investment’s market value exceeds the previously guaranteed floor, thereby preserving gains against future market downturns.)
 
----
 
 ### How does beneficiary designations in segregated funds offer potential estate planning advantages?
 
@@ -231,9 +228,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] The beneficiary can provide unlimited debt forgiveness.
 - [ ] The beneficiary receives tax credits from the insurer.
 
-> **Explanation:** The insurance structure allows segregated fund proceeds to bypass the estate for probate purposes, yielding faster settlement and potentially reducing fees.
+> **Explanation:**( The insurance structure allows segregated fund proceeds to bypass the estate for probate purposes, yielding faster settlement and potentially reducing fees.)
 
----
 
 ### What is a common drawback of segregated funds compared to standard mutual funds?
 
@@ -242,9 +238,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [x] They typically have higher fees due to insurance guarantees and additional features.
 - [ ] They offer strictly lower returns than mutual funds.
 
-> **Explanation:** Segregated funds generally have higher Management Expense Ratios and insurance fees because they provide maturity guarantees and death benefits.
+> **Explanation:**( Segregated funds generally have higher Management Expense Ratios and insurance fees because they provide maturity guarantees and death benefits.)
 
----
 
 ### In terms of regulatory compliance, which approach should advisors take when recommending segregated funds?
 
@@ -253,9 +248,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] Make decisions without the client’s input since it is an advisor product.  
 - [ ] Discuss only the investment returns; do not focus on contract details or estate benefits.
 
-> **Explanation:** Advisors must conduct thorough due diligence, comparing segregated funds’ features and fees to client objectives and risk tolerance. Proper disclosure aligns with CIRO and insurance regulations.
+> **Explanation:**( Advisors must conduct thorough due diligence, comparing segregated funds’ features and fees to client objectives and risk tolerance. Proper disclosure aligns with CIRO and insurance regulations.)
 
----
 
 ### If an investor fears their segregated fund value might drop below the guaranteed floor before the policy matures, which strategy might help retain any market gains?
 
@@ -264,9 +258,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] Transfer to a high-risk equity fund.
 - [ ] Cancel the insurance contract outright.
 
-> **Explanation:** Resetting the contract’s guarantee amount helps safeguard realized gains against future market downturns.
+> **Explanation:**( Resetting the contract’s guarantee amount helps safeguard realized gains against future market downturns.)
 
----
 
 ### Which statement best describes the tax implications of segregated funds?
 
@@ -275,9 +268,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [ ] They cannot be used in registered accounts. 
 - [x] They may have distributions similar to mutual funds but are treated as insurance contracts, adding estate bypass benefits and specific tax considerations.
 
-> **Explanation:** Although segregated funds are structured as insurance, they still generate taxable events (like capital gains or income distributions) similar to mutual funds. The difference lies in insurance-specific benefits like estate bypass.
+> **Explanation:**( Although segregated funds are structured as insurance, they still generate taxable events (like capital gains or income distributions) similar to mutual funds. The difference lies in insurance-specific benefits like estate bypass.)
 
----
 
 ### A segregated fund contract typically matures how many years from its inception, offering the maturity guarantee?
 
@@ -286,9 +278,8 @@ Segregated funds cater to individuals seeking to combine the return potential of
 - [x] 10 years
 - [ ] 25 years
 
-> **Explanation:** Many segregated fund contracts offer a standard 10-year term for the maturity guarantee (though specific terms can vary by product).
+> **Explanation:**( Many segregated fund contracts offer a standard 10-year term for the maturity guarantee (though specific terms can vary by product).)
 
----
 
 ### True or False: One advantage of segregated funds is that their proceeds can bypass the estate, potentially avoiding probate fees.
 

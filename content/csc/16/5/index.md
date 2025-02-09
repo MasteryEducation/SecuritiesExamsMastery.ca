@@ -136,8 +136,8 @@ While theory provides the analytical basis, advisors must follow a methodical pr
 
 ```mermaid
 flowchart TB
-    A[Identify Target Asset Class] --> B[Conduct Analysis (Fundamental/Technical)]
-    B --> C[Evaluate Regulatory & Compliance Requirements (KYP, CIRO Guidelines)]
+    A[Identify Target Asset Class] --> B["Conduct Analysis (Fundamental/Technical)"]
+    B --> C["Evaluate Regulatory & Compliance Requirements (KYP, CIRO Guidelines)"]
     C --> D[Review Liquidity & Market Conditions]
     D --> E[Compare Securities & Select Candidates]
     E --> F[Construct Diversified Allocation Within Asset Class]
@@ -189,106 +189,97 @@ For Canadian advisors, continuous learning is vital. Keep abreast of regulatory 
 
 {{< quizdown >}}
 
-### 1. What is the primary goal of security selection in portfolio management?
+### What is the primary goal of security selection in portfolio management?
 
 - [x] Choosing investments that align with the asset allocation and meet client objectives.
 - [ ] Minimizing the number of securities in a portfolio.
 - [ ] Selecting only the highest-risk securities for maximum returns.
 - [ ] Avoiding compliance considerations in decision-making.
 
-> **Explanation:** The fundamental purpose of security selection is to find specific investments that not only fit within the client’s asset allocation strategy but also match their financial goals, risk tolerance, and regulatory requirements.
+> **Explanation:**( The fundamental purpose of security selection is to find specific investments that not only fit within the client’s asset allocation strategy but also match their financial goals, risk tolerance, and regulatory requirements.)
 
----
 
-### 2. Which of the following is a major difference between fundamental and technical analysis?
+### Which of the following is a major difference between fundamental and technical analysis?
 
 - [x] Fundamental analysis assesses intrinsic value, while technical analysis focuses on price patterns and market signals.
 - [ ] They are identical in approach but differ in data sources.
 - [ ] Technical analysis solely uses macroeconomic data, while fundamental analysis only reviews trading volume.
 - [ ] Only technical analysis addresses management quality.
 
-> **Explanation:** Fundamental analysis centers on company valuation and economic indicators, whereas technical analysis reviews past price movements and trading patterns to predict future price behavior.
+> **Explanation:**( Fundamental analysis centers on company valuation and economic indicators, whereas technical analysis reviews past price movements and trading patterns to predict future price behavior.)
 
----
 
-### 3. When evaluating a corporate bond’s suitability, which factor is most important?
+### When evaluating a corporate bond’s suitability, which factor is most important?
 
 - [ ] The daily stock price of the issuing company.
 - [ ] The company’s logo and branding.
 - [x] The bond’s credit rating and default risk.
 - [ ] The marketing campaigns of the issuer.
 
-> **Explanation:** The credit quality of the issuer (as reflected by ratings) is central to assessing default risk. A bond with a higher credit rating typically offers a lower probability of default, making it crucial for fixed-income security selection.
+> **Explanation:**( The credit quality of the issuer (as reflected by ratings) is central to assessing default risk. A bond with a higher credit rating typically offers a lower probability of default, making it crucial for fixed-income security selection.)
 
----
 
-### 4. How can an advisor reduce unsystematic risk within a segment of the portfolio?
+### How can an advisor reduce unsystematic risk within a segment of the portfolio?
 
 - [ ] By investing all funds in a single high-performing stock.
 - [ ] By focusing on one industry to become an “expert” in that industry.
 - [x] Through diversification across multiple companies and industries.
 - [ ] By timing the market using daily technical indicators.
 
-> **Explanation:** Unsystematic risk is company-specific or sector-specific risk that can be reduced by spreading investments among various companies and sectors.
+> **Explanation:**( Unsystematic risk is company-specific or sector-specific risk that can be reduced by spreading investments among various companies and sectors.)
 
----
 
-### 5. Which of the following best describes the essential role of the Know Your Product (KYP) requirement?
+### Which of the following best describes the essential role of the Know Your Product (KYP) requirement?
 
 - [x] It ensures advisors understand the features, risks, and suitability of a product before recommending it.
 - [ ] It mandates advisors only sell mutual funds.
 - [x] It is a voluntary guideline in Canada.
 - [ ] It replaces all client-related documentation.
 
-> **Explanation:** KYP requires advisors to understand thoroughly the products they recommend, including risks, fees, and underlying assets. This knowledge must be combined with KYC to ensure client suitability.
+> **Explanation:**( KYP requires advisors to understand thoroughly the products they recommend, including risks, fees, and underlying assets. This knowledge must be combined with KYC to ensure client suitability.)
 
----
 
-### 6. Which of the following factors is most critical for selecting equities?
+### Which of the following factors is most critical for selecting equities?
 
 - [x] Assessing both the company’s fundamentals and the broader industry outlook.
 - [ ] Only evaluating the company’s logo and brand colors.
 - [ ] Focusing on investor sentiment from social media.
 - [ ] Exclusively looking at last week’s price movements.
 
-> **Explanation:** For equities, a full evaluation must include both fundamental data (e.g., financial statements, strategic positioning) and the broader industry context to ensure potential for sustainable growth.
+> **Explanation:**( For equities, a full evaluation must include both fundamental data (e.g., financial statements, strategic positioning) and the broader industry context to ensure potential for sustainable growth.)
 
----
 
-### 7. In the context of bond investing, what is “yield to maturity”?
+### In the context of bond investing, what is “yield to maturity”?
 
 - [x] The total return anticipated if the bond is held until it matures, incorporating coupon payments and capital gains/losses.
 - [ ] The interest rate set by the Bank of Canada for overnight loans.
 - [ ] The difference between the stock’s price and its earnings per share.
 - [ ] A guaranteed measured increase in the bond’s face value.
 
-> **Explanation:** Yield to maturity (YTM) considers all future coupon payments and the difference between the purchase price and par value to estimate the annualized return if the bond is held until maturity.
+> **Explanation:**( Yield to maturity (YTM) considers all future coupon payments and the difference between the purchase price and par value to estimate the annualized return if the bond is held until maturity.)
 
----
 
-### 8. How might an advisor use technical analysis in conjunction with fundamental analysis?
+### How might an advisor use technical analysis in conjunction with fundamental analysis?
 
 - [x] By identifying undervalued securities through fundamentals, then using technical signals to determine entry and exit points.
 - [ ] By ignoring all fundamental data and focusing exclusively on chart patterns.
 - [ ] By relying on random price movements for security selection.
 - [ ] By focusing only on bond credit ratings and ignoring market prices.
 
-> **Explanation:** An integrated approach often involves fundamental analysis to determine if a security is undervalued or overvalued, then leveraging technical analytics to time trade execution more effectively.
+> **Explanation:**( An integrated approach often involves fundamental analysis to determine if a security is undervalued or overvalued, then leveraging technical analytics to time trade execution more effectively.)
 
----
 
-### 9. What is the main benefit of investing in mutual funds or ETFs over individual stock picking?
+### What is the main benefit of investing in mutual funds or ETFs over individual stock picking?
 
 - [x] Instant diversification across a basket of securities.
 - [ ] Lower regulatory standards.
 - [ ] Guaranteed price increases over time.
 - [ ] Elimination of market risk.
 
-> **Explanation:** Mutual funds and ETFs deliver an instant, professionally managed portfolio of multiple securities, reducing unsystematic risk and providing simplified exposure to various market segments.
+> **Explanation:**( Mutual funds and ETFs deliver an instant, professionally managed portfolio of multiple securities, reducing unsystematic risk and providing simplified exposure to various market segments.)
 
----
 
-### 10. True or False: Diversification within an asset class can eliminate all market risks.
+### True or False: Diversification within an asset class can eliminate all market risks.
 
 - [x] True
 - [ ] False

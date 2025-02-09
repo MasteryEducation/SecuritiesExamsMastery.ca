@@ -190,7 +190,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 {{< quizdown >}}
 
-### 1. What does it mean for a mutual fund to be an “open-ended” fund?
+### What does it mean for a mutual fund to be an “open-ended” fund?
 
 - [x] It continuously issues and redeems units at the prevailing NAVPS.
 - [ ] It has a fixed number of shares outstanding that rarely changes.
@@ -199,7 +199,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** Open-ended funds issue new units and redeem existing units at the current NAVPS based on the real-time value of the fund’s portfolio.
 
-### 2. Which statement best describes the role of the custodian in a mutual fund trust structure?
+### Which statement best describes the role of the custodian in a mutual fund trust structure?
 
 - [x] The custodian holds the fund’s assets in safekeeping on behalf of unitholders.
 - [ ] The custodian is responsible for setting investment objectives and risk parameters.
@@ -208,7 +208,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** The custodian’s primary duty is to safeguard the fund’s securities and ensure they are properly managed, providing an additional layer of security for investors.
 
-### 3. Why is diversification considered an advantage of mutual funds?
+### Why is diversification considered an advantage of mutual funds?
 
 - [x] It helps reduce the impact of poor performance by any single asset in the portfolio.
 - [ ] Diversified funds only invest in government bonds.
@@ -217,7 +217,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** By holding numerous securities across various sectors and regions, the fund can moderate risk if any particular asset or sector underperforms.
 
-### 4. Which of the following is a potential disadvantage of mutual funds?
+### Which of the following is a potential disadvantage of mutual funds?
 
 - [x] Management fees and expenses can reduce overall returns.
 - [ ] Investors maintain direct control over which securities the fund manager buys.
@@ -226,7 +226,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** While mutual funds are regulated and offer numerous benefits, the fees and expenses can significantly affect investors’ net returns over time.
 
-### 5. What is typically included in a mutual fund’s Management Expense Ratio (MER)?
+### What is typically included in a mutual fund’s Management Expense Ratio (MER)?
 
 - [x] Management fees and operating expenses.
 - [ ] Personal advisor fees and private account charges.
@@ -235,7 +235,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** The MER generally includes the fund’s management fees, administrative costs, certain taxes, and other day-to-day operational expenses but does not include personal capital gains taxes.
 
-### 6. Which regulatory document simplifies complex prospectus information for investors?
+### Which regulatory document simplifies complex prospectus information for investors?
 
 - [x] The Fund Facts document.
 - [ ] The WealthSimple Performance Report.
@@ -244,7 +244,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** Fund Facts documents provide a concise summary of the mutual fund’s essential information, including fees, risk rating, and past performance.
 
-### 7. Which organization regulates Canadian investment dealers who distribute mutual funds?
+### Which organization regulates Canadian investment dealers who distribute mutual funds?
 
 - [x] CIRO (Canadian Investment Regulatory Organization).
 - [ ] Canada Revenue Agency (CRA).
@@ -253,7 +253,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** CIRO regulates investment dealers in Canada, ensuring that they comply with industry standards, suitability requirements, and sales practice rules.
 
-### 8. What does a higher MER generally imply for an investor in a mutual fund?
+### What does a higher MER generally imply for an investor in a mutual fund?
 
 - [x] It may erode more of the investor’s returns over time.
 - [ ] It guarantees higher returns due to better management.
@@ -262,7 +262,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** A higher MER means more of the fund’s returns are consumed by fees, potentially reducing the net gain the investor receives.
 
-### 9. When evaluating a mutual fund, why is it important to review its investment objectives?
+### When evaluating a mutual fund, why is it important to review its investment objectives?
 
 - [x] To ensure the fund’s goals align with your risk tolerance and return expectations.
 - [ ] To determine the maximum number of shares you can purchase.
@@ -271,7 +271,7 @@ By understanding how fees, structures, and regulations interplay, you will be be
 
 > **Explanation:** The fund’s strategy and objectives guide its asset allocation and risk profile, which should match your personal investment goals and comfort with risk.
 
-### 10. Is it possible to purchase Canadian mutual funds through online “self-directed” platforms without a financial advisor?
+### Is it possible to purchase Canadian mutual funds through online “self-directed” platforms without a financial advisor?
 
 - [x] True
 - [ ] False

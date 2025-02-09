@@ -16,7 +16,7 @@ Whether you hold shares in a Canadian bank or are simply learning about investme
 
 ---
 
-### 1. Functional Overview of the Annual Report
+### Functional Overview of the Annual Report
 
 From the perspective of investors, the annual report is the ultimate snapshot of a corporation's direction over the previous fiscal year. It is designed to:
 
@@ -29,7 +29,7 @@ In the Canadian context, the release of an annual report adheres to stringent gu
 
 ---
 
-### 2. Key Components of the Annual Report
+### Key Components of the Annual Report
 
 Below is a Mermaid diagram illustrating the main sections of a typical Canadian annual report:
 
@@ -114,7 +114,7 @@ Investors should weigh these forward-looking statements carefully, recognizing t
 
 ---
 
-### 3. Continuous Disclosure and Regulatory Compliance
+### Continuous Disclosure and Regulatory Compliance
 
 In Canada, securities regulators place a strong emphasis on continuous disclosure to ensure that material information is made available promptly to the investing public. This includes:
 
@@ -126,7 +126,7 @@ CIRO maintains oversight of investment dealers to ensure they properly comply wi
 
 ---
 
-### 4. Practical Case Example: A Canadian Bank Annual Report
+### Practical Case Example: A Canadian Bank Annual Report
 
 Consider a real-world scenario involving a major Canadian bank, such as RBC. Each year, RBC publishes an annual report that includes:
 
@@ -138,7 +138,7 @@ Consider a real-world scenario involving a major Canadian bank, such as RBC. Eac
 
 ---
 
-### 5. Step-by-Step Guidance for Reading an Annual Report
+### Step-by-Step Guidance for Reading an Annual Report
 
 1. **Skim the Letter to Shareholders:** Identify the company’s success highlights and overarching strategic direction.  
 2. **Dive Into the MD&A:** Look for detailed operational metrics, risk disclosures, and forward-looking statements.  
@@ -150,7 +150,7 @@ Consider a real-world scenario involving a major Canadian bank, such as RBC. Eac
 
 ---
 
-### 6. Common Pitfalls and Best Practices
+### Common Pitfalls and Best Practices
 
 • **Overlooking the Notes:** Many new investors focus on top-line figures but skip the extensive disclosures in the footnotes, missing critical details about accounting assumptions and potential contingencies.  
 • **Forgetting Macro Factors:** Even robust MD&A commentary can be blindsided by external macroeconomic shifts (e.g., changes in the Bank of Canada’s benchmark rates).  
@@ -161,7 +161,7 @@ When analyzing annual reports, it is crucial to seek multiple perspectives, incl
 
 ---
 
-### 7. Glossary
+### Glossary
 
 • **Management’s Discussion and Analysis (MD&A):** A narrative section where management explains the company’s financial results, condition, and plans, providing an important bridge between raw financial numbers and management’s strategic viewpoint.  
 
@@ -173,7 +173,7 @@ When analyzing annual reports, it is crucial to seek multiple perspectives, incl
 
 ---
 
-### 8. Additional Resources
+### Additional Resources
 
 • [CSA Staff Notice on MD&A Best Practices](https://www.securities-administrators.ca/) – Offers official guidelines for transparent and effective disclosure in public companies’ MD&A reports.  
 • [CIRO (Canadian Investment Regulatory Organization)](https://www.ciro.ca/) – Provides regulation for investment dealers in areas such as disclosure, licensing, and compliance.  

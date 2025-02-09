@@ -156,106 +156,97 @@ This concludes Chapter 6, which introduces the foundational concepts of fixed-in
 
 {{< quizdown >}}
 
-### 1. Which of the following is typically included in a standard bond quote?
+### Which of the following is typically included in a standard bond quote?
 
 - [x] Coupon, price, maturity date, yield
 - [ ] Equity share price, yield spread, and dividend rate
 - [ ] Corporate financial statements
 - [ ] The rating agency’s analyst report
 
-> **Explanation:** Standard bond quotes typically feature the coupon rate, price, maturity date, and yield. An analyst report or financial statements may be separate.
+> **Explanation:**( Standard bond quotes typically feature the coupon rate, price, maturity date, and yield. An analyst report or financial statements may be separate.)
 
----
 
-### 2. When you see a bond quoted as 99.50, what percentage of par are you effectively paying?
+### When you see a bond quoted as 99.50, what percentage of par are you effectively paying?
 
 - [ ] 9.95%
 - [x] 99.50%
 - [ ] 88.50%
 - [ ] 100.50%
 
-> **Explanation:** A quote of 99.50 indicates 99.50% of the bond's face (par) value.
+> **Explanation:**( A quote of 99.50 indicates 99.50% of the bond's face (par) value.)
 
----
 
-### 3. Which price typically includes accrued interest?
+### Which price typically includes accrued interest?
 
 - [ ] Clean price
 - [ ] Listed price
 - [x] Dirty price
 - [ ] Nominal price
 
-> **Explanation:** The dirty price (also called the full price) is the clean price plus accrued interest.
+> **Explanation:**( The dirty price (also called the full price) is the clean price plus accrued interest.)
 
----
 
-### 4. What is a primary reason for paying attention to accrued interest on a bond you buy?
+### What is a primary reason for paying attention to accrued interest on a bond you buy?
 
 - [ ] It doubles your coupon payment
 - [x] It accurately reflects the total cash amount you must pay
 - [ ] It is paid by the issuer as a penalty
 - [ ] It never impacts the bond’s yield to maturity
 
-> **Explanation:** Accrued interest determines the actual (dirty) price you pay, which affects your out-of-pocket expense.
+> **Explanation:**( Accrued interest determines the actual (dirty) price you pay, which affects your out-of-pocket expense.)
 
----
 
-### 5. Which combination below generally represents an investment-grade rating category from S&P?
+### Which combination below generally represents an investment-grade rating category from S&P?
 
 - [x] AAA, AA, A, BBB
 - [ ] BB, B, CCC, Default
 - [x] AAA, BBB, CCC, D
 - [ ] C, CC, B, BB
 
-> **Explanation:** AAA, AA, A, and BBB (and their “+” or “-” notations) are considered investment-grade ratings by S&P.
+> **Explanation:**( AAA, AA, A, and BBB (and their “+” or “-” notations) are considered investment-grade ratings by S&P.)
 
----
 
-### 6. How does an upgrade to a bond’s credit rating usually affect its yield?
+### How does an upgrade to a bond’s credit rating usually affect its yield?
 
 - [x] The yield tends to decrease because the bond’s price goes up
 - [ ] The yield remains unchanged
 - [ ] The yield tends to increase because the bond’s price goes down
 - [ ] The yield becomes negative
 
-> **Explanation:** When a bond is upgraded, investors perceive lower default risk, pushing up price and generally lowering the yield.
+> **Explanation:**( When a bond is upgraded, investors perceive lower default risk, pushing up price and generally lowering the yield.)
 
----
 
-### 7. Which index serves as a broad benchmark for the Canadian investment-grade bond market?
+### Which index serves as a broad benchmark for the Canadian investment-grade bond market?
 
 - [ ] S&P/TSX Composite Index
 - [x] FTSE Canada Universe Bond Index
 - [ ] Dow Jones Industrial Average
 - [ ] NASDAQ 100
 
-> **Explanation:** The FTSE Canada Universe Bond Index tracks a broad range of Canadian investment-grade fixed-income securities.
+> **Explanation:**( The FTSE Canada Universe Bond Index tracks a broad range of Canadian investment-grade fixed-income securities.)
 
----
 
-### 8. A bond’s clean price is 101.25, and the accrued interest is $2.75 per $1,000 face value. What is the dirty price per $1,000 face value?
+### A bond’s clean price is 101.25, and the accrued interest is $2.75 per $1,000 face value. What is the dirty price per $1,000 face value?
 
 - [ ] $99.00
 - [ ] $101.25
 - [ ] $102.50
 - [x] $104.00
 
-> **Explanation:** Dirty Price = Clean Price + Accrued Interest = $101.25 + $2.75 = $104.00 per $100, which translates to $1,040 if the par is $1,000.
+> **Explanation:**( Dirty Price = Clean Price + Accrued Interest = $101.25 + $2.75 = $104.00 per $100, which translates to $1,040 if the par is $1,000.)
 
----
 
-### 9. If a bond’s credit rating is downgraded from BBB to BB, which scenario is most likely?
+### If a bond’s credit rating is downgraded from BBB to BB, which scenario is most likely?
 
 - [ ] The bond will be classified as a risk-free asset
 - [ ] The yield will increase significantly
 - [x] Some institutional investors may be forced to sell the bond
 - [ ] The bond’s price will likely increase
 
-> **Explanation:** A downgrade from investment-grade (BBB) to non-investment-grade (BB) often triggers forced selling by institutional investors restricted to investment-grade holdings, likely increasing yield and decreasing price.
+> **Explanation:**( A downgrade from investment-grade (BBB) to non-investment-grade (BB) often triggers forced selling by institutional investors restricted to investment-grade holdings, likely increasing yield and decreasing price.)
 
----
 
-### 10. The “dirty price” of a bond is also known as the “full price.”
+### The “dirty price” of a bond is also known as the “full price.”
 
 - [x] True
 - [ ] False

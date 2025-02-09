@@ -20,7 +20,7 @@ This section focuses on the corporate form—its unique features, governance fra
 
 ---
 
-### 1. Comparing Key Business Structures
+### Comparing Key Business Structures
 
 Before concentrating on corporations, it is helpful to understand how they compare to the other main Canadian business forms.
 
@@ -56,7 +56,7 @@ flowchart LR
 
 ---
 
-### 2. Corporations as Separate Legal Entities
+### Corporations as Separate Legal Entities
 
 A corporation is established under federal (e.g., the Canada Business Corporations Act) or provincial legislation. Once incorporated, the corporation exists independently from its founders and shareholders. This concept of separate legal entity means:
 
@@ -66,7 +66,7 @@ A corporation is established under federal (e.g., the Canada Business Corporatio
 
 ---
 
-### 3. Essential Participants in a Corporate Structure
+### Essential Participants in a Corporate Structure
 
 A corporation’s governance is built upon a clear hierarchy. Understanding these different roles is crucial for recognizing how decision-making power flows within a corporate framework.
 
@@ -98,7 +98,7 @@ flowchart TB
 
 ---
 
-### 4. Types of Corporations: Private vs. Public
+### Types of Corporations: Private vs. Public
 
 Corporations vary in size, ownership structure, and the extent to which they must comply with regulatory requirements. Two main categories are:
 
@@ -116,7 +116,7 @@ Examples in Canada include established corporations such as RBC (Royal Bank of C
 
 ---
 
-### 5. Corporate Bylaws and Governance Policies
+### Corporate Bylaws and Governance Policies
 
 At the heart of a corporation’s day-to-day administration are its bylaws. These rules, approved by shareholders, outline procedures related to:
 
@@ -129,7 +129,7 @@ In addition to bylaws, many corporations adopt **corporate governance guidelines
 
 ---
 
-### 6. Corporate Governance and Regulatory Compliance
+### Corporate Governance and Regulatory Compliance
 
 #### 6.1 Canadian Regulators
 When a corporation decides to raise capital by selling securities to the public, it must comply with requirements enforced by agencies under the umbrella of the **Canadian Securities Administrators (CSA)**. Specific provinces may have their own commissions, such as:
@@ -152,7 +152,7 @@ The **Ontario Securities Commission** publishes corporate governance guidelines 
 
 ---
 
-### 7. Practical Considerations and Real-World Scenarios
+### Practical Considerations and Real-World Scenarios
 
 #### 7.1 Raising Capital: Private vs. Public Routes
 • A Canadian startup might begin as a private corporation funded by friends, family, and angel investors. Over time, if the company’s growth requires significant capital, it may go through an initial public offering (IPO) to broaden its shareholder base and attract institutional investors such as Canadian pension funds.  
@@ -168,7 +168,7 @@ The **Ontario Securities Commission** publishes corporate governance guidelines 
 
 ---
 
-### 8. Applying the Concepts: Step-by-Step Guidance
+### Applying the Concepts: Step-by-Step Guidance
 
 1. **Choosing the Right Structure**  
    • An entrepreneur must decide whether to register a sole proprietorship, partnership, or corporation. Factors like risk tolerance, funding needs, and limitations on personal liability play a vital role in making this decision.
@@ -194,7 +194,7 @@ The **Ontario Securities Commission** publishes corporate governance guidelines 
 
 ---
 
-### 9. Common Pitfalls and Strategies to Overcome Them
+### Common Pitfalls and Strategies to Overcome Them
 
 • **Insufficient Governance Structure**: A poorly structured Board or unclear bylaws may slow decision-making and increase legal vulnerabilities. → Strategy: Seek professional legal advice to draft robust bylaws and establish well-structured governance.  
 • **Resistance to Transparency**: Private owners sometimes hesitate to provide detailed disclosures, which may limit access to outside capital. → Strategy: Adopt transparent practices to build investor confidence, even if you remain private.  
@@ -202,7 +202,7 @@ The **Ontario Securities Commission** publishes corporate governance guidelines 
 
 ---
 
-### 10. Glossary
+### Glossary
 
 • **Legal Entity**: An organization (e.g., corporation) with rights and responsibilities at law, separate from its owners or members.  
 • **Limited Liability**: A legal principle by which a shareholder’s financial exposure is capped at the amount invested; personal assets are shielded in the event of corporate losses.  
@@ -211,7 +211,7 @@ The **Ontario Securities Commission** publishes corporate governance guidelines 
 
 ---
 
-### 11. Additional Resources
+### Additional Resources
 
 Below are references and resources that offer deeper insights into forming and managing corporations in Canada:
 

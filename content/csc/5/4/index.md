@@ -27,7 +27,7 @@ Understanding these challenges helps investors, financial professionals, and pol
 
 ---
 
-### 1. Time Lags in Policy Implementation
+### Time Lags in Policy Implementation
 
 The concept of time lags refers to the delay between identifying an economic problem, formulating a policy response, implementing the policy, and finally seeing its effects. These lags can be summarized as follows:
 
@@ -40,7 +40,7 @@ Time lags can significantly reduce the effectiveness of counter-cyclical policie
 
 ---
 
-### 2. Conflicting Objectives
+### Conflicting Objectives
 
 Governments commonly seek to achieve multiple objectives simultaneously:  
 • Controlling inflation  
@@ -54,7 +54,7 @@ Policy approaches that attempt to handle all these issues concurrently can becom
 
 ---
 
-### 3. External Factors
+### External Factors
 
 Even the most well-designed domestic policies can be undermined by global forces. Canada’s economy is export-oriented and deeply integrated into global trade networks, particularly those involving the United States, Europe, and Asia. Significant external factors include:
 
@@ -67,7 +67,7 @@ These external dependencies mean that local policies must remain flexible and ad
 
 ---
 
-### 4. Public Debt and Deficits
+### Public Debt and Deficits
 
 Fiscal deficits occur when government expenditures surpass revenues in a given period. Deficits, if sustained over many years, can accumulate into large public debt, which creates additional challenges:
 
@@ -79,7 +79,7 @@ Case studies of major Canadian banks, such as RBC or TD, highlight how governmen
 
 ---
 
-### 5. Political Pressures
+### Political Pressures
 
 Policymaking is inherently political, and elections, public opinion, and shifting leadership priorities can significantly influence economic policy. This dynamic is often referred to as the “political business cycle,” where elected officials may:
 
@@ -91,7 +91,7 @@ Such pressures can lead to a cycle where short-term decisions overshadow long-te
 
 ---
 
-### 6. Data Reliability and Forecasting Uncertainty
+### Data Reliability and Forecasting Uncertainty
 
 Policymakers, market analysts, and investors rely on data like GDP growth, inflation, and employment figures to make informed decisions. However, economic data can be subject to:
 
@@ -103,7 +103,7 @@ When data is unreliable or out-of-date, implementing timely and appropriate poli
 
 ---
 
-### 7. Coordination Among Government Entities in Canada
+### Coordination Among Government Entities in Canada
 
 Compared to many jurisdictions, Canada boasts a relatively collaborative environment among its key financial and regulatory institutions. These institutions include:
 
@@ -116,7 +116,7 @@ Collaborative efforts can help align objectives such as controlling inflation an
 
 ---
 
-### 8. Balancing Fiscal and Monetary Policy
+### Balancing Fiscal and Monetary Policy
 
 Fostering a stable environment for Canadian growth and investment requires careful calibration between fiscal and monetary policy—particularly over the longer term. In the short term, these policy tools may move in divergent directions:  
 
@@ -139,7 +139,7 @@ In this diagram, both fiscal and monetary policy feed into broader economic outc
 
 ---
 
-### 9. Best Practices and Potential Solutions
+### Best Practices and Potential Solutions
 
 Given these challenges, policymakers and market participants often employ multiple strategies to enhance the effectiveness of economic policy in Canada:
 
@@ -152,7 +152,7 @@ Given these challenges, policymakers and market participants often employ multip
 
 ---
 
-### 10. Glossary
+### Glossary
 
 • **Time Lags**: Delays between identifying an economic issue, deciding on a policy, implementing it, and observing the policy’s full impact.  
 • **Conflicting Objectives**: Situations where achieving certain policy goals (e.g., controlling inflation) may contradict or hinder other objectives (e.g., maximizing employment).  
@@ -206,97 +206,88 @@ These resources provide divergent perspectives on how policies are formulated an
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the concept of a time lag in economic policy?
+### Which of the following best describes the concept of a time lag in economic policy?
 - [ ] The immediate response of the economy once a policy is announced  
 - [ ] The effectiveness of policies only during an election cycle  
 - [x] The delay between identifying an economic issue, implementing the policy, and seeing its impact  
 - [ ] The time it takes for foreign investors to react to domestic policy changes  
 
-> **Explanation:** “Time lag” includes recognition, implementation, and impact delays, reducing the effectiveness of policy measures if the economic environment changes before the policy takes effect.
+> **Explanation:**( “Time lag” includes recognition, implementation, and impact delays, reducing the effectiveness of policy measures if the economic environment changes before the policy takes effect.)
 
----
 
-### 2. How might conflicting objectives manifest in a government’s economic policy?
+### How might conflicting objectives manifest in a government’s economic policy?
 - [x] Tighter monetary policy to combat inflation may conflict with expansionary fiscal measures to reduce unemployment  
 - [ ] Policies always seamlessly work together to achieve multiple objectives concurrently  
 - [ ] Conflicting objectives only arise from external influences  
 - [ ] All conflicting policy objectives involve currency devaluation  
 
-> **Explanation:** Conflicts occur because measures designed to control inflation often slow growth, making it harder to reduce unemployment in the short run.
+> **Explanation:**( Conflicts occur because measures designed to control inflation often slow growth, making it harder to reduce unemployment in the short run.)
 
----
 
-### 3. Which global factor can particularly challenge Canada’s domestic policy initiatives?
+### Which global factor can particularly challenge Canada’s domestic policy initiatives?
 - [x] Commodity price swings affecting export revenues  
 - [ ] An ideal correlation between stock market returns and interest rates  
 - [ ] Zero influence from international markets  
 - [ ] Complete insulation from currency fluctuations  
 
-> **Explanation:** As a resource-rich nation, Canada is vulnerable to swings in global commodity prices, which can undermine or enhance domestic economic policy objectives.
+> **Explanation:**( As a resource-rich nation, Canada is vulnerable to swings in global commodity prices, which can undermine or enhance domestic economic policy objectives.)
 
----
 
-### 4. How can sustained fiscal deficits become problematic over time?
+### How can sustained fiscal deficits become problematic over time?
 - [ ] They never pose issues because the government can always print money  
 - [ ] They have no effect on government financial stability  
 - [ ] They only affect small local governments  
 - [x] They increase public debt and lead to higher debt-servicing costs  
 
-> **Explanation:** Persistent deficits accumulate into larger overall debt, raising interest costs and limiting the government’s fiscal flexibility.
+> **Explanation:**( Persistent deficits accumulate into larger overall debt, raising interest costs and limiting the government’s fiscal flexibility.)
 
----
 
-### 5. “Political business cycle” theory suggests that elected officials may:
+### “Political business cycle” theory suggests that elected officials may:
 - [x] Use expansionary policies before elections to gain short-term economic boosts  
 - [x] Possibly impose contractionary policies after elections to correct imbalances  
 - [ ] Shun any expansionary policies during election seasons  
 - [ ] Only focus on monetary policy tools  
 
-> **Explanation:** In pursuit of re-election, politicians might adopt expansionary measures for voter appeal, leading to potential corrections afterward.
+> **Explanation:**( In pursuit of re-election, politicians might adopt expansionary measures for voter appeal, leading to potential corrections afterward.)
 
----
 
-### 6. Which of the following solutions can help mitigate the challenges posed by time lags?
+### Which of the following solutions can help mitigate the challenges posed by time lags?
 - [x] Automatic stabilizers like Employment Insurance (EI)  
 - [ ] Eliminating all economic data releases  
 - [ ] A rigid, unchangeable fiscal plan for five years  
 - [ ] Banning foreign trade and investment  
 
-> **Explanation:** Automatic stabilizers operate without the need for new legislation, speeding up the policy response to economic fluctuations.
+> **Explanation:**( Automatic stabilizers operate without the need for new legislation, speeding up the policy response to economic fluctuations.)
 
----
 
-### 7. How does the Bank of Canada typically communicate future monetary policy directions to the public?
+### How does the Bank of Canada typically communicate future monetary policy directions to the public?
 - [x] Forward guidance in official statements and rate announcements  
 - [ ] Keeping future measures secret and confidential  
 - [x] Publishing regular monetary policy reports  
 - [ ] Only relying on commentary from private analysts  
 
-> **Explanation:** The Bank of Canada’s policy communication is key to reducing uncertainty; official statements and Monetary Policy Reports provide insight into potential interest rate paths.
+> **Explanation:**( The Bank of Canada’s policy communication is key to reducing uncertainty; official statements and Monetary Policy Reports provide insight into potential interest rate paths.)
 
----
 
-### 8. Which agency in Canada is primarily responsible for administering tax policy?
+### Which agency in Canada is primarily responsible for administering tax policy?
 - [ ] Bank of Canada  
 - [ ] Canadian Investment Regulatory Organization (CIRO)  
 - [ ] Department of Finance Canada  
 - [x] Canada Revenue Agency (CRA)  
 
-> **Explanation:** While the Department of Finance designs tax policy, the Canada Revenue Agency implements and enforces these regulations.
+> **Explanation:**( While the Department of Finance designs tax policy, the Canada Revenue Agency implements and enforces these regulations.)
 
----
 
-### 9. Which best practice helps align fiscal and monetary policies in Canada?
+### Which best practice helps align fiscal and monetary policies in Canada?
 - [ ] Keeping the Bank of Canada unaware of federal government agendas  
 - [ ] Ensuring zero communication between the central bank and elected officials  
 - [x] Coordination between the Bank of Canada and the Department of Finance to manage inflation and employment  
 - [ ] Deliberately setting conflicting targets  
 
-> **Explanation:** Effective coordination allows the Bank of Canada to manage inflation while the government supports employment and growth objectives, creating a balanced approach.
+> **Explanation:**( Effective coordination allows the Bank of Canada to manage inflation while the government supports employment and growth objectives, creating a balanced approach.)
 
----
 
-### 10. In the context of policy objectives, is it always possible to achieve all targets simultaneously?
+### In the context of policy objectives, is it always possible to achieve all targets simultaneously?
 - [ ] True  
 - [x] False  
 

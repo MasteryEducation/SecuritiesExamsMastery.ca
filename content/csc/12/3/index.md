@@ -179,105 +179,96 @@ Bringing new securities to the Canadian market is both an art and a science—co
 
 {{< quizdown >}}
 
-### 1. Which market involves the issuance of new securities directly by the issuer?
+### Which market involves the issuance of new securities directly by the issuer?
 
 - [x] Primary market  
 - [ ] Secondary market  
 - [ ] Debt market  
 - [ ] Derivatives market  
 
-> **Explanation:** In the primary market, issuers (e.g., corporations or governments) sell new securities to raise capital.  
+> **Explanation:**( In the primary market, issuers (e.g., corporations or governments) sell new securities to raise capital.  )
 
----
 
-### 2. In the distribution of an IPO, what document is typically filed with the securities commissions before the final prospectus?
+### In the distribution of an IPO, what document is typically filed with the securities commissions before the final prospectus?
 
 - [x] Preliminary (Red Herring) Prospectus  
 - [ ] Annual Information Form  
 - [ ] Short Form Prospectus  
 - [ ] Shareholder Agreement  
 
-> **Explanation:** The preliminary or "red herring" prospectus is filed to provide potential investors with initial information before a final prospectus is issued.  
+> **Explanation:**( The preliminary or "red herring" prospectus is filed to provide potential investors with initial information before a final prospectus is issued.  )
 
----
 
-### 3. In Canada, if a company has already established a reporting history, it may use National Instrument 44-101 to:
+### In Canada, if a company has already established a reporting history, it may use National Instrument 44-101 to:
 
 - [x] Distribute securities more quickly with a short form prospectus  
 - [ ] Avoid filing any prospectus  
 - [ ] Prohibit retail investors from participating  
 - [ ] Limit the underwriter’s ability to engage in stabilization  
 
-> **Explanation:** National Instrument 44-101 allows eligible issuers to distribute securities using a more streamlined prospectus, known as the short form prospectus.  
+> **Explanation:**( National Instrument 44-101 allows eligible issuers to distribute securities using a more streamlined prospectus, known as the short form prospectus.  )
 
----
 
-### 4. Aftermarket stabilization mechanisms by underwriters are most commonly employed:
+### Aftermarket stabilization mechanisms by underwriters are most commonly employed:
 
 - [x] During the first few days or weeks following an IPO  
 - [ ] Before a preliminary prospectus is filed  
 - [ ] Only when a stock’s price doubles  
 - [ ] Several years after listing  
 
-> **Explanation:** Underwriters may stabilize the stock price soon after the IPO to manage immediate volatility, subject to prescribed legal and regulatory frameworks.  
+> **Explanation:**( Underwriters may stabilize the stock price soon after the IPO to manage immediate volatility, subject to prescribed legal and regulatory frameworks.  )
 
----
 
-### 5. Which of the following statements about the greenshoe (overallotment) option is correct?  
+### Which of the following statements about the greenshoe (overallotment) option is correct?  
 - [x] It allows underwriters to buy or sell additional shares to help stabilize the stock price.  
 - [ ] It is mandatory for all IPOs exceeding $10 million in offered securities.  
 - [ ] It allows the underwriters to cancel the entire IPO if initial demand is weak.  
 - [ ] It does not require any regulatory disclosure.  
 
-> **Explanation:** The greenshoe option gives underwriters flexibility to buy or sell more shares than originally allocated to manage market volatility, provided it is disclosed.  
+> **Explanation:**( The greenshoe option gives underwriters flexibility to buy or sell more shares than originally allocated to manage market volatility, provided it is disclosed.  )
 
----
 
-### 6. If the offering price of an IPO is set too high, what is a possible outcome?
+### If the offering price of an IPO is set too high, what is a possible outcome?
 
 - [x] The security’s price might drop immediately, disappointing investors.  
 - [ ] The issuer raises significantly more than it expected.  
 - [ ] The underwriter no longer needs to file a final prospectus.  
 - [ ] There is no effect on the security’s trading after listing.  
 
-> **Explanation:** If the price is higher than market demand justifies, the secondary market price may drop below the IPO offer price, leading to immediate losses for early investors.  
+> **Explanation:**( If the price is higher than market demand justifies, the secondary market price may drop below the IPO offer price, leading to immediate losses for early investors.  )
 
----
 
-### 7. Which of the following factors least influences IPO pricing?
+### Which of the following factors least influences IPO pricing?
 
 - [x] The lead underwriter’s office rental costs  
 - [ ] Comparable valuations in the market  
 - [ ] The issuer’s financial fundamentals  
 - [ ] Current macroeconomic conditions  
 
-> **Explanation:** The lead underwriter’s office overhead is not a direct factor in determining where the IPO is priced. Market comparables, fundamentals, and economic conditions are key drivers.  
+> **Explanation:**( The lead underwriter’s office overhead is not a direct factor in determining where the IPO is priced. Market comparables, fundamentals, and economic conditions are key drivers.  )
 
----
 
-### 8. What is a key difference between the primary and secondary markets?
+### What is a key difference between the primary and secondary markets?
 
 - [x] In the primary market, proceeds go to the issuer; in the secondary market, proceeds go to the investor selling the security.  
 - [ ] Only debt instruments are traded in the secondary market.  
 - [ ] The primary market is unregulated, whereas the secondary market is strictly regulated.  
 - [ ] There are no price fluctuations in the secondary market.  
 
-> **Explanation:** In the primary market, new issues raise funds for the issuer, while secondary market transactions involve existing securities trading among investors.  
+> **Explanation:**( In the primary market, new issues raise funds for the issuer, while secondary market transactions involve existing securities trading among investors.  )
 
----
 
-### 9. Which of the following is a main role of underwriters in an IPO?
+### Which of the following is a main role of underwriters in an IPO?
 
 - [x] Performing due diligence, structuring the offering, and distributing shares  
 - [ ] Auditing the issuing company’s annual financial statements  
 - [ ] Setting monetary policy for Canadian banks  
 - [ ] Registering shareholders for a newly created investment fund  
 
-> **Explanation:** Underwriters undertake due diligence, help determine the offer price, market the securities to prospective investors, and distribute the shares.  
+> **Explanation:**( Underwriters undertake due diligence, help determine the offer price, market the securities to prospective investors, and distribute the shares.  )
 
----
 
-### 10. True or False: Underwriters can engage in unlimited aftermarket stabilization without any regulatory constraints.
+### True or False: Underwriters can engage in unlimited aftermarket stabilization without any regulatory constraints.
 
 - [x] False  
 - [ ] True  

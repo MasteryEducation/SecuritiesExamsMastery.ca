@@ -154,106 +154,97 @@ Margin accounts enable investors to leverage their capital for both long and sho
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a long position in a margin account?
+### Which of the following best describes a long position in a margin account?
 
 - [x] Buying securities with the expectation that their price will rise, using borrowed funds.
 - [ ] Selling previously owned securities at a profit.
 - [ ] Borrowing securities from a broker to sell on the market.
 - [ ] Buying put options to hedge a portfolio.
 
-> **Explanation:** A long position in a margin account involves purchasing securities, partially financed by a broker, with the hope that the price will rise.
+> **Explanation:**( A long position in a margin account involves purchasing securities, partially financed by a broker, with the hope that the price will rise.)
 
----
 
-### 2. In Canada, if an investor fails to meet a margin call, the broker may:
+### In Canada, if an investor fails to meet a margin call, the broker may:
 
 - [x] Liquidate some or all of the securities in the account to restore margin compliance.
 - [ ] Cancel the investor’s trade retroactively.
 - [ ] Apply for an extension with CIRO without notifying the client.
 - [ ] Waive the margin requirement indefinitely.
 
-> **Explanation:** Brokers have the authority to sell off positions or liquidate holdings in the margin account to restore required equity levels if investors do not meet their margin calls.
+> **Explanation:**( Brokers have the authority to sell off positions or liquidate holdings in the margin account to restore required equity levels if investors do not meet their margin calls.)
 
----
 
-### 3. What is the principal risk of a short position?
+### What is the principal risk of a short position?
 
 - [x] Potentially unlimited losses if the stock price rises significantly.
 - [ ] No losses are possible.
 - [ ] Fixed maximum loss at the initial borrowed amount.
 - [ ] The investor cannot close the position if the price goes down.
 
-> **Explanation:** In short selling, a rising stock price can lead to theoretically unlimited losses, since the stock may climb indefinitely.
+> **Explanation:**( In short selling, a rising stock price can lead to theoretically unlimited losses, since the stock may climb indefinitely.)
 
----
 
-### 4. Which regulatory organization primarily oversees margin requirements in Canada?
+### Which regulatory organization primarily oversees margin requirements in Canada?
 
 - [x] CIRO (Canadian Investment Regulatory Organization)
 - [ ] SEC (Securities and Exchange Commission)
 - [ ] OSC (Ontario Securities Commission)
 - [ ] FINTRAC
 
-> **Explanation:** CIRO is the main self-regulatory organization overseeing investment dealers and enforcing margin rules in Canada.
+> **Explanation:**( CIRO is the main self-regulatory organization overseeing investment dealers and enforcing margin rules in Canada.)
 
----
 
-### 5. What is a margin call?
+### What is a margin call?
 
 - [x] A broker’s demand for additional funds or securities when the equity in a margin account falls below a required level.
 - [ ] A way to purchase securities at a discount using options.
 - [x] A process involving a phone call to confirm client identity.
 - [ ] A direct instruction from the market exchange to pause trading.
 
-> **Explanation:** When the equity percentage falls below the mandated minimum, the broker issues a margin call requiring the investor to deposit more funds or securities.
+> **Explanation:**( When the equity percentage falls below the mandated minimum, the broker issues a margin call requiring the investor to deposit more funds or securities.)
 
----
 
-### 6. Why might large Canadian pension funds use short selling?
+### Why might large Canadian pension funds use short selling?
 
 - [x] To hedge against market or sector downturns.
 - [ ] To eliminate all risk.
 - [ ] Because it guarantees higher returns than long-only strategies.
 - [ ] To take advantage of daily exchange market maker rebates.
 
-> **Explanation:** Large institutions can use short selling to hedge portfolio risks or to express a bearish view on certain market segments while maintaining broader diversification.
+> **Explanation:**( Large institutions can use short selling to hedge portfolio risks or to express a bearish view on certain market segments while maintaining broader diversification.)
 
----
 
-### 7. Which scenario could trigger a margin call in a margin account?
+### Which scenario could trigger a margin call in a margin account?
 
 - [x] A decline in the stock price causes the account’s equity to drop below the required margin percentage.
 - [ ] The investor chooses to add more securities without any market movement.
 - [x] The investor’s stock price rises significantly, increasing the equity above the requirement.
 - [ ] The brokerage lowers the margin requirement to 10% unexpectedly.
 
-> **Explanation:** If the value of securities in a margin account falls, the investor’s equity portion may slip below mandated levels, prompting a margin call.
+> **Explanation:**( If the value of securities in a margin account falls, the investor’s equity portion may slip below mandated levels, prompting a margin call.)
 
----
 
-### 8. What is a “locate requirement” in short selling?
+### What is a “locate requirement” in short selling?
 
 - [x] The broker’s obligation to ensure shares are available to borrow before executing a short sale.
 - [ ] A requirement for the investor to “locate” the best option chain for a stock.
 - [ ] A measure to find the best interest rate on margin loans.
 - [ ] A system for verifying client identity in margin accounts.
 
-> **Explanation:** The locate requirement ensures that the brokerage can deliver borrowed shares for settlement in a short sale, thus preventing naked short selling.
+> **Explanation:**( The locate requirement ensures that the brokerage can deliver borrowed shares for settlement in a short sale, thus preventing naked short selling.)
 
----
 
-### 9. If an investor uses margin to buy CAD 10,000 worth of shares with a 30% margin requirement, how much must the investor contribute?
+### If an investor uses margin to buy CAD 10,000 worth of shares with a 30% margin requirement, how much must the investor contribute?
 
 - [x] CAD 3,000
 - [ ] CAD 10,000
 - [ ] CAD 7,000
 - [ ] CAD 4,500
 
-> **Explanation:** With a 30% margin requirement, the investor provides 30% of the purchase value: 0.30 × 10,000 = 3,000.
+> **Explanation:**( With a 30% margin requirement, the investor provides 30% of the purchase value: 0.30 × 10,000 = 3,000.)
 
----
 
-### 10. True or False: A short squeeze can cause sharp price increases, forcing short sellers to close their positions.
+### True or False: A short squeeze can cause sharp price increases, forcing short sellers to close their positions.
 
 - [x] True
 - [ ] False

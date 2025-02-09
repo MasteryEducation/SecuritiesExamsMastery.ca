@@ -14,7 +14,7 @@ Financial statements are critical tools for investors, analysts, and other stake
 
 ---
 
-### 1. Overview of the Three Primary Statements
+### Overview of the Three Primary Statements
 
 #### 1.1 Income Statement
 Also referred to as the profit and loss statement (P&L), the Income Statement summarizes the company’s revenues, expenses, and net income (or net loss) over a specific reporting period (e.g., a quarter, semi-annual, or annual period). It allows investors to see the company’s operational performance and profitability. Key elements include:
@@ -48,7 +48,7 @@ A robust cash flow from operating activities generally suggests the company is g
 
 ---
 
-### 2. Financial Reporting Standards and Disclosures
+### Financial Reporting Standards and Disclosures
 
 #### 2.1 IFRS, ASPE, and Other Standards
 Majority of publicly traded Canadian companies adhere to IFRS, while private enterprises may follow ASPE if they do not report publicly. Companies that are cross-listed on U.S. exchanges (e.g., dual-listed RBC shares on the NYSE) might apply or reconcile to U.S. GAAP. Understanding which standards the firm follows is essential because measurement and recognition rules can vary, sometimes causing differences in reported profit or asset valuation.
@@ -61,7 +61,7 @@ Footnotes supply vital supplemental detail on accounting policies, contingent li
 
 ---
 
-### 3. Identifying Non-Recurring and Extraordinary Items
+### Identifying Non-Recurring and Extraordinary Items
 When evaluating performance, it is crucial to distinguish between recurring operational results and special items that may never recur or are highly irregular. Examples include:
 
 • Sale of a non-core division  
@@ -73,7 +73,7 @@ By excluding or adjusting for such items, analysts can better gauge the firm’s
 
 ---
 
-### 4. Evaluating Trends Over Multiple Periods
+### Evaluating Trends Over Multiple Periods
 Reviewing a single quarter or one year of financial data in isolation can be misleading. Savvy analysts look for patterns spanning multiple reporting periods:
 
 • Revenue Growth: Are sales rising consistently, or is there volatility tied to certain seasons or economic cycles?  
@@ -84,7 +84,7 @@ Tracking trends helps identify whether the company is adapting effectively to in
 
 ---
 
-### 5. Capital Structure Analysis
+### Capital Structure Analysis
 Assessing capital structure is critical for evaluating financial stability and risk:
 
 • Debt-to-Equity Ratio (D/E): High leverage can magnify returns but also increases financial risk in adverse conditions.  
@@ -95,7 +95,7 @@ A balanced approach to financing—precise amounts of debt and equity—often su
 
 ---
 
-### 6. Assessing the Quality of Earnings
+### Assessing the Quality of Earnings
 Comparing net income on the Income Statement to cash flow from operations on the Statement of Cash Flows can reveal discrepancies. A company displaying robust earnings but weak operating cash flows may be employing aggressive revenue recognition or carrying significant unpaid receivables. Conversely, strong cash flows that exceed net income could signal conservative accounting practices or efficient working capital management.
 
 #### 6.1 Example: Evaluating a Canadian Bank
@@ -103,7 +103,7 @@ Imagine RBC reports net income of $15 billion for the year, but operating cash f
 
 ---
 
-### 7. Analytical Tools and Next Steps
+### Analytical Tools and Next Steps
 The final step in interpreting financial statements involves applying ratio analysis to compare performance against industry peers and benchmarks, a topic explored in detail in Section 14.3. Nonetheless, even basic measures like the current ratio (current assets ÷ current liabilities) and return on equity (net income ÷ shareholders’ equity) can deliver significant insights immediately:
 
 • Benchmarking: Compare ratios to industry norms to identify potential outliers or strengths.  
@@ -111,7 +111,7 @@ The final step in interpreting financial statements involves applying ratio anal
 
 ---
 
-### 8. Utilizing Visual Aids for Clarity
+### Utilizing Visual Aids for Clarity
 
 Visual representations can help clarify relationships among statements:
 
@@ -128,7 +128,7 @@ flowchart TB
 
 ---
 
-### 9. Common Pitfalls and Best Practices
+### Common Pitfalls and Best Practices
 • Overlooking Footnotes: Key disclosures—such as off-balance sheet liabilities or upcoming regulatory changes—often appear in these notes.  
 • Focusing Only on Net Income: Earnings can be manipulated through accounting policies; cash flow analysis reduces these distortions.  
 • Ignoring Non-Recurring Items: One-off items can artificially inflate or deflate results. Always adjust to see the underlying trend.  
@@ -137,7 +137,7 @@ flowchart TB
 
 ---
 
-### 10. References and Additional Resources
+### References and Additional Resources
 • CPA Canada Handbook for guidance on IFRS and ASPE requirements:  
   https://www.cpacanada.ca/  
 • National Instrument 51-102 Continuous Disclosure Obligations outlines reporting requirements for Canadian public issuers.  
@@ -165,7 +165,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 {{< quizdown >}}
 
-### 1. Which financial statement provides a snapshot of a company's financial position at a specific point in time?  
+### Which financial statement provides a snapshot of a company's financial position at a specific point in time?  
 - [ ] Income Statement  
 - [x] Balance Sheet  
 - [ ] Statement of Cash Flows  
@@ -173,7 +173,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** The Balance Sheet captures the company's assets, liabilities, and shareholders’ equity on a particular date, making it a snapshot of financial position.
 
-### 2. When comparing net income to cash flows from operations, what might a significant and persistent deficit in cash flows indicate?  
+### When comparing net income to cash flows from operations, what might a significant and persistent deficit in cash flows indicate?  
 - [x] Aggressive revenue recognition practices  
 - [ ] A healthy, well-managed organization  
 - [ ] Lower levels of inventory  
@@ -181,7 +181,7 @@ By combining your knowledge of these statements with the advanced techniques cov
  
 > **Explanation:** If net income is high but operating cash flow is persistently low, it may suggest that revenues are being recognized without corresponding cash collection, raising concerns about the quality of earnings.
 
-### 3. Which accounting standard is used by most Canadian public companies?  
+### Which accounting standard is used by most Canadian public companies?  
 - [x] IFRS  
 - [ ] ASPE  
 - [ ] US GAAP  
@@ -189,7 +189,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** Canadian public companies typically follow International Financial Reporting Standards (IFRS) for external reporting.
 
-### 4. In the Income Statement, which item represents revenues less cost of goods sold?  
+### In the Income Statement, which item represents revenues less cost of goods sold?  
 - [ ] Net income  
 - [ ] EBIDTA  
 - [x] Gross profit  
@@ -197,7 +197,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** Gross profit is calculated by subtracting cost of goods sold (COGS) from revenues. It reflects the profitability before accounting for operating and other expenses.
 
-### 5. Which of the following is NOT typically found under "financing activities" in the Statement of Cash Flows?  
+### Which of the following is NOT typically found under "financing activities" in the Statement of Cash Flows?  
 - [ ] Issuance of new shares  
 - [ ] Repayment of debt  
 - [ ] Dividend payments  
@@ -205,7 +205,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** Selling a fixed asset like a manufacturing plant is considered an investing activity, not a financing activity.
 
-### 6. According to best practices, non-recurring items should generally be:  
+### According to best practices, non-recurring items should generally be:  
 - [x] Removed or adjusted when assessing long-term performance  
 - [ ] Considered a core part of earnings  
 - [ ] Used to forecast future profits  
@@ -213,7 +213,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** Non-recurring items can inflate or deflate earnings in a given period. They should typically be excluded or adjusted to derive normalized earnings.
 
-### 7. What does MD&A typically address?  
+### What does MD&A typically address?  
 - [ ] Solely the company’s tax obligations  
 - [ ] Historical data without forward-looking statements  
 - [x] Management’s perspective on financial results and forward-looking strategies  
@@ -221,7 +221,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** The MD&A provides management's explanation of financial results, performance drivers, risks, and future plans.
 
-### 8. Why are footnotes to the financial statements important?  
+### Why are footnotes to the financial statements important?  
 - [ ] They only repeat the information already in the statements  
 - [ ] They rarely contain material disclosures  
 - [x] They provide crucial details on accounting policies, contingent liabilities, and unusual items  
@@ -229,7 +229,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** Footnotes disclose vital information such as the accounting policies used, pending lawsuits, or other off-balance sheet risks that are integral to a thorough analysis.
 
-### 9. Which ratio would best indicate a company’s ability to cover its day-to-day liabilities?  
+### Which ratio would best indicate a company’s ability to cover its day-to-day liabilities?  
 - [x] Current ratio  
 - [ ] Debt-to-equity ratio  
 - [ ] Return on equity  
@@ -237,7 +237,7 @@ By combining your knowledge of these statements with the advanced techniques cov
 
 > **Explanation:** The current ratio (current assets ÷ current liabilities) measures a company’s short-term solvency by indicating how well current assets can cover short-term obligations.
 
-### 10. When a Canadian company cross-lists on a U.S. exchange, it may be required to reconcile its financial statements to US GAAP.  
+### When a Canadian company cross-lists on a U.S. exchange, it may be required to reconcile its financial statements to US GAAP.  
 - [x] True  
 - [ ] False  
 

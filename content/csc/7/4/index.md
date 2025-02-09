@@ -209,7 +209,7 @@ flowchart LR
 
 {{< quizdown >}}
 
-### 1. What is the primary way most bonds trade in Canada?  
+### What is the primary way most bonds trade in Canada?  
 - [x] Through Over-the-Counter (OTC) markets, facilitated by dealers.  
 - [ ] On regulated exchanges, such as the Toronto Stock Exchange.  
 - [ ] Via central limit order books operated by government agencies.  
@@ -217,7 +217,7 @@ flowchart LR
 
 > **Explanation:** The vast majority of Canadian bonds trade through OTC markets, where dealers connect buyers and sellers privately.
 
-### 2. Which type of bond typically trades with the tightest spreads in Canada?  
+### Which type of bond typically trades with the tightest spreads in Canada?  
 - [x] Government of Canada bonds.  
 - [ ] Municipal bonds.  
 - [ ] High-yield corporate bonds.  
@@ -225,7 +225,7 @@ flowchart LR
 
 > **Explanation:** Government of Canada bonds have high liquidity and are considered the least risky, resulting in tighter bid-ask spreads.
 
-### 3. What does T+2 mean in the context of Canadian bond settlement?  
+### What does T+2 mean in the context of Canadian bond settlement?  
 - [x] The trade settles two business days after execution.  
 - [ ] There is a two-minute settlement window to finalize the trade.  
 - [ ] Two months elapse before funds and securities exchange hands.  
@@ -233,7 +233,7 @@ flowchart LR
 
 > **Explanation:** T+2 is the standard settlement cycle for Canadian bond trades, meaning completion occurs two business days after the trade date.
 
-### 4. What is the difference between a bond’s clean price and dirty price?  
+### What is the difference between a bond’s clean price and dirty price?  
 - [x] A bond’s dirty price includes accrued interest, while the clean price does not.  
 - [ ] A bond’s dirty price is adjusted for credit risk, while the clean price is not.  
 - [ ] The dirty price is always below the face value, while the clean price is always above.  
@@ -241,7 +241,7 @@ flowchart LR
 
 > **Explanation:** Dirty price = Clean price + Accrued interest. Investors pay the dirty price at settlement.
 
-### 5. In the OTC market, what is the primary role of investment dealers in bond trading?  
+### In the OTC market, what is the primary role of investment dealers in bond trading?  
 - [x] They provide market liquidity and maintain inventories of bonds for client trades.  
 - [ ] They only track bond index performance on behalf of the central bank.  
 - [x] They set official interest rates for government securities.  
@@ -249,7 +249,7 @@ flowchart LR
 
 > **Explanation:** Investment dealers act as intermediaries, quoting prices, facilitating trades, and sometimes holding an inventory of bonds to ensure liquidity.
 
-### 6. Which of the following is an example of an electronic bond trading platform in Canada?  
+### Which of the following is an example of an electronic bond trading platform in Canada?  
 - [x] CanDeal  
 - [ ] TSX Venture Exchange  
 - [ ] New York Stock Exchange  
@@ -257,7 +257,7 @@ flowchart LR
 
 > **Explanation:** CanDeal is a well-known electronic marketplace for Canadian dollar debt securities, offering real-time prices from multiple dealers.
 
-### 7. When might bond trading rely more heavily on telephone negotiations rather than electronic platforms?  
+### When might bond trading rely more heavily on telephone negotiations rather than electronic platforms?  
 - [x] For illiquid or specialized bonds with a small pool of potential buyers and sellers.  
 - [ ] For high-grade, highly liquid Government of Canada bonds.  
 - [ ] For trades that need no price consolidation.  
@@ -265,7 +265,7 @@ flowchart LR
 
 > **Explanation:** Less-liquid bonds often require more negotiation and relationship-driven trading, making telephone-based transactions more practical.
 
-### 8. What role does the Canadian Depository for Securities (CDS) play in the Canadian bond market?  
+### What role does the Canadian Depository for Securities (CDS) play in the Canadian bond market?  
 - [x] CDS provides clearing and settlement infrastructure for bond transactions.  
 - [ ] CDS sets interest rates and issues government bonds.  
 - [ ] CDS regulates bond dealers and mutual funds.  
@@ -273,7 +273,7 @@ flowchart LR
 
 > **Explanation:** CDS ensures proper clearing and settlement of trades, transferring ownership and payments securely between parties.
 
-### 9. What is a primary benefit of using electronic trading platforms for bond transactions?  
+### What is a primary benefit of using electronic trading platforms for bond transactions?  
 - [x] Improved price transparency through real-time quote comparisons.  
 - [ ] Guarantee of no commissions on trades.  
 - [ ] Elimination of any settlement risk.  
@@ -281,7 +281,7 @@ flowchart LR
 
 > **Explanation:** Electronic platforms centralize quotes from multiple dealers, making it easier for buyers to ensure a competitive price.
 
-### 10. Liquidity in the bond market refers to:  
+### Liquidity in the bond market refers to:  
 - [x] The ability to buy or sell a bond easily without causing major price movements.  
 - [ ] The speed at which coupons are paid by the issuer.  
 - [ ] The bond’s face value being adjusted daily by the exchange.  

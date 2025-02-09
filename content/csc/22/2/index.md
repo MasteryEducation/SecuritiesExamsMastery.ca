@@ -181,9 +181,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [ ] To eliminate taxes on capital gains entirely
 - [ ] To provide guaranteed returns to investors
 
-> **Explanation:** LSVCCs were designed to provide venture capital funding to small and medium-sized Canadian companies, supporting innovation and job creation.
+> **Explanation:**( LSVCCs were designed to provide venture capital funding to small and medium-sized Canadian companies, supporting innovation and job creation.)
 
----
 
 ### What is the main attraction for many investors in LSVCCs?
 - [x] Tax credits on the invested amount
@@ -191,9 +190,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [ ] High levels of liquidity
 - [ ] Exclusive partnership with major banks
 
-> **Explanation:** One of the core advantages of LSVCCs is the tax credit (federal and sometimes provincial) that directly reduces an investor’s tax liability.
+> **Explanation:**( One of the core advantages of LSVCCs is the tax credit (federal and sometimes provincial) that directly reduces an investor’s tax liability.)
 
----
 
 ### How are LSVCCs typically structured under provincial securities legislation?
 - [x] As mutual fund corporations or trusts
@@ -201,9 +199,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [ ] As government-run pension funds
 - [ ] As REITs (Real Estate Investment Trusts)
 
-> **Explanation:** LSVCCs operate similarly to mutual funds, often established as corporations or trusts with specific mandates to invest in small, private businesses.
+> **Explanation:**( LSVCCs operate similarly to mutual funds, often established as corporations or trusts with specific mandates to invest in small, private businesses.)
 
----
 
 ### Which of the following best describes the liquidity of LSVCCs?
 - [ ] Highly liquid, with daily redemption options
@@ -211,9 +208,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [x] Often illiquid due to longer holding periods
 - [ ] Moderately liquid, with monthly redemptions
 
-> **Explanation:** Because LSVCCs invest in early-stage companies that are not publicly traded, they can be quite illiquid, and redemption restrictions/holding periods often apply.
+> **Explanation:**( Because LSVCCs invest in early-stage companies that are not publicly traded, they can be quite illiquid, and redemption restrictions/holding periods often apply.)
 
----
 
 ### Which term refers to the time frame during which LSVCC shares must be held to keep tax credit benefits?
 - [ ] Disclosure period
@@ -221,9 +217,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [x] Holding period
 - [ ] Dividend reinvestment period
 
-> **Explanation:** The specified “holding period” (often up to eight years) ensures investors maintain their eligibility for the tax credits received at purchase.
+> **Explanation:**( The specified “holding period” (often up to eight years) ensures investors maintain their eligibility for the tax credits received at purchase.)
 
----
 
 ### If an investor redeems LSVCC shares before the holding period expires, the likely consequence is:
 - [x] The clawback of the tax credit
@@ -231,9 +226,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [ ] Complete immunity from any penalty
 - [ ] A new holding period replacing the old one
 
-> **Explanation:** Early redemption generally triggers the repayment of previously claimed tax credits plus potential penalties.
+> **Explanation:**( Early redemption generally triggers the repayment of previously claimed tax credits plus potential penalties.)
 
----
 
 ### Why might small and medium-sized Canadian businesses seek capital from an LSVCC?
 - [x] Because these businesses often struggle to obtain traditional financing
@@ -241,9 +235,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [x] LSVCCs offer venture capital opportunities for early-stage companies
 - [ ] Because these businesses want immediate liquidity
 
-> **Explanation:** LSVCCs provide venture capital to businesses that might otherwise find it challenging to secure funding through banks or public markets.
+> **Explanation:**( LSVCCs provide venture capital to businesses that might otherwise find it challenging to secure funding through banks or public markets.)
 
----
 
 ### What is a common pitfall that investors in LSVCCs should avoid?
 - [ ] Conducting thorough due diligence
@@ -251,9 +244,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [x] Underestimating redemption restrictions and liquidity constraints
 - [ ] Using official regulatory websites to research funds
 
-> **Explanation:** Early redemption penalties, limited liquidity, and higher risk are significant pitfalls for investors if these factors are not carefully evaluated.
+> **Explanation:**( Early redemption penalties, limited liquidity, and higher risk are significant pitfalls for investors if these factors are not carefully evaluated.)
 
----
 
 ### Which regulatory body is responsible for ensuring that LSVCCs adhere to prospectus and disclosure regulations?
 - [x] Provincial Securities Commissions (e.g., OSC, AMF)
@@ -261,9 +253,8 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 - [ ] Bank of Canada
 - [ ] Canada Deposit Insurance Corporation
 
-> **Explanation:** The provincial securities commissions supervise the issuance, disclosure, and distribution processes for LSVCCs.
+> **Explanation:**( The provincial securities commissions supervise the issuance, disclosure, and distribution processes for LSVCCs.)
 
----
 
 ### True or False: LSVCCs are suitable for every type of investor due to their stable returns and high liquidity.
 - [x] True

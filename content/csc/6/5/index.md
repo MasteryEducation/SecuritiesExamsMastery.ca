@@ -246,106 +246,97 @@ Investors are encouraged to apply these principles when constructing their portf
 
 {{< quizdown >}}
 
-### 1. Which of the following statements best describes a secured bond?
+### Which of the following statements best describes a secured bond?
 
 - [ ] A bond that can only be issued by federal government agencies.  
 - [ ] A bond explicitly backed by only the issuer’s creditworthiness.  
 - [x] A bond backed by specific pledged assets as collateral.  
 - [ ] A bond that offers the option to convert into equity shares.  
 
-> **Explanation:** Secured bonds are collateralized by a specific asset (e.g., equipment or property). If the issuer defaults, bondholders have a direct claim on these assets.
+> **Explanation:**( Secured bonds are collateralized by a specific asset (e.g., equipment or property). If the issuer defaults, bondholders have a direct claim on these assets.)
 
----
 
-### 2. Which of the following is considered an unsecured corporate bond?
+### Which of the following is considered an unsecured corporate bond?
 
 - [x] Debenture  
 - [ ] Mortgage bond  
 - [ ] Equipment trust certificate  
 - [ ] Asset-backed security  
 
-> **Explanation:** A debenture is an unsecured debt instrument supported only by the creditworthiness of the issuer, not by any pledged collateral.
+> **Explanation:**( A debenture is an unsecured debt instrument supported only by the creditworthiness of the issuer, not by any pledged collateral.)
 
----
 
-### 3. Why do subordinated debentures typically offer higher yields?
+### Why do subordinated debentures typically offer higher yields?
 
 - [ ] They are always convertible.  
 - [ ] They have a claim above preferred shares and common shares.  
 - [ ] They are always collateralized by real estate.  
 - [x] They rank below senior unsecured and secured debt in liquidation.  
 
-> **Explanation:** Subordinated debentures sit lower in the capital structure, so investors face a higher loss potential in case of default and thus demand higher yield.
+> **Explanation:**( Subordinated debentures sit lower in the capital structure, so investors face a higher loss potential in case of default and thus demand higher yield.)
 
----
 
-### 4. What is the primary advantage for an issuer of a callable bond?
+### What is the primary advantage for an issuer of a callable bond?
 
 - [ ] It guarantees investors a fixed coupon until maturity.  
 - [ ] It protects investors from interest rate increases.  
 - [ ] It can be converted into common shares at the issuer’s discretion.  
 - [x] It allows the issuer to redeem the bond early if interest rates fall or if refinancing becomes cheaper.  
 
-> **Explanation:** Callable bonds enable the issuer to repay the bond early and refinance at a lower interest rate, saving on future coupon payments.
+> **Explanation:**( Callable bonds enable the issuer to repay the bond early and refinance at a lower interest rate, saving on future coupon payments.)
 
----
 
-### 5. Which statement best describes a convertible bond?
+### Which statement best describes a convertible bond?
 
 - [x] It can be exchanged for a specific number of the issuer’s common shares.  
 - [ ] It is redeemable at any time at par value.  
 - [x] It includes both debt and equity characteristics.  
 - [ ] It guarantees a fixed yield regardless of stock performance.  
 
-> **Explanation:** Convertible bonds let bondholders convert debt into the issuer’s common shares, yielding both fixed-income and potential equity upside.
+> **Explanation:**( Convertible bonds let bondholders convert debt into the issuer’s common shares, yielding both fixed-income and potential equity upside.)
 
----
 
-### 6. In a liquidation scenario, which of the following typically has priority of claim above subordinated debentures?
+### In a liquidation scenario, which of the following typically has priority of claim above subordinated debentures?
 
 - [x] Senior unsecured debt  
 - [ ] Preferred shares  
 - [ ] Common shares  
 - [ ] Warrants  
 
-> **Explanation:** Senior unsecured debt is repaid before subordinated debentures in case of default or liquidation.
+> **Explanation:**( Senior unsecured debt is repaid before subordinated debentures in case of default or liquidation.)
 
----
 
-### 7. What is the purpose of a negative pledge covenant in a bond indenture?
+### What is the purpose of a negative pledge covenant in a bond indenture?
 
 - [x] To prevent the issuer from issuing additional debt secured by the same assets.  
 - [ ] To enable the issuer to raise capital from any source without bondholder approval.  
 - [x] To limit stock option grants to employees.  
 - [ ] To guarantee that the issuer will pay a fixed coupon at all times.  
 
-> **Explanation:** A negative pledge clause ensures the issuer will not pledge the same assets for new debt, thus preserving collateral for existing secured bondholders.
+> **Explanation:**( A negative pledge clause ensures the issuer will not pledge the same assets for new debt, thus preserving collateral for existing secured bondholders.)
 
----
 
-### 8. Which resource allows investors to review public filings, including corporate bond indentures, in Canada?
+### Which resource allows investors to review public filings, including corporate bond indentures, in Canada?
 
 - [ ] QuantLib  
 - [ ] Bank of Canada website  
 - [x] SEDAR+  
 - [ ] CIRO website  
 
-> **Explanation:** SEDAR+ (https://www.sedarplus.ca/) is the centralized repository of regulatory filings for Canadian public companies, including bond indentures.
+> **Explanation:**( SEDAR+ (https://www.sedarplus.ca/) is the centralized repository of regulatory filings for Canadian public companies, including bond indentures.)
 
----
 
-### 9. What typically causes the issuer of a corporate bond to pay investors a higher coupon rate?
+### What typically causes the issuer of a corporate bond to pay investors a higher coupon rate?
 
 - [ ] A high credit rating and secure revenue streams.  
 - [x] The bond is unsecured and ranks lower in the capital structure.  
 - [ ] The issuer is a government entity.  
 - [ ] Market interest rates are stable.  
 
-> **Explanation:** When the bond is unsecured or carries higher credit risk, the issuer must offer a higher coupon to attract investors.
+> **Explanation:**( When the bond is unsecured or carries higher credit risk, the issuer must offer a higher coupon to attract investors.)
 
----
 
-### 10. True or False: A callable bond always pays a lower coupon rate than a non-callable bond from the same issuer and of the same maturity.
+### True or False: A callable bond always pays a lower coupon rate than a non-callable bond from the same issuer and of the same maturity.
 
 - [ ] True  
 - [x] False  

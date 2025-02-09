@@ -201,106 +201,97 @@ Aspiring or practicing advisors should deepen their knowledge by exploring Moder
 
 {{< quizdown >}}
 
-### 1. Which statement best describes why asset allocation is often considered the most critical portfolio decision?
+### Which statement best describes why asset allocation is often considered the most critical portfolio decision?
 
 - [ ] It only impacts fixed income investments.
 - [x] It largely determines the portfolio’s long-term risk and return profile.
 - [ ] It prevents a portfolio from having any exposure to equities.
 - [ ] It ensures no tracking error between different asset classes.
 
-> **Explanation:** Research indicates that the asset mix (the proportion of equities, bonds, cash, etc.) contributes most of the long-term variance in a portfolio’s returns, making it a central driver of risk and return.
+> **Explanation:**( Research indicates that the asset mix (the proportion of equities, bonds, cash, etc.) contributes most of the long-term variance in a portfolio’s returns, making it a central driver of risk and return.)
 
----
 
-### 2. What is the primary goal of using correlation in asset allocation?
+### What is the primary goal of using correlation in asset allocation?
 
 - [ ] To find assets that perfectly correlate with each other so the portfolio has no volatility.
 - [x] To combine assets with low or negative correlation to reduce overall portfolio risk.
 - [ ] To ensure one asset class is always held at 100% of the portfolio.
 - [ ] To meet regulatory requirements established by IIROC.
 
-> **Explanation:** Low or negative correlation can help offset losses in one asset class with gains or stability in another, which enhances overall diversification.
+> **Explanation:**( Low or negative correlation can help offset losses in one asset class with gains or stability in another, which enhances overall diversification.)
 
----
 
-### 3. Which of the following best describes Strategic Asset Allocation?
+### Which of the following best describes Strategic Asset Allocation?
 
 - [x] A long-term, policy-level asset mix based on fixed target percentages.
 - [ ] A method of continuously altering the allocation daily.
 - [ ] A set of random equity picks influenced by short-term data.
 - [ ] A government-imposed requirement limiting risk exposures.
 
-> **Explanation:** Strategic Asset Allocation establishes fixed targets that remain largely unchanged for the long run and is rebalanced periodically to keep allocations aligned with these set benchmarks.
+> **Explanation:**( Strategic Asset Allocation establishes fixed targets that remain largely unchanged for the long run and is rebalanced periodically to keep allocations aligned with these set benchmarks.)
 
----
 
-### 4. Which asset allocation approach involves short-term deviations from the established strategic mix to exploit market anomalies?
+### Which asset allocation approach involves short-term deviations from the established strategic mix to exploit market anomalies?
 
 - [ ] Strategic Asset Allocation
 - [x] Tactical Asset Allocation
 - [ ] Buy-and-hold
 - [ ] Passive Indexing
 
-> **Explanation:** Tactical Asset Allocation allows portfolio managers to tilt allocations temporarily based on market opportunities, while retaining the overarching strategic framework.
+> **Explanation:**( Tactical Asset Allocation allows portfolio managers to tilt allocations temporarily based on market opportunities, while retaining the overarching strategic framework.)
 
----
 
-### 5. Which of the following is true of Dynamic Asset Allocation?
+### Which of the following is true of Dynamic Asset Allocation?
 
 - [ ] It refers to holding only money market instruments.
 - [ ] It guarantees higher returns than strategic approaches.
 - [x] It involves frequent or continuous adjustments to the asset mix in response to changing conditions.
 - [ ] It is prohibited by CSA regulations.
 
-> **Explanation:** Dynamic Asset Allocation is more flexible and makes frequent adjustments, reflecting changing market or client conditions.
+> **Explanation:**( Dynamic Asset Allocation is more flexible and makes frequent adjustments, reflecting changing market or client conditions.)
 
----
 
-### 6. In Canadian practice, where are equities, bonds, and alternative investments often held to maximize tax efficiency?
+### In Canadian practice, where are equities, bonds, and alternative investments often held to maximize tax efficiency?
 
 - [x] Within registered accounts such as RRSPs or TFSAs.
 - [ ] Only in a standard cash account.
 - [ ] In unregistered overseas funds.
 - [ ] In a locked-in GIC.
 
-> **Explanation:** Holding income-generating or growth-focused assets in RRSPs or TFSAs can reduce or defer taxes on gains, dividends, or interest, thus improving net returns.
+> **Explanation:**( Holding income-generating or growth-focused assets in RRSPs or TFSAs can reduce or defer taxes on gains, dividends, or interest, thus improving net returns.)
 
----
 
-### 7. Which of these tools can be used to visually evaluate how changing asset allocations might affect historical returns in Canadian markets?
+### Which of these tools can be used to visually evaluate how changing asset allocations might affect historical returns in Canadian markets?
 
 - [ ] A simple calculator with no market data.
 - [x] Online simulators like Portfolio Visualizer or PortfolioCharts.com.
 - [ ] A national phone directory.
 - [ ] Notarized government bonds.
 
-> **Explanation:** Portfolio Visualizer, PortfolioCharts.com, and similar online platforms provide intuitive ways to back-test different asset mixes and see how they would have performed.
+> **Explanation:**( Portfolio Visualizer, PortfolioCharts.com, and similar online platforms provide intuitive ways to back-test different asset mixes and see how they would have performed.)
 
----
 
-### 8. What is one of the major pitfalls of neglecting to rebalance a portfolio periodically?
+### What is one of the major pitfalls of neglecting to rebalance a portfolio periodically?
 
 - [ ] The portfolio might become more diversified than intended.
 - [ ] The tax implications always disappear when you rebalance.
 - [x] Holdings might drift away from the intended allocation, leading to unintended risk levels.
 - [ ] Markets will stop trading your securities.
 
-> **Explanation:** Without rebalancing, overperforming assets can grow disproportionately, altering the original risk/return profile.
+> **Explanation:**( Without rebalancing, overperforming assets can grow disproportionately, altering the original risk/return profile.)
 
----
 
-### 9. Which regulatory principle in Canada emphasizes the need to ensure the chosen asset mix aligns with the client’s risk profile?
+### Which regulatory principle in Canada emphasizes the need to ensure the chosen asset mix aligns with the client’s risk profile?
 
 - [ ] “Know Your Regulator” (KYR)
 - [x] “Know Your Client” (KYC)
 - [ ] “One Account Per Investor” (OAPI)
 - [ ] “Short and Distort” (SaD)
 
-> **Explanation:** KYC principles require advisors to match each recommended investment or asset mix with the client’s documented risk tolerance, objectives, and constraints.
+> **Explanation:**( KYC principles require advisors to match each recommended investment or asset mix with the client’s documented risk tolerance, objectives, and constraints.)
 
----
 
-### 10. True or False: In Tactical Asset Allocation, short-term deviations from the strategic mix are made to capture market opportunities.
+### True or False: In Tactical Asset Allocation, short-term deviations from the strategic mix are made to capture market opportunities.
 
 - [x] True
 - [ ] False

@@ -20,7 +20,7 @@ Fixed-income securities—often referred to as debt securities—play a vital ro
 
 --------------------------------------------------------------------------------
 
-### 1. Overview of Fixed-Income Securities
+### Overview of Fixed-Income Securities
 
 A fixed-income security is a contract between an issuer and an investor that lays out the terms under which the issuer will settle debt obligations. The issuer agrees to pay a set (or sometimes variable) rate of interest for a defined period, culminating in the return of principal at maturity.
 
@@ -36,7 +36,7 @@ Each fixed-income product has unique features, including different coupon struct
 
 --------------------------------------------------------------------------------
 
-### 2. Money Market vs. Capital Market Instruments
+### Money Market vs. Capital Market Instruments
 
 Fixed-income securities can be broadly divided into two categories based on their maturities:
 
@@ -63,7 +63,7 @@ The distinction between money market and capital market securities is critical f
 
 --------------------------------------------------------------------------------
 
-### 3. Structure of the Canadian Fixed-Income Market
+### Structure of the Canadian Fixed-Income Market
 
 #### 3.1 Primary vs. Secondary Markets
 
@@ -95,7 +95,7 @@ Electronic trading platforms have gained traction in recent years, offering grea
 
 --------------------------------------------------------------------------------
 
-### 4. Key Participants in the Canadian Fixed-Income Marketplace
+### Key Participants in the Canadian Fixed-Income Marketplace
 
 A wide range of entities participate in issuing, trading, and investing in fixed-income securities. Below are some of the most significant players:
 
@@ -129,7 +129,7 @@ This network of market participants ensures that the fixed-income market remains
 
 --------------------------------------------------------------------------------
 
-### 5. Impact of Economic Factors on the Fixed-Income Market
+### Impact of Economic Factors on the Fixed-Income Market
 
 Bond prices and yields respond quickly to changes in economic indicators and monetary policy. Some of the most important economic factors include:
 
@@ -152,7 +152,7 @@ Bond prices and yields respond quickly to changes in economic indicators and mon
 
 --------------------------------------------------------------------------------
 
-### 6. Regulation and Oversight
+### Regulation and Oversight
 
 The Canadian securities landscape is overseen by both national and provincial regulators:
 
@@ -179,7 +179,7 @@ For more detailed information on regulations:
 
 --------------------------------------------------------------------------------
 
-### 7. Practical Insights and Best Practices
+### Practical Insights and Best Practices
 
 • **Portfolio Diversification**  
   – Fixed-income instruments are a key component for reducing overall portfolio volatility.  
@@ -203,7 +203,7 @@ For more detailed information on regulations:
 
 --------------------------------------------------------------------------------
 
-### 8. Real-World Examples and Case Studies
+### Real-World Examples and Case Studies
 
 • **Example: Financing Public Infrastructure**  
   – The Province of Ontario issues long-term bonds to fund highway expansions, hospitals, and public transit.  
@@ -220,7 +220,7 @@ For more detailed information on regulations:
 
 --------------------------------------------------------------------------------
 
-### 9. Additional Resources
+### Additional Resources
 
 • “Bond Markets, Analysis, and Strategies” by Frank J. Fabozzi – A comprehensive text offering methodologies for bond pricing and yield curve analysis.  
 • Bank of Canada ([https://www.bankofcanada.ca/](https://www.bankofcanada.ca/)) – Official interest rate announcements, monetary policy reports, and economic research.  
@@ -230,7 +230,7 @@ For more detailed information on regulations:
 
 --------------------------------------------------------------------------------
 
-### 10. Key Takeaways
+### Key Takeaways
 
 1. **Fixed-Income as a Foundation**  
    – Provides steady interest income and aids in portfolio risk control.  
@@ -268,9 +268,8 @@ For more detailed information on regulations:
 - [ ] Money market instruments offer floating interest rates, while capital market instruments strictly offer fixed rates.
 - [ ] There are no fundamental differences between the two types of instruments.
 
-> **Explanation:** Money market instruments (e.g., T-bills, commercial paper) generally mature in a year or less, while capital market instruments (e.g., bonds, debentures) have maturities beyond one year.
+> **Explanation:**( Money market instruments (e.g., T-bills, commercial paper) generally mature in a year or less, while capital market instruments (e.g., bonds, debentures) have maturities beyond one year.)
 
----
 
 ### Who are the main regulators overseeing Canadian investment dealers dealing in fixed-income securities?
 
@@ -279,9 +278,8 @@ For more detailed information on regulations:
 - [ ] The Federal Reserve Board and the Office of Securities.
 - [ ] The Ontario Securities Commission alone.
 
-> **Explanation:** CIRO and the CSA work together at a national and provincial level, regulating dealers and enacting harmonized securities regulations in Canada. The Bank of Canada sets monetary policy; it does not directly regulate investment dealers.
+> **Explanation:**( CIRO and the CSA work together at a national and provincial level, regulating dealers and enacting harmonized securities regulations in Canada. The Bank of Canada sets monetary policy; it does not directly regulate investment dealers.)
 
----
 
 ### In the primary market, who typically purchases newly issued bonds?
 
@@ -290,9 +288,8 @@ For more detailed information on regulations:
 - [ ] Retail investors are not permitted to participate in the primary market.
 - [ ] Existing bondholders have preferential rights.
 
-> **Explanation:** In the primary market, new issues are offered to investors (ranging from retail to institutional) through underwriters or dealers. There are no restrictions limiting participation to banks and pension funds only.
+> **Explanation:**( In the primary market, new issues are offered to investors (ranging from retail to institutional) through underwriters or dealers. There are no restrictions limiting participation to banks and pension funds only.)
 
----
 
 ### Which economic factor is most directly responsible for changes in bond prices over time?
 
@@ -301,9 +298,8 @@ For more detailed information on regulations:
 - [ ] Seasonal variations in government spending.
 - [ ] Global equity market performance.
 
-> **Explanation:** While many factors can indirectly affect bond prices, changes in interest rates have the most direct and measurable effect on a bond’s yield and market value.
+> **Explanation:**( While many factors can indirectly affect bond prices, changes in interest rates have the most direct and measurable effect on a bond’s yield and market value.)
 
----
 
 ### What is an advantage of holding a diversified bond portfolio across both short-term and long-term maturities?
 
@@ -312,9 +308,8 @@ For more detailed information on regulations:
 - [x] It ensures liquidity and higher yields in all economic conditions.
 - [ ] It limits you to investing only in government securities.
 
-> **Explanation:** A diversified portfolio spanning short- and long-term maturities can help balance the need for liquidity (short-term) and the opportunity for higher yields (long-term). While diversification helps manage risk, it does not guarantee zero principal loss.
+> **Explanation:**( A diversified portfolio spanning short- and long-term maturities can help balance the need for liquidity (short-term) and the opportunity for higher yields (long-term). While diversification helps manage risk, it does not guarantee zero principal loss.)
 
----
 
 ### Which institution is primarily responsible for setting monetary policy in Canada?
 
@@ -323,9 +318,8 @@ For more detailed information on regulations:
 - [ ] The Ontario Securities Commission.
 - [ ] The World Bank.
 
-> **Explanation:** The Bank of Canada sets the target for the overnight rate and conducts open market operations to influence interest rates and overall liquidity in the Canadian financial system.
+> **Explanation:**( The Bank of Canada sets the target for the overnight rate and conducts open market operations to influence interest rates and overall liquidity in the Canadian financial system.)
 
----
 
 ### What is one key benefit of trading bonds over-the-counter rather than on a centralized exchange?
 
@@ -334,9 +328,8 @@ For more detailed information on regulations:
 - [x] Much lower risk of default on the part of the issuer.
 - [ ] No need to pay any transaction costs.
 
-> **Explanation:** The OTC market provides price negotiation and liquidity beyond a central limit order book, but it does not offer immunity from regulation nor does it inherently reduce the issuer’s credit risk.
+> **Explanation:**( The OTC market provides price negotiation and liquidity beyond a central limit order book, but it does not offer immunity from regulation nor does it inherently reduce the issuer’s credit risk.)
 
----
 
 ### What can cause the market value of an existing bond to fall in the secondary market?
 
@@ -345,9 +338,8 @@ For more detailed information on regulations:
 - [ ] Falling inflation predictions.
 - [ ] A decrease in the benchmark yield set by the Bank of Canada.
 
-> **Explanation:** When interest rates increase, new bonds are issued with higher coupons, making older (lower-coupon) bonds less attractive unless their price adjusts downward.
+> **Explanation:**( When interest rates increase, new bonds are issued with higher coupons, making older (lower-coupon) bonds less attractive unless their price adjusts downward.)
 
----
 
 ### Which organization provides free public access to data on Canadian federal debt, bond auctions, and historical interest rates?
 
@@ -356,9 +348,8 @@ For more detailed information on regulations:
 - [ ] The World Economic Forum.
 - [ ] The Toronto Stock Exchange.
 
-> **Explanation:** The Open Government Portal houses various Canadian federal data sets, including debt and bond auction data, helping analysts and investors perform historical and trend analysis.
+> **Explanation:**( The Open Government Portal houses various Canadian federal data sets, including debt and bond auction data, helping analysts and investors perform historical and trend analysis.)
 
----
 
 ### True or False: The Canadian fixed-income market is dominated by electronic, centralized exchanges similar to equity trading.
 

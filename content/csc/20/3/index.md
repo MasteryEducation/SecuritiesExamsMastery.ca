@@ -233,9 +233,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [x] General partners manage the fund and assume liability; limited partners have limited liability.  
 - [ ] Limited partners cannot receive profit distributions.  
 
-> **Explanation:** In limited partnerships, the general partner (GP) manages day-to-day operations and typically carries unlimited liability. Limited partners (LPs) are passive investors with liability limited to the amount of their investment.
+> **Explanation:**( In limited partnerships, the general partner (GP) manages day-to-day operations and typically carries unlimited liability. Limited partners (LPs) are passive investors with liability limited to the amount of their investment.)
 
----
 
 ### In a performance fee structure with a "high-water mark," which of the following statements is true?
 
@@ -244,9 +243,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] No performance fee can be charged if a fund experiences any losses during the year.  
 - [ ] High-water marks only apply when the hurdle rate is below 0%.  
 
-> **Explanation:** A high-water mark ensures that if a fund’s NAV declines, it must recover those losses and exceed the prior NAV peak before charging subsequent performance fees.
+> **Explanation:**( A high-water mark ensures that if a fund’s NAV declines, it must recover those losses and exceed the prior NAV peak before charging subsequent performance fees.)
 
----
 
 ### A Canadian alternative mutual fund intended for broad retail distribution is most likely required to provide which of the following?
 
@@ -255,9 +253,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] An annual notice filed with the Ontario Limited Partnerships Act.  
 - [ ] No documentation is required for retail distribution.  
 
-> **Explanation:** Alternative mutual funds offered to retail investors in Canada must comply with National Instrument 81-101 (for the simplified prospectus) and NI 81-102 (for investment rules and restrictions).
+> **Explanation:**( Alternative mutual funds offered to retail investors in Canada must comply with National Instrument 81-101 (for the simplified prospectus) and NI 81-102 (for investment rules and restrictions).)
 
----
 
 ### Which statement best describes a typical private equity investment structure?
 
@@ -266,9 +263,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] It uses corporate debt exclusively to generate returns.  
 - [ ] It invests only in offshore holding companies.  
 
-> **Explanation:** Private equity vehicles commonly use limited partnership structures to invest in privately held companies with a multi-year horizon before exiting through IPO or sale.
+> **Explanation:**( Private equity vehicles commonly use limited partnership structures to invest in privately held companies with a multi-year horizon before exiting through IPO or sale.)
 
----
 
 ### Which strategy is generally associated with hedge fund structures rather than traditional mutual funds?
 
@@ -277,9 +273,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [x] Market-neutral or arbitrage strategies utilizing leverage and short selling.  
 - [ ] Simple bond ladders with no derivative use.  
 
-> **Explanation:** Hedge funds frequently employ leverage, short selling, and advanced strategies like market-neutral or arbitrage, which traditional mutual funds often cannot replicate under standard regulations.
+> **Explanation:**( Hedge funds frequently employ leverage, short selling, and advanced strategies like market-neutral or arbitrage, which traditional mutual funds often cannot replicate under standard regulations.)
 
----
 
 ### When investing in funds domiciled offshore, Canadian residents could be subject to:
 
@@ -288,9 +283,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] The same tax treatment as a TFSA.  
 - [ ] Mandatory deposit insurance by the Canada Deposit Insurance Corporation (CDIC).  
 
-> **Explanation:** Canadian residents investing in certain offshore funds may face FAPI treatment, causing passive income to be taxed immediately in Canada. NI 81-101 and CDIC coverage do not apply to offshore hedge funds, and TFSAs have different rules.
+> **Explanation:**( Canadian residents investing in certain offshore funds may face FAPI treatment, causing passive income to be taxed immediately in Canada. NI 81-101 and CDIC coverage do not apply to offshore hedge funds, and TFSAs have different rules.)
 
----
 
 ### In a "flow-through" entity like a Canadian limited partnership, which of the following is true?
 
@@ -299,9 +293,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] The GP is required to repay investor capital before any profit distributions.  
 - [ ] All taxes are paid at the fund level only.  
 
-> **Explanation:** Flow-through entities do not typically pay taxes at the fund level; instead, they pass profits and losses onto investors, who report them on their individual tax returns.
+> **Explanation:**( Flow-through entities do not typically pay taxes at the fund level; instead, they pass profits and losses onto investors, who report them on their individual tax returns.)
 
----
 
 ### Which of these Canadian regulatory instruments governs alternative mutual funds?
 
@@ -310,9 +303,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] The U.S. Investment Company Act of 1940.  
 - [ ] The Canada Business Corporations Act only.  
 
-> **Explanation:** NI 81-101 and NI 81-102 set the rules for mutual funds (including liquid alternatives) in Canada. NI 45-106 deals largely with private placements (Offering Memoranda).
+> **Explanation:**( NI 81-101 and NI 81-102 set the rules for mutual funds (including liquid alternatives) in Canada. NI 45-106 deals largely with private placements (Offering Memoranda).)
 
----
 
 ### A real estate limited partnership that aims to develop property over multiple years primarily offers:
 
@@ -321,9 +313,8 @@ As the Canadian regulatory environment evolves, structures like liquid alternati
 - [ ] Guaranteed principal protection.  
 - [ ] A government-backed covenant for full return of capital.  
 
-> **Explanation:** Real estate limited partnerships generally invest over multi-year horizons, focusing on earning rental (lease) income and capital appreciation, with no guarantee of principal.
+> **Explanation:**( Real estate limited partnerships generally invest over multi-year horizons, focusing on earning rental (lease) income and capital appreciation, with no guarantee of principal.)
 
----
 
 ### Are limited partnerships and offshore funds both commonly used in the alternative investments industry?
 

@@ -198,106 +198,97 @@ As an investor or financial professional in Canada, staying informed about monet
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the main goal of the Bank of Canada’s monetary policy framework?
+### Which of the following best describes the main goal of the Bank of Canada’s monetary policy framework?
 
 - [ ] Achieving a budget surplus at the federal level
 - [ ] Maintaining high unemployment to reduce wages
 - [x] Keeping inflation low and stable around a specific target
 - [ ] Eliminating currency exchange rate fluctuations
 
-> **Explanation:** The Bank of Canada’s monetary policy primarily targets low and stable inflation (around 2%) to foster an environment of sustainable growth and economic stability.
+> **Explanation:**( The Bank of Canada’s monetary policy primarily targets low and stable inflation (around 2%) to foster an environment of sustainable growth and economic stability.)
 
----
 
-### 2. What is the primary tool the Bank of Canada uses to influence short-term interest rates?
+### What is the primary tool the Bank of Canada uses to influence short-term interest rates?
 
 - [x] Setting the policy (overnight) rate
 - [ ] Imposing high reserve requirements
 - [ ] Restricting foreign direct investment
 - [ ] Offering tax credits for mortgage interest
 
-> **Explanation:** The Bank of Canada’s main policy lever is the target for the overnight rate, which influences borrowing costs throughout the economy.
+> **Explanation:**( The Bank of Canada’s main policy lever is the target for the overnight rate, which influences borrowing costs throughout the economy.)
 
----
 
-### 3. In Canada, open market operations (OMOs) are primarily used to:
+### In Canada, open market operations (OMOs) are primarily used to:
 
 - [ ] Offset government spending
 - [ ] Encourage the creation of large bank reserves
 - [ ] Directly tax financial institutions
 - [x] Influence liquidity and ensure the policy rate aligns with the Bank’s target
 
-> **Explanation:** While less emphasized than in some other jurisdictions, OMOs in Canada help manage liquidity and maintain the policy rate corridor.
+> **Explanation:**( While less emphasized than in some other jurisdictions, OMOs in Canada help manage liquidity and maintain the policy rate corridor.)
 
----
 
-### 4. Which of the following accurately describes forward guidance?
+### Which of the following accurately describes forward guidance?
 
 - [x] A communication strategy where the central bank signals the likely future path of interest rates
 - [ ] A legal requirement for banks to hold reserves
 - [ ] A bond-buying program to increase the money supply
 - [ ] A mechanism to directly fix currency exchange rates
 
-> **Explanation:** Forward guidance is the process of central banks communicating expected policy moves to guide investor and consumer behavior.
+> **Explanation:**( Forward guidance is the process of central banks communicating expected policy moves to guide investor and consumer behavior.)
 
----
 
-### 5. When the Bank of Canada adopts an expansionary monetary policy, it typically:
+### When the Bank of Canada adopts an expansionary monetary policy, it typically:
 
 - [x] Lowers the policy rate to encourage borrowing and investment
 - [ ] Raises the policy rate to reduce inflation
 - [x] Buys government securities to inject liquidity into the market
 - [ ] Increases government taxation
 
-> **Explanation:** Expansionary policy involves decreasing interest rates and possibly purchasing securities to stimulate economic activity. The Bank generally uses these measures if inflation is low or the economy requires a boost.
+> **Explanation:**( Expansionary policy involves decreasing interest rates and possibly purchasing securities to stimulate economic activity. The Bank generally uses these measures if inflation is low or the economy requires a boost.)
 
----
 
-### 6. Which of the following factors does the Bank of Canada emphasize when deciding whether to raise or lower the overnight rate?
+### Which of the following factors does the Bank of Canada emphasize when deciding whether to raise or lower the overnight rate?
 
 - [x] Trends in CPI inflation
 - [ ] The exact tax rates for private corporations
 - [ ] Provincial election outcomes
 - [ ] Fixed property tax rates across Canadian provinces
 
-> **Explanation:** The Bank closely monitors inflation—using CPI, among other indicators—to guide changes in the overnight rate. 
+> **Explanation:**( The Bank closely monitors inflation—using CPI, among other indicators—to guide changes in the overnight rate. )
 
----
 
-### 7. Canada does not employ reserve requirements on deposit-taking institutions. Instead, it uses:
+### Canada does not employ reserve requirements on deposit-taking institutions. Instead, it uses:
 
 - [x] Market-based lending corridors and capital/liquidity regulations
 - [ ] Strict currency pegging policies
 - [x] Mandatory personal income tax audits by the Bank of Canada
 - [ ] Automatic wage-fixing mechanisms
 
-> **Explanation:** The Bank of Canada does not impose statutory reserve requirements. Instead, Canada relies on the corridor system and OSFI’s prudential regulations for bank liquidity and capital adequacy.
+> **Explanation:**( The Bank of Canada does not impose statutory reserve requirements. Instead, Canada relies on the corridor system and OSFI’s prudential regulations for bank liquidity and capital adequacy.)
 
----
 
-### 8. How do interest rate decisions by the Bank of Canada typically influence mortgage rates at major Canadian banks like RBC and TD?
+### How do interest rate decisions by the Bank of Canada typically influence mortgage rates at major Canadian banks like RBC and TD?
 
 - [x] Mortgage rates often move in tandem with changes in the policy rate
 - [ ] Mortgage rates are unaffected by central bank announcements
 - [ ] Mortgage rates only adjust with provincial government approval
 - [ ] Mortgage rates are strictly determined by real estate market conditions
 
-> **Explanation:** As the Bank adjusts its overnight rate, commercial banks typically follow suit by adjusting their prime and mortgage rates, influencing borrowing costs for homeowners.
+> **Explanation:**( As the Bank adjusts its overnight rate, commercial banks typically follow suit by adjusting their prime and mortgage rates, influencing borrowing costs for homeowners.)
 
----
 
-### 9. Which of the following external factors can offset or amplify the Bank of Canada’s policy decisions?
+### Which of the following external factors can offset or amplify the Bank of Canada’s policy decisions?
 
 - [ ] Small shifts in local restaurant licensing
 - [ ] Individual credit card promotions
 - [x] Global economic shocks and commodity price fluctuations
 - [ ] The personal preferences of parliamentary committee members
 
-> **Explanation:** The effectiveness of the Bank’s policy can be significantly influenced by external events such as shifts in oil prices, global financial crises, or geopolitical tensions.
+> **Explanation:**( The effectiveness of the Bank’s policy can be significantly influenced by external events such as shifts in oil prices, global financial crises, or geopolitical tensions.)
 
----
 
-### 10. True or False: Monetary policy alone can solve all economic challenges, including structural unemployment and productivity gaps.
+### True or False: Monetary policy alone can solve all economic challenges, including structural unemployment and productivity gaps.
 
 - [x] True
 - [ ] False

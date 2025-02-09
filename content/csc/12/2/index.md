@@ -190,7 +190,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the firm commitment underwriting arrangement?
+### Which of the following best describes the firm commitment underwriting arrangement?
 
 - [x] The underwriter purchases the entire offering and bears the risk of unsold securities.
 - [ ] The underwriter sells only a portion of the securities.
@@ -199,7 +199,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** In a firm commitment underwriting, the underwriter commits to buying the entire offering from the issuer, taking on the market risk if the securities cannot be sold at the offering price.
 
-### 2. During the financing process, why might a corporation calculate its Weighted Average Cost of Capital (WACC)?
+### During the financing process, why might a corporation calculate its Weighted Average Cost of Capital (WACC)?
 
 - [x] To determine if anticipated project returns exceed the cost of financing.
 - [ ] To set fixed dividend rates for preferred shareholders.
@@ -208,7 +208,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** WACC helps corporations assess whether the expected returns on new projects will be higher than their blended cost of debt and equity, ensuring financial viability.
 
-### 3. Which of the following is TRUE regarding a best-efforts underwriting?
+### Which of the following is TRUE regarding a best-efforts underwriting?
 
 - [x] The issuer retains the primary risk of any unsold securities.
 - [ ] The underwriter guarantees the proceeds to the issuer.
@@ -217,7 +217,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** In a best-efforts arrangement, underwriters do not guarantee the sale of all the securities; the issuer is at risk if the entire offering is not sold.
 
-### 4. At what stage in the prospectus filing does the "red herring" appear?
+### At what stage in the prospectus filing does the "red herring" appear?
 
 - [x] During the preliminary prospectus phase, before final pricing.
 - [ ] After the regulators have approved the final version.
@@ -226,7 +226,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** The preliminary prospectus, often called the “red herring,” is released for review by regulators and potential investors before the final prospectus is approved.
 
-### 5. When corporate boards determine the optimal mix of debt versus equity, which factors are typically considered?
+### When corporate boards determine the optimal mix of debt versus equity, which factors are typically considered?
 
 - [x] The cost of capital and potential shareholder dilution.
 - [ ] The personal preferences of the executive team only.
@@ -235,7 +235,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** Boards weigh multiple considerations—such as cost of debt, dilution of ownership, interest rates, and market conditions—to arrive at an ideal capital structure.
 
-### 6. Which one of the following actions typically occurs during a roadshow?
+### Which one of the following actions typically occurs during a roadshow?
 
 - [x] The issuer’s management presents the offering to institutional and retail investors.
 - [ ] The underwriter files the final prospectus with securities regulators.
@@ -244,7 +244,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** Roadshows involve the issuer's team and the underwriter conducting presentations and Q&A sessions for potential investors to generate interest in the new offering.
 
-### 7. A preliminary prospectus must adhere to which important principle under Canadian securities law?
+### A preliminary prospectus must adhere to which important principle under Canadian securities law?
 
 - [x] Full, true, and plain disclosure of all material facts.
 - [ ] Ensuring all outstanding debts are repaid.
@@ -253,7 +253,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** Canadian regulations require that the prospectus (including the preliminary version) give investors a clear, truthful, and complete disclosure to enable informed decision-making.
 
-### 8. What is a downside of issuing too much equity in pursuing new financing?
+### What is a downside of issuing too much equity in pursuing new financing?
 
 - [x] Existing shareholders could face dilution of their ownership.
 - [ ] High-interest rates could impact the corporation’s credit rating.
@@ -262,7 +262,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** Issuing a large volume of new equity can dilute the ownership percentage and control of existing shareholders.
 
-### 9. Which resource would you primarily consult to review an issuer’s final prospectus in Canada?
+### Which resource would you primarily consult to review an issuer’s final prospectus in Canada?
 
 - [x] SEDAR+.
 - [ ] The Bank of Canada’s website.
@@ -271,7 +271,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 > **Explanation:** SEDAR+ is the centralized Canadian platform where final prospectuses and other public company documents are filed and made accessible to the public.
 
-### 10. True or False: A best-efforts underwriting agreement always protects the issuer from any loss if the securities do not sell well.
+### True or False: A best-efforts underwriting agreement always protects the issuer from any loss if the securities do not sell well.
 
 - [x] True
 - [ ] False

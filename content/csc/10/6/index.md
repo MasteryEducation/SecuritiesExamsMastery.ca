@@ -246,9 +246,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] A type of convertible bond.  
 - [ ] A mandatory offering to the public.  
 
-> **Explanation:** Rights are short-term options for existing shareholders to purchase additional shares, typically at a discount. They have a limited life, often just a few weeks to a couple of months.
+> **Explanation:**( Rights are short-term options for existing shareholders to purchase additional shares, typically at a discount. They have a limited life, often just a few weeks to a couple of months.)
 
----
 
 ### What is a key difference between rights and warrants?
 
@@ -257,9 +256,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] Warrants are exclusively offered to existing shareholders.  
 - [ ] Rights generally have no expiration date.  
 
-> **Explanation:** While both rights and warrants grant holders the ability to buy shares, rights are short-term (days to a few months), and warrants typically have a much longer timeframe (often several years).
+> **Explanation:**( While both rights and warrants grant holders the ability to buy shares, rights are short-term (days to a few months), and warrants typically have a much longer timeframe (often several years).)
 
----
 
 ### How does dilution affect shareholders who do NOT exercise their rights or warrants?
 
@@ -268,9 +266,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] Their ownership percentage increases.  
 - [ ] They receive immediate cash compensation.  
 
-> **Explanation:** By issuing new shares, the company effectively reduces the ownership stake of existing shareholders who do not participate, resulting in a smaller percentage of total outstanding shares.
+> **Explanation:**( By issuing new shares, the company effectively reduces the ownership stake of existing shareholders who do not participate, resulting in a smaller percentage of total outstanding shares.)
 
----
 
 ### Which Canadian regulatory body outlines rules regarding disclosure and client suitability for rights and warrants?
 
@@ -279,9 +276,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [x] Canadian Investment Regulatory Organization (CIRO)  
 - [ ] Canada Deposit Insurance Corporation (CDIC)  
 
-> **Explanation:** CIRO (formerly IIROC) enforces compliance and rules pertaining to investment dealers and advisors, including suitability requirements and disclosure obligations for offerings like rights and warrants.
+> **Explanation:**( CIRO (formerly IIROC) enforces compliance and rules pertaining to investment dealers and advisors, including suitability requirements and disclosure obligations for offerings like rights and warrants.)
 
----
 
 ### Which document must often be filed with the Canadian Securities Administrators (CSA) when a company issues rights or warrants to the public?
 
@@ -290,9 +286,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] Tax slip  
 - [ ] Press release only  
 
-> **Explanation:** Companies generally file a prospectus or an equivalent circular describing the terms of their rights or warrants issuance, risks, use of proceeds, and other essential details required by the CSA.
+> **Explanation:**( Companies generally file a prospectus or an equivalent circular describing the terms of their rights or warrants issuance, risks, use of proceeds, and other essential details required by the CSA.)
 
----
 
 ### Which of the following best describes the typical impact of a warrant attached to a corporate bond?
 
@@ -301,9 +296,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] It removes all interest payments.  
 - [ ] It is offered only to government agencies.  
 
-> **Explanation:** Warrants attached to bonds can make the offering more appealing by giving bondholders the option to participate in the issuer’s equity growth if share prices rise above the warrant’s strike.
+> **Explanation:**( Warrants attached to bonds can make the offering more appealing by giving bondholders the option to participate in the issuer’s equity growth if share prices rise above the warrant’s strike.)
 
----
 
 ### Which is most likely to be a reason a company might choose a rights offering?
 
@@ -312,9 +306,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] To force shareholders to sell their shares.  
 - [ ] To comply with CRA tax rules.  
 
-> **Explanation:** Rights offerings quickly raise capital from shareholders who can purchase more shares, often at a discount, facilitating cost-effective funding for the company.
+> **Explanation:**( Rights offerings quickly raise capital from shareholders who can purchase more shares, often at a discount, facilitating cost-effective funding for the company.)
 
----
 
 ### How can investors mitigate the risk of letting rights expire worthless?
 
@@ -323,9 +316,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] By short-selling the company’s shares.  
 - [ ] By not reading the prospectus.  
 
-> **Explanation:** Rights have a limited life. If an investor doesn’t plan to exercise them, selling them on the market (if tradable) is a way to realize some value.
+> **Explanation:**( Rights have a limited life. If an investor doesn’t plan to exercise them, selling them on the market (if tradable) is a way to realize some value.)
 
----
 
 ### What typically happens when an investor exercises a warrant?
 
@@ -334,9 +326,8 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 - [ ] The investor must sell any existing shares.  
 - [ ] The investor’s existing shares are converted into bonds.  
 
-> **Explanation:** Exercising a warrant generally involves buying new shares from the issuer at the predetermined strike price, thereby affecting both the investor’s holdings and the company’s share count.
+> **Explanation:**( Exercising a warrant generally involves buying new shares from the issuer at the predetermined strike price, thereby affecting both the investor’s holdings and the company’s share count.)
 
----
 
 ### Rights and warrants can be traded on Canadian stock exchanges if issued publicly. True or False?
 

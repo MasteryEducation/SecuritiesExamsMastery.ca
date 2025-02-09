@@ -213,7 +213,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 {{< quizdown >}}
 
-### 1. Which of the following correctly describes a feature of preferred shares?
+### Which of the following correctly describes a feature of preferred shares?
 
 - [x] They rank above common shares in dividend priority.  
 - [ ] They rank above bonds in the capital structure.  
@@ -222,7 +222,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** Preferred shares usually pay dividends before common shares and rank above common equity in a liquidation scenario. However, they do not rank above bonds. Some preferred shares are perpetual, while others may be callable, retractable, or convertible.
 
-### 2. Which type of preferred share guarantees that missed dividends will accrue and must be paid before dividends on common shares?
+### Which type of preferred share guarantees that missed dividends will accrue and must be paid before dividends on common shares?
 
 - [x] Cumulative preferred shares  
 - [ ] Non-cumulative preferred shares  
@@ -231,7 +231,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** Cumulative preferred shares ensure payment of skipped dividends in the future. In contrast, non-cumulative shares do not make up for missed dividends.
 
-### 3. When analyzing a preferred share’s dividend coverage, which of the following metrics is typically examined?
+### When analyzing a preferred share’s dividend coverage, which of the following metrics is typically examined?
 
 - [x] The issuer’s net income relative to preferred dividends  
 - [ ] The issuer’s market share in its industry  
@@ -240,7 +240,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** Investors focus on whether the issuer produces sufficient income and/or cash flow to cover the preferred dividend obligation. The most direct measure is net income (or free cash flow) divided by total preferred dividends.
 
-### 4. Which statement about the dividend tax credit in Canada is correct?
+### Which statement about the dividend tax credit in Canada is correct?
 
 - [x] It can significantly reduce the tax payable on dividends from eligible Canadian corporations.  
 - [ ] It is not available to Canadian residents.  
@@ -249,7 +249,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** The dividend tax credit is available to Canadian residents who receive dividends from eligible Canadian corporations. Tax treatment may vary by province.
 
-### 5. What is a key difference between a callable and a retractable preferred share?
+### What is a key difference between a callable and a retractable preferred share?
 
 - [x] A callable share gives the issuer the right to redeem; a retractable share gives investors the right to redeem.  
 - [ ] A callable share is convertible, while a retractable share is not convertible.  
@@ -258,7 +258,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** Callable preferred shares can be redeemed at the issuer’s discretion, often at a predetermined price. Retractable shares can be sold back to the issuer by the investor at specific times or conditions.
 
-### 6. Why do fixed-rate perpetual preferred shares tend to exhibit more price volatility when interest rates change?
+### Why do fixed-rate perpetual preferred shares tend to exhibit more price volatility when interest rates change?
 
 - [x] Their fixed dividend becomes more or less attractive relative to changing market rates.  
 - [ ] They are required to increase dividends when interest rates rise.  
@@ -267,7 +267,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** When interest rates rise, the fixed dividend paid by perpetual preferred shares becomes relatively unattractive, often causing the share price to drop to align the yield with the new market rates.
 
-### 7. Which factor does NOT directly affect the tax efficiency of preferred shares?
+### Which factor does NOT directly affect the tax efficiency of preferred shares?
 
 - [x] The issuer’s profit margin relative to its peers  
 - [ ] Holding preferred shares in a registered account  
@@ -276,7 +276,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** While the issuer’s profit margin can influence the sustainability of dividends, it is not a direct factor in the tax treatment or tax perks that a shareholder receives.
 
-### 8. A Canadian investor is evaluating preferred shares from a corporation that has recently been downgraded by a major rating agency. Which risk is most directly highlighted by this downgrade?
+### A Canadian investor is evaluating preferred shares from a corporation that has recently been downgraded by a major rating agency. Which risk is most directly highlighted by this downgrade?
 
 - [x] Default or dividend suspension risk  
 - [ ] Currency exchange rate volatility  
@@ -285,7 +285,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** A downgrade often indicates that the agency views the issuer’s financial health less favorably, increasing the potential risk of dividend cuts or default.
 
-### 9. If a preferred share has a dividend rate that resets every five years based on a Canadian bond yield plus a fixed spread, which category does it belong to?
+### If a preferred share has a dividend rate that resets every five years based on a Canadian bond yield plus a fixed spread, which category does it belong to?
 
 - [x] Rate-reset preferred shares  
 - [ ] Non-cumulative preferred shares  
@@ -294,7 +294,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 > **Explanation:** A rate-reset preferred share adjusts its dividend payout periodically (commonly every five years) in relation to a benchmark yield, typically a Government of Canada bond rate.
 
-### 10. Preferred shares rank ahead of common shares in the capital structure regarding dividends and liquidation.
+### Preferred shares rank ahead of common shares in the capital structure regarding dividends and liquidation.
 
 - [x] True  
 - [ ] False  

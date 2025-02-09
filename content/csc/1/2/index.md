@@ -198,7 +198,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 {{< quizdown >}}
 
-### 1. What is the primary role of an investment dealer in Canada’s capital markets?
+### What is the primary role of an investment dealer in Canada’s capital markets?
 
 - [x] To act as an intermediary that connects investors with issuers  
 - [ ] To regulate trading activities  
@@ -207,7 +207,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** Investment dealers match those who supply capital with those who need it, making markets and facilitating the flow of funds.
 
-### 2. Which market is involved when an investment dealer helps a firm issue new shares?
+### Which market is involved when an investment dealer helps a firm issue new shares?
 
 - [x] Primary market  
 - [ ] Secondary market  
@@ -216,7 +216,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** The primary market deals with newly issued securities, while the secondary market trades existing securities.
 
-### 3. What is a key function of market-making in the secondary market?
+### What is a key function of market-making in the secondary market?
 
 - [x] Providing liquidity by continuously quoting bid and ask prices  
 - [ ] Restricting trade execution to certain times  
@@ -225,7 +225,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** By matching buy and sell orders from various participants, market-makers ensure a liquid and orderly market.
 
-### 4. Underwriting involves:
+### Underwriting involves:
 
 - [x] Purchasing new securities from the issuer and selling them to investors  
 - [ ] Evaluating the creditworthiness of existing bond issues  
@@ -234,7 +234,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** Underwriters absorb the risk of selling the new issues by guaranteeing capital to the issuer and then distributing the securities to the public.
 
-### 5. Which statement best describes the regulatory environment for investment dealers in Canada?
+### Which statement best describes the regulatory environment for investment dealers in Canada?
 
 - [x] They are subject to oversight by CIRO and provincial securities commissions  
 - [ ] They can self-regulate without external oversight  
@@ -243,7 +243,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** Investment dealers must comply with rules from CIRO (formerly IIROC) and various provincial commissions; these bodies enforce capital adequacy and conduct requirements.
 
-### 6. In a typical M&A transaction, an investment dealer’s role does NOT include:
+### In a typical M&A transaction, an investment dealer’s role does NOT include:
 
 - [x] Providing legal representation in court  
 - [ ] Advising on the valuation of target companies  
@@ -252,7 +252,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** Investment dealers advise on valuation, structure, and often coordinate with legal experts, but they are not the client’s legal counsel in court.
 
-### 7. Why is maintaining an adequate dealer inventory important for market-making?
+### Why is maintaining an adequate dealer inventory important for market-making?
 
 - [x] It allows the dealer to readily buy and sell to meet client demand  
 - [ ] It is required only for bond trading  
@@ -261,7 +261,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** Dealer inventory provides immediate availability of securities to execute trades and maintain a liquid market.
 
-### 8. A conflict of interest within an investment dealer firm might arise when:
+### A conflict of interest within an investment dealer firm might arise when:
 
 - [x] The firm’s research division covers a company the firm’s underwriting division is helping  
 - [ ] The firm’s compliance team trains new employees  
@@ -270,7 +270,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** When an investment dealer is underwriting a company’s offering while simultaneously producing research about it, potential biases or conflicts can occur without strict internal policies.
 
-### 9. Dealers are required to meet capital requirements because:
+### Dealers are required to meet capital requirements because:
 
 - [x] They need a buffer to protect against losses and ensure market stability  
 - [ ] They should subsidize all client losses  
@@ -279,7 +279,7 @@ Understanding these roles, responsibilities, and the regulatory environment is e
 
 > **Explanation:** Capital requirements help dealers absorb unforeseen losses, promoting confidence and stability in financial markets.
 
-### 10. Underwriting in Canada is regulated by CIRO and each provincial securities commission.
+### Underwriting in Canada is regulated by CIRO and each provincial securities commission.
 
 - [x] True  
 - [ ] False  

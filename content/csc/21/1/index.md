@@ -14,7 +14,7 @@ Alternative investment strategies encompass a broad variety of approaches that e
 
 ---
 
-### 1. The Spectrum of Alternative Investments
+### The Spectrum of Alternative Investments
 
 A wide range of investment vehicles and approaches fall under the umbrella of “alternative investments”:
 
@@ -41,7 +41,7 @@ A wide range of investment vehicles and approaches fall under the umbrella of �
 
 ---
 
-### 2. Common Strategies in Hedge Fund–Style Alternatives
+### Common Strategies in Hedge Fund–Style Alternatives
 
 Alternative managers often seek absolute returns, meaning they aim to generate positive performance regardless of broader market direction. Below are some of the most prevalent hedge fund–style strategies:
 
@@ -77,7 +77,7 @@ Alternative managers often seek absolute returns, meaning they aim to generate p
 
 ---
 
-### 3. Key Techniques: Leverage and Short Selling
+### Key Techniques: Leverage and Short Selling
 
 Most alternative investment strategies rely heavily on two methods that can magnify returns but also significantly increase risk:
 
@@ -91,7 +91,7 @@ Most alternative investment strategies rely heavily on two methods that can magn
 
 ---
 
-### 4. Risk Management Practices
+### Risk Management Practices
 
 Alternative managers typically prioritize risk management techniques, given the potential for significant capital at risk due to leverage and short selling. Common practices include:
 
@@ -121,7 +121,7 @@ flowchart TB
 
 ---
 
-### 5. Regulatory Context in Canada
+### Regulatory Context in Canada
 
 #### 5.1 National Instrument 81-102 and Liquid Alts
 
@@ -144,7 +144,7 @@ Alternative mutual funds in Canada that aim for retail distribution must comply 
 
 ---
 
-### 6. Practical Canadian Examples
+### Practical Canadian Examples
 
 1. **Pension Fund Allocation**  
    - The Canada Pension Plan Investment Board (CPPIB) invests in private equity deals, infrastructure, and real estate to diversify away from public markets and enhance returns.  
@@ -160,7 +160,7 @@ Alternative mutual funds in Canada that aim for retail distribution must comply 
 
 ---
 
-### 7. Applying Alternative Strategies in a Portfolio
+### Applying Alternative Strategies in a Portfolio
 
 1. **Diversification Benefits**  
    - Adding an uncorrelated alternative strategy may smooth returns when traditional equity or bond markets underperform.  
@@ -186,7 +186,7 @@ Consider this simple table showing how a balanced portfolio might include multip
 
 ---
 
-### 8. Tools and Resources for Further Insight
+### Tools and Resources for Further Insight
 
 • **Regulatory Bodies and References**  
   – CIRO: <https://www.ciro.ca/>  
@@ -210,7 +210,7 @@ Consider this simple table showing how a balanced portfolio might include multip
 
 ---
 
-### 9. Summary and Best Practices
+### Summary and Best Practices
 
 Alternative investment strategies, whether through hedge funds, liquid alts, or specialized private funds, offer investors the prospect of enhanced returns and diversified sources of alpha. However, these opportunities come with heightened complexity and risk. Managing leverage, carefully selecting strategies, and adhering to Canadian regulatory requirements are critical steps for success.
 
@@ -227,7 +227,7 @@ Key takeaways:
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a Long/Short Equity strategy?
+### Which of the following best describes a Long/Short Equity strategy?
 
 - [x] Taking both long and short positions in different equities to profit from price rises and declines.
 - [ ] Investing only in the long-term growth potential of undervalued stocks.
@@ -236,7 +236,7 @@ Key takeaways:
 
 > **Explanation:** The hallmark of Long/Short Equity strategies is simultaneously holding long positions in stocks believed to be undervalued and shorting stocks believed to be overvalued to generate returns from multiple market directions.
 
-### 2. In an Event-Driven strategy, managers typically look for opportunities in which of the following situations? (Select all that apply.)
+### In an Event-Driven strategy, managers typically look for opportunities in which of the following situations? (Select all that apply.)
 
 - [x] Mergers and acquisitions.
 - [ ] High-volume day trading on a single stock exchange.
@@ -245,7 +245,7 @@ Key takeaways:
 
 > **Explanation:** Event-Driven managers focus on corporate events such as mergers, acquisitions, bankruptcies, and restructurings that can create temporary stock mispricings.
 
-### 3. Which regulatory instrument in Canada outlines the rules specific to alternative mutual funds (or “liquid alts”)?
+### Which regulatory instrument in Canada outlines the rules specific to alternative mutual funds (or “liquid alts”)?
 
 - [ ] National Instrument 31-103.
 - [ ] National Instrument 81-101.
@@ -254,7 +254,7 @@ Key takeaways:
 
 > **Explanation:** National Instrument 81-102 sets the regulatory framework for mutual funds in Canada, including specific provisions for alternative mutual funds.
 
-### 4. What is the main objective of a Market Neutral strategy?
+### What is the main objective of a Market Neutral strategy?
 
 - [x] Generate returns regardless of overall market direction by offsetting market exposure.
 - [ ] Invest exclusively in high-volatility tech stocks.
@@ -263,7 +263,7 @@ Key takeaways:
 
 > **Explanation:** Market Neutral strategies seek to offset market risk through matching long and short positions, allowing them to focus on generating returns due to stock selection rather than broad market moves.
 
-### 5. Which of the following are key risk management tools often used by hedge funds? (Select all that apply.)
+### Which of the following are key risk management tools often used by hedge funds? (Select all that apply.)
 
 - [x] Stop-loss orders.
 - [ ] Guarantee of principal.
@@ -272,7 +272,7 @@ Key takeaways:
 
 > **Explanation:** Hedge funds frequently use stop-loss orders and dynamic hedging to limit downside risk and adapt to changing market conditions. They do not guarantee principal, and they regularly employ derivatives.
 
-### 6. How does short selling contribute to an alternative portfolio strategy?
+### How does short selling contribute to an alternative portfolio strategy?
 
 - [x] It allows managers to profit from declining securities prices.
 - [ ] It eliminates the need for risk management.
@@ -281,7 +281,7 @@ Key takeaways:
 
 > **Explanation:** Short selling is a technique in which managers can profit from falling security prices, but it also introduces additional risk since losses can be significant if prices rise.
 
-### 7. Which of the following is true about Managed Futures/CTAs? (Select all that apply.)
+### Which of the following is true about Managed Futures/CTAs? (Select all that apply.)
 
 - [x] They can trade futures and forward contracts on multiple asset classes.
 - [ ] Their only permissible trading venue is the Toronto Stock Exchange (TSX).
@@ -290,7 +290,7 @@ Key takeaways:
 
 > **Explanation:** Managed Futures or Commodity Trading Advisors (CTAs) typically trade across multiple markets, including commodities, currencies, equities, and bonds, often using systematic approaches.
 
-### 8. Why might an investor consider adding alternative investments to a balanced portfolio?
+### Why might an investor consider adding alternative investments to a balanced portfolio?
 
 - [x] To diversify risk and potentially reduce overall portfolio volatility.
 - [ ] To avoid compliance with any Canadian regulations.
@@ -299,7 +299,7 @@ Key takeaways:
 
 > **Explanation:** One principal reason to include alternatives is to diversify a portfolio’s sources of risk and return, which may help stabilize performance during market fluctuations.
 
-### 9. Under National Instrument 81-102, which of the following measures is used to protect retail investors in Canadian alternative mutual funds?
+### Under National Instrument 81-102, which of the following measures is used to protect retail investors in Canadian alternative mutual funds?
 
 - [x] Restrictions on the amount of leverage an alternative mutual fund can employ.
 - [ ] Unlimited latitude to concentrate investments in a single issuer.
@@ -308,7 +308,7 @@ Key takeaways:
 
 > **Explanation:** NI 81-102 imposes limits on leverage and concentration to guard against excessive risk exposures in alternative mutual funds accessible to retail investors.
 
-### 10. A Global Macro strategy might involve taking positions in interest rates, currencies, and commodities based on macroeconomic trends. True or False?
+### A Global Macro strategy might involve taking positions in interest rates, currencies, and commodities based on macroeconomic trends. True or False?
 
 - [x] True
 - [ ] False

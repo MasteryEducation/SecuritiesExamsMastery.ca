@@ -235,7 +235,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 
 {{< quizdown >}}
 
-### 1. What is the primary goal of issuing split shares through a split-share corporation?
+### What is the primary goal of issuing split shares through a split-share corporation?
 
 - [x] To separate a stock’s dividend and capital growth attributes into two types of securities.  
 - [ ] To convert all equity into debt instruments.  
@@ -245,7 +245,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** A split-share corporation allows investors to choose between income-oriented preferred shares and growth-oriented capital shares, thereby separating dividend income from capital appreciation.
 
 
-### 2. Which class of split shares has the priority claim on dividends and assets?
+### Which class of split shares has the priority claim on dividends and assets?
 
 - [ ] Capital shares  
 - [x] Preferred shares  
@@ -255,7 +255,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** Preferred shares receive a fixed dividend first and have priority in asset redemption when the corporation is wound up.
 
 
-### 3. What is one of the key risks of holding capital shares?
+### What is one of the key risks of holding capital shares?
 
 - [ ] Lack of dividend entitlement in all market scenarios  
 - [ ] Guaranteed losses when the underlying shares increase  
@@ -265,7 +265,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** Capital shares carry leveraged exposure to the underlying portfolio, meaning that if prices fall, their losses are also magnified.
 
 
-### 4. How do split-share corporations typically conclude their operations?
+### How do split-share corporations typically conclude their operations?
 
 - [ ] They merge with a traditional mutual fund.  
 - [x] They liquidate their portfolio on a predetermined maturity date.  
@@ -275,7 +275,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** Most split-share corporations have a set term. When they reach maturity, the portfolio is liquidated and proceeds are distributed according to each class’s priority.
 
 
-### 5. Which regulatory body’s guidance is crucial for risk disclosure in structured products like split shares in Canada?
+### Which regulatory body’s guidance is crucial for risk disclosure in structured products like split shares in Canada?
 
 - [ ] The U.S. Securities and Exchange Commission (SEC)  
 - [x] The Canadian Investment Regulatory Organization (CIRO)  
@@ -285,7 +285,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** In Canada, CIRO oversees rules and guidance for investment industry participants, including requirements for adequate risk disclosure.
 
 
-### 6. From which public repository can investors access prospectuses and financial statements for split-share corporations?
+### From which public repository can investors access prospectuses and financial statements for split-share corporations?
 
 - [x] SEDAR+  
 - [ ] EDGAR  
@@ -295,7 +295,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** SEDAR+ (System for Electronic Document Analysis and Retrieval) is the official site for publicly available financial documents of Canadian issuers.
 
 
-### 7. Why might a preferred share of a split-share corporation be considered lower risk than its corresponding capital share?
+### Why might a preferred share of a split-share corporation be considered lower risk than its corresponding capital share?
 
 - [ ] It includes voting rights that capital shares do not.  
 - [ ] It is guaranteed by the Bank of Canada.  
@@ -305,7 +305,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** Preferred shares are contractually entitled to dividends before capital shares and have priority on redemption proceeds, thus providing greater downside protection.
 
 
-### 8. What is the “leverage effect” in the context of split shares?
+### What is the “leverage effect” in the context of split shares?
 
 - [ ] The advantage gained by transferring shares off-exchange.  
 - [x] The multiplied impact on capital share returns due to the structure’s prioritization of preferred shares.  
@@ -315,7 +315,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** Capital shares experience amplified gains and losses because preferred share obligations must be met first, leaving capital shares to absorb residual fluctuations.
 
 
-### 9. When might a split-share corporation consider extending its term?
+### When might a split-share corporation consider extending its term?
 
 - [ ] When the underlying portfolio’s shares become permanently delisted.  
 - [x] When shareholders approve and market conditions are favorable for continuation.  
@@ -325,7 +325,7 @@ Before investing, carefully study the offering documents, ensure alignment with 
 > **Explanation:** A split-share corporation may extend its original maturity date by majority approval of shareholders, typically if it’s advantageous for investors or the corporation’s objectives.
 
 
-### 10. True or False: Preferred share dividends in a split-share structure are always guaranteed, regardless of the underlying portfolio’s performance.
+### True or False: Preferred share dividends in a split-share structure are always guaranteed, regardless of the underlying portfolio’s performance.
 
 - [x] True  
 - [ ] False  

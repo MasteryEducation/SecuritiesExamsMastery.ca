@@ -16,7 +16,7 @@ This section presents an in-depth exploration of technical analysis, including f
 
 ---
 
-### 1. Defining Technical Analysis
+### Defining Technical Analysis
 
 Technical analysis is built on the premise that price and volume data reflect investor sentiment, market psychology, and supply-demand dynamics. Since prices adjust rapidly to reflect new information, many technical analysts believe it is more effective to focus on market patterns than to rely solely on macroeconomic factors, corporate financial statements, or market fundamentals.
 
@@ -28,7 +28,7 @@ Key reasons to employ technical analysis include:
 
 ---
 
-### 2. Key Assumptions of Technical Analysis
+### Key Assumptions of Technical Analysis
 
 There are three core assumptions central to technical analysis:
 
@@ -43,7 +43,7 @@ There are three core assumptions central to technical analysis:
 
 ---
 
-### 3. Charts and Patterns
+### Charts and Patterns
 
 Charts provide a visual representation of price and volume data. Understanding their construction helps technical analysts identify key levels and evaluate future price movements.
 
@@ -97,7 +97,7 @@ Chart patterns typically fall into two broad categories: continuation and revers
 
 ---
 
-### 4. Technical Indicators
+### Technical Indicators
 
 Technical indicators are quantitative tools that complement chart pattern analysis. They help measure momentum, volatility, and sentiment.
 
@@ -123,7 +123,7 @@ Volume can validate the significance of price moves. For instance, an upward pri
 
 ---
 
-### 5. Limitations and Criticisms
+### Limitations and Criticisms
 
 While technical analysis is widely adopted, it does face criticisms:
 
@@ -135,7 +135,7 @@ Traders using technical analysis should remain adaptable, employing risk managem
 
 ---
 
-### 6. Combining Technical with Fundamental Analysis
+### Combining Technical with Fundamental Analysis
 
 Technical analysis can add value when integrated with fundamental approaches:
 
@@ -146,7 +146,7 @@ For example, Canadian pension funds with a long-term fundamental outlook might s
 
 ---
 
-### 7. Glossary
+### Glossary
 
 • **Support Level:** A price level at which a stock or market tends to find buying interest as it declines.  
 • **Resistance Level:** A price level at which a stock or market repeatedly encounters selling pressure.  
@@ -155,7 +155,7 @@ For example, Canadian pension funds with a long-term fundamental outlook might s
 
 ---
 
-### 8. Practical Canadian Examples and Real-World Scenarios
+### Practical Canadian Examples and Real-World Scenarios
 
 To illustrate practical uses of technical analysis in the Canadian market:
 
@@ -165,7 +165,7 @@ To illustrate practical uses of technical analysis in the Canadian market:
 
 ---
 
-### 9. References, Tools, and Additional Resources
+### References, Tools, and Additional Resources
 
 Below are some references and tools that Canadian investors and advisors may find helpful:
 
@@ -188,106 +188,97 @@ Below are some references and tools that Canadian investors and advisors may fin
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the foundation of technical analysis?
+### Which of the following best describes the foundation of technical analysis?
 
 - [x] It studies past price and volume data to forecast future trends.  
 - [ ] It relies solely on macroeconomic data to predict price movements.  
 - [ ] It focuses exclusively on insider trades in Canadian financial institutions.  
 - [ ] It discards historical data and concentrates on earnings reports.  
 
-> **Explanation:** Technical analysis assumes that all available information is embedded in price and volume data, making historical data a key component of predicting future trends.
+> **Explanation:**( Technical analysis assumes that all available information is embedded in price and volume data, making historical data a key component of predicting future trends.)
 
----
 
-### 2. In technical analysis, what is a primary assumption regarding price movement?
+### In technical analysis, what is a primary assumption regarding price movement?
 
 - [x] That prices move along established trends and continue until evidence points otherwise.  
 - [ ] That prices are always random and unpredictable.  
 - [x] That prices never change beyond a fixed range.  
 - [ ] That prices solely reflect fundamental factors such as earnings growth.  
 
-> **Explanation:** Technical analysis holds that prices tend to move in recognizable trends, which continue unless a reversal signal is confirmed.
+> **Explanation:**( Technical analysis holds that prices tend to move in recognizable trends, which continue unless a reversal signal is confirmed.)
 
----
 
-### 3. What is a support level?
+### What is a support level?
 
 - [x] A price level where buying activity is strong enough to prevent further price declines.  
 - [ ] A price level at which selling is guaranteed to occur.  
 - [ ] A price level representing a government-mandated floor for securities.  
 - [ ] A price level established by a single day’s trade volume.  
 
-> **Explanation:** Support levels are areas where the market recognizes value and buyers historically step in to support prices.
+> **Explanation:**( Support levels are areas where the market recognizes value and buyers historically step in to support prices.)
 
----
 
-### 4. Which of the following is an example of a reversal chart pattern?
+### Which of the following is an example of a reversal chart pattern?
 
 - [ ] Flag  
 - [ ] Triangle  
 - [x] Head and Shoulders  
 - [ ] Cup and Handle  
 
-> **Explanation:** Head and Shoulders is a classic reversal pattern, signaling a potential trend change when the neckline is breached.
+> **Explanation:**( Head and Shoulders is a classic reversal pattern, signaling a potential trend change when the neckline is breached.)
 
----
 
-### 5. When a short-term moving average crosses above a long-term moving average, analysts often refer to this as:
+### When a short-term moving average crosses above a long-term moving average, analysts often refer to this as:
 
 - [x] A golden cross  
 - [ ] A margin call  
 - [x] A short squeeze  
 - [ ] A fade  
 
-> **Explanation:** A golden cross indicates a shift in momentum that could precede a bullish price run.
+> **Explanation:**( A golden cross indicates a shift in momentum that could precede a bullish price run.)
 
----
 
-### 6. The Relative Strength Index (RSI) is considered overbought when it moves above:
+### The Relative Strength Index (RSI) is considered overbought when it moves above:
 
 - [x] 70  
 - [ ] 30  
 - [ ] 50  
 - [ ] 100  
 
-> **Explanation:** RSI measures momentum, and readings above 70 are commonly interpreted as overbought, possibly signaling an upcoming correction or consolidation.
+> **Explanation:**( RSI measures momentum, and readings above 70 are commonly interpreted as overbought, possibly signaling an upcoming correction or consolidation.)
 
----
 
-### 7. Which organization provides regulatory oversight to ensure fair and ethical trading practices in Canada?
+### Which organization provides regulatory oversight to ensure fair and ethical trading practices in Canada?
 
 - [x] CIRO (Canadian Investment Regulatory Organization)  
 - [ ] U.S. Securities and Exchange Commission (SEC)  
 - [x] Federal Reserve Board  
 - [ ] European Central Bank  
 
-> **Explanation:** CIRO is the primary self-regulatory organization overseeing investment dealers and trading activity in Canada.
+> **Explanation:**( CIRO is the primary self-regulatory organization overseeing investment dealers and trading activity in Canada.)
 
----
 
-### 8. What is the primary benefit of combining technical and fundamental analysis?
+### What is the primary benefit of combining technical and fundamental analysis?
 
 - [x] It can confirm fundamental investment theses with market-based signals and manage risk with technical stops.  
 - [ ] It completely eliminates the need to analyze a company’s financial statements.  
 - [ ] It ensures zero losses for all market participants.  
 - [ ] It removes the need for chart reading.  
 
-> **Explanation:** Using both approaches allows investors to align fundamental valuations with timing signals and risk management from technical indicators.
+> **Explanation:**( Using both approaches allows investors to align fundamental valuations with timing signals and risk management from technical indicators.)
 
----
 
-### 9. Which charting method carefully strips away minor price movements to highlight significant reversals?
+### Which charting method carefully strips away minor price movements to highlight significant reversals?
 
 - [ ] Bar Chart  
 - [ ] Candlestick Chart  
 - [ ] Line Chart  
 - [x] Point-and-Figure Chart  
 
-> **Explanation:** Point-and-figure charts emphasize meaningful price movements and filter out smaller fluctuations.
+> **Explanation:**( Point-and-figure charts emphasize meaningful price movements and filter out smaller fluctuations.)
 
----
 
-### 10. True or False: Market efficiency can diminish the predictive power of technical analysis if everyone uses the same patterns.
+### True or False: Market efficiency can diminish the predictive power of technical analysis if everyone uses the same patterns.
 
 - [x] True  
 - [ ] False  

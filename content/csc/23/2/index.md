@@ -193,7 +193,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 {{< quizdown >}}
 
-### 1. What is the main purpose of the zero-coupon bond portion of a PPN?
+### What is the main purpose of the zero-coupon bond portion of a PPN?
 
 - [ ] To provide immediate dividend income.  
 - [ ] To leverage returns through margin.  
@@ -202,7 +202,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** The zero-coupon bond in a PPN ensures the principal amount grows back to par at maturity, thus providing the principal protection feature.
 
-### 2. Which of the following best describes the participation rate in a PPN?
+### Which of the following best describes the participation rate in a PPN?
 
 - [ ] The minimum percentage of capital that is guaranteed at maturity.  
 - [x] The extent to which the investor shares in the underlying asset’s gains.  
@@ -211,7 +211,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** The participation rate is the percentage of the underlying asset’s gain that an investor will receive if that asset appreciates.
 
-### 3. If an underlying index linked to a PPN performs poorly, what happens at maturity under normal circumstances?
+### If an underlying index linked to a PPN performs poorly, what happens at maturity under normal circumstances?
 
 - [ ] The investor receives no payoff.  
 - [ ] The investor must pay the difference to the issuer.  
@@ -220,7 +220,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** By design, PPNs are structured so that at maturity the investor’s principal is returned, assuming no issuer default.
 
-### 4. Which statement regarding the credit risk of PPNs is most accurate?
+### Which statement regarding the credit risk of PPNs is most accurate?
 
 - [ ] PPNs are fully protected by the Government of Canada.  
 - [ ] Credit risk only applies if the PPN has an equity component.  
@@ -229,7 +229,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** Even though PPNs promise principal protection, this promise is only as secure as the issuing institution’s ability to meet its obligations.
 
-### 5. An investor wants to exit a PPN early. Which of the following is most likely?
+### An investor wants to exit a PPN early. Which of the following is most likely?
 
 - [x] They may face significant liquidity challenges and possibly receive less than the principal.  
 - [ ] They will be guaranteed a prorated return based on the participation rate.  
@@ -238,7 +238,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** PPNs are designed to be held to maturity. Liquidity can be limited, and early redemption often comes at a discount to principal.
 
-### 6. What is a common reason that PPNs may underperform an equivalent direct equity investment in a booming market?
+### What is a common reason that PPNs may underperform an equivalent direct equity investment in a booming market?
 
 - [ ] PPNs are always invested in international securities.  
 - [x] A portion of the capital pays for a zero-coupon bond, limiting total possible equity exposure.  
@@ -247,7 +247,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** Because part of the capital is allocated to the zero-coupon bond for principal protection, the share of the portfolio exposed to the upside of the underlying is smaller, potentially capping gains.
 
-### 7. The “cap” in some PPNs refers to:
+### The “cap” in some PPNs refers to:
 
 - [x] The maximum potential return an investor can earn.  
 - [ ] The maximum number of investors allowed in the note.  
@@ -256,7 +256,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** A cap is a limit on the maximum return an investor can receive, protecting the issuer from having to pay out unlimited gains.
 
-### 8. Under Canadian tax rules, why is it important to determine if PPN returns are classified as interest or capital gains?
+### Under Canadian tax rules, why is it important to determine if PPN returns are classified as interest or capital gains?
 
 - [ ] Capital gains are taxed at 50% of the investor’s marginal rate.  
 - [ ] All PPN returns are tax-free in Canada.  
@@ -265,7 +265,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** Canadian investors must be aware of how returns are classified (interest vs. capital gains vs. dividends) because each classification is taxed differently.
 
-### 9. According to National Instrument 31-103, which responsibility must advisors meet when recommending PPNs?
+### According to National Instrument 31-103, which responsibility must advisors meet when recommending PPNs?
 
 - [x] They must conduct proper KYC (Know Your Client) and KYP (Know Your Product) procedures.  
 - [ ] They must guarantee a minimum 10% return for clients.  
@@ -274,7 +274,7 @@ Principal-Protected Notes (PPNs) can be valuable for investors who want exposure
 
 > **Explanation:** National Instrument 31-103 outlines registration requirements, including KYC and KYP, to ensure product suitability for each client’s profile.
 
-### 10. True or False: A PPN’s principal protection is always backed by the Government of Canada.
+### True or False: A PPN’s principal protection is always backed by the Government of Canada.
 
 - [ ] True  
 - [x] False  

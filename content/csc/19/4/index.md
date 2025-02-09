@@ -170,9 +170,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [x] Management fees, sampling methods, or illiquid underlying securities
 - [ ] Stock splits in the underlying securities
 
-> **Explanation:** Tracking error is often driven by a combination of management expenses, sampling techniques, and any liquidity challenges with the underlying assets.
+> **Explanation:**( Tracking error is often driven by a combination of management expenses, sampling techniques, and any liquidity challenges with the underlying assets.)
 
----
 
 ### What is the main disadvantage of dealing with low-liquidity ETFs?
 
@@ -181,9 +180,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [x] Wider bid-ask spreads and potential price volatility
 - [ ] Increased regulatory fees by CIRO
 
-> **Explanation:** Thinly traded ETFs typically exhibit wider bid-ask spreads, and even small trades can result in significant price swings.
+> **Explanation:**( Thinly traded ETFs typically exhibit wider bid-ask spreads, and even small trades can result in significant price swings.)
 
----
 
 ### Which risk do inverse or leveraged ETFs often face due to their reliance on derivatives?
 
@@ -192,9 +190,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [ ] Inflation risk
 - [ ] Margin risk
 
-> **Explanation:** Inverse or leveraged ETFs frequently use swaps and other derivatives, exposing them to the risk that the counterparty fails to meet its obligations.
+> **Explanation:**( Inverse or leveraged ETFs frequently use swaps and other derivatives, exposing them to the risk that the counterparty fails to meet its obligations.)
 
----
 
 ### How can Canadian investors mitigate currency risk when investing in foreign ETFs?
 
@@ -203,9 +200,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [ ] Completely avoiding global investments
 - [x] Investing in currency-hedged ETF versions
 
-> **Explanation:** A currency-hedged ETF uses derivatives to neutralize exchange rate movements, reducing currency risk for Canadian investors.
+> **Explanation:**( A currency-hedged ETF uses derivatives to neutralize exchange rate movements, reducing currency risk for Canadian investors.)
 
----
 
 ### Which of the following statements best defines concentration risk?
 
@@ -214,18 +210,16 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [ ] Concentration risk is the discrepancy between an ETF's net asset value and its market price.
 - [ ] Concentration risk applies only to passive index-tracking ETFs.
 
-> **Explanation:** Concentration risk occurs when an ETF or portfolio is focused on a single sector, theme, or geographic region, which can greatly magnify gains or losses.
+> **Explanation:**( Concentration risk occurs when an ETF or portfolio is focused on a single sector, theme, or geographic region, which can greatly magnify gains or losses.)
 
----
 
 ### True or False: A Canadian bond ETF can face market risk due to fluctuating interest rates.
 
 - [x] True
 - [ ] False
 
-> **Explanation:** A bond ETF’s price changes inversely with interest rates. When interest rates rise, bond prices typically drop, impacting the ETF’s value.
+> **Explanation:**( A bond ETF’s price changes inversely with interest rates. When interest rates rise, bond prices typically drop, impacting the ETF’s value.)
 
----
 
 ### Which of the following is an example of tracking error?
 
@@ -234,9 +228,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [ ] A currency-hedged ETF outperforms its unhedged counterpart.
 - [ ] The CSA issues warnings about leveraged ETFs.
 
-> **Explanation:** Tracking error focuses on the performance gap between the ETF and its intended benchmark.
+> **Explanation:**( Tracking error focuses on the performance gap between the ETF and its intended benchmark.)
 
----
 
 ### Why might an ETF sponsor choose sampling over full replication?
 
@@ -245,9 +238,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [ ] To increase the fund’s volatility.
 - [ ] To ensure they always outperform the benchmark.
 
-> **Explanation:** Sampling minimizes costs, especially for indices with many illiquid securities, though it can increase the risk of a tracking error.
+> **Explanation:**( Sampling minimizes costs, especially for indices with many illiquid securities, though it can increase the risk of a tracking error.)
 
----
 
 ### When evaluating liquidity risk, which of the following is most important to review?
 
@@ -256,9 +248,8 @@ By staying informed of regulatory updates, thoroughly reviewing ETF prospectuses
 - [ ] The fund’s management expense ratio
 - [x] The daily trading volume and bid-ask spread
 
-> **Explanation:** Daily trading volume and the bid-ask spread are key indicators of how easily and cost-effectively you can buy or sell the ETF.
+> **Explanation:**( Daily trading volume and the bid-ask spread are key indicators of how easily and cost-effectively you can buy or sell the ETF.)
 
----
 
 ### True or False: Currency risk is completely eliminated in unhedged foreign ETFs listed on the TSX.
 

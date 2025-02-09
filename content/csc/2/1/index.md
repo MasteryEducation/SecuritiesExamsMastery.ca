@@ -28,16 +28,16 @@ In all these cases, the flow of investment capital underpins the financial syste
 ### Sources of Investment Capital
 The Canadian capital market draws from various sources, each with distinct objectives, time horizons, and risk preferences.
 
-#### 1. Individual Savings
+#### Individual Savings
 Canadians often set aside a portion of their income in Tax-Free Savings Accounts (TFSAs), Registered Retirement Savings Plans (RRSPs), or non-registered accounts. This money typically flows into securities such as stocks, bonds, mutual funds, or exchange-traded funds (ETFs). By choosing where to invest, individuals play a direct role in allocating capital within the economy.
 
-#### 2. Institutional Investors
+#### Institutional Investors
 Large institutions like pension funds (e.g., the Canada Pension Plan Investment Board), insurance companies, and mutual fund providers (e.g., RBC Global Asset Management, TD Asset Management) aggregate funds from multiple smaller investors. Because of their substantial size, these institutions can invest in sizable projects, negotiate better terms, and diversify extensively. Their strategies often influence market trends, providing liquidity and stability.
 
-#### 3. Government Bodies
+#### Government Bodies
 Federal, provincial, and municipal governments may access capital markets by issuing bonds to fund public infrastructure projects (e.g., bridges, highways, hospitals). Alternatively, they might invest accumulated surpluses back into key economic sectors. In both instances, the government acts as a catalyst for economic growth, using investment capital to build and maintain public assets.
 
-#### 4. Foreign Investors
+#### Foreign Investors
 Globalization has made it easier for foreign investors—be they private entities or sovereign wealth funds—to invest in Canadian opportunities. Real estate, commodities, and gilts (government bonds) often attract cross-border inflows, reinforcing Canada’s role as a stable and resource-rich investment destination.
 
 -----------------------------------------------------
@@ -161,97 +161,88 @@ An essential principle for valuing investment opportunities is the time value of
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes “investment capital”?  
+### Which of the following best describes “investment capital”?  
 - [x] Funds allocated to generate future income or growth.  
 - [ ] Money reserved only for paying off debts.  
 - [ ] Capital held exclusively by governments.  
 - [ ] Profits from foreign exchange.  
 
-> **Explanation:** Investment capital refers to the pool of money individuals, institutions, or governments allocate to investments with the aim of generating income or capital appreciation.
+> **Explanation:**( Investment capital refers to the pool of money individuals, institutions, or governments allocate to investments with the aim of generating income or capital appreciation.)
 
----
 
-### 2. Which of the following is NOT typically considered a source of investment capital in Canada?  
+### Which of the following is NOT typically considered a source of investment capital in Canada?  
 - [ ] Individual savings through RRSPs or TFSAs.  
 - [ ] Institutional investors such as pension funds.  
 - [x] Personal consumer loans used for daily expenses.  
 - [ ] Government surplus funds invested in infrastructure.  
 
-> **Explanation:** Consumer loans used for daily expenses are typically not directed into investments, whereas RRSPs, pension funds, and excess government revenues can be invested.
+> **Explanation:**( Consumer loans used for daily expenses are typically not directed into investments, whereas RRSPs, pension funds, and excess government revenues can be invested.)
 
----
 
-### 3. How do financial intermediaries generally support the flow of investment capital?  
+### How do financial intermediaries generally support the flow of investment capital?  
 - [x] By bridging the gap between savers and borrowers.  
 - [ ] By discouraging savings in favor of immediate consumption.  
 - [ ] By investing solely in international markets.  
 - [ ] By holding onto all funds rather than distributing them.  
 
-> **Explanation:** Financial intermediaries such as banks and credit unions match surplus funds from savers with borrowers who need capital for growth.
+> **Explanation:**( Financial intermediaries such as banks and credit unions match surplus funds from savers with borrowers who need capital for growth.)
 
----
 
-### 4. Which statement most accurately describes the role of CIRO?  
+### Which statement most accurately describes the role of CIRO?  
 - [x] CIRO enforces rules and regulations for investment dealers and helps maintain market integrity.  
 - [ ] CIRO is a branch of the Federal Government of Canada.  
 - [ ] CIRO is responsible for setting interest rates.  
 - [ ] CIRO directly manages pension funds and insurance companies.  
 
-> **Explanation:** CIRO, as a self-regulatory organization, establishes standards and rules for investment dealers and related participants to protect investors and maintain trust in the financial system.
+> **Explanation:**( CIRO, as a self-regulatory organization, establishes standards and rules for investment dealers and related participants to protect investors and maintain trust in the financial system.)
 
----
 
-### 5. In the risk-return trade-off, which statement is true?  
+### In the risk-return trade-off, which statement is true?  
 - [x] Higher potential returns typically come with higher risk.  
 - [ ] Lower-risk opportunities always guarantee the highest returns.  
 - [x] Equities generally have zero risk.  
 - [ ] Default risk is never a factor in corporate bonds.  
 
-> **Explanation:** The principle is that the potential for greater returns increases with higher levels of risk. Equities do carry risk, and corporate bonds include default risk considerations.
+> **Explanation:**( The principle is that the potential for greater returns increases with higher levels of risk. Equities do carry risk, and corporate bonds include default risk considerations.)
 
----
 
-### 6. What is a key benefit of foreign investment in Canadian markets?  
+### What is a key benefit of foreign investment in Canadian markets?  
 - [x] It can provide additional capital and diversify the investor’s portfolio.  
 - [ ] It always drives down the value of the Canadian dollar.  
 - [ ] It is prohibited by the Canadian government.  
 - [ ] It only benefits large, multinational corporations.  
 
-> **Explanation:** Foreign investment diversifies risk for global investors and supplies Canadian markets with additional capital, often spurring economic growth.
+> **Explanation:**( Foreign investment diversifies risk for global investors and supplies Canadian markets with additional capital, often spurring economic growth.)
 
----
 
-### 7. Why is “time value of money” (TVM) vital when pricing financial instruments?  
+### Why is “time value of money” (TVM) vital when pricing financial instruments?  
 - [x] Because one dollar today can be invested to earn returns, making it worth more than the same amount in the future.  
 - [ ] Because future cash flows have zero value.  
 - [ ] Because interest rates remain constant over time.  
 - [ ] Because inflation never affects the future value of money.  
 
-> **Explanation:** TVM underpins how investors view present versus future cash flows. Factoring in potential earnings and inflation, a dollar today is more valuable.
+> **Explanation:**( TVM underpins how investors view present versus future cash flows. Factoring in potential earnings and inflation, a dollar today is more valuable.)
 
----
 
-### 8. Which best practice helps mitigate risk when allocating investment capital?  
+### Which best practice helps mitigate risk when allocating investment capital?  
 - [x] Diversifying across multiple asset classes.  
 - [ ] Investing all capital in one stock for maximum growth potential.  
 - [ ] Ignoring market trends and focusing solely on historical returns.  
 - [ ] Withdrawing money at every minor market fluctuation.  
 
-> **Explanation:** Diversification across equities, bonds, and other assets is widely recommended to spread risk and reduce portfolio volatility.
+> **Explanation:**( Diversification across equities, bonds, and other assets is widely recommended to spread risk and reduce portfolio volatility.)
 
----
 
-### 9. What is one potential pitfall related to investment capital allocation?  
+### What is one potential pitfall related to investment capital allocation?  
 - [x] Overconcentration in a single sector or asset class.  
 - [ ] Using online tools to aid decision-making.  
 - [ ] Seeking advice from qualified financial advisors.  
 - [ ] Reviewing portfolio performance regularly.  
 
-> **Explanation:** Concentration in a single sector can increase vulnerability to sector-specific shocks, whereas diversification can mitigate these risks.
+> **Explanation:**( Concentration in a single sector can increase vulnerability to sector-specific shocks, whereas diversification can mitigate these risks.)
 
----
 
-### 10. True or False: The Canadian government finances infrastructure projects exclusively through tax revenues, never through issuing bonds.  
+### True or False: The Canadian government finances infrastructure projects exclusively through tax revenues, never through issuing bonds.  
 - [ ] True  
 - [x] False  
 

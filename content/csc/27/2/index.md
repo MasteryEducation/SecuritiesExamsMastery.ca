@@ -216,9 +216,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [ ] Achieving the institution’s annual profit target at all costs
 - [ ] Aligning the portfolio exclusively with the manager’s personal investment preferences
 
-> **Explanation:** In Canada, buy-side portfolio managers must adhere to stringent fiduciary standards, prioritizing client interests and conforming to predetermined mandates and constraints.
+> **Explanation:**( In Canada, buy-side portfolio managers must adhere to stringent fiduciary standards, prioritizing client interests and conforming to predetermined mandates and constraints.)
 
----
 
 ### What is the primary goal of best execution for buy-side traders?
 - [x] Acquiring the most advantageous execution terms, balancing price, costs, and speed
@@ -226,9 +225,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [x] Minimizing negative market impact  
 - [ ] Maintaining a uniform trade frequency irrespective of market conditions
 
-> **Explanation:** Best execution aims to secure optimal trade outcomes for the client—watching price, costs, and speed, and often using strategies to reduce market impact (especially for large order volumes).
+> **Explanation:**( Best execution aims to secure optimal trade outcomes for the client—watching price, costs, and speed, and often using strategies to reduce market impact (especially for large order volumes).)
 
----
 
 ### Which of the following is a typical first step for a buy-side portfolio manager considering a strategic adjustment?
 - [x] Performing macroeconomic and sector analyses
@@ -236,9 +234,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [ ] Relying solely on short-term technical indicators for all decisions
 - [ ] Immediately placing large market orders without research
 
-> **Explanation:** Portfolio managers usually begin by researching and analyzing economic conditions, sectors, and specific securities before determining an appropriate strategy or realigning asset allocations.
+> **Explanation:**( Portfolio managers usually begin by researching and analyzing economic conditions, sectors, and specific securities before determining an appropriate strategy or realigning asset allocations.)
 
----
 
 ### Which phrase correctly describes “market impact” in relation to buy-side trading?
 - [x] The pricing effect caused when a large order enters the market
@@ -246,9 +243,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [ ] Government fiscal policy's effect on stock market indices
 - [ ] The cyclical movements of a benchmark index
 
-> **Explanation:** “Market impact” refers to how large buy or sell orders can affect the traded security’s market price—often causing prices to move against the order.
+> **Explanation:**( “Market impact” refers to how large buy or sell orders can affect the traded security’s market price—often causing prices to move against the order.)
 
----
 
 ### How do algorithmic trading platforms assist buy-side traders?
 - [x] They split large orders into smaller ones to minimize market impact
@@ -256,9 +252,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [x] They track real-time liquidity and volatility for more precise execution
 - [ ] They eliminate the need for professional oversight
 
-> **Explanation:** Algorithmic trading can divide sizable orders into smaller “child orders,” monitoring market conditions to enhance execution quality and reduce price disruptions.
+> **Explanation:**( Algorithmic trading can divide sizable orders into smaller “child orders,” monitoring market conditions to enhance execution quality and reduce price disruptions.)
 
----
 
 ### What is the main goal of the communication loop between buy-side portfolio managers and traders?
 - [x] Aligning trading strategies with portfolio objectives
@@ -266,9 +261,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [ ] Minimizing compliance requirements
 - [ ] Restricting ongoing feedback once trades are initiated
 
-> **Explanation:** Regular communication helps ensure that trade execution meets portfolio goals, adjusting tactics as market conditions change.
+> **Explanation:**( Regular communication helps ensure that trade execution meets portfolio goals, adjusting tactics as market conditions change.)
 
----
 
 ### In Canadian regulatory terms, what is the “Fair Allocation” principle?
 - [x] Ensuring that large block orders are allocated proportionately among client accounts
@@ -276,9 +270,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [x] Excluding any client from a profitable opportunity to speed up settlement
 - [ ] Allowing managers to allocate trades arbitrarily
 
-> **Explanation:** “Fair Allocation” ensures no favoritism in executing trades for multiple clients, requiring documentation and equitable distribution of securities among eligible accounts.
+> **Explanation:**( “Fair Allocation” ensures no favoritism in executing trades for multiple clients, requiring documentation and equitable distribution of securities among eligible accounts.)
 
----
 
 ### When referring to ongoing education for buy-side professionals, which statement is most accurate?
 - [x] Staying updated on technologies, regulations, and market changes is essential
@@ -286,9 +279,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [ ] The emphasis on new regulations is typically nonexistent in Canada
 - [ ] Trading tools rarely change, so ongoing training is of limited benefit
 
-> **Explanation:** As Canadian and global markets evolve, buy-side professionals must remain well-informed to adapt to new regulatory guidelines, technology upgrades, and market innovations.
+> **Explanation:**( As Canadian and global markets evolve, buy-side professionals must remain well-informed to adapt to new regulatory guidelines, technology upgrades, and market innovations.)
 
----
 
 ### Which Canadian regulatory organizations oversee the activities of buy-side portfolio managers and traders?
 - [x] CSA and CIRO
@@ -296,9 +288,8 @@ These references provide a solid foundation for professionals seeking to enhance
 - [ ] IIROC and CIPF
 - [ ] IMF and World Bank
 
-> **Explanation:** The Canadian Securities Administrators (CSA) and the Canadian Investment Regulatory Organization (CIRO) establish, guide, and enforce rules that govern capital markets participants in Canada.
+> **Explanation:**( The Canadian Securities Administrators (CSA) and the Canadian Investment Regulatory Organization (CIRO) establish, guide, and enforce rules that govern capital markets participants in Canada.)
 
----
 
 ### True or False: A buy-side trader’s primary client relationship management duty is to supervise commercial banking business.
 - [x] True

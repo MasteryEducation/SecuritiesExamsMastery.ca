@@ -14,7 +14,7 @@ Bond pricing in Canada—or any modern capital market—is shaped by how sensiti
 
 ---
 
-### 1. Introduction
+### Introduction
 
 Investors purchase fixed-income securities (bonds) to receive regular coupon payments and the eventual return of principal at maturity. However, if prevailing market interest rates change, the value (price) of these bonds will typically move in the opposite direction of interest rates. This inverse relationship is due to new security issuance becoming more (or less) attractive relative to existing bonds. The extent of this price change is governed by several key properties:
 
@@ -28,7 +28,7 @@ Mastering these core concepts empowers investors to anticipate bond price volati
 
 ---
 
-### 2. Interest Rate Sensitivity (Duration)
+### Interest Rate Sensitivity (Duration)
 
 Duration measures how sensitive a bond’s price is to changes in interest rates. In essence, it represents the average time (in years) an investor needs to wait to receive all coupon and principal payments, weighted by their present value. Duration is one of the most important metrics for fixed-income analysis in Canada and around the world.
 
@@ -53,7 +53,7 @@ Imagine RBC issues a 5-year bond with an annual coupon of 2.5%. Suppose its Modi
 
 ---
 
-### 3. Convexity
+### Convexity
 
 Convexity refines the understanding of price sensitivity by illustrating how duration changes as yields fluctuate. It accounts for the curvature in the price–yield relationship.
 
@@ -74,7 +74,7 @@ In this diagram, the curvature around the bond price node illustrates that the r
 
 ---
 
-### 4. Coupon Effect
+### Coupon Effect
 
 The coupon rate influences duration and price volatility:
 
@@ -91,7 +91,7 @@ A 3.0% coupon bond issued by a provincial government (like the Province of Ontar
 
 ---
 
-### 5. Maturity Effect
+### Maturity Effect
 
 Maturity is a crucial determinant of bond risk:
 
@@ -107,7 +107,7 @@ A 10-year TD Bank bond with a 3.2% coupon will generally display more price vola
 
 ---
 
-### 6. Credit Risk Impact
+### Credit Risk Impact
 
 In addition to interest rate risk, bond prices can also fluctuate due to changes in credit risk perceptions:
 
@@ -118,7 +118,7 @@ For instance, if market participants develop concerns about a corporate issuer�
 
 ---
 
-### 7. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 1. **Best Practices**:  
    – Continuously monitor both interest rate trends and the credit profile of your holdings, especially for corporate or high-yield bonds.  
@@ -132,13 +132,13 @@ For instance, if market participants develop concerns about a corporate issuer�
 
 ---
 
-### 8. Applying These Properties in a Canadian Context
+### Applying These Properties in a Canadian Context
 
 A balanced fixed-income portfolio might include both federal and provincial government bonds and investment-grade corporate bonds from major Canadian banks, with laddered maturities to manage interest rate risk. Investors could also add higher-yielding corporate bonds for enhanced returns but must carefully monitor credit rating changes to avoid excessive price volatility.
 
 ---
 
-### 9. Glossary of Terms
+### Glossary of Terms
 
 • **Duration (Macauley Duration)**: The weighted average time (in years) an investor must wait to receive all coupon and principal payments.  
 • **Modified Duration**: Adjusts Macauley Duration to quantify a bond’s percentage price change for a 1% change in yield.  
@@ -147,7 +147,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 ---
 
-### 10. Additional Resources and References
+### Additional Resources and References
 
 • Credit Rating Agencies in Canada: DBRS Morningstar, S&P Global Ratings, Moody’s Investors Service  
 • [Office of the Superintendent of Financial Institutions (OSFI)](https://www.osfi-bsif.gc.ca/)  
@@ -160,7 +160,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 {{< quizdown >}}
 
-### 1. Which metric gives a bond’s sensitivity to changes in interest rates?
+### Which metric gives a bond’s sensitivity to changes in interest rates?
 
 - [x] Modified Duration
 - [ ] Maturity
@@ -169,7 +169,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Modified Duration measures how much the bond’s price changes with a 1% change in yield.
 
-### 2. How does higher convexity generally affect a bond’s price response when interest rates drop?
+### How does higher convexity generally affect a bond’s price response when interest rates drop?
 
 - [ ] It reduces the price increase.
 - [x] It increases the price increase.
@@ -178,7 +178,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** High convexity means a bond’s price increases more than duration alone would suggest when rates decline.
 
-### 3. Which of the following tends to have the highest interest rate sensitivity?
+### Which of the following tends to have the highest interest rate sensitivity?
 
 - [ ] A 1-year bond with a 3% coupon
 - [ ] A 2-year bond with a 5% coupon
@@ -187,7 +187,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Longer maturity and lower coupon together increase duration, resulting in higher price volatility.
 
-### 4. What is a credit spread?
+### What is a credit spread?
 
 - [ ] The difference in price between two classes of stock
 - [ ] A measure of a bond’s interest rate risk
@@ -196,7 +196,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Credit spread represents the additional yield investors require for taking on higher credit risk versus government bonds.
 
-### 5. Which statement is true about a bond’s duration?
+### Which statement is true about a bond’s duration?
 
 - [x] Duration typically decreases as the coupon rate increases.
 - [ ] Duration is higher for short-term bonds than long-term bonds.
@@ -205,7 +205,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Higher coupon payments lower the average time to recover cash flows, thus lowering duration.
 
-### 6. If a bond has a Modified Duration of 5 and yield increases by 1%, which outcome is most likely?
+### If a bond has a Modified Duration of 5 and yield increases by 1%, which outcome is most likely?
 
 - [ ] The bond’s price remains unchanged.
 - [ ] The bond’s price increases by 5%.
@@ -214,7 +214,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Modified Duration indicates the approximate percentage change in price for a given change in yield.
 
-### 7. Which Canadian institution oversees capital adequacy guidelines that affect bond-issuing financial entities?
+### Which Canadian institution oversees capital adequacy guidelines that affect bond-issuing financial entities?
 
 - [ ] Canada Revenue Agency
 - [x] Office of the Superintendent of Financial Institutions (OSFI)
@@ -223,7 +223,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** OSFI is responsible for monitoring and guiding capital adequacy and risk management at Canadian financial institutions.
 
-### 8. Which factor primarily explains why long-term bonds are more sensitive to interest rate changes than short-term bonds?
+### Which factor primarily explains why long-term bonds are more sensitive to interest rate changes than short-term bonds?
 
 - [x] They have a longer duration, exposing them to rate changes over a longer period.
 - [ ] They have more stable coupon payments.
@@ -232,7 +232,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Longer maturity means more time for interest rate fluctuations to impact the bond’s cash flows.
 
-### 9. How does higher coupon income typically affect duration?
+### How does higher coupon income typically affect duration?
 
 - [x] It lowers duration because investors recover more of their investment sooner.
 - [ ] It always doubles duration regardless of bond maturity.
@@ -241,7 +241,7 @@ A balanced fixed-income portfolio might include both federal and provincial gove
 
 > **Explanation:** Higher coupons mean investors receive more money in the near term, reducing the bond’s weighted average time to cash flows.
 
-### 10. Convexity ensures that bond price changes are linear with respect to interest rate changes.
+### Convexity ensures that bond price changes are linear with respect to interest rate changes.
 
 - [ ] True
 - [x] False

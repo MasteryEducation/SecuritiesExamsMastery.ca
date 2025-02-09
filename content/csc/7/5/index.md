@@ -155,106 +155,97 @@ From broad-market indexes like the FTSE Canada Universe Bond Index to more speci
 
 {{< quizdown >}}
 
-### 1. Which of the following statements best describes the purpose of a bond index?
+### Which of the following statements best describes the purpose of a bond index?
 
 - [ ] To track only short-term Prime lending rates
 - [x] To serve as a benchmark measuring bond market performance
 - [ ] To provide foreign exchange rates for currency trading
 - [ ] To list all outstanding equities on the market
 
-> **Explanation:** A bond index measures changes in the bond market's value and is used as a yardstick for tracking overall or segment-specific bond performance.
+> **Explanation:**( A bond index measures changes in the bond market's value and is used as a yardstick for tracking overall or segment-specific bond performance.)
 
----
 
-### 2. What is the most commonly used weighting method for bond indexes?
+### What is the most commonly used weighting method for bond indexes?
 
 - [ ] Equal weighting
 - [ ] Fundamental weighting
 - [x] Market capitalization weighting
 - [ ] Liquidity weighting
 
-> **Explanation:** Many bond indexes, such as the FTSE Canada Universe Bond Index, use market capitalization weighting, basing each security’s weight on the value of its outstanding debt.
+> **Explanation:**( Many bond indexes, such as the FTSE Canada Universe Bond Index, use market capitalization weighting, basing each security’s weight on the value of its outstanding debt.)
 
----
 
-### 3. Which of the following factors is typically part of a bond index’s inclusion criteria?
+### Which of the following factors is typically part of a bond index’s inclusion criteria?
 
 - [x] Minimum issue size
 - [ ] The bond’s color-coded rating from the index provider
 - [ ] Distribution frequency of dividends
 - [ ] The investor’s net worth
 
-> **Explanation:** Common criteria include a minimum issue size, an investment-grade credit rating, and certain maturity requirements. These ensure the index captures only the most liquid and investable securities.
+> **Explanation:**( Common criteria include a minimum issue size, an investment-grade credit rating, and certain maturity requirements. These ensure the index captures only the most liquid and investable securities.)
 
----
 
-### 4. Why do index providers rebalance their bond indexes periodically?
+### Why do index providers rebalance their bond indexes periodically?
 
 - [ ] To reduce investor demand
 - [x] To reflect bond market changes and maintain alignment with the methodology
 - [ ] To communicate changes in the interest rate set by the Bank of Canada
 - [ ] To limit the index to only long-term bonds
 
-> **Explanation:** Rebalancing incorporates new, eligible issues and removes those that no longer meet the criteria, maintaining consistency with the index’s stated objective.
+> **Explanation:**( Rebalancing incorporates new, eligible issues and removes those that no longer meet the criteria, maintaining consistency with the index’s stated objective.)
 
----
 
-### 5. What is a key benefit of investing in an ETF that tracks a bond index?
+### What is a key benefit of investing in an ETF that tracks a bond index?
 
 - [x] The ability to gain broad, diversified exposure to a bond market segment
 - [ ] Guaranteed outperformance of active bond funds
 - [ ] Elimination of interest rate risk
 - [ ] Avoidance of any management fees
 
-> **Explanation:** Index-based ETFs offer diversification at relatively low costs, tracking a designated bond index. They do not guarantee outperformance nor eliminate interest rate risk.
+> **Explanation:**( Index-based ETFs offer diversification at relatively low costs, tracking a designated bond index. They do not guarantee outperformance nor eliminate interest rate risk.)
 
----
 
-### 6. Which Canadian institution influences monetary policy and thus has a major impact on bond markets?
+### Which Canadian institution influences monetary policy and thus has a major impact on bond markets?
 
 - [ ] Canada Revenue Agency (CRA)
 - [x] Bank of Canada
 - [ ] Canada Mortgage and Housing Corporation (CMHC)
 - [ ] Canadian Deposit Insurance Corporation (CDIC)
 
-> **Explanation:** The Bank of Canada sets key policy interest rates. Changes to these rates greatly influence bond yields and prices.
+> **Explanation:**( The Bank of Canada sets key policy interest rates. Changes to these rates greatly influence bond yields and prices.)
 
----
 
-### 7. What is one potential drawback of market capitalization weighting in bond indexes?
+### What is one potential drawback of market capitalization weighting in bond indexes?
 
 - [x] It may overweight issuers with substantial outstanding debt
 - [ ] It eliminates large issuers from the index
 - [x] It automatically excludes government bonds
 - [ ] It has no liquidity constraints
 
-> **Explanation:** Market cap weighting often gives more weight to issuers with higher total debt, which some argue can unduly concentrate risk from heavily indebted issuers.
+> **Explanation:**( Market cap weighting often gives more weight to issuers with higher total debt, which some argue can unduly concentrate risk from heavily indebted issuers.)
 
----
 
-### 8. Fundamental weighting in bond indexes may be based on which of the following?
+### Fundamental weighting in bond indexes may be based on which of the following?
 
 - [ ] The equity shares of each issuer
 - [ ] The investor’s tax bracket
 - [x] The issuer’s credit quality, cash flows, or economic footprint
 - [ ] A random selection process
 
-> **Explanation:** Unlike market capitalization weighting, fundamental weighting considers factors such as financial metrics or credit quality rather than merely total debt outstanding.
+> **Explanation:**( Unlike market capitalization weighting, fundamental weighting considers factors such as financial metrics or credit quality rather than merely total debt outstanding.)
 
----
 
-### 9. What term describes the discrepancy between a fund’s return and the performance of the index it aims to track?
+### What term describes the discrepancy between a fund’s return and the performance of the index it aims to track?
 
 - [ ] Leverage
 - [ ] Default risk
 - [ ] Subordination
 - [x] Tracking error
 
-> **Explanation:** Tracking error refers to the difference between a fund’s return and that of the underlying benchmark it seeks to replicate.
+> **Explanation:**( Tracking error refers to the difference between a fund’s return and that of the underlying benchmark it seeks to replicate.)
 
----
 
-### 10. A bond index is mainly used to gauge stock market performance.
+### A bond index is mainly used to gauge stock market performance.
 
 - [ ] True
 - [x] False

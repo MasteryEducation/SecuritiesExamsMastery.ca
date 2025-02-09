@@ -169,106 +169,97 @@ By strategically blending alternatives with core equity and bond holdings, inves
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the main diversification benefit of adding alternative investments to a traditional portfolio?
+### Which of the following best describes the main diversification benefit of adding alternative investments to a traditional portfolio?
 
 - [ ] They always produce higher returns than stock markets.  
 - [x] They often have low or negative correlation with stocks and bonds.  
 - [ ] They are completely risk-free investment vehicles.  
 - [ ] They eliminate the need for traditional equity and bond holdings.  
 
-> **Explanation:** Alternative investments can reduce portfolio volatility when they exhibit lower or negative correlations with standard asset classes such as equities and fixed income.  
+> **Explanation:**( Alternative investments can reduce portfolio volatility when they exhibit lower or negative correlations with standard asset classes such as equities and fixed income.  )
 
----
 
-### 2. A hedge fund using long/short equity strategies aims to:
+### A hedge fund using long/short equity strategies aims to:
 
 - [x] Profit from both rising and falling prices by going long undervalued stocks and shorting overvalued stocks.  
 - [ ] Invest solely in fixed-income securities to earn coupons.  
 - [ ] Avoid all forms of derivatives or leverage.  
 - [ ] Guarantee performance regardless of market conditions.  
 
-> **Explanation:** Long/short equity funds look for undervalued opportunities to go long and overvalued stocks to short, potentially benefiting from both upward and downward price movements.  
+> **Explanation:**( Long/short equity funds look for undervalued opportunities to go long and overvalued stocks to short, potentially benefiting from both upward and downward price movements.  )
 
----
 
-### 3. What is one prominent risk of alternative investments that arises from limited secondary markets?
+### What is one prominent risk of alternative investments that arises from limited secondary markets?
 
 - [ ] Higher tax deductions.  
 - [ ] Guaranteed capital appreciation.  
 - [x] Limited liquidity, making it challenging to exit investments quickly.  
 - [ ] Government protection from losses.  
 
-> **Explanation:** Alternative investments frequently have lock-up periods and limited liquidity, leading to potential difficulties if investors suddenly need to redeem funds.  
+> **Explanation:**( Alternative investments frequently have lock-up periods and limited liquidity, leading to potential difficulties if investors suddenly need to redeem funds.  )
 
----
 
-### 4. Which of the following is an example of a complex alternative strategy that may require specialized expertise?
+### Which of the following is an example of a complex alternative strategy that may require specialized expertise?
 
 - [ ] Buying blue-chip dividend-paying stocks and holding them long term.  
 - [x] Merger arbitrage, which profits from discrepancies in company valuations during M&A.  
 - [ ] Investing in government Treasury bills for short-term liquidity.  
 - [ ] Purchasing Canada Savings Bonds.  
 
-> **Explanation:** Merger arbitrage typically requires deep knowledge of corporate transactions, legal frameworks, and event-driven market behavior.  
+> **Explanation:**( Merger arbitrage typically requires deep knowledge of corporate transactions, legal frameworks, and event-driven market behavior.  )
 
----
 
-### 5. What must advisors assess before recommending alternative investments to a client?
+### What must advisors assess before recommending alternative investments to a client?
 
 - [x] The client's risk tolerance, time horizon, and investment knowledge.  
 - [ ] The client's interest in local cultural events.  
 - [x] The client's readiness to handle potential lock-up periods.  
 - [ ] The client’s ability to guarantee results.  
 
-> **Explanation:** Advisors have a fiduciary duty to evaluate a client’s financial objectives, risk profile, knowledge, and liquidity needs to confirm that alternatives are suitable.  
+> **Explanation:**( Advisors have a fiduciary duty to evaluate a client’s financial objectives, risk profile, knowledge, and liquidity needs to confirm that alternatives are suitable.  )
 
----
 
-### 6. Compared to traditional funds, alternative funds are more likely to:
+### Compared to traditional funds, alternative funds are more likely to:
 
 - [x] Use complex instruments such as derivatives for leveraging returns.  
 - [ ] Invest only in Canadian blue-chip equities.  
 - [ ] Avoid all forms of short-selling or arbitrage.  
 - [ ] Offer immediate liquidity with no redemption restrictions.  
 
-> **Explanation:** Hedge funds, alternative mutual funds, and private equity managers often employ leverage and derivatives as part of their investment strategy, subject to regulatory limits and guidelines.  
+> **Explanation:**( Hedge funds, alternative mutual funds, and private equity managers often employ leverage and derivatives as part of their investment strategy, subject to regulatory limits and guidelines.  )
 
----
 
-### 7. One of the primary reasons for utilizing leverage in a hedge fund is to:
+### One of the primary reasons for utilizing leverage in a hedge fund is to:
 
 - [x] Amplify potential returns by increasing exposure with borrowed capital.  
 - [ ] Guarantee no risk of loss.  
 - [x] Enhance risk levels without any chance of profits.  
 - [ ] Minimize volatility to zero.  
 
-> **Explanation:** Leverage can boost the return potential of a trade, but it also magnifies losses, making risk management a critical component of hedge fund operations.  
+> **Explanation:**( Leverage can boost the return potential of a trade, but it also magnifies losses, making risk management a critical component of hedge fund operations.  )
 
----
 
-### 8. When constructing a diversified portfolio, it is generally recommended to allocate:
+### When constructing a diversified portfolio, it is generally recommended to allocate:
 
 - [x] A moderate percentage (e.g., 5–20%) to alternatives based on the investor’s risk-return profile.  
 - [ ] 100% of capital to alternatives for maximum diversification.  
 - [ ] All funds to risk-free government bonds only.  
 - [ ] Exactly 80% of capital to alternative strategies.  
 
-> **Explanation:** Alternatives can enhance diversification but should typically be a measured portion of a portfolio, tailored to the investor's goals and tolerance for complexity.  
+> **Explanation:**( Alternatives can enhance diversification but should typically be a measured portion of a portfolio, tailored to the investor's goals and tolerance for complexity.  )
 
----
 
-### 9. Which of the following describes the “liquidity gate” mechanism in some alternative investments?
+### Which of the following describes the “liquidity gate” mechanism in some alternative investments?
 
 - [x] Limits or temporarily suspends redemptions during periods of market stress.  
 - [ ] Guarantees daily redemptions with no fees.  
 - [ ] Eliminates all investment risks.  
 - [ ] Provides immediate conversion of shares to cash.  
 
-> **Explanation:** Liquidity gates let fund managers restrict investor redemptions to protect the fund’s assets or align with illiquid underlying holdings.  
+> **Explanation:**( Liquidity gates let fund managers restrict investor redemptions to protect the fund’s assets or align with illiquid underlying holdings.  )
 
----
 
-### 10. An investor in a private equity fund should expect:
+### An investor in a private equity fund should expect:
 
 - [x] Potentially higher returns but longer lock-up periods and less liquidity.  
 - [ ] Complete elimination of risk through diversification.  

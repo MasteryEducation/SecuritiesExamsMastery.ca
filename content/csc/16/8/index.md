@@ -202,7 +202,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 {{< quizdown >}}
 
-### 1. Which of the following is a primary purpose of rebalancing a portfolio?
+### Which of the following is a primary purpose of rebalancing a portfolio?
 
 - [ ] Maximizing capital gains in the short term
 - [x] Realigning asset allocations to maintain desired risk levels
@@ -211,7 +211,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** Rebalancing focuses on keeping a portfolio in line with its target asset allocations to maintain consistency with the investor’s original risk/return profile.
 
-### 2. Which rebalancing trigger is based on evaluating the portfolio’s allocation at regular intervals?
+### Which rebalancing trigger is based on evaluating the portfolio’s allocation at regular intervals?
 
 - [ ] Threshold-based
 - [ ] Hybrid approach
@@ -220,7 +220,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** Time-based rebalancing occurs at specific intervals (e.g., annually), regardless of market conditions.
 
-### 3. Which of the following best describes a threshold-based rebalancing strategy?
+### Which of the following best describes a threshold-based rebalancing strategy?
 
 - [x] Rebalance only when an asset class drifts beyond a specific percentage
 - [ ] Rebalance every quarter automatically
@@ -229,7 +229,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** Threshold-based rebalancing triggers action when allocations deviate by a predefined percentage from the target, such as ±5%.
 
-### 4. Which type of account in Canada offers tax-free growth on investments?
+### Which type of account in Canada offers tax-free growth on investments?
 
 - [ ] RRSP
 - [ ] Non-registered account
@@ -238,7 +238,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** A Tax-Free Savings Account (TFSA) allows for tax-free investment growth, whereas an RRSP defers taxes until withdrawal.
 
-### 5. In a hybrid rebalancing approach, which two methods are combined?
+### In a hybrid rebalancing approach, which two methods are combined?
 
 - [x] Time-based and threshold-based
 - [ ] Threshold-based and market timing
@@ -247,7 +247,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** A hybrid approach combines a regular schedule check with threshold triggers, bringing balance to rebalancing actions.
 
-### 6. Which of the following statements about transaction costs in rebalancing is TRUE?
+### Which of the following statements about transaction costs in rebalancing is TRUE?
 
 - [x] They can include brokerage fees, bid-ask spreads, and potential redemption fees.
 - [ ] They only apply when investing in government bonds.
@@ -256,7 +256,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** Transaction costs can arise in various ways, including brokerage fees, bid-ask spreads, and short-term redemption fees, regardless of account type.
 
-### 7. How can capital gains taxes be mitigated during the rebalancing process in non-registered accounts?
+### How can capital gains taxes be mitigated during the rebalancing process in non-registered accounts?
 
 - [ ] Avoid investing in higher-risk assets.
 - [x] Use capital losses to offset realized gains.
@@ -265,7 +265,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** Offsetting gains with capital losses is a key strategy outlined in the Income Tax Act (Canada) for reducing net taxable income from rebalancing transactions.
 
-### 8. What does the “Know Your Client” (KYC) rule imply for rebalancing portfolios in Canada?
+### What does the “Know Your Client” (KYC) rule imply for rebalancing portfolios in Canada?
 
 - [ ] Financial advisors must ignore the client’s risk tolerance.
 - [ ] It is only applicable to large institutional investors.
@@ -274,7 +274,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** The KYC rule mandates that a client’s portfolio remains suitable for their risk tolerance and objectives, which rebalancing helps achieve.
 
-### 9. An example of implementing a time-based approach could be:
+### An example of implementing a time-based approach could be:
 
 - [x] Reviewing and adjusting the portfolio every six months.
 - [ ] Selling all equity positions on a random date.
@@ -283,7 +283,7 @@ By following this seven-step portfolio management process—culminating in the f
 
 > **Explanation:** Time-based rebalancing occurs at predetermined intervals (e.g., semi-annually).
 
-### 10. Rebalancing can incur transaction fees and taxes, thereby:
+### Rebalancing can incur transaction fees and taxes, thereby:
 
 - [x] Requiring cost-benefit analysis
 - [ ] Eliminating all risk from the portfolio

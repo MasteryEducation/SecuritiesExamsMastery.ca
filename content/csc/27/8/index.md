@@ -16,7 +16,7 @@ This section explores the core concepts behind algorithmic trading and high-freq
 
 ---
 
-### 1. Introduction to Algorithmic Trading
+### Introduction to Algorithmic Trading
 
 Algorithmic trading is the automated execution of trades according to pre-set rules, parameters, or algorithms. The parameters may include factors such as:
 
@@ -37,7 +37,7 @@ A large Canadian pension fund, seeking to rebalance its equity allocation, might
 
 ---
 
-### 2. High-Frequency Trading (HFT)
+### High-Frequency Trading (HFT)
 
 High-Frequency Trading (HFT) is an extension of algorithmic trading characterized by extremely rapid trade execution and brief holding periods—sometimes only milliseconds. These strategies capitalize on:
 
@@ -57,7 +57,7 @@ Major Canadian banks like RBC often invest in cutting-edge trading infrastructur
 
 ---
 
-### 3. Dark Pools and Their Role in Algorithmic Trading
+### Dark Pools and Their Role in Algorithmic Trading
 
 Dark pools are private trading venues that allow large institutional orders to be executed away from public (“lit”) exchanges. The primary advantages include:
 
@@ -73,7 +73,7 @@ In Canada, dark pools must operate under specific CSA guidelines to ensure that 
 
 ---
 
-### 4. Regulatory Oversight in Canada
+### Regulatory Oversight in Canada
 
 Canada maintains a strong regulatory framework for algorithmic trading through:
 
@@ -97,7 +97,7 @@ And read further details about electronic trading rules under:
 
 ---
 
-### 5. Risk Management and Real-Time Monitoring
+### Risk Management and Real-Time Monitoring
 
 Because trades occur rapidly, sometimes in microseconds, a robust risk management infrastructure is essential. Key elements include:
 
@@ -119,7 +119,7 @@ Because trades occur rapidly, sometimes in microseconds, a robust risk managemen
 
 ---
 
-### 6. Technology and Infrastructure
+### Technology and Infrastructure
 
 The success of algorithmic trading hinges on the firm’s technological capabilities:
 
@@ -148,7 +148,7 @@ flowchart LR
 
 ---
 
-### 7. Best Practices and Potential Pitfalls
+### Best Practices and Potential Pitfalls
 
 1. **Algorithm Testing and Validation**  
    • Backtesting historical data to validate assumptions.  
@@ -172,7 +172,7 @@ flowchart LR
 
 ---
 
-### 8. Applications and Case Studies in the Canadian Market
+### Applications and Case Studies in the Canadian Market
 
 • **Merger Arbitrage**  
   Algorithms can systematically take positions in companies engaged in mergers or acquisitions. Watching for regulatory approvals or changes in terms, these algorithms exploit price discrepancies in the short term.  
@@ -185,7 +185,7 @@ flowchart LR
 
 ---
 
-### 9. Future Developments
+### Future Developments
 
 • **Artificial Intelligence and Machine Learning**: Increasingly, algorithms use predictive analytics to interpret unstructured data such as social media sentiment, economic reports, or corporate events.  
 • **RegTech (Regulatory Technology)**: Tools for automated compliance checks, real-time transaction reporting, and advanced analytics for suspicious activity detection will become more prevalent.  
@@ -195,7 +195,7 @@ As algorithmic trading evolves, professionals who develop expertise in both the 
 
 ---
 
-### 10. Summary
+### Summary
 
 Algorithmic trading offers immense opportunities for both buy-side and sell-side participants to execute large orders, manage market impact, and leverage real-time data analytics. In Canada, the legislative framework set by the CSA and enforced by CIRO ensures that these technologies are used responsibly and ethically. Firms must invest in not only ultra-fast data and hardware but also robust risk management systems, compliance structures, and well-trained professionals. By mastering these concepts, you will be prepared to navigate the intricate world of algorithmic trading and better serve sophisticated institutional clients.
 

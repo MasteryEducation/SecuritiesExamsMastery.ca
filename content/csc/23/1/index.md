@@ -14,7 +14,7 @@ Structured products represent a powerful set of financial instruments that combi
 
 ---
 
-### 1. Defining Structured Products
+### Defining Structured Products
 
 Structured products are essentially pre-packaged investment strategies designed to offer returns tied to the performance of an asset—or basket of assets—but with unique characteristics such as:
 • Principal protection (partial or full).  
@@ -34,7 +34,7 @@ A Canadian investor at RBC Dominion Securities wanting exposure to emerging mark
 
 ---
 
-### 2. Components and Mechanisms
+### Components and Mechanisms
 
 When analyzing a structured product, it is helpful to break it down into its core components.
 
@@ -62,7 +62,7 @@ Payoff structures determine how the investor’s return is calculated.
 
 ---
 
-### 3. Principal Protection and Risk Considerations
+### Principal Protection and Risk Considerations
 
 One of the hallmarks of many structured products is partial or full capital protection, which can appeal to conservative investors. However, principal protection is often contingent upon holding the investment to maturity. If a product is sold before maturity:  
 • The secondary market price may be lower or higher than the intrinsic value.  
@@ -77,7 +77,7 @@ Structured products typically offer one of two main categories of principal prot
 
 ---
 
-### 4. Early Redemption and Liquidity
+### Early Redemption and Liquidity
 
 Although some structured products can be redeemed before maturity, the secondary market can be volatile due to:  
 • Interest Rate Movements: Rising interest rates can erode the bond component’s value.  
@@ -88,7 +88,7 @@ Careful consideration of holding periods and redemption features is crucial. Inv
 
 ---
 
-### 5. Regulatory Framework in Canada
+### Regulatory Framework in Canada
 
 #### 5.1 Role of CIRO
 The Canadian Investment Regulatory Organization (CIRO) oversees investment dealers, enforcing suitability and disclosure requirements. CIRO wants to ensure advisors thoroughly understand structured products before recommending them. Important considerations include:  
@@ -113,7 +113,7 @@ A product’s Information Statement and term sheet should highlight the costs an
 
 ---
 
-### 6. Common Structures in the Canadian Marketplace
+### Common Structures in the Canadian Marketplace
 
 #### 6.1 Market-Linked GICs
 Often issued by Canadian banks (e.g., TD or RBC), market-linked GICs combine a guaranteed principal with an equity index option. The investor benefits if the index rises but may have limited upside potential due to caps or participation rates.
@@ -126,7 +126,7 @@ Split share corporations divide an underlying portfolio’s returns into separat
 
 ---
 
-### 7. Best Practices for Evaluating Structured Products
+### Best Practices for Evaluating Structured Products
 
 Before investing in structured products, consider the following best practices:
 
@@ -140,7 +140,7 @@ Before investing in structured products, consider the following best practices:
 
 ---
 
-### 8. Step-by-Step Illustration
+### Step-by-Step Illustration
 
 Below is a mermaid diagram illustrating a simplified structure:
 
@@ -161,7 +161,7 @@ flowchart LR
 
 ---
 
-### 9. Common Pitfalls and Challenges
+### Common Pitfalls and Challenges
 
 • Complexity of Payoffs: Without a thorough understanding, investors may misunderstand potential upside or risk exposure.  
 • Early Redemption Penalties: Redeeming early can erode any principal protection and can lock in losses.  
@@ -172,7 +172,7 @@ Staying vigilant about these challenges is key to preventing costly mistakes and
 
 ---
 
-### 10. Additional Resources
+### Additional Resources
 
 Learning more about structured investments involves reading product-specific documentation and staying current with regulatory developments. Consider the following resources:
 
@@ -191,7 +191,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 {{< quizdown >}}
 
-### 1. When constructing a structured product, which component is most often used to protect the principal at maturity?
+### When constructing a structured product, which component is most often used to protect the principal at maturity?
 
 - [ ] Common equities  
 - [x] Fixed-income or bond instruments  
@@ -200,7 +200,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** A significant portion of the principal is generally allocated to high-grade bond instruments or similar fixed-income securities, which help ensure a set principal guarantee at maturity.
 
-### 2. One of the primary advantages of certain structured products is:
+### One of the primary advantages of certain structured products is:
 
 - [x] The potential for full or partial principal protection.  
 - [ ] Unlimited liquidity for early redemption.  
@@ -209,7 +209,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** Structured products often aim to offer some degree of principal protection, though issuer credit risk and market factors must still be evaluated carefully.
 
-### 3. Which of the following is a risk factor specifically associated with early redemption of a structured product?
+### Which of the following is a risk factor specifically associated with early redemption of a structured product?
 
 - [ ] The investor may receive more than the intrinsic value.  
 - [x] Additional costs or discounted pricing may diminish the product’s value.  
@@ -218,7 +218,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** Early redemption may lead to added costs or discounted pricing, reducing the potential benefits of a structured product’s payoff structure.
 
-### 4. In Canada, which regulatory body directly oversees the activities of investment dealers selling structured products?
+### In Canada, which regulatory body directly oversees the activities of investment dealers selling structured products?
 
 - [ ] Canada Revenue Agency  
 - [x] Canadian Investment Regulatory Organization (CIRO)  
@@ -227,7 +227,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** CIRO’s oversight ensures dealers follow rules and guidance around product suitability, transparency, and disclosure for structured products.
 
-### 5. If an investor wants leveraged exposure through a structured product, which element would typically enable higher participation in the underlying asset's growth?
+### If an investor wants leveraged exposure through a structured product, which element would typically enable higher participation in the underlying asset's growth?
 
 - [x] A leverage factor within the payoff structure  
 - [ ] A 100% principal guarantee  
@@ -236,7 +236,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** Leverage factors and options can amplify returns (or losses), providing leveraged exposure to the underlying asset’s performance.
 
-### 6. Which documentation is crucial for understanding the specifics of a structured product’s fees, risks, and underlying assets?
+### Which documentation is crucial for understanding the specifics of a structured product’s fees, risks, and underlying assets?
 
 - [x] Term sheet and prospectus  
 - [ ] Bank statement only  
@@ -245,7 +245,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** The term sheet and prospectus detail the product’s structure, fees, derivatives, risk factors, and obligations of the issuer.
 
-### 7. Market-linked GICs typically offer:
+### Market-linked GICs typically offer:
 
 - [x] A guarantee of principal if held to maturity  
 - [ ] Unlimited upside potential with no cap  
@@ -254,7 +254,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** Market-linked GICs use a portion of the yield to purchase index or equity exposure, while the principal amount is guaranteed if held to maturity.
 
-### 8. Which factor most significantly impacts the value of a derivative embedded in a structured product?
+### Which factor most significantly impacts the value of a derivative embedded in a structured product?
 
 - [ ] The credit rating of an unrelated corporation  
 - [x] The volatility of the underlying asset  
@@ -263,7 +263,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** Derivative pricing is directly influenced by volatility in the underlying asset, among other factors like interest rates and time to maturity.
 
-### 9. Which consideration is most relevant for Canadian investors looking to place structured products in registered plans like RRSPs or TFSAs?
+### Which consideration is most relevant for Canadian investors looking to place structured products in registered plans like RRSPs or TFSAs?
 
 - [ ] Whether the product is sold exclusively on foreign exchanges  
 - [x] Whether the product qualifies under plan rules and provides the right tax treatment  
@@ -272,7 +272,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 > **Explanation:** Investors must ensure the structured product is eligible (e.g., must be Canadian-domiciled and meet registration criteria) and clearly understand the tax implications.
 
-### 10. Do structured products always guarantee no loss of principal?
+### Do structured products always guarantee no loss of principal?
 
 - [x] No, only certain structures offer partial or full protection if held to maturity.  
 - [ ] Yes, structured products are risk-free by definition.  

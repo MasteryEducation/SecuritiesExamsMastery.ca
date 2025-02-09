@@ -233,7 +233,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 {{< quizdown >}}
 
-### 1. Which of the following is a short-term government debt instrument typically maturing in under one year?
+### Which of the following is a short-term government debt instrument typically maturing in under one year?
 
 - [x] Treasury Bill
 - [ ] Variable-Rate Bond
@@ -242,7 +242,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** Treasury bills (T-Bills) are short-term securities—often issued with maturities of 3, 6, or 12 months—sold at a discount and redeemed at par value.
 
-### 2. What is the main advantage of debt financing from a corporation’s perspective?
+### What is the main advantage of debt financing from a corporation’s perspective?
 
 - [x] Interest payments are generally tax-deductible.
 - [ ] Debt never requires repayment.
@@ -251,7 +251,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** One of the key benefits for a corporation issuing debt is the tax deductibility of interest payments. However, the corporation must meet regular interest and principal obligations, and credit ratings can be affected if leverage gets too high.
 
-### 3. Which of the following is true about credit ratings for government-issued debt?
+### Which of the following is true about credit ratings for government-issued debt?
 
 - [x] A higher credit rating typically means lower borrowing costs.
 - [ ] A lower credit rating nearly always boosts investor confidence.
@@ -260,7 +260,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** A strong credit rating often lowers a government’s cost of borrowing because investors perceive less risk and thus require a lower yield.
 
-### 4. Which of the following best describes a debenture?
+### Which of the following best describes a debenture?
 
 - [x] An unsecured bond backed by the general creditworthiness of the issuer.
 - [ ] A bond secured by a specific asset or collateral.
@@ -269,7 +269,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** Debentures are unsecured bonds, meaning they do not have specific collateral backing. Their value depends on the issuer’s creditworthiness.
 
-### 5. Why might companies consider issuing convertible bonds or other hybrid securities?
+### Why might companies consider issuing convertible bonds or other hybrid securities?
 
 - [x] They offer a blend of debt and equity characteristics that can reduce financing costs.
 - [ ] They always avoid any dilution of existing shareholders’ ownership.
@@ -278,7 +278,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** Convertible bonds and hybrid securities offer features of both debt and equity, often lowering interest costs while providing downside protection to investors and potential upside through conversion.
 
-### 6. Which regulatory body oversees investment dealers and underwriting standards in Canada?
+### Which regulatory body oversees investment dealers and underwriting standards in Canada?
 
 - [x] CIRO (Canadian Investment Regulatory Organization)
 - [ ] Canada Revenue Agency (CRA)
@@ -287,7 +287,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** CIRO is responsible for regulating investment dealers and dealing representatives, underwriting standards, and providing investor protection.
 
-### 7. Which of the following is NOT typically affected by interest rate environments?
+### Which of the following is NOT typically affected by interest rate environments?
 
 - [x] Historical cost of a completed project
 - [ ] Issuer’s borrowing cost
@@ -296,7 +296,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** The historical cost of a previously completed project does not change with the current interest rate environment. However, the cost of borrowing, bond prices, and investor demand are all affected by shifts in interest rates.
 
-### 8. Which of the following are considered equity securities?
+### Which of the following are considered equity securities?
 
 - [x] Common shares
 - [ ] Debentures
@@ -305,7 +305,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** Common shares (and preferred shares) are classified as equity securities, representing an ownership stake in a corporation.
 
-### 9. What is the primary benefit of using Python or R when analyzing bond pricing?
+### What is the primary benefit of using Python or R when analyzing bond pricing?
 
 - [x] Access to powerful libraries like “pandas” or “quantmod” for quantitative analysis
 - [ ] Automatic regulatory approval
@@ -314,7 +314,7 @@ By thoroughly understanding how governments and corporations raise funds, invest
 
 > **Explanation:** Tools like Python and R offer sophisticated libraries that streamline modeling, forecasting, and data analysis, particularly for pricing and yield calculations.
 
-### 10. True or False: Municipal governments in Canada can issue debentures to finance local projects.
+### True or False: Municipal governments in Canada can issue debentures to finance local projects.
 
 - [x] True
 - [ ] False

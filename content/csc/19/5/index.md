@@ -179,7 +179,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 {{< quizdown >}}
 
-### 1. Which statement best describes how ETFs are traded compared to mutual funds?
+### Which statement best describes how ETFs are traded compared to mutual funds?
 
 - [ ] Mutual funds and ETFs both offer intraday trading.  
 - [x] ETFs trade throughout the day at market prices, while mutual funds are bought or sold at the NAV at the close.  
@@ -188,7 +188,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** ETFs trade on an exchange throughout the day, driven by supply and demand. Mutual fund transactions occur at the fund’s NAV, which is set once at the end of the trading day.
 
-### 2. Which factor can lead to lower capital gains distributions for ETFs compared to mutual funds?
+### Which factor can lead to lower capital gains distributions for ETFs compared to mutual funds?
 
 - [ ] Higher daily turnover of shares.  
 - [x] The ETF’s creation/redemption mechanism that often involves in-kind transactions.  
@@ -197,7 +197,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Many ETFs use in-kind transactions to assemble or liquidate underlying portfolios. By exchanging securities rather than cash, they can avoid realizing capital gains that would otherwise be distributed.
 
-### 3. What is a potential trade-off with mutual funds disclosing their holdings less frequently than ETFs?
+### What is a potential trade-off with mutual funds disclosing their holdings less frequently than ETFs?
 
 - [x] Reduced visibility into the fund’s composition for investors.  
 - [ ] Better price efficiency due to fewer public disclosures.  
@@ -206,7 +206,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Mutual funds typically disclose holdings monthly or quarterly, offering less immediate transparency than ETFs, which often post holdings daily.
 
-### 4. Which of the following costs can partially offset the low MER advantage of ETFs?
+### Which of the following costs can partially offset the low MER advantage of ETFs?
 
 - [x] Brokerage commissions on ETF trades.  
 - [ ] Annual high-water mark performance fees.  
@@ -215,7 +215,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Even if an ETF has a low MER, trading commissions can accumulate, especially for investors who trade frequently.
 
-### 5. Which of these scenarios reflects a best practice when choosing between ETFs and mutual funds?
+### Which of these scenarios reflects a best practice when choosing between ETFs and mutual funds?
 
 - [x] Evaluating differences in fees, liquidity, and tax consequences before investing.  
 - [ ] Choosing the product with the largest management team regardless of fees.  
@@ -224,7 +224,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Due diligence on fees, liquidity, and tax aspects ensures you pick the vehicle that aligns with your financial goals and risk profile.
 
-### 6. When do mutual funds typically calculate and publish their NAV?
+### When do mutual funds typically calculate and publish their NAV?
 
 - [ ] Continuously throughout the trading day.  
 - [ ] Every hour during the trading day.  
@@ -233,7 +233,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Mutual funds are priced once daily, after market close, based on the value of their underlying assets.
 
-### 7. How do many brokerages in Canada encourage ETF investments?
+### How do many brokerages in Canada encourage ETF investments?
 
 - [x] By offering zero-commission ETF trades for certain products.  
 - [ ] By increasing the MER of rival mutual funds.  
@@ -242,7 +242,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Many brokerages now provide commission-free trading on specific ETFs, reducing barriers to entry and encouraging investors to adopt ETF-based strategies.
 
-### 8. For an investor aiming for daily transparency of holdings, which pooled investment product is generally more suitable?
+### For an investor aiming for daily transparency of holdings, which pooled investment product is generally more suitable?
 
 - [x] ETFs  
 - [ ] Mutual funds  
@@ -251,7 +251,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** ETFs typically disclose their holdings daily, while mutual funds may disclose monthly or quarterly.
 
-### 9. What is one benefit of holding an ETF or mutual fund inside a Tax-Free Savings Account (TFSA)?
+### What is one benefit of holding an ETF or mutual fund inside a Tax-Free Savings Account (TFSA)?
 
 - [x] Any capital gains or distributions are not subject to Canadian taxation.  
 - [ ] All losses can be used to offset future gains outside the TFSA.  
@@ -260,7 +260,7 @@ Exchange-traded funds and mutual funds share the common objective of providing d
 
 > **Explanation:** Gains and distributions in a TFSA are sheltered from Canadian tax, allowing funds to grow tax-free.
 
-### 10. True or False: An actively managed ETF can never have a higher MER than a passive mutual fund.
+### True or False: An actively managed ETF can never have a higher MER than a passive mutual fund.
 
 - [x] True  
 - [ ] False  

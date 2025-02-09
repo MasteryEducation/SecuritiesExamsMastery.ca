@@ -14,7 +14,7 @@ Financial planning is a meticulous, step-by-step process that guides Canadian ad
 
 ---
 
-### 1. Understanding the Purpose and Scope of the Financial Planning Approach
+### Understanding the Purpose and Scope of the Financial Planning Approach
 
 The financial planning approach is not just about picking the right stocks or investments. Instead, it is a holistic process that integrates various aspects of a client’s financial life, including budgeting, cash flow management, taxes, insurance, and estate planning needs. By defining specific, quantifiable objectives, both the advisor and the client work together to devise a roadmap that details the steps needed to reach each goal within a suitable timeframe. This comprehensive approach typically includes:
 
@@ -27,7 +27,7 @@ The financial planning approach is not just about picking the right stocks or in
 
 ---
 
-### 2. The Importance of “Know Your Client” (KYC)
+### The Importance of “Know Your Client” (KYC)
 
 #### 2.1 Regulatory Requirements
 
@@ -47,7 +47,7 @@ By fully detailing a client’s present situation, an advisor can tailor investm
 
 ---
 
-### 3. Setting Financial Objectives
+### Setting Financial Objectives
 
 #### 3.1 Identifying Client Goals
 
@@ -67,7 +67,7 @@ Each financial objective has its own timeline, which influences the asset alloca
 
 ---
 
-### 4. Identifying Available Resources
+### Identifying Available Resources
 
 #### 4.1 Registered Plans
 
@@ -83,7 +83,7 @@ Beyond registered plans, clients may have non-registered brokerage accounts, rea
 
 ---
 
-### 5. Crafting the Financial Plan
+### Crafting the Financial Plan
 
 #### 5.1 Steps in the Financial Planning Process
 
@@ -124,7 +124,7 @@ flowchart LR
 
 ---
 
-### 6. Asset Allocation and Investment Strategy
+### Asset Allocation and Investment Strategy
 
 #### 6.1 Defining Asset Classes
 
@@ -142,7 +142,7 @@ Risk management strategies encompass diversification, insurance coverage, and em
 
 ---
 
-### 7. Ongoing Monitoring and Plan Adjustments
+### Ongoing Monitoring and Plan Adjustments
 
 #### 7.1 The Role of Regular Review
 
@@ -154,7 +154,7 @@ As clients near retirement, or if market conditions shift, the proportions of eq
 
 ---
 
-### 8. Communication and Education
+### Communication and Education
 
 Transparency and clarity are vital. Advisors should strive to ensure clients understand:  
 • Why certain investments are recommended  
@@ -165,7 +165,7 @@ By openly discussing fees, risks, and expectations, advisors build trust and emp
 
 ---
 
-### 9. Key Components of a Comprehensive Financial Plan
+### Key Components of a Comprehensive Financial Plan
 
 A thorough financial plan generally includes:
 
@@ -189,7 +189,7 @@ A thorough financial plan generally includes:
 
 ---
 
-### 10. Best Practices, Challenges, and Potential Pitfalls
+### Best Practices, Challenges, and Potential Pitfalls
 
 • **Best Practices**  
   – Maintain detailed client records and regularly update KYC documents.  
@@ -208,7 +208,7 @@ A thorough financial plan generally includes:
 
 ---
 
-### 11. Additional Resources and Recommended Readings
+### Additional Resources and Recommended Readings
 
 Below are Canadian-specific regulatory and educational resources to keep you updated with best practices and compliance mandates:
 
@@ -239,106 +239,97 @@ The financial planning approach is an integral component of working with retail 
 
 {{< quizdown >}}
 
-### 1. Which of the following is the primary reason to conduct a thorough Know Your Client (KYC) process?
+### Which of the following is the primary reason to conduct a thorough Know Your Client (KYC) process?
 
 - [ ] To reduce the advisor's administrative workload.
 - [x] To ensure investment recommendations align with the client's unique financial situation.
 - [ ] To eliminate the need for regulatory compliance.
 - [ ] To prioritize sales quotas over client needs.
 
-> **Explanation:** KYC aims to gather essential data such as income, net worth, and risk tolerance, ensuring the client's best interests are met and meeting regulatory obligations.
+> **Explanation:**( KYC aims to gather essential data such as income, net worth, and risk tolerance, ensuring the client's best interests are met and meeting regulatory obligations.)
 
----
 
-### 2. What is one of the main objectives of defining a client’s specific financial goals during the financial planning process?
+### What is one of the main objectives of defining a client’s specific financial goals during the financial planning process?
 
 - [x] It clarifies the necessary strategies and timelines to achieve those goals.  
 - [ ] It allows for the avoidance of regulatory compliance.  
 - [ ] It increases the total fees an advisor can collect.  
 - [ ] It ensures the client immediately retires.
 
-> **Explanation:** Clearly articulated goals guide strategy, risk tolerance, and time horizons, allowing for tailored solutions.
+> **Explanation:**( Clearly articulated goals guide strategy, risk tolerance, and time horizons, allowing for tailored solutions.)
 
----
 
-### 3. Which plan structure in Canada allows tax-deferred growth on contributions until withdrawal?
+### Which plan structure in Canada allows tax-deferred growth on contributions until withdrawal?
 
 - [ ] TFSA  
 - [x] RRSP  
 - [ ] Non-registered accounts  
 - [ ] Segregated Funds
 
-> **Explanation:** RRSP offers immediate tax deferral on contributions and tax-deferred growth until funds are withdrawn.
+> **Explanation:**( RRSP offers immediate tax deferral on contributions and tax-deferred growth until funds are withdrawn.)
 
----
 
-### 4. Which of the following would be considered a qualitative piece of client information?
+### Which of the following would be considered a qualitative piece of client information?
 
 - [ ] Gross annual salary  
 - [ ] Total liabilities  
 - [x] Risk tolerance  
 - [ ] Value of RRSP
 
-> **Explanation:** Risk tolerance is a subjective, qualitative metric describing a client's comfort level with market fluctuations.
+> **Explanation:**( Risk tolerance is a subjective, qualitative metric describing a client's comfort level with market fluctuations.)
 
----
 
-### 5. In financial planning, which of the following reflects the division of a portfolio between equities, fixed income, and cash?
+### In financial planning, which of the following reflects the division of a portfolio between equities, fixed income, and cash?
 
 - [ ] KYC  
 - [ ] Suitability  
 - [ ] Performance Monitoring  
 - [x] Asset Allocation
 
-> **Explanation:** Asset allocation is the strategic distribution of assets across different categories to achieve an optimal balance of risk and return.
+> **Explanation:**( Asset allocation is the strategic distribution of assets across different categories to achieve an optimal balance of risk and return.)
 
----
 
-### 6. Which life event might necessitate a prompt review of a client’s financial plan?
+### Which life event might necessitate a prompt review of a client’s financial plan?
 
 - [x] A client changing jobs  
 - [ ] Consistent monthly income with no change  
 - [ ] A minor weekend purchase  
 - [ ] The client making their usual contribution to a TFSA
 
-> **Explanation:** Major life events such as career changes significantly affect income and benefits, prompting immediate plan reviews.
+> **Explanation:**( Major life events such as career changes significantly affect income and benefits, prompting immediate plan reviews.)
 
----
 
-### 7. Which entity sets the KYC and suitability requirements for Canadian investment advisors?
+### Which entity sets the KYC and suitability requirements for Canadian investment advisors?
 
 - [ ] Old Age Security  
 - [x] Canadian Investment Regulatory Organization (CIRO)  
 - [ ] Canada Mortgage and Housing Corporation (CMHC)  
 - [ ] Ontario Teachers’ Pension Plan
 
-> **Explanation:** CIRO is the national regulatory organization overseeing standards for Canadian investment dealers and advisors.
+> **Explanation:**( CIRO is the national regulatory organization overseeing standards for Canadian investment dealers and advisors.)
 
----
 
-### 8. What action should an advisor take if a client’s financial circumstances change considerably?
+### What action should an advisor take if a client’s financial circumstances change considerably?
 
 - [ ] Ignore changes until the annual review.  
 - [ ] Immediately recommend higher-risk investments to make up for losses.  
 - [x] Schedule a plan update discussion to reevaluate goals and resources.  
 - [ ] Stop investing and hold only cash.
 
-> **Explanation:** Major changes warrant a plan re-evaluation to maintain alignment with the client’s situation and objectives.
+> **Explanation:**( Major changes warrant a plan re-evaluation to maintain alignment with the client’s situation and objectives.)
 
----
 
-### 9. A client with a large home purchase in 12 months may need which type of portfolio focus?
+### A client with a large home purchase in 12 months may need which type of portfolio focus?
 
 - [ ] Primarily volatile, equities-based investments for maximum growth  
 - [ ] A fully alternative investment strategy  
 - [ ] A high-risk leveraged derivatives portfolio  
 - [x] Conservative, short-term fixed-income or cash-equivalent instruments
 
-> **Explanation:** Close time horizons and liquidity needs typically call for lower volatility, more stable investments.
+> **Explanation:**( Close time horizons and liquidity needs typically call for lower volatility, more stable investments.)
 
----
 
-### 10. If a life insurance policy is recommended as part of the financial plan, its primary role would be to:
+### If a life insurance policy is recommended as part of the financial plan, its primary role would be to:
 
 - [x] Protect the client or their family against unforeseen events.  
 - [ ] Cover brokerage fees for trades.  

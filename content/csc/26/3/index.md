@@ -253,7 +253,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 {{< quizdown >}}
 
-### 1. Which document most effectively ensures an individual’s assets are distributed according to their wishes?
+### Which document most effectively ensures an individual’s assets are distributed according to their wishes?
 
 - [x] A valid and up-to-date will
 - [ ] A power of attorney for property
@@ -262,7 +262,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** A valid and up-to-date will is the cornerstone of any estate plan, specifying how assets should be divided and appointing an executor to oversee the process.
 
-### 2. What is the main advantage of naming a spouse as the successor annuitant in a RRIF?
+### What is the main advantage of naming a spouse as the successor annuitant in a RRIF?
 
 - [x] Deferring the tax liability until the spouse’s death
 - [ ] Avoiding probate fees
@@ -271,7 +271,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** When a spouse is named as the successor annuitant, the RRIF continues in the spouse’s name upon the original holder’s death, deferring the tax liability until the spouse’s death.
 
-### 3. Which of the following is TRUE about life insurance in estate planning?
+### Which of the following is TRUE about life insurance in estate planning?
 
 - [ ] It cannot be used to pay estate taxes.
 - [x] It provides liquidity for estate expenses.
@@ -280,7 +280,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** Life insurance proceeds typically pass quickly to named beneficiaries, providing immediate liquidity for taxes and other estate liabilities.
 
-### 4. How can charitable donations of publicly traded securities help reduce the deceased’s tax burden?
+### How can charitable donations of publicly traded securities help reduce the deceased’s tax burden?
 
 - [ ] They do not reduce tax at all.
 - [ ] They increase the capital gains inclusion rate.
@@ -289,7 +289,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** Donating publicly traded securities directly to a charity exempts the donor from capital gains tax on the donated amount, plus the donor receives a tax credit for the fair market value.
 
-### 5. Which of the following documents allows an appointed individual to make healthcare-related decisions on behalf of an incapacitated person?
+### Which of the following documents allows an appointed individual to make healthcare-related decisions on behalf of an incapacitated person?
 
 - [ ] Executor’s authority under a will
 - [x] Power of Attorney for Personal Care
@@ -298,7 +298,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** A Power of Attorney for Personal Care (or similar directive) gives the appointed attorney authority over healthcare decisions if the person cannot make decisions personally.
 
-### 6. Which trust is commonly established under a will and takes effect upon the grantor’s death?
+### Which trust is commonly established under a will and takes effect upon the grantor’s death?
 
 - [ ] Living trust
 - [ ] Alter ego trust
@@ -307,7 +307,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** Testamentary trusts are created under the terms of a will and only come into effect after the testator’s death.
 
-### 7. What is the primary function of an executor (or estate trustee)?
+### What is the primary function of an executor (or estate trustee)?
 
 - [x] Carry out the instructions of the will by administering the estate
 - [ ] Make healthcare decisions for the deceased
@@ -316,7 +316,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** The executor administers the estate, following the provisions of the will. This includes paying debts, filing final tax returns, and distributing assets to beneficiaries. (Multiple correct answers were included intentionally. The main, and overarching, function is to carry out the will’s instructions.)
 
-### 8. Which estate planning strategy potentially bypasses probate fees?
+### Which estate planning strategy potentially bypasses probate fees?
 
 - [ ] Placing assets in a testamentary trust
 - [ ] Creating a formal will
@@ -325,7 +325,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** Joint tenancy with right of survivorship allows assets to pass directly to the surviving owner, avoiding probate in most provinces.
 
-### 9. A key benefit of a spousal testamentary trust is:
+### A key benefit of a spousal testamentary trust is:
 
 - [x] Deferring tax on capital until the surviving spouse’s death
 - [ ] Providing free legal representation for the estate
@@ -334,7 +334,7 @@ Well-structured estate plans offer peace of mind to the testator and clarity to 
 
 > **Explanation:** A spousal testamentary trust allows income and gains to be deferred, effectively postponing the tax burden until the death of the surviving spouse.
 
-### 10. Estate planning is not only about distributing assets after death but also about managing affairs during incapacity.  
+### Estate planning is not only about distributing assets after death but also about managing affairs during incapacity.  
 - [x] True
 - [ ] False
 

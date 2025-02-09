@@ -263,9 +263,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] Declining industries
 - [ ] Growth industries
 
-> **Explanation:** Emerging industries are characterized by their strong focus on R&D to establish new technologies or innovative products, along with rapid (but often volatile) market expansion.
+> **Explanation:**( Emerging industries are characterized by their strong focus on R&D to establish new technologies or innovative products, along with rapid (but often volatile) market expansion.)
 
----
 
 ### Which of the following is NOT traditionally considered one of Porter’s Five Forces?
 
@@ -274,9 +273,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] Bargaining Power of Suppliers
 - [ ] Threat of Substitutes
 
-> **Explanation:** Porter’s Five Forces include (1) Threat of New Entrants, (2) Bargaining Power of Suppliers, (3) Bargaining Power of Buyers, (4) Threat of Substitutes, and (5) Industry Rivalry. Technological innovation, while influential, is not one of the original five forces.
+> **Explanation:**( Porter’s Five Forces include (1) Threat of New Entrants, (2) Bargaining Power of Suppliers, (3) Bargaining Power of Buyers, (4) Threat of Substitutes, and (5) Industry Rivalry. Technological innovation, while influential, is not one of the original five forces.)
 
----
 
 ### How does high bargaining power of suppliers affect industry profitability?
 
@@ -285,9 +283,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] It has no significant effect on profitability.
 - [ ] It eliminates the need for competitive advantages.
 
-> **Explanation:** When suppliers have high bargaining power, they can demand higher prices for their goods or services, forcing firms to endure lower profit margins unless they pass these costs on to consumers.
+> **Explanation:**( When suppliers have high bargaining power, they can demand higher prices for their goods or services, forcing firms to endure lower profit margins unless they pass these costs on to consumers.)
 
----
 
 ### Which of the following sectors in Canada is widely considered to be in a mature stage of its life cycle?
 
@@ -296,9 +293,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] Electric vehicle manufacturing
 - [ ] Blockchain financing
 
-> **Explanation:** The Canadian banking sector is generally viewed as mature, given its well-established customer base, regulatory framework, and stable growth. Other examples, like FinTech startups, are more commonly in emerging or growth phases.
+> **Explanation:**( The Canadian banking sector is generally viewed as mature, given its well-established customer base, regulatory framework, and stable growth. Other examples, like FinTech startups, are more commonly in emerging or growth phases.)
 
----
 
 ### Which ratio is often most relevant for comparing efficiency among banks?
 
@@ -307,9 +303,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] Load factor
 - [ ] Same-store sales
 
-> **Explanation:** Net interest margin (NIM) is a key metric in banking, measuring the difference between interest income and interest expenses.
+> **Explanation:**( Net interest margin (NIM) is a key metric in banking, measuring the difference between interest income and interest expenses.)
 
----
 
 ### Which regulatory body is responsible for overseeing federal financial institutions, such as Canadian chartered banks?
 
@@ -318,9 +313,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] CIRO
 - [ ] Canadian Securities Administrators (CSA)
 
-> **Explanation:** OSFI supervises federally regulated financial institutions, including chartered banks and insurance companies, to ensure their financial stability.
+> **Explanation:**( OSFI supervises federally regulated financial institutions, including chartered banks and insurance companies, to ensure their financial stability.)
 
----
 
 ### When analyzing a potential investment in the Canadian telecom sector, which of the following forces would best help you understand barriers to entry?
 
@@ -329,9 +323,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [x] Bargaining Power of Suppliers
 - [ ] Industry Rivalry
 
-> **Explanation:** Telecom has high entry barriers due to capital-intensive infrastructure and licensing requirements. While bargaining power of suppliers (equipment providers) can also play a role, new entrants need to overcome large financial and regulatory hurdles first and foremost.
+> **Explanation:**( Telecom has high entry barriers due to capital-intensive infrastructure and licensing requirements. While bargaining power of suppliers (equipment providers) can also play a role, new entrants need to overcome large financial and regulatory hurdles first and foremost.)
 
----
 
 ### If a new technology emerges that allows solar panels to be produced at half the previous cost, which of Porter’s forces is most directly impacted?
 
@@ -340,9 +333,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] Industry Rivalry
 - [ ] Bargaining Power of Suppliers
 
-> **Explanation:** A more cost-effective solar technology can substitute for traditional energy sources, so the “Threat of Substitutes” for conventional energy becomes more intense.
+> **Explanation:**( A more cost-effective solar technology can substitute for traditional energy sources, so the “Threat of Substitutes” for conventional energy becomes more intense.)
 
----
 
 ### Why is it important to track specialized indicators, like same-store sales in retail or rig counts in energy?
 
@@ -351,9 +343,8 @@ Consider consulting open-source financial tools for ratio analysis and charting 
 - [ ] They are too complex to be of practical use.
 - [ ] They are rarely available to retail investors.
 
-> **Explanation:** Specialized indicators allow deeper insight into the nuances of each industry. Same-store sales measure retail growth excluding new locations, while rig counts highlight exploration activity in the energy sector.
+> **Explanation:**( Specialized indicators allow deeper insight into the nuances of each industry. Same-store sales measure retail growth excluding new locations, while rig counts highlight exploration activity in the energy sector.)
 
----
 
 ### “Industry concentration” refers to the extent to which a small number of firms dominate total industry output or sales.
 

@@ -237,106 +237,97 @@ Canadian regulations require robust disclosure and oversight, seeking to maintai
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes Asset-Backed Securities (ABS)?
+### Which of the following best describes Asset-Backed Securities (ABS)?
 
 - [x] Securities that are backed by pools of underlying financial assets such as loans or receivables.  
 - [ ] Shares in a technology company licensed to operate in Canada.  
 - [ ] Government bonds issued to fund public infrastructure projects.  
 - [ ] Equity funds that invest in small-cap companies.  
 
-> **Explanation:** Asset-Backed Securities are created by pooling and securitizing various financial assets, such as mortgages, auto loans, or credit card receivables.
+> **Explanation:**( Asset-Backed Securities are created by pooling and securitizing various financial assets, such as mortgages, auto loans, or credit card receivables.)
 
----
 
-### 2. Which statement regarding tranches in an ABS structure is correct?
+### Which statement regarding tranches in an ABS structure is correct?
 
 - [x] Tranches offer varying degrees of payment priority and risk profiles.  
 - [ ] All tranches receive payments simultaneously regardless of credit enhancements.  
 - [ ] Senior tranches always have higher yields than junior tranches.  
 - [ ] Only the mezzanine tranche is protected by credit enhancements.  
 
-> **Explanation:** The unique feature of ABS is the creation of multiple tranches with different risk-return characteristics. The senior tranche often has the best protection and the lowest yield, while junior tranches have higher yield potential but bear more risk.
+> **Explanation:**( The unique feature of ABS is the creation of multiple tranches with different risk-return characteristics. The senior tranche often has the best protection and the lowest yield, while junior tranches have higher yield potential but bear more risk.)
 
----
 
-### 3. What is “prepayment risk” in the context of mortgage-backed securities?
+### What is “prepayment risk” in the context of mortgage-backed securities?
 
 - [x] The risk that borrowers pay off their mortgages earlier than expected, affecting cash flows and yields.  
 - [ ] The risk that the government changes the regulations around mortgage lending.  
 - [ ] The risk that a mortgage servicer will cease to exist.  
 - [ ] The risk that mortgage insurance premiums will drastically increase.  
 
-> **Explanation:** Prepayment risk arises when borrowers choose to refinance or pay off mortgages ahead of schedule, changing the timing and potential returns for investors.
+> **Explanation:**( Prepayment risk arises when borrowers choose to refinance or pay off mortgages ahead of schedule, changing the timing and potential returns for investors.)
 
----
 
-### 4. Which of the following is a common credit enhancement technique for Asset-Backed Securities?
+### Which of the following is a common credit enhancement technique for Asset-Backed Securities?
 
 - [x] Overcollateralization.  
 - [ ] Underwriting concessions.  
 - [ ] Increasing the coupon rate every month.  
 - [ ] Issuing new shares of common stock.  
 
-> **Explanation:** Overcollateralization provides excess collateral to absorb potential losses before impacting the ABS tranches.
+> **Explanation:**( Overcollateralization provides excess collateral to absorb potential losses before impacting the ABS tranches.)
 
----
 
-### 5. In Canada, which organization offers a guarantee for certain mortgage-backed securities under the National Housing Act?
+### In Canada, which organization offers a guarantee for certain mortgage-backed securities under the National Housing Act?
 
 - [x] Canada Mortgage and Housing Corporation (CMHC).  
 - [ ] The U.S. Federal Reserve.  
 - [x] The Bank of Canada.  
 - [ ] Canada Deposit Insurance Corporation (CDIC).  
 
-> **Explanation:** CMHC guarantees National Housing Act Mortgage-Backed Securities (NHA MBS). However, the Bank of Canada also plays a broad role in ensuring financial stability, so part of the question was tricky. CMHC focuses specifically on providing mortgage insurance and guaranteeing MBS.
+> **Explanation:**( CMHC guarantees National Housing Act Mortgage-Backed Securities (NHA MBS). However, the Bank of Canada also plays a broad role in ensuring financial stability, so part of the question was tricky. CMHC focuses specifically on providing mortgage insurance and guaranteeing MBS.)
 
----
 
-### 6. When interest rates rise, how might the market value of an existing mortgage-backed security be affected?
+### When interest rates rise, how might the market value of an existing mortgage-backed security be affected?
 
 - [x] The MBS price would likely decrease.  
 - [ ] The MBS price would likely increase.  
 - [ ] The MBS yield would remain unchanged.  
 - [ ] The MBS would immediately default.  
 
-> **Explanation:** Rising interest rates typically reduce bond prices, including mortgage-backed securities, as newer securities may offer higher yields.
+> **Explanation:**( Rising interest rates typically reduce bond prices, including mortgage-backed securities, as newer securities may offer higher yields.)
 
----
 
-### 7. Which of the following entities is a key regulator providing guidance on securitization for federally regulated institutions in Canada?
+### Which of the following entities is a key regulator providing guidance on securitization for federally regulated institutions in Canada?
 
 - [x] The Office of the Superintendent of Financial Institutions (OSFI).  
 - [ ] The World Trade Organization (WTO).  
 - [x] Canadian Securities Administrators (CSA).  
 - [ ] International Monetary Fund (IMF).  
 
-> **Explanation:** OSFI provides specific guidelines for Canadian banks and other federally regulated financial institutions that engage in securitization. Meanwhile, the Canadian Securities Administrators coordinate securities regulation across Canadian provinces and territories.
+> **Explanation:**( OSFI provides specific guidelines for Canadian banks and other federally regulated financial institutions that engage in securitization. Meanwhile, the Canadian Securities Administrators coordinate securities regulation across Canadian provinces and territories.)
 
----
 
-### 8. Why might an investor consider Collateralized Loan Obligations (CLOs)?
+### Why might an investor consider Collateralized Loan Obligations (CLOs)?
 
 - [x] To invest in a diversified pool of corporate loans for higher potential yields.  
 - [ ] To track the performance of the S&P/TSX Composite Index.  
 - [ ] To guarantee a fixed coupon with no risk.  
 - [ ] Because they are entirely exempt from Canadian regulations.  
 
-> **Explanation:** CLOs are typically backed by corporate loans and can offer higher yields in exchange for additional credit risk and complexity.
+> **Explanation:**( CLOs are typically backed by corporate loans and can offer higher yields in exchange for additional credit risk and complexity.)
 
----
 
-### 9. Which of the following is a best practice when investing in ABS?
+### Which of the following is a best practice when investing in ABS?
 
 - [x] Conduct thorough due diligence on the underlying asset pool and the structure.  
 - [ ] Assume all ABS have identical credit quality.  
 - [ ] Only invest in the equity tranche for maximum safety.  
 - [ ] Ignore the rules and guidelines of OSFI.  
 
-> **Explanation:** Conducting due diligence on the asset pool, the credit enhancements, and the legal structure is crucial for informed investment decisions.
+> **Explanation:**( Conducting due diligence on the asset pool, the credit enhancements, and the legal structure is crucial for informed investment decisions.)
 
----
 
-### 10. Asset-Backed Securities (ABS) typically involve a Special Purpose Entity (SPE). True or False?
+### Asset-Backed Securities (ABS) typically involve a Special Purpose Entity (SPE). True or False?
 
 - [x] True  
 - [ ] False  

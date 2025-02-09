@@ -266,9 +266,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [x] An offer to acquire voting or equity securities, often 20% or more, to gain control.  
 - [ ] A legal mechanism to remove the board of directors without shareholder approval.  
 
-> **Explanation:** In Canada, a takeover bid typically involves an offer to acquire at least 20% of a corporation’s voting or equity shares to gain or significantly increase control.
+> **Explanation:**( In Canada, a takeover bid typically involves an offer to acquire at least 20% of a corporation’s voting or equity shares to gain or significantly increase control.)
 
----
 
 ### What is the primary purpose of the Takeover Bid Circular?
 
@@ -277,9 +276,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [ ] To outline the government’s recommended defensive tactics.  
 - [ ] To ensure the corporation issues new shares before the takeover.  
 
-> **Explanation:** The circular’s purpose is to inform shareholders of all relevant details—like price, conditions, and proposed changes—so they can decide whether to tender their shares.
+> **Explanation:**( The circular’s purpose is to inform shareholders of all relevant details—like price, conditions, and proposed changes—so they can decide whether to tender their shares.)
 
----
 
 ### Which of the following best describes a common defensive tactic known as a “poison pill”?
 
@@ -288,9 +286,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [ ] A system where the target’s executives resign en masse to deter an acquisition.  
 - [ ] A special dividend that reduces the stock price significantly.  
 
-> **Explanation:** A poison pill or shareholder rights plan grants existing shareholders (excluding the hostile bidder) the right to buy more shares at a discount, making the takeover more expensive.
+> **Explanation:**( A poison pill or shareholder rights plan grants existing shareholders (excluding the hostile bidder) the right to buy more shares at a discount, making the takeover more expensive.)
 
----
 
 ### What is the significance of the Early Warning System in Canadian takeover regulations?
 
@@ -299,9 +296,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [ ] It provides a grace period for bidders to exceed 20% ownership without penalties.  
 - [ ] It allows the regulator to force a corporation to accept a takeover.  
 
-> **Explanation:** The Early Warning System ensures that investors must publicly declare holdings once their share ownership exceeds 10%, promoting market transparency.
+> **Explanation:**( The Early Warning System ensures that investors must publicly declare holdings once their share ownership exceeds 10%, promoting market transparency.)
 
----
 
 ### Which statement is true regarding insider trading rules in Canada?
 
@@ -310,9 +306,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [x] Both the tipper of MNPI and the tippee who trades can be held liable.  
 - [ ] Insider trading rules apply only in the Province of Ontario.  
 
-> **Explanation:** Insider trading restrictions apply to anyone with MNPI. Both those who share this information (tipper) and those who trade on it (tippee) can face penalties.
+> **Explanation:**( Insider trading restrictions apply to anyone with MNPI. Both those who share this information (tipper) and those who trade on it (tippee) can face penalties.)
 
----
 
 ### What is a potential consequence for violating insider trading regulations in Canada?
 
@@ -321,9 +316,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [ ] Lifetime ban on holding any job.  
 - [ ] No consequences if the trades are eventually reported.  
 
-> **Explanation:** Enforcement can be severe, including hefty fines and potential jail time for those found guilty of insider trading.
+> **Explanation:**( Enforcement can be severe, including hefty fines and potential jail time for those found guilty of insider trading.)
 
----
 
 ### Which of the following best describes “material information” in insider trading rules?
 
@@ -332,9 +326,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [x] Information relating only to share buyback announcements.  
 - [ ] Only facts disclosed during quarterly earnings calls.  
 
-> **Explanation:** “Material” information is any undisclosed data that would influence an investor’s decision. It’s not limited to a specific category—it could include mergers, contracts, financial reports, etc.
+> **Explanation:**( “Material” information is any undisclosed data that would influence an investor’s decision. It’s not limited to a specific category—it could include mergers, contracts, financial reports, etc.)
 
----
 
 ### Which organization coordinates the provincial securities regulators in Canada?
 
@@ -343,9 +336,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [x] The Canadian Securities Administrators (CSA).  
 - [ ] The Canada Revenue Agency (CRA).  
 
-> **Explanation:** The CSA is an umbrella organization of Canada’s provincial and territorial securities regulators, fostering harmonized regulations where possible.
+> **Explanation:**( The CSA is an umbrella organization of Canada’s provincial and territorial securities regulators, fostering harmonized regulations where possible.)
 
----
 
 ### Why might a target company adopt a “white knight” strategy?
 
@@ -354,9 +346,8 @@ Before proceeding, consider taking a moment to reflect on how takeover bids coul
 - [ ] To comply automatically with insider trading rules.  
 - [ ] To circumvent the Early Warning System.  
 
-> **Explanation:** A “white knight” is another prospective buyer that the target sees as more amenable. This strategy possibly helps fend off a hostile bid.
+> **Explanation:**( A “white knight” is another prospective buyer that the target sees as more amenable. This strategy possibly helps fend off a hostile bid.)
 
----
 
 ### If an investor crosses the 20% ownership threshold without issuing a formal takeover bid circular, this is:
 

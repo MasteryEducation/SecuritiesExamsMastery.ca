@@ -25,7 +25,7 @@ Each of these divisions serves distinct yet complementary roles. This section de
 
 ---
 
-### 1. Investment Banking
+### Investment Banking
 
 #### 1.1 Role and Responsibilities
 Investment banking divisions play a pivotal role in connecting companies and governments (issuers) with the capital they need to fund projects, expand operations, or restructure. They handle:  
@@ -49,7 +49,7 @@ In Canada, well-known names like RBC Capital Markets and TD Securities lead on m
 
 ---
 
-### 2. Sales and Trading
+### Sales and Trading
 
 #### 2.1 The Sales Function
 The sales team is responsible for building client relationships and distributing both new and secondary-market securities. This team:  
@@ -79,7 +79,7 @@ Sales and trading increasingly depend on robust technology platforms. Algorithmi
 
 ---
 
-### 3. Research Division
+### Research Division
 
 #### 3.1 Objectives and Output
 Research analysts provide critical insights and forecasts regarding companies, industries, and macroeconomic trends. Their core functions include:  
@@ -102,7 +102,7 @@ Though research divisions are integral, they can spark potential conflicts of in
 
 ---
 
-### 4. Compliance and Risk Management
+### Compliance and Risk Management
 
 #### 4.1 The Importance of Compliance
 Compliance teams ensure that all divisions adhere to CIRO, CSA, and internal policies. Responsibilities include:  
@@ -125,7 +125,7 @@ Firms leverage advanced risk analytics tools—both proprietary and third-party 
 
 ---
 
-### 5. Technology Infrastructure
+### Technology Infrastructure
 
 #### 5.1 Core Systems
 A sell-side trading firm’s operational efficiency and competitiveness hinge on a solid technology framework. Key elements include:  
@@ -141,7 +141,7 @@ Technology can be a double-edged sword. While it streamlines order execution and
 
 ---
 
-### 6. Senior Management and Strategy
+### Senior Management and Strategy
 
 #### 6.1 Leadership Role
 Senior management sets the strategic vision and culture of the firm, balancing profit-driven objectives with regulatory and ethical obligations. Whether deciding expansion into new product lines or implementing cost-saving measures, management must align each department—investment banking, sales, trading, research, compliance, and technology—for integrated success.

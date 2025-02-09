@@ -14,7 +14,7 @@ Listed private equity refers to publicly traded companies or funds that invest i
 
 ---
 
-### 1. Introduction to Listed Private Equity
+### Introduction to Listed Private Equity
 Historically, private equity has been an asset class open primarily to pension funds, institutional investors, and high-net-worth individuals. Traditional private equity vehicles often impose long lock-up periods and require significant capital commitments. However, listed private equity structures open the door for retail and smaller institutional investors to access these strategies.
 
 In the Canadian context, listed private equity can function as:
@@ -24,7 +24,7 @@ In the Canadian context, listed private equity can function as:
 
 ---
 
-### 2. The Value Proposition of Listed Private Equity
+### The Value Proposition of Listed Private Equity
 By blending characteristics of both public markets and private equity, listed private equity seeks to offer:
 1. Growth Potential: Private equity-focused funds often target companies with high growth capability or ones undergoing restructuring for potential value creation.  
 2. Diversification: The private equity portfolio can act as a diversifier, reducing risk correlation relative to standard public equity investments.  
@@ -32,7 +32,7 @@ By blending characteristics of both public markets and private equity, listed pr
 
 ---
 
-### 3. Key Structural Variations
+### Key Structural Variations
 Listed private equity can manifest in different structures, each with its own risk-reward profile:
 
 1. Corporate Holding Structures:  
@@ -50,7 +50,7 @@ Listed private equity can manifest in different structures, each with its own ri
 
 ---
 
-### 4. Investment Process and Valuation Challenges
+### Investment Process and Valuation Challenges
 
 #### 4.1 Investment Process
 Fund managers or corporate managers typically:
@@ -84,7 +84,7 @@ Examples of factors influencing valuation mismatches:
 
 ---
 
-### 5. Risk and Return Profile
+### Risk and Return Profile
 Listed private equity carries risks and rewards characteristic of traditional private equity, combined with the volatility of public markets:
 
 • Higher Return Potential: Private equity strategies often target above-average returns through leveraged buyouts, growth equity, and turnaround strategies.  
@@ -94,7 +94,7 @@ Listed private equity carries risks and rewards characteristic of traditional pr
 
 ---
 
-### 6. Suitability Considerations
+### Suitability Considerations
 While listed private equity can make private equity accessible, it is not appropriate for every investor. Typical suitability factors include:
 
 1. Risk Tolerance: Private equity is generally higher risk than traditional stocks or bonds. Potential swings in valuation may appeal only to investors who can withstand volatility.  
@@ -104,14 +104,14 @@ While listed private equity can make private equity accessible, it is not approp
 
 ---
 
-### 7. Real-World Examples and Case Studies
+### Real-World Examples and Case Studies
 • Canadian Pension Funds: Large public pension funds like the Canada Pension Plan Investment Board (CPPIB) and Ontario Teachers’ Pension Plan (OTPP) hold private equity portfolios, although not always in a listed format. Their successful track record highlights the potential of private equity.  
 • ONEX Corporation: ONEX (listed on the TSX) manages private equity and credit platforms, showcasing how a publicly traded corporation can own and operate diverse private holdings.  
 • Brookfield Asset Management: Though primarily known for real estate and infrastructure, Brookfield also operates private equity strategies, providing investors a partial window into private equity returns through its publicly listed shares.
 
 ---
 
-### 8. Best Practices and Pitfalls
+### Best Practices and Pitfalls
 
 #### 8.1 Best Practices
 • Thorough Research: Scrutinize the track record, fees, and governance structure of the listed entity.  
@@ -125,7 +125,7 @@ While listed private equity can make private equity accessible, it is not approp
 
 ---
 
-### 9. Regulatory and Industry Resources
+### Regulatory and Industry Resources
 For those interested in diving deeper into listed private equity, the following resources can be invaluable:
 
 • Canadian Securities Administrators (CSA) Website:  
@@ -145,7 +145,7 @@ For those interested in diving deeper into listed private equity, the following 
 
 ---
 
-### 10. Summary
+### Summary
 Listed private equity offers a pathway for Canadian investors to access the growth potential of private businesses through the convenience and liquidity of public markets. Yet, these structures come with unique risks — primarily stemming from valuation mismatches, leverage, and manager expertise. Investors considering this asset class should thoroughly evaluate their risk tolerance, liquidity needs, and regulatory constraints before committing capital.
 
 Below is a brief glossary of key terms:
@@ -168,9 +168,8 @@ Below is a brief glossary of key terms:
 - [x] Publicly traded companies or funds that invest in private businesses.
 - [ ] Shares of major Canadian banks listed on a stock exchange.
 
-> **Explanation:** Listed private equity consists of publicly traded entities (often corporations or funds) that hold stakes in privately held businesses.
+> **Explanation:**( Listed private equity consists of publicly traded entities (often corporations or funds) that hold stakes in privately held businesses.)
 
----
 
 ### Which structural variation might allow for trading at a premium or discount to net asset value (NAV)?
 
@@ -179,9 +178,8 @@ Below is a brief glossary of key terms:
 - [ ] Guaranteed investment certificates.
 - [ ] Segregated funds.
 
-> **Explanation:** Closed-end funds often trade at premiums or discounts to NAV because their share price is driven by market supply and demand rather than direct asset redemption.
+> **Explanation:**( Closed-end funds often trade at premiums or discounts to NAV because their share price is driven by market supply and demand rather than direct asset redemption.)
 
----
 
 ### Which factor can cause a discrepancy between a listed private equity company’s share price and the value of its underlying assets?
 
@@ -190,9 +188,8 @@ Below is a brief glossary of key terms:
 - [ ] Daily re-evaluation by regulators.
 - [ ] Equal frequency of valuations and trading.
 
-> **Explanation:** Private company valuations typically occur less frequently, leading to potential misalignment with the daily trading price of the publicly listed shares.
+> **Explanation:**( Private company valuations typically occur less frequently, leading to potential misalignment with the daily trading price of the publicly listed shares.)
 
----
 
 ### What is a key benefit of investing in listed private equity?
 
@@ -201,9 +198,8 @@ Below is a brief glossary of key terms:
 - [x] Potential access to private equity returns combined with daily liquidity.
 - [ ] Zero chance of flaws in management decisions.
 
-> **Explanation:** Listed private equity allows investors to gain exposure to private equity strategies while benefiting from share liquidity on public exchanges.
+> **Explanation:**( Listed private equity allows investors to gain exposure to private equity strategies while benefiting from share liquidity on public exchanges.)
 
----
 
 ### Which of the following is generally NOT a recommended best practice for investing in listed private equity?
 
@@ -212,9 +208,8 @@ Below is a brief glossary of key terms:
 - [ ] Regularly reviewing the fund’s holdings and strategies.
 - [x] Relying solely on quarterly statements without further research.
 
-> **Explanation:** Solely relying on a fund’s quarterly reports can obscure emerging risks or changes in the portfolio. Ongoing research and monitoring are crucial.
+> **Explanation:**( Solely relying on a fund’s quarterly reports can obscure emerging risks or changes in the portfolio. Ongoing research and monitoring are crucial.)
 
----
 
 ### If a listed private equity vehicle invests heavily using leverage, what is the primary concern?
 
@@ -223,9 +218,8 @@ Below is a brief glossary of key terms:
 - [ ] Guaranteed superior returns because of leveraged positions.
 - [ ] Complete elimination of share price volatility.
 
-> **Explanation:** While leverage can boost returns, it also multiplies the risk, making the investment more volatile, especially during market downturns.
+> **Explanation:**( While leverage can boost returns, it also multiplies the risk, making the investment more volatile, especially during market downturns.)
 
----
 
 ### Which organization in Canada provides guidance on complex products, including private equity?
 
@@ -234,9 +228,8 @@ Below is a brief glossary of key terms:
 - [ ] The Canada Revenue Agency (CRA).
 - [ ] The Toronto Stock Exchange (TSX).
 
-> **Explanation:** CIRO gives guidance on how advisors and firms should handle complex products, ensuring they meet due diligence and suitability standards.
+> **Explanation:**( CIRO gives guidance on how advisors and firms should handle complex products, ensuring they meet due diligence and suitability standards.)
 
----
 
 ### In a listed private equity context, what does a “lock-up period” typically refer to?
 
@@ -245,9 +238,8 @@ Below is a brief glossary of key terms:
 - [ ] A mandatory deposit period for GICs.
 - [ ] A fixed schedule for short-selling.
 
-> **Explanation:** Lock-up periods restrict the sale of private investments or shares for a prescribed time, often used to protect long-term strategies and avoid sudden sell-offs.
+> **Explanation:**( Lock-up periods restrict the sale of private investments or shares for a prescribed time, often used to protect long-term strategies and avoid sudden sell-offs.)
 
----
 
 ### Why might liquidity be limited, even though a listed private equity vehicle trades on a public exchange?
 
@@ -256,9 +248,8 @@ Below is a brief glossary of key terms:
 - [ ] Public listings halt trading every few hours.
 - [x] Daily trading volumes can be low, making it difficult to sell large share blocks quickly.
 
-> **Explanation:** Despite being publicly listed, some listed private equity vehicles trade with low volume, reducing immediate liquidity, especially for larger positions.
+> **Explanation:**( Despite being publicly listed, some listed private equity vehicles trade with low volume, reducing immediate liquidity, especially for larger positions.)
 
----
 
 ### True or False: Listed private equity can be held in certain Canadian registered accounts like an RRSP, provided the listing meets exchange requirements.
 

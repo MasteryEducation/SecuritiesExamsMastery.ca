@@ -151,106 +151,97 @@ Stay attuned to policy rate announcements, inflation reports, and economic proje
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the primary role of the Bank of Canada’s policy interest rate?
+### Which of the following best describes the primary role of the Bank of Canada’s policy interest rate?
 
 - [ ] Setting long-term bond yields.
 - [x] Influencing the overnight borrowing costs between financial institutions.
 - [ ] Determining mutual fund management fees.
 - [ ] Calculating property tax rates for municipalities.
 
-> **Explanation:** The Bank of Canada’s policy rate primarily influences the overnight borrowing costs between financial institutions, which in turn affect consumer and business lending rates.
+> **Explanation:**( The Bank of Canada’s policy rate primarily influences the overnight borrowing costs between financial institutions, which in turn affect consumer and business lending rates.)
 
----
 
-### 2. How often does the Bank of Canada typically set its policy rate?
+### How often does the Bank of Canada typically set its policy rate?
 
 - [ ] Once a month.
 - [ ] Four times a year.
 - [x] Eight times a year.
 - [ ] Only once a year.
 
-> **Explanation:** The Bank of Canada announces its policy rate on pre-set dates eight times per year, providing transparency to markets.
+> **Explanation:**( The Bank of Canada announces its policy rate on pre-set dates eight times per year, providing transparency to markets.)
 
----
 
-### 3. Which of the following is part of the Bank of Canada’s mandate?
+### Which of the following is part of the Bank of Canada’s mandate?
 
 - [x] Issuing Canadian banknotes.
 - [ ] Setting federal tax rates.
 - [ ] Overseeing credit unions exclusively.
 - [ ] Auditing provincial budgets.
 
-> **Explanation:** The BoC is responsible for the design, printing, and distribution of Canadian banknotes, among other key functions.
+> **Explanation:**( The BoC is responsible for the design, printing, and distribution of Canadian banknotes, among other key functions.)
 
----
 
-### 4. The Bank of Canada’s inflation-control target is:
+### The Bank of Canada’s inflation-control target is:
 
 - [ ] 0% to 1%.
 - [ ] 2% to 4%.
 - [x] 1% to 3%.
 - [ ] 4% to 6%.
 
-> **Explanation:** The BoC aims to keep inflation within 1% to 3%, with 2% as the midpoint of that range.
+> **Explanation:**( The BoC aims to keep inflation within 1% to 3%, with 2% as the midpoint of that range.)
 
----
 
-### 5. What effect does lowering the Bank of Canada’s policy rate typically have on the economy?
+### What effect does lowering the Bank of Canada’s policy rate typically have on the economy?
 
 - [x] It generally encourages borrowing and spending.
 - [ ] It causes widespread deflation.
 - [x] It reduces commercial banks’ prime lending rates.
 - [ ] It shuts down government borrowing.
 
-> **Explanation:** When the BoC lowers its policy rate, commercial banks often lower their prime rates, making loans cheaper and encouraging borrowing and spending.
+> **Explanation:**( When the BoC lowers its policy rate, commercial banks often lower their prime rates, making loans cheaper and encouraging borrowing and spending.)
 
----
 
-### 6. Which of the following tools might the Bank of Canada use in a financial crisis?
+### Which of the following tools might the Bank of Canada use in a financial crisis?
 
 - [x] Offering emergency lending facilities.
 - [ ] Increasing property taxes.
 - [ ] Cancelling all debts.
 - [ ] Outsourcing monetary policy to commercial banks.
 
-> **Explanation:** During crisis situations, the BoC can offer emergency lending facilities or purchase assets to provide liquidity and support market functioning.
+> **Explanation:**( During crisis situations, the BoC can offer emergency lending facilities or purchase assets to provide liquidity and support market functioning.)
 
----
 
-### 7. If the Bank of Canada sees inflation rising above the target range, what might it do?
+### If the Bank of Canada sees inflation rising above the target range, what might it do?
 
 - [x] Raise the policy interest rate.
 - [ ] Stop issuing currency.
 - [x] Conduct open market operations to reduce money supply.
 - [ ] Prohibit commercial banks from lending.
 
-> **Explanation:** To tame rising inflation, the BoC may raise interest rates or engage in open market operations that reduce the money supply and cool demand.
+> **Explanation:**( To tame rising inflation, the BoC may raise interest rates or engage in open market operations that reduce the money supply and cool demand.)
 
----
 
-### 8. Which external institution does the Bank of Canada collaborate with to maintain financial system stability?
+### Which external institution does the Bank of Canada collaborate with to maintain financial system stability?
 
 - [ ] Provincial auditors.
 - [x] Office of the Superintendent of Financial Institutions (OSFI).
 - [ ] Municipal planning offices.
 - [ ] Provincial lotteries.
 
-> **Explanation:** The BoC works closely with OSFI, which supervises and regulates federally registered banks, insurers, and pension plans, among others.
+> **Explanation:**( The BoC works closely with OSFI, which supervises and regulates federally registered banks, insurers, and pension plans, among others.)
 
----
 
-### 9. What is one benefit of having a clear, transparent inflation-control target?
+### What is one benefit of having a clear, transparent inflation-control target?
 
 - [x] It helps businesses and investors plan for the future with more certainty.
 - [ ] It immediately guarantees zero inflation.
 - [ ] It eliminates the need for banks to hold capital.
 - [ ] It discourages consumer savings.
 
-> **Explanation:** When the inflation target is clear, businesses and investors can make more informed decisions about spending, saving, and investing.
+> **Explanation:**( When the inflation target is clear, businesses and investors can make more informed decisions about spending, saving, and investing.)
 
----
 
-### 10. The Bank of Canada’s policy rate adjustments most directly influence:
+### The Bank of Canada’s policy rate adjustments most directly influence:
 
 - [x] Short-term lending rates among financial institutions.
 - [ ] Property tax rates set by local municipalities.

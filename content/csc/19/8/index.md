@@ -150,106 +150,97 @@ By exploring the differences and common features of ETNs, CEFs, and alternative 
 
 {{< quizdown >}}
 
-### 1. Which statement best describes an Exchange-Traded Note (ETN)?
+### Which statement best describes an Exchange-Traded Note (ETN)?
 
 - [x] It is an unsecured debt obligation issued by a financial institution that tracks an underlying index.  
 - [ ] It is a pool of securities continuously created and redeemed by fund managers.  
 - [ ] It is a mutual fund registered under NI 81-101 with daily liquidity.  
 - [ ] It is similar to a closed-end fund with permanent capitalization.
 
-> **Explanation:** An ETN is an unsecured debt security issued by a bank or financial institution. It aims to track an underlying benchmark or index, minus fees, but carries the issuer’s credit risk.
+> **Explanation:**( An ETN is an unsecured debt security issued by a bank or financial institution. It aims to track an underlying benchmark or index, minus fees, but carries the issuer’s credit risk.)
 
----
 
-### 2. What is a unique risk factor for ETNs compared to ETFs?
+### What is a unique risk factor for ETNs compared to ETFs?
 
 - [ ] ETFs can be more expensive to trade.  
 - [x] ETNs carry the credit risk of the issuing bank.  
 - [ ] ETNs incur higher trading costs.  
 - [ ] ETFs always have greater price fluctuations.
 
-> **Explanation:** ETNs are essentially debt obligations of the issuing financial institution. If the issuer defaults, ETN holders face potential total or partial loss, making credit risk a key concern.
+> **Explanation:**( ETNs are essentially debt obligations of the issuing financial institution. If the issuer defaults, ETN holders face potential total or partial loss, making credit risk a key concern.)
 
----
 
-### 3. Closed-End Funds (CEFs) can trade at:
+### Closed-End Funds (CEFs) can trade at:
 
 - [ ] Exactly their NAV in all market conditions.  
 - [x] A discount or premium to their NAV based on market sentiment.  
 - [ ] Only a discount to their NAV.  
 - [ ] Only a flat price set by the issuer.
 
-> **Explanation:** CEFs have a fixed number of shares, and their market price is determined by supply and demand, which can lead to trading at either a discount or a premium to NAV.
+> **Explanation:**( CEFs have a fixed number of shares, and their market price is determined by supply and demand, which can lead to trading at either a discount or a premium to NAV.)
 
----
 
-### 4. Which of the following is a typical characteristic of a Closed-End Fund?
+### Which of the following is a typical characteristic of a Closed-End Fund?
 
 - [x] It has a fixed number of shares outstanding.  
 - [ ] It is continuously creating and redeeming units during the trading day.  
 - [ ] It cannot ever pay distributions.  
 - [ ] It is principal-protected.
 
-> **Explanation:** Unlike ETFs, CEFs typically offer a fixed number of shares and do not continuously create or redeem shares, which often causes their share price to deviate from NAV.
+> **Explanation:**( Unlike ETFs, CEFs typically offer a fixed number of shares and do not continuously create or redeem shares, which often causes their share price to deviate from NAV.)
 
----
 
-### 5. Which of the following correctly distinguishes an alternative ETF from a traditional ETF?
+### Which of the following correctly distinguishes an alternative ETF from a traditional ETF?
 
 - [x] Alternative ETFs can use hedge-fund-like strategies, such as leverage, short selling, or derivatives, within prescribed regulatory limits.  
 - [ ] Alternative ETFs have no regulatory constraints regarding leverage or derivatives use.  
 - [x] Alternative ETFs must offer a guaranteed minimum return.  
 - [ ] Alternative ETFs typically avoid all derivatives and synthetic instruments.
 
-> **Explanation:** Alternative ETFs gained greater flexibility with recent Canadian regulatory changes, allowing the use of derivatives or short selling, similar to hedge funds, but under strict oversight.
+> **Explanation:**( Alternative ETFs gained greater flexibility with recent Canadian regulatory changes, allowing the use of derivatives or short selling, similar to hedge funds, but under strict oversight.)
 
----
 
-### 6. A key advantage of ETNs over many ETFs is:
+### A key advantage of ETNs over many ETFs is:
 
 - [x] ETNs usually have minimal tracking error for the underlying index.  
 - [ ] ETNs offer guaranteed returns protected by government insurance.  
 - [ ] ETNs have no credit risk.  
 - [ ] ETNs are always more liquid than ETFs.
 
-> **Explanation:** Because an ETN promises index returns minus fees (without needing to hold actual underlying assets), the tracking error is often lower, at least in theory. However, the trade-off is exposure to issuer credit risk.
+> **Explanation:**( Because an ETN promises index returns minus fees (without needing to hold actual underlying assets), the tracking error is often lower, at least in theory. However, the trade-off is exposure to issuer credit risk.)
 
----
 
-### 7. Under what market conditions might a closed-end fund trade at a deep discount to its NAV?
+### Under what market conditions might a closed-end fund trade at a deep discount to its NAV?
 
 - [x] When investors are pessimistic about the fund’s portfolio or asset class, resulting in more sellers than buyers.  
 - [ ] When there is overwhelming enthusiasm for the fund’s strategy.  
 - [x] When the fund’s underlying asset class is experiencing high liquidity and lower returns.  
 - [ ] Closed-end funds do not trade at a discount to NAV.
 
-> **Explanation:** A CEF can move to a significant discount if investor sentiment is negative, the underlying assets are illiquid, or economic factors are unfavourable for its portfolio holdings.
+> **Explanation:**( A CEF can move to a significant discount if investor sentiment is negative, the underlying assets are illiquid, or economic factors are unfavourable for its portfolio holdings.)
 
----
 
-### 8. Which best defines “liquid alternatives” in the Canadian context?
+### Which best defines “liquid alternatives” in the Canadian context?
 
 - [ ] Hedge funds with annual redemption windows.  
 - [x] Investment products using alternative strategies but offering daily liquidity under NI 81-102 or similar regulation.  
 - [ ] Private equity funds that never list on exchanges.  
 - [ ] GICs offering capital protection.
 
-> **Explanation:** Liquid alternatives are regulated vehicles, accessible to retail investors, that employ alternative (hedge-fund-like) strategies but remain subject to daily redemption and regulatory oversight.
+> **Explanation:**( Liquid alternatives are regulated vehicles, accessible to retail investors, that employ alternative (hedge-fund-like) strategies but remain subject to daily redemption and regulatory oversight.)
 
----
 
-### 9. A potential benefit of adding alternative ETFs to a portfolio is:
+### A potential benefit of adding alternative ETFs to a portfolio is:
 
 - [x] They can reduce correlation to traditional asset classes, potentially improving diversification.  
 - [ ] They are entirely risk-free.  
 - [ ] They always outperform during market downturns.  
 - [ ] They do not have to comply with any Canadian Securities Administrator regulations.
 
-> **Explanation:** Alternative ETFs can provide diversification benefits by employing strategies that are less correlated to traditional equity or fixed-income assets. However, they still carry risks and comply with CSA regulations.
+> **Explanation:**( Alternative ETFs can provide diversification benefits by employing strategies that are less correlated to traditional equity or fixed-income assets. However, they still carry risks and comply with CSA regulations.)
 
----
 
-### 10. True or False: In Canada, ETNs are insured by the Canada Deposit Insurance Corporation (CDIC) if issued by a major Canadian bank.
+### True or False: In Canada, ETNs are insured by the Canada Deposit Insurance Corporation (CDIC) if issued by a major Canadian bank.
 
 - [x] False  
 - [ ] True  

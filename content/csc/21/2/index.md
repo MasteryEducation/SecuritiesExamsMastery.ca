@@ -14,13 +14,13 @@ Measuring the performance of alternative strategy funds is inherently more compl
 
 ---
 
-### 1. Why Performance Measurement Is More Complex for Alternatives
+### Why Performance Measurement Is More Complex for Alternatives
 
 Unlike traditional stocks and bonds that generally exhibit consistent market beta exposures, alternative strategy funds often have dynamic or variable market sensitivity. For instance, a long/short equity strategy may assume only partial market exposure, while a market-neutral fund may seek to maintain zero beta to traditional equity benchmarks. Furthermore, certain alternative funds may hold illiquid or private assets, such as real estate investments or private equity stakes, which complicate valuation and generate non-standard return distributions. These complexities necessitate specialized metrics beyond simple total return or traditional measures like standard deviation and tracking error.
 
 ---
 
-### 2. Key Metrics for Evaluating Alternative Strategy Funds
+### Key Metrics for Evaluating Alternative Strategy Funds
 
 #### 2.1 Sharpe Ratio
 
@@ -78,7 +78,7 @@ Figure: Simplified flow chart for capturing and analyzing alternative fund risk 
 
 ---
 
-### 3. Benchmarking Challenges and Solutions
+### Benchmarking Challenges and Solutions
 
 Selecting the right benchmark is vital for proper performance measurement. Traditional indexes (such as the S&P/TSX Composite for Canadian equities or the FTSE Canada Universe Bond Index for fixed income) may not suit multi-strategy hedge funds that combine global equities, futures, swaps, and private credit. Potential solutions include:
 
@@ -88,7 +88,7 @@ Selecting the right benchmark is vital for proper performance measurement. Tradi
 
 ---
 
-### 4. Survivorship and Backfill Bias
+### Survivorship and Backfill Bias
 
 Hedge fund databases can suffer from both survivorship and backfill bias:
 
@@ -99,7 +99,7 @@ Because of these biases, any index or peer group used for benchmarking should be
 
 ---
 
-### 5. Fees and Performance Measurement
+### Fees and Performance Measurement
 
 A defining characteristic of many alternative strategies is their fee structure, often composed of a management fee (for example, 2% of assets under management) plus a performance fee (often around 20% of gains). Some key features that affect net returns include:
 
@@ -111,7 +111,7 @@ These fees can significantly erode returns if the manager underperforms. For exa
 
 ---
 
-### 6. Regulatory Disclosure Requirements in Canada
+### Regulatory Disclosure Requirements in Canada
 
 Canadian liquid alternative funds operate under the auspices of National Instrument (NI) 81-102, which prescribes disclosure obligations similar to those for mutual funds, plus additional reporting on leverage, derivatives exposure, and short-selling strategies. Key elements include:
 
@@ -122,7 +122,7 @@ Canadian liquid alternative funds operate under the auspices of National Instrum
 
 ---
 
-### 7. Practical Performance Analysis Techniques
+### Practical Performance Analysis Techniques
 
 #### 7.1 Using Open-Source Tools
 
@@ -140,7 +140,7 @@ Where possible, managers break down returns by various sources (e.g., sector exp
 
 ---
 
-### 8. Real-World Example
+### Real-World Example
 
 Consider a hypothetical alternative fund offered by TD Asset Management. The “TD Alpha Opportunities Fund” (a fictitious name) employs a long/short equity strategy focused on North American stocks. To measure performance:
 
@@ -153,7 +153,7 @@ By analyzing these data points, retail and institutional clients can make a more
 
 ---
 
-### 9. Best Practices, Pitfalls, and Strategies for Success
+### Best Practices, Pitfalls, and Strategies for Success
 
 1. **Use Complementary Metrics:** Combine multiple measurements (Sharpe, Sortino, Max Drawdown, Beta, and Correlation) for a full picture of performance.  
 2. **Consider Fees Carefully:** High performance fees may diminish net returns; ensure you know the impact of the fee structure before investing.  
@@ -164,7 +164,7 @@ By analyzing these data points, retail and institutional clients can make a more
 
 ---
 
-### 10. Additional Resources
+### Additional Resources
 
 • **Regulatory Bodies and References**:  
   – Canadian Securities Administrators (CSA) Staff Notices on fund performance and continuous disclosure.  
@@ -202,9 +202,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] They avoid standard risk metrics.  
 - [ ] They employ no benchmarks at all.  
 
-> **Explanation:** Alternative funds often involve complex strategies, including leverage, short selling, and illiquid holdings, rendering traditional return and volatility metrics insufficient.
+> **Explanation:**( Alternative funds often involve complex strategies, including leverage, short selling, and illiquid holdings, rendering traditional return and volatility metrics insufficient.)
 
----
 
 ### What additional insight does the Sortino Ratio provide over the Sharpe Ratio?
 
@@ -213,9 +212,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] It removes the risk-free rate from calculations.  
 - [ ] It replaces volatility with historical drawdown in the formula.  
 
-> **Explanation:** The Sortino Ratio focuses on downside deviation, ignoring upside volatility, thus penalizing the fund only for negative performance variance.
+> **Explanation:**( The Sortino Ratio focuses on downside deviation, ignoring upside volatility, thus penalizing the fund only for negative performance variance.)
 
----
 
 ### In the context of hedge funds, “alpha” is commonly defined as:
 
@@ -224,9 +222,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] The measure of correlation to the S&P/TSX Index.  
 - [ ] The historical high-water mark used for incentive fees.  
 
-> **Explanation:** Alpha measures the value-added portion of returns, factoring out broad market movements to identify genuine manager skill.
+> **Explanation:**( Alpha measures the value-added portion of returns, factoring out broad market movements to identify genuine manager skill.)
 
----
 
 ### Why is Maximum Drawdown (MDD) a critical metric for alternative funds?
 
@@ -235,9 +232,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] It measures the annualized return net of fees.  
 - [ ] It isolates only downside volatility.  
 
-> **Explanation:** MDD provides insight into potential worst-case losses, an essential consideration when leverage and short positions can magnify drawdowns.
+> **Explanation:**( MDD provides insight into potential worst-case losses, an essential consideration when leverage and short positions can magnify drawdowns.)
 
----
 
 ### Which bias results from newly added funds reporting only after strong performance?
 
@@ -246,9 +242,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [x] Both of the above  
 - [ ] None of the above  
 
-> **Explanation:** Backfill bias occurs when performance data is not reported until after a track record of good results is established, potentially skewing average returns upward. Survivorship bias occurs when poor-performing funds drop out of the database.
+> **Explanation:**( Backfill bias occurs when performance data is not reported until after a track record of good results is established, potentially skewing average returns upward. Survivorship bias occurs when poor-performing funds drop out of the database.)
 
----
 
 ### A strategy with “variable beta” implies:
 
@@ -257,9 +252,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] The fund only invests in short positions.  
 - [ ] The fund invests in fixed income alone.  
 
-> **Explanation:** Variable beta means the fund adjusts its exposure to the market depending on market conditions or tactical decisions, which is common in many alternative strategies.
+> **Explanation:**( Variable beta means the fund adjusts its exposure to the market depending on market conditions or tactical decisions, which is common in many alternative strategies.)
 
----
 
 ### Which is the best description of Value-at-Risk (VaR) for an alternative strategy fund?
 
@@ -268,9 +262,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [x] Also includes the average loss beyond that threshold when combined with CVaR.  
 - [ ] A replacement for beta.  
 
-> **Explanation:** VaR estimates potential loss at a specified probability, while CVaR (Conditional VaR) measures the average loss beyond that threshold, useful in stress scenarios.
+> **Explanation:**( VaR estimates potential loss at a specified probability, while CVaR (Conditional VaR) measures the average loss beyond that threshold, useful in stress scenarios.)
 
----
 
 ### Which regulatory framework in Canada generally governs liquid alternative funds?
 
@@ -279,9 +272,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] U.S. SEC Regulation D  
 - [ ] IFRS 9  
 
-> **Explanation:** Liquid alternative funds in Canada typically operate under NI 81-102, which covers mutual funds and alternative funds designed for retail investors.
+> **Explanation:**( Liquid alternative funds in Canada typically operate under NI 81-102, which covers mutual funds and alternative funds designed for retail investors.)
 
----
 
 ### How do high-water marks affect performance-based fees in alternative funds?
 
@@ -290,9 +282,8 @@ Performance measurement of alternative strategy funds requires a nuanced approac
 - [ ] Fund managers’ fees are lowered once the portfolio experiences negative returns.  
 - [ ] High-water marks eliminate fixed management fees entirely.  
 
-> **Explanation:** A high-water mark ensures that managers do not repeatedly charge incentive fees if the fund is recovering from a drawdown, protecting investors from paying multiple times for the same gains.
+> **Explanation:**( A high-water mark ensures that managers do not repeatedly charge incentive fees if the fund is recovering from a drawdown, protecting investors from paying multiple times for the same gains.)
 
----
 
 ### True or False: “An alternative strategy fund must disclose its use of short selling and derivatives to investors under NI 81-102.”
 

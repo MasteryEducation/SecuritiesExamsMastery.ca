@@ -143,7 +143,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a floating rate note (FRN)?
+### Which of the following best describes a floating rate note (FRN)?
 
 - [ ] A bond with a coupon rate that remains fixed for life.  
 - [ ] A bond with no coupons, sold at a deep discount.  
@@ -152,7 +152,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** FRNs have variable coupon rates that adjust at specified intervals according to a benchmark rate (e.g., CDOR) plus a spread.
 
-### 2. What is a primary advantage of FRNs in a rising interest rate environment?
+### What is a primary advantage of FRNs in a rising interest rate environment?
 
 - [x] They adjust the coupon payments upward to reflect rising rates.  
 - [ ] They pay no interest until maturity.  
@@ -161,7 +161,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** FRNs automatically reset coupon rates in line with market rates, making their prices more stable in rising interest scenarios. However, credit risk remains, as with any corporate or governmental debt.
 
-### 3. Which statement about zero-coupon bonds is correct?
+### Which statement about zero-coupon bonds is correct?
 
 - [ ] They pay monthly interest at a floating rate.  
 - [x] They are sold at a discount and pay no coupon.  
@@ -170,7 +170,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** Zero-coupon bonds are sold at a discount and pay no coupon. Their return is the difference between the purchase price and the redemption amount at maturity.
 
-### 4. In Canada, how is the “accreted interest” on zero-coupon bonds typically taxed in non-registered accounts?
+### In Canada, how is the “accreted interest” on zero-coupon bonds typically taxed in non-registered accounts?
 
 - [ ] No tax is due until maturity.  
 - [x] Tax is due annually based on the bond’s amortized increase in value.  
@@ -179,7 +179,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** For non-registered accounts, the investor must pay tax on the accrued interest each year, as per CRA rules.
 
-### 5. What is the main reason high-yield bonds offer higher interest rates than investment-grade bonds?
+### What is the main reason high-yield bonds offer higher interest rates than investment-grade bonds?
 
 - [ ] They have more favourable tax treatment.  
 - [ ] They are guaranteed by the government.  
@@ -188,7 +188,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** High-yield bonds, rated below investment grade, compensate investors for greater default risk by offering higher interest rates.
 
-### 6. Which of the following could be a suitable rationale for adding zero-coupon bonds to a Canadian investor’s portfolio?
+### Which of the following could be a suitable rationale for adding zero-coupon bonds to a Canadian investor’s portfolio?
 
 - [x] They provide substantial capital appreciation potential over the long term.  
 - [ ] They are immune to interest rate fluctuations.  
@@ -197,7 +197,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** Zero-coupon bonds can appreciate significantly if held to maturity, making them valuable for long-term goals. However, they remain sensitive to interest rate changes and default risk.
 
-### 7. Which statement about FRNs is correct?
+### Which statement about FRNs is correct?
 
 - [x] Their coupon payments are recalculated at each reset date.  
 - [ ] They are typically sold at a substantial discount and redeemed at par.  
@@ -206,7 +206,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** FRNs recalculate coupons at each reset date, providing a hedge against rising interest rates. However, they generally do not offer higher yields than high-yield bonds.
 
-### 8. What might be the biggest disadvantage of holding high-yield bonds?
+### What might be the biggest disadvantage of holding high-yield bonds?
 
 - [x] They carry a higher risk of default.  
 - [ ] They cannot be traded in secondary markets.  
@@ -215,7 +215,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** High-yield bonds are characterized by a greater default risk due to issuers having lower credit ratings.
 
-### 9. Each statement below about high-yield bonds is true EXCEPT:
+### Each statement below about high-yield bonds is true EXCEPT:
 
 - [x] They always outperform government bonds in every economic cycle.  
 - [ ] They can serve as a diversification tool in a broader bond portfolio.  
@@ -224,7 +224,7 @@ By carefully selecting and managing these additional fixed-income instruments, i
 
 > **Explanation:** High-yield bonds do not always outperform government bonds. Their performance depends on economic conditions and issuer-specific factors.
 
-### 10. True or False: Strip bonds can be split into separate securities composed of individual coupons and a principal component.
+### True or False: Strip bonds can be split into separate securities composed of individual coupons and a principal component.
 
 - [x] True  
 - [ ] False  

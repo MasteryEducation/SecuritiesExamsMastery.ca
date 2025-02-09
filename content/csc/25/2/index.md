@@ -253,9 +253,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] The client must authorize every transaction before the portfolio manager can proceed.  
 - [ ] No formal agreement or IPS is required for discretionary authority.  
 
-> **Explanation:** A discretionary managed fee-based account allows the portfolio manager to buy and sell securities without pre-trade client approval, guided by the client’s Investment Policy Statement (IPS) and applicable regulations.
+> **Explanation:**( A discretionary managed fee-based account allows the portfolio manager to buy and sell securities without pre-trade client approval, guided by the client’s Investment Policy Statement (IPS) and applicable regulations.)
 
----
 
 ### Which of the following is a key advantage of a wrap account?
 
@@ -264,9 +263,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] Clients must pay a commission per trade plus an annual management fee.  
 - [ ] The account offers no financial planning services.  
 
-> **Explanation:** Wrap accounts consolidate all costs—management, commissions, custody, and sometimes additional planning—into one fee.
+> **Explanation:**( Wrap accounts consolidate all costs—management, commissions, custody, and sometimes additional planning—into one fee.)
 
----
 
 ### Which type of managed fee-based account consolidates multiple investment products (e.g., stocks, bonds, ETFs, mutual funds) within a single account?
 
@@ -275,9 +273,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [x] Unified Managed Account (UMA)  
 - [ ] Self-Directed Account  
 
-> **Explanation:** UMAs combine various investments into a single account with unified reporting, making them especially convenient for investors managing multiple asset classes.
+> **Explanation:**( UMAs combine various investments into a single account with unified reporting, making them especially convenient for investors managing multiple asset classes.)
 
----
 
 ### In a discretionary account, which key document outlines the client’s objectives, risk tolerance, and investment strategy?
 
@@ -286,9 +283,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] Statement of Additional Client Information  
 - [ ] Know-Your-Client (KYC) Form Only  
 
-> **Explanation:** The IPS is the guiding document for portfolio managers, defining how a discretionary account should be managed in line with client goals and constraints.
+> **Explanation:**( The IPS is the guiding document for portfolio managers, defining how a discretionary account should be managed in line with client goals and constraints.)
 
----
 
 ### What is a primary regulatory requirement for an individual or firm offering discretionary portfolio management in Canada?
 
@@ -297,9 +293,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] Must not use sub-advisors or third-party analysts.  
 - [x] Appropriate registration with CIRO (or provincial securities commissions).  
 
-> **Explanation:** Discretionary portfolio management requires the portfolio manager or firm to register under appropriate categories with CIRO and/or the relevant securities commissions.
+> **Explanation:**( Discretionary portfolio management requires the portfolio manager or firm to register under appropriate categories with CIRO and/or the relevant securities commissions.)
 
----
 
 ### Which aspect distinguishes Separately Managed Accounts (SMAs) from pooled investment vehicles like mutual funds?
 
@@ -308,9 +303,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] SMAs require less disclosure of underlying holdings to clients.  
 - [ ] SMA managers are not subject to any regulatory scrutiny.  
 
-> **Explanation:** SMAs are customized and clients hold individual securities, which offers higher transparency and the ability to incorporate specific investment constraints.
+> **Explanation:**( SMAs are customized and clients hold individual securities, which offers higher transparency and the ability to incorporate specific investment constraints.)
 
----
 
 ### Robo-advisor platforms typically provide which of the following?
 
@@ -319,9 +313,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [x] Lower management fees compared to traditional full-service accounts.  
 - [ ] Zero regulatory requirements or oversight.  
 
-> **Explanation:** Robo-advisor platforms rely on algorithms to create, manage, and periodically rebalance diversified portfolios, usually at a lower fee structure. They are still regulated by CIRO and provincial securities commissions.
+> **Explanation:**( Robo-advisor platforms rely on algorithms to create, manage, and periodically rebalance diversified portfolios, usually at a lower fee structure. They are still regulated by CIRO and provincial securities commissions.)
 
----
 
 ### A tiered fee structure in a managed fee-based account implies:
 
@@ -330,9 +323,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] Performance-based fees are mandatory.  
 - [ ] The fee rate increases as assets under management expand.  
 
-> **Explanation:** Tiered fee schedules typically reduce the percentage charged on higher asset levels, incentivizing large portfolios to stay within the service.
+> **Explanation:**( Tiered fee schedules typically reduce the percentage charged on higher asset levels, incentivizing large portfolios to stay within the service.)
 
----
 
 ### Which of the following is NOT a common benefit of managed fee-based accounts?
 
@@ -341,9 +333,8 @@ With a well-structured IPS, prudent manager selection, and proper oversight, man
 - [ ] A single, predictable annual fee.  
 - [ ] Potential to tailor strategies to client constraints.  
 
-> **Explanation:** No investment account can guarantee profits or steady capital gains every year. Managed accounts do, however, provide professional management, consolidated fees, and customized strategies.
+> **Explanation:**( No investment account can guarantee profits or steady capital gains every year. Managed accounts do, however, provide professional management, consolidated fees, and customized strategies.)
 
----
 
 ### True or False: Discretionary managers must maintain detailed records of trades, rebalancing, and adhere to the guidelines established in the IPS.
 

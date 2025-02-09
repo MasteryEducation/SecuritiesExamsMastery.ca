@@ -43,7 +43,7 @@ In this diagram:
 
 Financial instruments typically fall under four broad categories—debt, equity, derivatives, and structured products. Each category carries unique risk, return, and liquidity dimensions.
 
-### 1. Debt Instruments
+### Debt Instruments
 
 Debt instruments represent loans that investors (creditors) provide to an issuer (borrowers, such as companies or governments). In exchange, the issuer agrees to pay interest (the “coupon”) and return the principal on a specified maturity date. Common examples include:
 
@@ -63,7 +63,7 @@ Debt instruments generally experience lower price volatility compared to equitie
 
 ---
 
-### 2. Equity Instruments
+### Equity Instruments
 
 Equity instruments represent ownership in a company or enterprise. The most common forms of equity instruments in Canada include:
 
@@ -81,7 +81,7 @@ Equity shareholders may see higher potential returns than bondholders, but with 
 
 ---
 
-### 3. Derivative Instruments
+### Derivative Instruments
 
 Derivatives derive their value from an underlying asset, rate, or index—such as a stock, bond, commodity, or currency. They are often used for hedging or speculating. Key types include:
 
@@ -101,7 +101,7 @@ Combining these instruments in various ways can align specific investment or hed
 
 ---
 
-### 4. Structured Products
+### Structured Products
 
 Structured products combine elements of debt, equity, and derivatives to tailor specific risk-return profiles:
 

@@ -231,106 +231,97 @@ As you progress through the Canadian Securities Course, keep these trends top of
 
 {{< quizdown >}}
 
-### 1. Which of the following best characterizes the impact of algorithmic trading on Canadian markets?
+### Which of the following best characterizes the impact of algorithmic trading on Canadian markets?
 
 - [ ] It completely eliminates volatility.  
 - [ ] It guarantees profits for high-frequency traders.  
 - [x] It can increase liquidity but may also exacerbate intraday volatility.  
 - [ ] It has no effect on market liquidity.  
 
-> **Explanation:** Algorithmic trading generally boosts liquidity, but the rapid and automated nature of trades can contribute to heightened volatility during stress events.
+> **Explanation:**( Algorithmic trading generally boosts liquidity, but the rapid and automated nature of trades can contribute to heightened volatility during stress events.)
 
----
 
-### 2. Which factor is a primary component driving the growth of passive investing?
+### Which factor is a primary component driving the growth of passive investing?
 
 - [x] Lower management fees and reduced tracking error.  
 - [ ] Guaranteed outperformance of all active funds.  
 - [ ] Regulatory requirements mandating passive exposure.  
 - [ ] Lack of investor interest in alternative strategies.  
 
-> **Explanation:** Passive products like ETFs and index funds often provide cost-efficiency and track benchmarks closely, explaining why many investors prefer them over higher-cost, actively managed funds.
+> **Explanation:**( Passive products like ETFs and index funds often provide cost-efficiency and track benchmarks closely, explaining why many investors prefer them over higher-cost, actively managed funds.)
 
----
 
-### 3. Which statement accurately describes ESG investing?
+### Which statement accurately describes ESG investing?
 
 - [x] It incorporates environmental, social, and governance factors into investment decisions.  
 - [ ] It focuses solely on reducing carbon emissions.  
 - [ ] It is the same as impact investing.  
 - [ ] It excludes governance considerations altogether.  
 
-> **Explanation:** ESG investing integrates a broader range of environmental, social, and governance criteria, rather than focusing on just one aspect such as emissions or governance alone.
+> **Explanation:**( ESG investing integrates a broader range of environmental, social, and governance criteria, rather than focusing on just one aspect such as emissions or governance alone.)
 
----
 
-### 4. A major advantage of including alternative assets (e.g., hedge funds, private equity) in a portfolio is:
+### A major advantage of including alternative assets (e.g., hedge funds, private equity) in a portfolio is:
 
 - [ ] Complete elimination of risk.  
 - [x] Potential for diversification benefits and improved risk-adjusted returns.  
 - [ ] Guaranteed high liquidity in all market conditions.  
 - [ ] Zero correlation with all traditional assets.  
 
-> **Explanation:** Alternative assets, while not risk-free or guaranteed to be liquid, can be helpful in complementing traditional holdings, potentially improving a portfolio’s overall risk-return profile.
+> **Explanation:**( Alternative assets, while not risk-free or guaranteed to be liquid, can be helpful in complementing traditional holdings, potentially improving a portfolio’s overall risk-return profile.)
 
----
 
-### 5. Which of the following best illustrates regulatory adaptation in Canadian markets?
+### Which of the following best illustrates regulatory adaptation in Canadian markets?
 
 - [ ] The elimination of all rules for digital assets to encourage innovation.  
 - [x] New guidelines for robo-advisors and digital asset marketplaces.  
 - [ ] Complete ban on FinTech services.  
 - [ ] Centralizing all trading into a single government-led platform.  
 
-> **Explanation:** Regulators like IIROC and the CSA continually update guidelines around emerging areas—such as robo-advisory services and digital asset trading—while seeking to protect investors and maintain efficient markets.
+> **Explanation:**( Regulators like IIROC and the CSA continually update guidelines around emerging areas—such as robo-advisory services and digital asset trading—while seeking to protect investors and maintain efficient markets.)
 
----
 
-### 6. Which factor has contributed most to the popularity of ETFs among Canadian investors?
+### Which factor has contributed most to the popularity of ETFs among Canadian investors?
 
 - [x] Their cost-effectiveness and intraday liquidity.  
 - [ ] Their guarantee of positive returns.  
 - [ ] Strictly enforced lock-up periods.  
 - [ ] Their focus on active stock selection.  
 
-> **Explanation:** ETFs offer low management fees, transparency, and continuous trading, making them popular among a wide range of investors.
+> **Explanation:**( ETFs offer low management fees, transparency, and continuous trading, making them popular among a wide range of investors.)
 
----
 
-### 7. How does ESG investing reduce reputational risk for companies in Canada?
+### How does ESG investing reduce reputational risk for companies in Canada?
 
 - [x] By encouraging more transparent reporting on environmental and social factors.  
 - [x] By aligning corporate strategies with societal values.  
 - [ ] By hiding significant corporate practices from public disclosure.  
 - [ ] By relying solely on marketing slogans about sustainability.  
 
-> **Explanation:** Companies that adhere to ESG principles typically disclose more about their operations and align with public expectations. This transparency and alignment can lower potential reputational damage.
+> **Explanation:**( Companies that adhere to ESG principles typically disclose more about their operations and align with public expectations. This transparency and alignment can lower potential reputational damage.)
 
----
 
-### 8. Which scenario illustrates the role of algorithmic trading in increasing the speed of market operations?
+### Which scenario illustrates the role of algorithmic trading in increasing the speed of market operations?
 
 - [x] Execution of large institutional orders in milliseconds.  
 - [ ] Strict reliance on phone-based orders.  
 - [ ] Slower trading to allow more time for analysis.  
 - [ ] Use of social media platforms for price quotes.  
 
-> **Explanation:** Algorithmic systems can process massive data streams in real-time and place orders algorithmically within fractions of a second, far faster than traditional manual methods.
+> **Explanation:**( Algorithmic systems can process massive data streams in real-time and place orders algorithmically within fractions of a second, far faster than traditional manual methods.)
 
----
 
-### 9. What is a primary challenge of ESG investing for Canadian investors?
+### What is a primary challenge of ESG investing for Canadian investors?
 
 - [x] Lack of standardized ESG metrics and greenwashing concerns.  
 - [ ] Mandatory divestiture from all non-renewable resources.  
 - [ ] Absence of responsible investing options.  
 - [ ] Simple, universal adoption of one common rating system across all markets.  
 
-> **Explanation:** A major hurdle to ESG investing is the absence of globally uniform standards, leading to inconsistent data and the possibility of companies overstating their ESG merits.
+> **Explanation:**( A major hurdle to ESG investing is the absence of globally uniform standards, leading to inconsistent data and the possibility of companies overstating their ESG merits.)
 
----
 
-### 10. In the context of alternative mutual funds (liquid alts), which statement is true?
+### In the context of alternative mutual funds (liquid alts), which statement is true?
 
 - [x] They allow retail investors to access strategies previously reserved for accredited investors.  
 - [ ] They eliminate the need for regulatory oversight.  

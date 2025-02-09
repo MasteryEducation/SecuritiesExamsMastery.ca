@@ -16,7 +16,7 @@ This section provides a detailed overview of the KYC rule, explains its importan
 
 ---
 
-### 1. Importance and Scope of the KYC Rule
+### Importance and Scope of the KYC Rule
 
 The KYC rule requires advisors to gather and periodically update client information that captures financial circumstances, investment objectives, risk tolerance, time horizon, and other relevant personal or financial details. This comprehensive awareness helps:
 
@@ -29,7 +29,7 @@ KYC is not static; as a client’s circumstances evolve—such as a new job, rec
 
 ---
 
-### 2. Regulatory Foundations
+### Regulatory Foundations
 
 In Canada, the KYC rule is enforced by organizations such as CIRO (Canadian Investment Regulatory Organization) and securities commissions. The regulatory framework includes:
 
@@ -41,7 +41,7 @@ Keeping accurate documentation is crucial. If a client explicitly decides on a s
 
 ---
 
-### 3. Step-by-Step KYC Process
+### Step-by-Step KYC Process
 
 Although each firm has unique procedures and compliance tools, the KYC process typically involves the following steps:
 
@@ -87,7 +87,7 @@ In this cycle, continuous review and communication are integral to maintaining a
 
 ---
 
-### 4. Real-World Examples and Case Studies
+### Real-World Examples and Case Studies
 
 • Scenario: A 35-year-old investor at RBC
   - Profile: Moderate risk tolerance, stable employment, and a time horizon of 20+ years.  
@@ -101,7 +101,7 @@ In this cycle, continuous review and communication are integral to maintaining a
 
 ---
 
-### 5. Common Challenges and Best Practices
+### Common Challenges and Best Practices
 
 1. Incomplete Information:  
    • Challenge: Clients may not share all details regarding personal finances.  
@@ -121,7 +121,7 @@ In this cycle, continuous review and communication are integral to maintaining a
 
 ---
 
-### 6. Glossary
+### Glossary
 
 • **KYC (Know Your Client):** The foundational process of collecting and verifying client information to ensure appropriate investment recommendations.  
 • **Risk Tolerance:** An investor’s capacity to withstand financial losses or market volatility.  
@@ -130,7 +130,7 @@ In this cycle, continuous review and communication are integral to maintaining a
 
 ---
 
-### 7. Additional Resources
+### Additional Resources
 
 • [CIRO Rules](https://www.ciro.ca/) – For comprehensive details on KYC, suitability obligations, and periodic updates.  
 • [CSA Client Focused Reforms](https://www.securities-administrators.ca/) – Guidance on enhanced KYC and KYP processes.  
@@ -139,7 +139,7 @@ In this cycle, continuous review and communication are integral to maintaining a
 
 ---
 
-### 8. Summary
+### Summary
 
 The Know Your Client (KYC) rule underpins the advisor-client relationship in Canada’s mutual fund industry, mandating advisors to gather, verify, and maintain detailed records of each client’s personal and financial situation. Accurate and up-to-date information is essential for providing suitable investment recommendations that match clients’ risk tolerance and objectives. By following regulatory guidelines and embracing best practices, advisors help sustain market integrity, build client trust, and ensure that investors are well-served in pursuing their financial goals.
 
@@ -149,7 +149,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the Know Your Client (KYC) rule in Canada?
+### Which of the following best describes the Know Your Client (KYC) rule in Canada?
 
 - [x] A regulatory requirement to assess and document a client’s financial circumstances, factors such as risk tolerance, and investment objectives.  
 - [ ] A process exclusive to self-regulatory organizations outside Canada.  
@@ -158,7 +158,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** KYC is mandatory under Canadian securities regulations, requiring detailed assessment of the client’s financial profile, risk tolerance, and objectives.
 
-### 2. How often must advisors generally update a client’s KYC information under Canadian regulations?
+### How often must advisors generally update a client’s KYC information under Canadian regulations?
 
 - [ ] Only once when the account is opened.  
 - [ ] Every five years, regardless of changes in the client’s situation.  
@@ -167,7 +167,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** Advisors should regularly review and update KYC details, and must do so promptly upon material changes such as a new job, divorce, inheritance, or change in financial goals.
 
-### 3. What is the primary goal of collecting KYC information?
+### What is the primary goal of collecting KYC information?
 
 - [x] To ensure that investment recommendations align with a client’s financial situation and risk tolerance.  
 - [ ] To build a database of potential sales leads for advisors.  
@@ -176,7 +176,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** KYC data helps advisors make suitable recommendations, matching each client’s objectives, risk tolerance, and liquidity needs.
 
-### 4. What must an advisor do if a client insists on purchasing a mutual fund that does not align with their disclosed objectives?
+### What must an advisor do if a client insists on purchasing a mutual fund that does not align with their disclosed objectives?
 
 - [ ] Decline the transaction and close the account.  
 - [x] Document the discrepancy, ensure the client understands the risks, and advise against it if clearly unsuitable.  
@@ -185,7 +185,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** Advisors must document the discrepancy and thoroughly inform the client of the mismatch between their KYC profile and the investment choice.
 
-### 5. Which of the following is an example of concentration risk?
+### Which of the following is an example of concentration risk?
 
 - [x] Allocating 90% of assets to a single asset class or sector.  
 - [ ] Holding a mix of 60% global equities and 40% Canadian bonds.  
@@ -194,7 +194,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** Concentration risk arises when a high percentage of the portfolio is exposed to one area, increasing vulnerability to market downturns in that segment.
 
-### 6. Which of the following best describes “Suitability Obligation”?
+### Which of the following best describes “Suitability Obligation”?
 
 - [x] It is the regulatory requirement that investments must match a client’s unique risk profile, objectives, and time horizon.  
 - [ ] It is an optional practice to boost sales.  
@@ -203,7 +203,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** Suitability refers to ensuring each recommended investment is appropriate for the individual client’s circumstances and goals.
 
-### 7. What is a best practice when a client does not provide complete information for the KYC process?
+### What is a best practice when a client does not provide complete information for the KYC process?
 
 - [x] Document the lack of information, encourage the client to provide details, and proceed with caution.  
 - [ ] Reject the client outright.  
@@ -212,7 +212,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** While an advisor can proceed with limited data, they must document the lack of information, discuss potential risks, and ensure the client understands the implications.
 
-### 8. At which point in the advisor-client relationship is the KYC process first initiated?
+### At which point in the advisor-client relationship is the KYC process first initiated?
 
 - [x] During the account opening process or client onboarding.  
 - [ ] After the first purchase of a security.  
@@ -221,7 +221,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** KYC begins at the outset of the professional relationship, ensuring any recommendation is based on reliable information.
 
-### 9. Which regulatory body is primarily responsible for KYC oversight in Canada alongside provincial securities commissions?
+### Which regulatory body is primarily responsible for KYC oversight in Canada alongside provincial securities commissions?
 
 - [x] CIRO (Canadian Investment Regulatory Organization).  
 - [ ] The Federal Reserve Board.  
@@ -230,7 +230,7 @@ The Know Your Client (KYC) rule underpins the advisor-client relationship in Can
 
 > **Explanation:** CIRO is Canada’s primary self-regulatory body overseeing the conduct of investment dealers and mutual fund dealers.
 
-### 10. KYC procedures aim to ensure that recommended securities and strategies are suitable for which reason?
+### KYC procedures aim to ensure that recommended securities and strategies are suitable for which reason?
 
 - [x] To protect investors from undue risk and financial loss.  
 - [ ] To reduce operational expenses for the advisor’s firm.  

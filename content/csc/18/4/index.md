@@ -231,7 +231,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the total return of a mutual fund?
+### Which of the following best describes the total return of a mutual fund?
 
 - [ ] The interest generated only.  
 - [x] The change in fund price plus any distributions over a given period.  
@@ -240,7 +240,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** Total return includes both price changes and any distributions (dividends, interest) that are often reinvested to compound growth.
 
-### 2. Why is a benchmark comparison useful in evaluating mutual fund performance?
+### Why is a benchmark comparison useful in evaluating mutual fund performance?
 
 - [x] It allows investors to see if the fund manager’s results exceed a relevant market index.  
 - [ ] It ensures the fund stays below market returns to minimize taxes.  
@@ -249,7 +249,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** Benchmark comparisons reveal whether a fund outperforms or underperforms the overall market index, shedding light on the manager’s skill and strategy.
 
-### 3. Which of the following metrics measures a fund’s excess return per unit of total volatility (standard deviation)?
+### Which of the following metrics measures a fund’s excess return per unit of total volatility (standard deviation)?
 
 - [ ] Beta  
 - [x] Sharpe Ratio  
@@ -258,7 +258,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** The Sharpe ratio measures how much return is earned per unit of total risk, defined by standard deviation.
 
-### 4. A Treynor ratio focuses on what kind of risk?
+### A Treynor ratio focuses on what kind of risk?
 
 - [ ] Unsystematic risk  
 - [ ] Interest rate risk  
@@ -267,7 +267,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** The Treynor ratio uses beta—an indicator of systematic risk—to evaluate excess return relative to market risk.
 
-### 5. What is Alpha in mutual fund performance measurement?
+### What is Alpha in mutual fund performance measurement?
 
 - [x] It is the portion of return unexplained by market movement, often reflecting manager skill.  
 - [ ] It is the measurement of total market volatility.  
@@ -276,7 +276,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** Alpha indicates the degree to which the fund’s performance is explained by factors other than broad market movements, offering insight into active management skill.
 
-### 6. Which statement best describes annualized returns?
+### Which statement best describes annualized returns?
 
 - [x] They convert multi-year total returns into an average annual rate of growth.  
 - [ ] They only measure performance over a single calendar year.  
@@ -285,7 +285,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** Annualized returns show the compounded rate of return on an investment over a specified period, allowing straightforward year-over-year comparisons.
 
-### 7. Why might rolling returns be more informative than point-to-point returns?
+### Why might rolling returns be more informative than point-to-point returns?
 
 - [x] They track performance over overlapping intervals, highlighting consistency or volatility trends.  
 - [ ] They measure performance from inception only.  
@@ -294,7 +294,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** Rolling returns capture a fund’s performance across multiple overlapping periods, helping identify periods of high or low performance and overall stability.
 
-### 8. In Canada, which organization enforces rules around performance reporting for mutual funds?
+### In Canada, which organization enforces rules around performance reporting for mutual funds?
 
 - [ ] FDIC  
 - [x] CIRO  
@@ -303,7 +303,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) is responsible for ensuring that mutual fund performance reporting complies with applicable guidelines.
 
-### 9. Which of the following is considered a best practice in mutual fund performance evaluation?
+### Which of the following is considered a best practice in mutual fund performance evaluation?
 
 - [ ] Ignoring short-term volatility entirely.  
 - [ ] Always choosing the fund with the highest returns, regardless of risk.  
@@ -312,7 +312,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 > **Explanation:** A comprehensive approach includes looking at risk-adjusted returns, consistency across multiple timeframes, and transparency of reporting.
 
-### 10. Reporting mutual fund distributions within a tax-sheltered account like an RRSP:
+### Reporting mutual fund distributions within a tax-sheltered account like an RRSP:
 
 - [x] Defers taxes on distributions until funds are withdrawn.  
 - [ ] Immediately triggers capital gains tax.  

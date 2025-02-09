@@ -14,7 +14,7 @@ In this section, we explore the process of evaluating a company’s financial an
 
 ---
 
-### 1. Defining the Scope and Purpose of the Analysis
+### Defining the Scope and Purpose of the Analysis
 
 The first step in company analysis is determining whether you are examining a publicly traded firm or a private company. This distinction shapes the depth and availability of data:
 
@@ -32,7 +32,7 @@ In Canada, publicly traded companies must comply with continuous disclosure requ
 
 ---
 
-### 2. Gathering Qualitative Data
+### Gathering Qualitative Data
 
 Qualitative data captures the strategic, managerial, and structural attributes of the company:
 
@@ -52,7 +52,7 @@ Qualitative data captures the strategic, managerial, and structural attributes o
 
 ---
 
-### 3. Gathering Quantitative Data
+### Gathering Quantitative Data
 
 Quantitative analysis focuses on objective, numerical measures of company performance:
 
@@ -72,7 +72,7 @@ Quantitative analysis focuses on objective, numerical measures of company perfor
 
 ---
 
-### 4. Industry and Sector Research
+### Industry and Sector Research
 
 Placing a company in the right context requires robust industry-level understanding:
 
@@ -86,7 +86,7 @@ Placing a company in the right context requires robust industry-level understand
 
 ---
 
-### 5. Evaluating the Business Model and Revenue Streams
+### Evaluating the Business Model and Revenue Streams
 
 Once you have the data, the next step is to study how the company converts raw materials, services, or intellectual property into sustainable revenue:
 
@@ -102,7 +102,7 @@ Once you have the data, the next step is to study how the company converts raw m
 
 ---
 
-### 6. Conducting a SWOT Analysis
+### Conducting a SWOT Analysis
 
 A SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis helps systematically identify internal capabilities and external conditions.
 
@@ -137,7 +137,7 @@ Use separate lists under each category to keep your observations organized. This
 
 ---
 
-### 7. Reviewing Strategic Priorities and Past Performance
+### Reviewing Strategic Priorities and Past Performance
 
 Annual reports and investor presentations often outline the company’s strategic roadmap. Look for:
 
@@ -153,7 +153,7 @@ Annual reports and investor presentations often outline the company’s strategi
 
 ---
 
-### 8. Examining Corporate Governance
+### Examining Corporate Governance
 
 Sound corporate governance typically indicates prudent risk management and transparency:
 
@@ -171,7 +171,7 @@ Sound corporate governance typically indicates prudent risk management and trans
 
 ---
 
-### 9. Considering Macroeconomic Factors
+### Considering Macroeconomic Factors
 
 Canadian companies face various macroeconomic and industry-specific influences:
 
@@ -189,7 +189,7 @@ Canadian companies face various macroeconomic and industry-specific influences:
 
 ---
 
-### 10. Sources of Information
+### Sources of Information
 
 Staying current and well-informed is essential:
 
@@ -262,9 +262,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] To solely focus on the company’s stock price fluctuations.  
 - [ ] To conduct comprehensive audits of regulatory compliance only.  
 
-> **Explanation:** Company analysis blends both quantitative and qualitative perspectives to reveal a company’s strengths, weaknesses, and future prospects, arming investors with the information needed to make prudent decisions.
+> **Explanation:**( Company analysis blends both quantitative and qualitative perspectives to reveal a company’s strengths, weaknesses, and future prospects, arming investors with the information needed to make prudent decisions.)
 
----
 
 ### When evaluating a publicly traded Canadian company, which resource provides the most direct access to mandatory disclosures and filings?  
 - [x] SEDAR (System for Electronic Document Analysis and Retrieval)  
@@ -272,9 +271,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] A personal finance blog  
 - [ ] Newspaper commercials and advertisements  
 
-> **Explanation:** SEDAR is the official channel in Canada for publicly listed companies to submit financial statements, MD&A, and other disclosures, making it the primary source for comprehensive, unbiased data.
+> **Explanation:**( SEDAR is the official channel in Canada for publicly listed companies to submit financial statements, MD&A, and other disclosures, making it the primary source for comprehensive, unbiased data.)
 
----
 
 ### Which of the following traits is considered qualitative data in company analysis?  
 - [x] Management’s track record and reputation  
@@ -282,9 +280,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] The current ratio  
 - [ ] Debt-to-equity ratio  
 
-> **Explanation:** Qualitative data deals with non-numerical insights—such as leadership quality, brand perception, and corporate culture—while metrics like revenue growth, current ratio, and D/E ratio are quantitative measures.
+> **Explanation:**( Qualitative data deals with non-numerical insights—such as leadership quality, brand perception, and corporate culture—while metrics like revenue growth, current ratio, and D/E ratio are quantitative measures.)
 
----
 
 ### What is the main purpose of ratio analysis in quantitative evaluation?  
 - [ ] To provide a purely subjective view of company performance  
@@ -292,9 +289,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] To assess only profitability without factoring in leverage  
 - [ ] To replace the need for deeper qualitative investigation  
 
-> **Explanation:** Ratios translate raw financial numbers into comparable measures, helping investors benchmark a firm’s performance over time or against industry averages. However, ratio analysis should be complemented by qualitative context.
+> **Explanation:**( Ratios translate raw financial numbers into comparable measures, helping investors benchmark a firm’s performance over time or against industry averages. However, ratio analysis should be complemented by qualitative context.)
 
----
 
 ### In assessing a bank’s business model, which factor is most relevant for understanding future growth prospects?  
 - [x] Interest rate environment and its impact on net interest margins  
@@ -302,9 +298,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [x] Expansion into foreign markets  
 - [ ] Changes in global oil prices only  
 
-> **Explanation:** Banks heavily depend on interest rate changes for profitability; expanding into foreign markets also diversifies revenue streams, whereas factors like oil prices generally have a more indirect influence on banking revenues.
+> **Explanation:**( Banks heavily depend on interest rate changes for profitability; expanding into foreign markets also diversifies revenue streams, whereas factors like oil prices generally have a more indirect influence on banking revenues.)
 
----
 
 ### Which of the following is not a key aim of a SWOT analysis?  
 - [ ] Identifying internal strengths  
@@ -312,9 +307,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] Pinpointing external threats  
 - [ ] Recognizing growth opportunities  
 
-> **Explanation:** SWOT—Strengths, Weaknesses, Opportunities, and Threats—focuses on internal and external business factors. While bond yield spreads can be important in certain fixed-income analyses, they are not a central component of a SWOT framework.
+> **Explanation:**( SWOT—Strengths, Weaknesses, Opportunities, and Threats—focuses on internal and external business factors. While bond yield spreads can be important in certain fixed-income analyses, they are not a central component of a SWOT framework.)
 
----
 
 ### Which of the following elements indicates good corporate governance practices?  
 - [x] A diverse and independent board of directors  
@@ -322,9 +316,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [x] Performance-based executive compensation tied to long-term goals  
 - [ ] A single individual holding the roles of both CEO and board chair without oversight  
 
-> **Explanation:** Strong corporate governance typically features independent board oversight, long-term incentive structures, and clear separate roles for executive leadership and board supervision to avoid conflicts of interest.
+> **Explanation:**( Strong corporate governance typically features independent board oversight, long-term incentive structures, and clear separate roles for executive leadership and board supervision to avoid conflicts of interest.)
 
----
 
 ### How can macroeconomic factors, such as GDP growth, affect a company’s operations?  
 - [x] Higher GDP growth can lead to increased consumer spending, boosting revenues.  
@@ -332,9 +325,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] They only matter to technology companies with global reach.  
 - [ ] They strictly dictate a company’s share price movements.  
 
-> **Explanation:** Strong economic growth often creates a positive climate for consumer spending and corporate investment, potentially increasing revenues and profitability across various sectors. However, macroeconomic factors alone do not fully dictate share price.
+> **Explanation:**( Strong economic growth often creates a positive climate for consumer spending and corporate investment, potentially increasing revenues and profitability across various sectors. However, macroeconomic factors alone do not fully dictate share price.)
 
----
 
 ### Which step ensures that newly emerging risks or opportunities are captured in your company analysis?  
 - [x] Regularly updating the analysis with new financial disclosures and market data  
@@ -342,9 +334,8 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 - [ ] Relying exclusively on outdated broker research  
 - [ ] Focusing on technical charts while ignoring fundamental updates  
 
-> **Explanation:** Markets evolve rapidly; ongoing monitoring and updating your analysis with fresh data ensures that decisions reflect the current environment and any emerging business or economic risks.
+> **Explanation:**( Markets evolve rapidly; ongoing monitoring and updating your analysis with fresh data ensures that decisions reflect the current environment and any emerging business or economic risks.)
 
----
 
 ### True or False: Focusing solely on quantitative data provides a complete picture of a company’s prospects.  
 - [x] True  

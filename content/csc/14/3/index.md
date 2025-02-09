@@ -199,7 +199,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the primary reason for conducting ratio analysis?
+### Which of the following best describes the primary reason for conducting ratio analysis?
 
 - [ ] To comply with Canadian tax laws.
 - [x] To simplify and interpret complex financial statement data.
@@ -208,7 +208,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** Ratio analysis condenses vast data from financial statements into primary indicators that help decision-makers evaluate a company’s performance, liquidity, or profitability.  
 
-### 2. Which ratio is most directly related to a company’s capacity to pay short-term bills as they become due?
+### Which ratio is most directly related to a company’s capacity to pay short-term bills as they become due?
 
 - [ ] Debt-to-Equity Ratio
 - [x] Current Ratio
@@ -217,7 +217,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** The Current Ratio specifically measures a company’s quick ability to meet short-term obligations by comparing current assets with current liabilities.  
 
-### 3. If a firm displays a significantly higher Debt-to-Equity Ratio than its industry peers, which of the following is most likely true?
+### If a firm displays a significantly higher Debt-to-Equity Ratio than its industry peers, which of the following is most likely true?
 
 - [x] It may be taking on more debt than peers, suggesting higher financial risk.
 - [ ] It automatically indicates that the firm should suspend dividend payments.
@@ -226,7 +226,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** A higher Debt-to-Equity Ratio means the company is financing operations more heavily with debt than equity, increasing risk if cash flows are uncertain.  
 
-### 4. The Net Profit Margin ratio is calculated as:
+### The Net Profit Margin ratio is calculated as:
 
 - [ ] Net Income ÷ Cost of Goods Sold
 - [x] Net Income ÷ Revenue
@@ -235,7 +235,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** Net Profit Margin indicates the percentage of each revenue dollar retained as net income (profit).  
 
-### 5. Which of the following ratios is considered a profitability ratio?
+### Which of the following ratios is considered a profitability ratio?
 
 - [x] Return on Equity (ROE)
 - [ ] Quick Ratio
@@ -244,7 +244,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** Both ROE and Net Profit Margin evaluate how effectively a company converts resources into profit and are therefore profitability ratios.  
 
-### 6. In valuation terms, a high Price-to-Earnings (P/E) ratio often suggests:
+### In valuation terms, a high Price-to-Earnings (P/E) ratio often suggests:
 
 - [x] Investors expect higher future growth from the company.
 - [ ] The stock is definitely undervalued.
@@ -253,7 +253,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** A high P/E ratio typically signals that investors anticipate significant growth in a company’s future earnings potential.  
 
-### 7. Efficiency ratios measure:
+### Efficiency ratios measure:
 
 - [x] How effectively a firm utilizes its assets to generate revenue.
 - [ ] How much debt is financed by equity.
@@ -262,7 +262,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** Efficiency ratios focus on areas like asset turnover and inventory turnover, indicating how productively a company manages resources.  
 
-### 8. If a company’s ROA has gradually declined over several quarters, which of the following might be contributing factors?
+### If a company’s ROA has gradually declined over several quarters, which of the following might be contributing factors?
 
 - [x] Larger capital investments without corresponding revenue growth.
 - [ ] Lower Debt-to-Equity ratio.
@@ -271,7 +271,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** A declining ROA can reflect overinvestment in assets or inefficient utilization of those assets without matching revenue gains.  
 
-### 9. When comparing two companies’ P/B ratios, a significantly higher P/B ratio for one may indicate:
+### When comparing two companies’ P/B ratios, a significantly higher P/B ratio for one may indicate:
 
 - [x] The market perceives greater intangible value or growth potential in that company.
 - [ ] The company’s assets are undervalued by the market.
@@ -280,7 +280,7 @@ Ratio analysis is indispensable for both novice and experienced investors seekin
 
 > **Explanation:** A higher P/B can correspond to stronger perceived future performance or intangible assets not fully captured on the balance sheet.  
 
-### 10. In an industry with consistent cash flows like utilities, a relatively high Debt-to-Equity ratio is:
+### In an industry with consistent cash flows like utilities, a relatively high Debt-to-Equity ratio is:
 
 - [x] True
 - [ ] False

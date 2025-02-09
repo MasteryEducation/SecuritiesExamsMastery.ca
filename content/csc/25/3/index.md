@@ -225,9 +225,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] A performance-based fee tied to returns.  
 - [ ] No fees are charged in this type of account.  
 
-> **Explanation:** Unlike commission-based accounts that charge per trade, a non-managed fee-based account charges a recurring fee that may be a flat amount or a percentage of AUM.
+> **Explanation:**( Unlike commission-based accounts that charge per trade, a non-managed fee-based account charges a recurring fee that may be a flat amount or a percentage of AUM.)
 
----
 
 ### In non-managed fee-based accounts, who holds the final decision-making authority over trades?  
 - [ ] The advisor holds full discretionary authority.  
@@ -235,9 +234,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] It is a joint responsibility between client and advisor.  
 - [ ] The portfolio manager at the brokerage firm.  
 
-> **Explanation:** Non-managed fee-based accounts are non-discretionary, meaning the client decides on each trade, even though the advisor provides guidance and recommendations.
+> **Explanation:**( Non-managed fee-based accounts are non-discretionary, meaning the client decides on each trade, even though the advisor provides guidance and recommendations.)
 
----
 
 ### How do Client Focused Reforms (CFRs) impact non-managed fee-based accounts?  
 - [ ] By eliminating all fees in fee-based accounts.  
@@ -245,9 +243,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] By preventing advisors from recommending fee-based structures.  
 - [ ] By mandating that advisors only charge commissions for trades.  
 
-> **Explanation:** CFRs emphasize fee transparency, conflict-of-interest management, and ensuring the recommended account type genuinely serves the client’s needs.
+> **Explanation:**( CFRs emphasize fee transparency, conflict-of-interest management, and ensuring the recommended account type genuinely serves the client’s needs.)
 
----
 
 ### What is a key difference between non-managed fee-based accounts and commission-based self-directed accounts?  
 - [ ] Commission-based self-directed accounts charge no fees whatsoever.  
@@ -255,9 +252,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] Non-managed fee-based accounts eliminate all advisor input.  
 - [ ] Commission-based self-directed accounts are always cheaper for every investor.  
 
-> **Explanation:** Non-managed fee-based accounts distinguish themselves by charging a set or asset-based fee, rather than transaction-based commissions.
+> **Explanation:**( Non-managed fee-based accounts distinguish themselves by charging a set or asset-based fee, rather than transaction-based commissions.)
 
----
 
 ### Which of the following is generally NOT a factor in determining the suitability of a non-managed fee-based account?  
 - [x] The investor’s preference for a discretionary relationship.  
@@ -265,9 +261,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] The frequency at which the investor trades.  
 - [ ] The investor’s need for periodic professional guidance.  
 
-> **Explanation:** A desire for a discretionary relationship would lead to a managed account, not a non-managed fee-based account.
+> **Explanation:**( A desire for a discretionary relationship would lead to a managed account, not a non-managed fee-based account.)
 
----
 
 ### What is one potential downside of a non-managed fee-based account for investors who trade infrequently?  
 - [x] They might overpay in annual fees relative to sporadic commissions.  
@@ -275,9 +270,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] Their accounts automatically convert to discretionary management.  
 - [ ] They lose all advisor support.  
 
-> **Explanation:** If you do only a few trades per year, paying a recurring fee may exceed what would have been spent on a simple commission structure.
+> **Explanation:**( If you do only a few trades per year, paying a recurring fee may exceed what would have been spent on a simple commission structure.)
 
----
 
 ### In a non-managed fee-based account, the periodic fee typically covers:  
 - [x] Ongoing advisory support, research, and trade costs.  
@@ -285,9 +279,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] Only operational or platform fees, without any advisory services.  
 - [ ] Only foreign exchange transactions.  
 
-> **Explanation:** Typically, the periodic fee covers the suite of advisory services, basic transaction costs, and platform features included in the plan.
+> **Explanation:**( Typically, the periodic fee covers the suite of advisory services, basic transaction costs, and platform features included in the plan.)
 
----
 
 ### What is a common feature of tiered service levels in non-managed fee-based programs?  
 - [ ] Every client pays the exact same fee rate.  
@@ -295,9 +288,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [ ] Only commission-based trades are available at higher tiers.  
 - [ ] Services remain uniform across all asset tiers.  
 
-> **Explanation:** Many firms use tiered pricing, lowering the fee percentage as total assets increase.
+> **Explanation:**( Many firms use tiered pricing, lowering the fee percentage as total assets increase.)
 
----
 
 ### How do advisors typically manage fiduciary obligations in non-managed fee-based accounts?  
 - [ ] By making trades without consulting the client.  
@@ -305,9 +297,8 @@ Ultimately, transparency, alignment with client goals, and compliance with Canad
 - [x] By complying with enhanced KYC, disclosure, and suitability requirements.  
 - [ ] By eliminating all forms of compensation.  
 
-> **Explanation:** Advisors must follow regulatory protocols, ensuring thorough client knowledge, clear disclosure of fees, and suitable recommendations.
+> **Explanation:**( Advisors must follow regulatory protocols, ensuring thorough client knowledge, clear disclosure of fees, and suitable recommendations.)
 
----
 
 ### True or False: In a non-managed fee-based account, the advisor has discretionary control over buying and selling decisions.  
 - [x] True  

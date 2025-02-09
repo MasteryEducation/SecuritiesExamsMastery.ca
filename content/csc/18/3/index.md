@@ -176,7 +176,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the cut-off time for mutual fund redemptions?
+### Which of the following best describes the cut-off time for mutual fund redemptions?
 
 - [x] Orders received before the cut-off time are processed at that day’s NAV; orders after are processed at the next day’s NAV.  
 - [ ] Orders are executed based on the previous day’s NAV.  
@@ -185,7 +185,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** Mutual funds typically have a cut-off time (often 4:00 p.m. Eastern Time). Orders submitted before this time use that day’s NAV, while orders after are processed at the next business day’s NAV.
 
-### 2. Which fee is charged when units of a mutual fund are redeemed within a specified time of purchase?
+### Which fee is charged when units of a mutual fund are redeemed within a specified time of purchase?
 
 - [ ] Front-end load fee  
 - [x] Deferred sales charge (DSC)  
@@ -194,7 +194,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** A Deferred Sales Charge (DSC) is a back-end load fee that applies during a specified holding period after purchase.
 
-### 3. In an SWP, what specifically happens at each withdrawal interval?
+### In an SWP, what specifically happens at each withdrawal interval?
 
 - [ ] New mutual fund units are purchased on behalf of the investor.  
 - [x] A predetermined number of units are redeemed to create a cash flow.  
@@ -203,7 +203,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** An SWP systematically redeems a fixed dollar amount (or number of units) at regular intervals, providing the investor with consistent payouts.
 
-### 4. Which of the following strategies helps avoid a large tax liability when redeeming mutual fund units?
+### Which of the following strategies helps avoid a large tax liability when redeeming mutual fund units?
 
 - [ ] Always redeem 100% of the units at once.  
 - [x] Plan your withdrawals in smaller increments over multiple tax years.  
@@ -212,7 +212,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** Redeeming units gradually can help manage and spread out capital gains, thus reducing the tax burden in any single year.
 
-### 5. Under a Front-End Load structure, when is the primary sales charge assessed?
+### Under a Front-End Load structure, when is the primary sales charge assessed?
 
 - [x] At the time of the initial purchase of the fund units.  
 - [ ] Annually on the fund’s anniversary date.  
@@ -221,7 +221,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** Front-end load fees are charged at the time of purchase, although they can sometimes be negotiated. Also, trailing commissions are separate ongoing fees paid to advisors/brokerages for service, which can sometimes influence front-end load decisions.
 
-### 6. Which of the following reduces over a set period until it becomes zero?
+### Which of the following reduces over a set period until it becomes zero?
 
 - [x] Deferred Sales Charge (DSC)  
 - [ ] Front-End Load  
@@ -230,7 +230,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** In a DSC schedule, redemption fees typically start high and decline annually until they reach zero after a set number of years.
 
-### 7. How do most mutual funds in Canada determine the price for redemptions?
+### How do most mutual funds in Canada determine the price for redemptions?
 
 - [x] By calculating the net asset value (NAV) at the end of the trading day.  
 - [ ] By using a monthly average market price.  
@@ -239,7 +239,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** Mutual funds are open-end structures priced at the daily NAV, typically determined after the market close.
 
-### 8. What is the adjusted cost base (ACB)?
+### What is the adjusted cost base (ACB)?
 
 - [x] The tax term for the averaged cost of acquiring units, adjusted for distributions and returns of capital.  
 - [ ] The daily NAV used by the mutual fund for pricing.  
@@ -248,7 +248,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** The ACB is the starting point for calculating capital gains or losses upon redemption.
 
-### 9. Which regulation primarily governs mutual fund redemption procedures and permitted fees in Canada?
+### Which regulation primarily governs mutual fund redemption procedures and permitted fees in Canada?
 
 - [ ] International Financial Reporting Standards (IFRS)  
 - [x] National Instrument 81-102  
@@ -257,7 +257,7 @@ Redeeming mutual fund units in Canada involves strategic considerations that go 
 
 > **Explanation:** National Instrument 81-102 contains guidelines for the structure, operations, and redemption policies of mutual funds in Canada.
 
-### 10. True or False: A short-term trading fee is strictly the same as a deferred sales charge (DSC).
+### True or False: A short-term trading fee is strictly the same as a deferred sales charge (DSC).
 
 - [x] True  
 - [ ] False  

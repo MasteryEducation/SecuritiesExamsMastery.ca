@@ -177,9 +177,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [ ] Only recommending products that carry a guaranteed return.  
 - [ ] Prioritizing the advisor’s compensation structure above the client’s needs.  
 
-> **Explanation:** Suitability means tailoring each investment recommendation to the client’s unique situation, objectives, and risk tolerance.
+> **Explanation:**( Suitability means tailoring each investment recommendation to the client’s unique situation, objectives, and risk tolerance.)
 
----
 
 ### Under which circumstances might an advisor assume a fiduciary duty?
 
@@ -188,9 +187,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [x] When the advisor exercises broad authority to make decisions on behalf of the client.  
 - [ ] When the client invests only in GICs.  
 
-> **Explanation:** Fiduciary duty arises in relationships where the advisor has the authority to make decisions for the client (e.g., discretionary or broad trading authority).
+> **Explanation:**( Fiduciary duty arises in relationships where the advisor has the authority to make decisions for the client (e.g., discretionary or broad trading authority).)
 
----
 
 ### Which statement about disclosure obligations is most accurate?
 
@@ -199,9 +197,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [ ] Advisors only need to disclose fees in cases where the investment is high-risk.  
 - [ ] Advisors have no obligation to disclose conflicts of interest if they offer alternative investments.  
 
-> **Explanation:** Advisors must disclose fees, conflicts of interest, and compensation structures fully and transparently, regardless of the risk level.
+> **Explanation:**( Advisors must disclose fees, conflicts of interest, and compensation structures fully and transparently, regardless of the risk level.)
 
----
 
 ### Which regulatory initiative emphasizes enhanced conflict-of-interest disclosure and improved suitability obligations?
 
@@ -210,9 +207,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [ ] IFRS  
 - [ ] The Basel Accords  
 
-> **Explanation:** Client Focused Reforms (CFRs) require registrants to identify, disclose, and address material conflicts of interest and improve suitability determinations.
+> **Explanation:**( Client Focused Reforms (CFRs) require registrants to identify, disclose, and address material conflicts of interest and improve suitability determinations.)
 
----
 
 ### If a client is dissatisfied with a firm’s resolution of a complaint, which of the following is a recommended next step?
 
@@ -221,9 +217,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [x] Contacting CIRO if internal resolution fails  
 - [ ] Refraining from further action due to mandatory arbitration  
 
-> **Explanation:** Clients can escalate unresolved complaints to CIRO or seek independent dispute resolution through OBSI for claims within its purview.
+> **Explanation:**( Clients can escalate unresolved complaints to CIRO or seek independent dispute resolution through OBSI for claims within its purview.)
 
----
 
 ### Why is ongoing professional development critically important for an investment advisor?
 
@@ -232,9 +227,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [ ] It only matters if an advisor wants to change firms.  
 - [ ] It is required solely for advisors working outside of Canada.  
 
-> **Explanation:** Because the financial industry is dynamic, advisors need continuous education to maintain competence, credibility, and compliance.
+> **Explanation:**( Because the financial industry is dynamic, advisors need continuous education to maintain competence, credibility, and compliance.)
 
----
 
 ### Which of the following are key components of advisor ethics?
 
@@ -243,9 +237,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [x] Disclosing all conflicts of interest  
 - [ ] Keeping fee structures confidential  
 
-> **Explanation:** Key elements of advisor ethics include acting in the client’s best interest, transparent conflict disclosure, and thorough client profiling.
+> **Explanation:**( Key elements of advisor ethics include acting in the client’s best interest, transparent conflict disclosure, and thorough client profiling.)
 
----
 
 ### What is one common pitfall advisors must avoid to maintain ethical standards?
 
@@ -254,9 +247,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [ ] Encouraging clients to consider the impact of inflation  
 - [ ] Escalating a complaint when a conflict of interest arises  
 
-> **Explanation:** Neglecting regular updates to the client’s profile can lead to unsuitable advice and a breach of the advisor’s ethical obligations.
+> **Explanation:**( Neglecting regular updates to the client’s profile can lead to unsuitable advice and a breach of the advisor’s ethical obligations.)
 
----
 
 ### How does fiduciary duty differ from a standard suitability obligation?
 
@@ -265,9 +257,8 @@ In practice, ethical conduct demands an ongoing commitment to learning, transpar
 - [ ] Fiduciary duty and suitability are synonymous.  
 - [ ] Suitability requires more rigorous standards than fiduciary duty.  
 
-> **Explanation:** Fiduciary duty is a higher legal standard, ensuring that the advisor places the client’s needs ahead of any other interest.
+> **Explanation:**( Fiduciary duty is a higher legal standard, ensuring that the advisor places the client’s needs ahead of any other interest.)
 
----
 
 ### True or False: Professional ethics codes, such as those from FP Canada Standards Council™, can be voluntarily adopted and serve to enhance an advisor’s ethical framework beyond regulatory requirements.
 

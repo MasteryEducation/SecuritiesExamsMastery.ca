@@ -200,7 +200,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 {{< quizdown >}}
 
-### 1. Which factor does the labour supply in Canada primarily represent in the labour market? 
+### Which factor does the labour supply in Canada primarily represent in the labour market? 
 - [ ] Employers seeking to hire qualified personnel  
 - [x] Individuals who are employed or actively seeking employment  
 - [ ] Both employers and employees together  
@@ -208,7 +208,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** In the labour market, “labour supply” refers to individuals available and willing to work, including those employed or actively looking for jobs.
 
-### 2. Which best describes frictional unemployment?
+### Which best describes frictional unemployment?
 - [x] Temporary unemployment among workers in between jobs  
 - [ ] Long-term unemployment caused by skill mismatches  
 - [ ] Unemployment linked to a recessionary period  
@@ -216,7 +216,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** Frictional unemployment occurs when individuals are voluntarily between jobs or entering the workforce for the first time.
 
-### 3. What does a high labour force participation rate indicate?
+### What does a high labour force participation rate indicate?
 - [x] A large share of the working-age population is either employed or seeking employment  
 - [ ] Most of the working-age population is unemployed  
 - [ ] The economy is in a recession  
@@ -224,7 +224,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** The labour force participation rate measures how many working-age individuals are actively contributing to or looking to contribute to the workforce.
 
-### 4. Which type of unemployment is closely correlated with downturns in the business cycle?
+### Which type of unemployment is closely correlated with downturns in the business cycle?
 - [ ] Frictional unemployment  
 - [ ] Structural unemployment  
 - [x] Cyclical unemployment  
@@ -232,7 +232,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** Cyclical unemployment arises from fluctuations in economic activity, typically increasing during recessions and decreasing during expansions.
 
-### 5. Which of the following policies is most likely to reduce structural unemployment?
+### Which of the following policies is most likely to reduce structural unemployment?
 - [x] Offering government-funded retraining programs for workers  
 - [ ] Lowering interest rates to increase borrowing for companies  
 - [x] Providing tax breaks for companies to adopt new technologies  
@@ -240,7 +240,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** Structural unemployment occurs when workers’ skills do not match market demands. Retraining programs and incentives encouraging firms to invest in new opportunities can help workers transition into necessary skill sets.
 
-### 6. Why might a tight labour market lead to inflationary pressures?
+### Why might a tight labour market lead to inflationary pressures?
 - [x] Employers increase wages to attract scarce talent, raising production costs and potentially prices  
 - [ ] Workers voluntarily leave the workforce en masse  
 - [ ] The Bank of Canada reduces interest rates  
@@ -248,7 +248,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** A tight labour market often translates into higher wages, which can fuel higher consumer demand and push up prices, contributing to inflation.
 
-### 7. What kind of information does the Bank of Canada typically use to adjust interest rates? 
+### What kind of information does the Bank of Canada typically use to adjust interest rates? 
 - [x] Labour market indicators, inflation trends, and GDP growth  
 - [ ] Real estate listings and home renovation data  
 - [x] Local municipal budgets and infrastructure spending only  
@@ -256,7 +256,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** The Bank of Canada frequently reviews employment trends, inflation data, and GDP figures when deciding on monetary policy actions like rate hikes or cuts.
 
-### 8. When the unemployment rate falls, but the labour force participation rate also declines, what might this suggest?
+### When the unemployment rate falls, but the labour force participation rate also declines, what might this suggest?
 - [x] Some people have stopped looking for work and are no longer counted as unemployed  
 - [ ] The economy is rapidly expanding with no side effects  
 - [ ] GDP always increases when unemployment rates drop  
@@ -264,7 +264,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** A dropping unemployment rate might be misleading if workers are exiting the labour force rather than finding jobs.
 
-### 9. Which government body in Canada is primarily responsible for collecting and publishing labour market data?
+### Which government body in Canada is primarily responsible for collecting and publishing labour market data?
 - [x] Statistics Canada  
 - [ ] Employment Insurance Canada  
 - [ ] Ministry of Finance Canada  
@@ -272,7 +272,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 > **Explanation:** Statistics Canada is the main federal agency responsible for producing data that helps Canadians better understand their country, including labour market statistics.
 
-### 10. The term “structural unemployment” primarily refers to joblessness due to:
+### The term “structural unemployment” primarily refers to joblessness due to:
 - [x] A mismatch between the skills of workers and the jobs available  
 - [ ] Temporary transitions between jobs  
 - [ ] Fluctuations in economic cycles  

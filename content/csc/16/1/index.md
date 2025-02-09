@@ -16,7 +16,7 @@ Below, we examine the essential components, best practices, and real-world appli
 
 ---
 
-### 1. Defining the Portfolio Management Process
+### Defining the Portfolio Management Process
 
 #### Key Elements and Definitions
 
@@ -34,19 +34,29 @@ Below, we examine the essential components, best practices, and real-world appli
 
 ---
 
-### 2. Core Steps of the Portfolio Management Process
+### Core Steps of the Portfolio Management Process
 
 Although practitioners may categorize steps slightly differently, a typical approach includes the following seven stages. Each stage builds on the previous one, ensuring a logical progression from initial planning to ongoing assessment and rebalancing.
 
+
 ```mermaid
 flowchart LR
-    A[1. Determine Client Objectives & Constraints] --> B[2. Design an Investment Policy Statement (IPS)]
-    B --> C[3. Develop the Asset Mix]
-    C --> D[4. Select the Securities]
-    D --> E[5. Monitor the Client, the Market, & the Economy]
-    E --> F[6. Evaluate Portfolio Performance]
-    F --> G[7. Rebalance the Portfolio]
+    A((1)) --> B((2))
+    B --> C((3))
+    C --> D((4))
+    D --> E((5))
+    E --> F((6))
+    F --> G((7))
+
+    A((Determine Investment Objectives & Constraints)) -->|Plan| B((Design Investment Policy Statement))
+    B -->|Guidelines| C((Develop the Asset Mix))
+    C -->|Allocation| D((Select the Securities))
+    D -->|Construct| E((Monitor the Client & Market))
+    E -->|Assess| F((Evaluate Portfolio Performance))
+    F -->|Adjust| G((Rebalance the Portfolio))
 ```
+
+These steps ensure a disciplined approach, enabling the portfolio manager or advisor to deliver consistent and transparent results. 
 
 #### 2.1 Determine Client Objectives and Constraints
 
@@ -129,7 +139,7 @@ Rebalancing ensures the portfolio continues to match the original objectives and
 
 ---
 
-### 3. Importance of a Structured Process
+### Importance of a Structured Process
 
 Adhering to a formal portfolio management process provides multiple benefits:
 
@@ -147,7 +157,7 @@ Adhering to a formal portfolio management process provides multiple benefits:
 
 ---
 
-### 4. Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 1. **Case Study: Pension Fund Asset Allocation**  
    Large Canadian pension funds, such as the Canada Pension Plan Investment Board (CPPIB), often exemplify the portfolio management process. They begin with long-term return targets and risk tolerances, set strategic asset allocations (e.g., 50% equities, 30% fixed income, 20% alternatives), and rebalance according to market shifts and changing liability profiles.
@@ -160,7 +170,7 @@ Adhering to a formal portfolio management process provides multiple benefits:
 
 ---
 
-### 5. Best Practices, Pitfalls, and Challenges
+### Best Practices, Pitfalls, and Challenges
 
 • **Best Practices**  
   – Conduct annual or semi-annual reviews of all KYC information to ensure data is current.  
@@ -179,7 +189,7 @@ Adhering to a formal portfolio management process provides multiple benefits:
 
 ---
 
-### 6. Additional References and Resources
+### Additional References and Resources
 
 For further reading and up-to-date guidelines, consult the following:
 
@@ -191,7 +201,7 @@ For further reading and up-to-date guidelines, consult the following:
 
 ---
 
-### 7. Summary
+### Summary
 
 A well-defined, methodical approach to portfolio management underpins the success of financial advisors and portfolio managers in Canada. By systematically applying KYC and KYP principles, aligning portfolio strategies with clear client objectives, and adhering to regulatory standards set by CIRO and the CSA, investment professionals can build robust portfolios that respond to changing market conditions and client needs. As you continue through this course, you will gain deeper insight into each step of this process, learning how to fine-tune asset allocation, periodic rebalancing, and performance analysis to optimize client outcomes.
 
@@ -201,106 +211,97 @@ A well-defined, methodical approach to portfolio management underpins the succes
 
 {{< quizdown >}}
 
-### 1. Which of the following is a primary reason to adopt a structured portfolio management process in Canada?
+### Which of the following is a primary reason to adopt a structured portfolio management process in Canada?
 
 - [x] It ensures consistency and regulatory compliance through documentation of each investment decision.  
 - [ ] It guarantees outperforming the market indexes.  
 - [ ] It completely eliminates market volatility.  
 - [ ] It requires only a single annual client review.
 
-> **Explanation:** Adopting a formal process ensures consistent decision-making and compliance with CIRO and CSA guidelines. No investment process can guarantee market outperformance or eliminate volatility.
+> **Explanation:**( Adopting a formal process ensures consistent decision-making and compliance with CIRO and CSA guidelines. No investment process can guarantee market outperformance or eliminate volatility.)
 
----
 
-### 2. Which Canadian regulatory organization enforces KYC/KYP requirements for investment dealers and mutual fund dealers?
+### Which Canadian regulatory organization enforces KYC/KYP requirements for investment dealers and mutual fund dealers?
 
 - [ ] CSA (Canadian Securities Administrators)  
 - [x] CIRO (Canadian Investment Regulatory Organization)  
 - [ ] IIROC (Investment Industry Regulatory Organization of Canada)  
 - [ ] FINTRAC (Financial Transactions and Reports Analysis Centre of Canada)
 
-> **Explanation:** CIRO is responsible for overseeing KYC/KYP obligations and other regulatory requirements for both investment dealers and mutual fund dealers.
+> **Explanation:**( CIRO is responsible for overseeing KYC/KYP obligations and other regulatory requirements for both investment dealers and mutual fund dealers.)
 
----
 
-### 3. In the portfolio management process, which document details target asset allocations, risk tolerance ranges, and performance benchmarks?
+### In the portfolio management process, which document details target asset allocations, risk tolerance ranges, and performance benchmarks?
 
 - [x] Investment Policy Statement (IPS)  
 - [ ] Financial Statement of Investment Return  
 - [ ] Prospectus  
 - [ ] Letter of Engagement
 
-> **Explanation:** The IPS formally captures objectives, constraints, and guidelines, ensuring transparency and accountability in the advisor-client relationship.
+> **Explanation:**( The IPS formally captures objectives, constraints, and guidelines, ensuring transparency and accountability in the advisor-client relationship.)
 
----
 
-### 4. When advisors rebalance a portfolio, what is their primary aim?
+### When advisors rebalance a portfolio, what is their primary aim?
 
 - [x] To realign the portfolio’s asset allocation with the client’s initial or updated targets  
 - [ ] To maximize short-term profits only  
 - [ ] To simplify record-keeping for tax returns  
 - [ ] To entirely avoid market volatility
 
-> **Explanation:** Rebalancing re-aligns the portfolio with the desired risk-reward framework and helps maintain the client’s strategic asset allocation. It is not solely about short-term profit or removing volatility.
+> **Explanation:**( Rebalancing re-aligns the portfolio with the desired risk-reward framework and helps maintain the client’s strategic asset allocation. It is not solely about short-term profit or removing volatility.)
 
----
 
-### 5. Which of the following is a best practice in monitoring the portfolio?
+### Which of the following is a best practice in monitoring the portfolio?
 
 - [x] Reviewing the client’s financial and personal circumstances to capture any new constraints  
 - [ ] Avoiding contact with the client until major market events occur  
 - [x] Monitoring macroeconomic indicators, such as interest rates and inflation, via the Bank of Canada  
 - [ ] Making unrecorded changes to the portfolio
 
-> **Explanation:** Staying current on the client’s changing financial situation and economy-wide shifts is crucial. Any modifications must be documented.
+> **Explanation:**( Staying current on the client’s changing financial situation and economy-wide shifts is crucial. Any modifications must be documented.)
 
----
 
-### 6. What is an example of a “Know Your Product” (KYP) obligation?
+### What is an example of a “Know Your Product” (KYP) obligation?
 
 - [x] An advisor must understand the structure, fees, and risks of the mutual fund they recommend.  
 - [ ] An advisor must meet with the client once a year, regardless of product knowledge.  
 - [ ] An advisor selects products solely based on past returns.  
 - [ ] An advisor relies on the client’s own research for product selection.
 
-> **Explanation:** KYP mandates that advisors have robust knowledge of the characteristics and risks of each recommended product, not just rely on past performance or client research.
+> **Explanation:**( KYP mandates that advisors have robust knowledge of the characteristics and risks of each recommended product, not just rely on past performance or client research.)
 
----
 
-### 7. Which approach emphasizes the macroeconomic environment first when performing asset allocation?
+### Which approach emphasizes the macroeconomic environment first when performing asset allocation?
 
 - [x] Top-down approach  
 - [ ] Bottom-up approach  
 - [x] Sector-focused approach  
 - [ ] Random selection approach
 
-> **Explanation:** A top-down approach starts with analyzing broad economic factors and trends, then drills down to sectors, industries, and individual securities.
+> **Explanation:**( A top-down approach starts with analyzing broad economic factors and trends, then drills down to sectors, industries, and individual securities.)
 
----
 
-### 8. Which metric is commonly used to evaluate risk-adjusted performance in portfolios?
+### Which metric is commonly used to evaluate risk-adjusted performance in portfolios?
 
 - [x] Sharpe Ratio  
 - [ ] Duration  
 - [ ] Paid-up capital  
 - [ ] Current yield only
 
-> **Explanation:** The Sharpe Ratio measures the portfolio’s excess return over the risk-free rate relative to its total risk (standard deviation), making it a key indicator of risk-adjusted returns.
+> **Explanation:**( The Sharpe Ratio measures the portfolio’s excess return over the risk-free rate relative to its total risk (standard deviation), making it a key indicator of risk-adjusted returns.)
 
----
 
-### 9. Which of the following best describes one benefit of adhering to Global Investment Performance Standards (GIPS)?
+### Which of the following best describes one benefit of adhering to Global Investment Performance Standards (GIPS)?
 
 - [x] Provides a recognized framework for measuring and presenting performance consistently  
 - [ ] Guarantees the highest returns possible  
 - [ ] Eliminates the need to track portfolio performance  
 - [ ] Restricts the use of international investments
 
-> **Explanation:** GIPS provides standardized guidelines that help ensure performance figures are transparent, comparable, and reliable, but it does not promise specific performance outcomes.
+> **Explanation:**( GIPS provides standardized guidelines that help ensure performance figures are transparent, comparable, and reliable, but it does not promise specific performance outcomes.)
 
----
 
-### 10. Monitoring and rebalancing are crucial parts of the portfolio management process. True or False?
+### Monitoring and rebalancing are crucial parts of the portfolio management process. True or False?
 
 - [x] True  
 - [ ] False  

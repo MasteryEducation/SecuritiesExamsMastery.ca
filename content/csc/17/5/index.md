@@ -220,7 +220,7 @@ Staying informed through these reports and promptly addressing material changes 
 
 {{< quizdown >}}
 
-### 1. Which document expands on details such as the fund’s historical legal proceedings, management team background, and deeper operational risks?
+### Which document expands on details such as the fund’s historical legal proceedings, management team background, and deeper operational risks?
 
 - [ ] Management Report of Fund Performance (MRFP)
 - [ ] Fund Facts
@@ -230,7 +230,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** The Annual Information Form (AIF) typically contains detailed information on the fund’s legal history, operations, and management that may not appear in other documents.
 
 
-### 2. Which of the following items is most likely found in a management report of fund performance (MRFP)?
+### Which of the following items is most likely found in a management report of fund performance (MRFP)?
 
 - [x] A discussion on why the fund’s performance changed over the reporting period
 - [ ] The fund manager’s personal employment contract details
@@ -240,7 +240,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** MRFPs focus on explaining the fund’s performance, portfolio shifts, and market commentary, rather than employment contracts or board member biographies.
 
 
-### 3. Under Canadian securities laws, which of the following changes typically requires unitholder approval?
+### Under Canadian securities laws, which of the following changes typically requires unitholder approval?
 
 - [x] A change in the fund’s fundamental investment objective
 - [ ] Minor adjustments to the fund’s marketing materials
@@ -250,7 +250,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** Major changes to a fund’s fundamental objectives generally require a unitholder vote, while routine adjustments or daily NAV fluctuations do not.
 
 
-### 4. What is the main purpose of continuous disclosure requirements for Canadian mutual funds?
+### What is the main purpose of continuous disclosure requirements for Canadian mutual funds?
 
 - [ ] To eliminate the need for unitholder meetings
 - [ ] To discourage large institutional investors from frequent trading
@@ -260,7 +260,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** Continuous disclosure aims to keep unitholders informed of significant developments that could impact the fund’s value or operations. 
 
 
-### 5. Which of the following is a material change that must be disclosed promptly to investors?
+### Which of the following is a material change that must be disclosed promptly to investors?
 
 - [x] A new portfolio manager replacing the long-standing manager of the fund
 - [ ] A minor correction to the language in the prospectus
@@ -270,7 +270,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** Material changes include shifts in management or major portfolio adjustments; these could meaningfully affect the fund’s risk and performance.
 
 
-### 6. What regulation primarily governs the continuous disclosure requirements for Canadian mutual funds?
+### What regulation primarily governs the continuous disclosure requirements for Canadian mutual funds?
 
 - [ ] National Instrument 81-101
 - [ ] CIRO By-law 2
@@ -280,7 +280,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** National Instrument 81-106 sets forth requirements on continuous disclosure, MRFPs, and financial statements for Canadian investment funds.
 
 
-### 7. Which document(s) provide audited and unaudited snapshots of the fund’s financial health throughout the year?
+### Which document(s) provide audited and unaudited snapshots of the fund’s financial health throughout the year?
 
 - [x] Interim and annual financial statements
 - [ ] Only the AIF
@@ -290,7 +290,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** Financial statements (annual and interim) give audited and unaudited insights into the fund’s finances, while interim MRFPs also discuss performance updates.
 
 
-### 8. How does the Annual Information Form (AIF) differ from Fund Facts?
+### How does the Annual Information Form (AIF) differ from Fund Facts?
 
 - [x] The AIF provides more detailed operational and risk-related information than Fund Facts
 - [ ] The AIF is exclusively a marketing tool
@@ -300,7 +300,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** The AIF goes into greater depth about the fund’s structure, management team, and potential legal risks, surpassing the more concise Fund Facts summary.
 
 
-### 9. Which resource would you consult to find an electronically filed copy of a mutual fund’s AIF or MRFP?
+### Which resource would you consult to find an electronically filed copy of a mutual fund’s AIF or MRFP?
 
 - [x] SEDAR+
 - [ ] The fund manager’s personal consulting firm
@@ -310,7 +310,7 @@ Staying informed through these reports and promptly addressing material changes 
 > **Explanation:** SEDAR+ is the official platform for publicly filed documents, including AIFs and MRFPs, for Canadian investment funds.
 
 
-### 10. True or False: Only institutional investors should review MRFPs before making investment decisions.
+### True or False: Only institutional investors should review MRFPs before making investment decisions.
 
 - [x] True
 - [ ] False

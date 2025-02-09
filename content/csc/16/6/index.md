@@ -137,106 +137,97 @@ Monitoring the client, the market, and the economy is more than a formality; it 
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes why ongoing client monitoring is important?
+### Which of the following best describes why ongoing client monitoring is important?
 
 - [x] It ensures that the portfolio remains aligned with the client’s changing personal and financial circumstances.  
 - [ ] It removes the client’s responsibility for providing updates to the advisor.  
 - [ ] It is only necessary for high-net-worth clients.  
 - [ ] It eliminates the impact of market volatility.
 
-> **Explanation:** The primary purpose is to keep the portfolio aligned with the client’s changing goals and financial situation, not to eliminate market risk or transfer responsibilities away from the client.
+> **Explanation:**( The primary purpose is to keep the portfolio aligned with the client’s changing goals and financial situation, not to eliminate market risk or transfer responsibilities away from the client.)
 
----
 
-### 2. Which key factor should prompt advisors to revisit a client’s asset allocation?
+### Which key factor should prompt advisors to revisit a client’s asset allocation?
 
 - [x] Inheritance or significant shift in income.  
 - [ ] Minor day-to-day market fluctuations.  
 - [ ] Unchanged credit score.  
 - [ ] Absence of any life events over a year.
 
-> **Explanation:** Significant changes in a client’s financial status, such as receiving an inheritance or a major salary increase, can alter their risk tolerance and investment horizon.
+> **Explanation:**( Significant changes in a client’s financial status, such as receiving an inheritance or a major salary increase, can alter their risk tolerance and investment horizon.)
 
----
 
-### 3. Why do interest rate announcements by the Bank of Canada matter to investment portfolios?
+### Why do interest rate announcements by the Bank of Canada matter to investment portfolios?
 
 - [x] They influence bond prices directly and can impact equity valuations.  
 - [ ] They only affect high-yield bonds and stock dividends.  
 - [ ] They are not relevant to equity portfolios.  
 - [ ] They only matter if the client heavily invests in precious metals.
 
-> **Explanation:** Changes in interest rates affect borrowing costs and bond yields, which in turn can impact corporate profits and equity prices.
+> **Explanation:**( Changes in interest rates affect borrowing costs and bond yields, which in turn can impact corporate profits and equity prices.)
 
----
 
-### 4. Which institution publishes the “Monetary Policy Report” offering insights into Canada’s economic outlook and inflation forecasts?
+### Which institution publishes the “Monetary Policy Report” offering insights into Canada’s economic outlook and inflation forecasts?
 
 - [x] Bank of Canada  
 - [ ] Statistics Canada  
 - [ ] Canadian Imperial Bank of Commerce  
 - [ ] Ontario Securities Commission
 
-> **Explanation:** The Bank of Canada publishes the “Monetary Policy Report,” which provides details about economic growth, inflation forecasts, and monetary policy decisions.
+> **Explanation:**( The Bank of Canada publishes the “Monetary Policy Report,” which provides details about economic growth, inflation forecasts, and monetary policy decisions.)
 
----
 
-### 5. Which of the following best helps an advisor avoid making emotional or impulse-driven decisions?
+### Which of the following best helps an advisor avoid making emotional or impulse-driven decisions?
 
 - [x] Using objective data-driven triggers for potential portfolio adjustments  
 - [ ] Only focusing on global news headlines  
 - [x] Maintaining historical documentation of all changes  
 - [ ] Eliminating communicative feedback from the client
 
-> **Explanation:** Objective data-driven triggers reduce the subjective decisions that lead to emotion-driven errors, while documentation fosters accountability.  
+> **Explanation:**( Objective data-driven triggers reduce the subjective decisions that lead to emotion-driven errors, while documentation fosters accountability.  )
 
----
 
-### 6. What is a “Reassessment Cycle” in the portfolio management context?
+### What is a “Reassessment Cycle” in the portfolio management context?
 
 - [x] A pre-set schedule for client and market reviews  
 - [ ] A note-taking method for daily performance updates  
 - [ ] A requirement to trade securities daily  
 - [ ] A form of analysis limited only to standard deviation metrics
 
-> **Explanation:** The Reassessment Cycle ensures systematic, periodic reviews of client circumstances, market conditions, and economic indicators, rather than random or reactionary checks.
+> **Explanation:**( The Reassessment Cycle ensures systematic, periodic reviews of client circumstances, market conditions, and economic indicators, rather than random or reactionary checks.)
 
----
 
-### 7. Which open-source tool is commonly used to track or chart financial market data?
+### Which open-source tool is commonly used to track or chart financial market data?
 
 - [x] Python’s “yfinance” library  
 - [ ] Photo editing software  
 - [x] R’s “quantmod” package  
 - [ ] Spreadsheet macros only from banks
 
-> **Explanation:** Both “yfinance” and “quantmod” are popular open-source resources used by advisors and analysts to gather and visualize market data.
+> **Explanation:**( Both “yfinance” and “quantmod” are popular open-source resources used by advisors and analysts to gather and visualize market data.)
 
----
 
-### 8. According to the text, a disciplined monitoring approach includes which of the following?
+### According to the text, a disciplined monitoring approach includes which of the following?
 
 - [x] Evaluating client updates, market metrics, and economic data on a consistent schedule  
 - [ ] Making significant adjustments immediately upon minor price fluctuations  
 - [ ] Avoiding all forms of risk once the initial portfolio is constructed  
 - [ ] Relying solely on bond indices for asset allocation
 
-> **Explanation:** A disciplined approach involves regularly (and objectively) evaluating changes in personal circumstances, markets, and economic metrics before making informed decisions.
+> **Explanation:**( A disciplined approach involves regularly (and objectively) evaluating changes in personal circumstances, markets, and economic metrics before making informed decisions.)
 
----
 
-### 9. What role does Statistics Canada play in portfolio monitoring?
+### What role does Statistics Canada play in portfolio monitoring?
 
 - [x] Provides data releases on inflation, GDP, employment, and other economic indicators  
 - [ ] Sets federal interest rates  
 - [ ] Manages all client disclosure documents  
 - [ ] Adjusts exchange rates daily
 
-> **Explanation:** Statistics Canada publishes a range of economic data, helping advisors monitor factors that influence asset allocation and investment strategies.
+> **Explanation:**( Statistics Canada publishes a range of economic data, helping advisors monitor factors that influence asset allocation and investment strategies.)
 
----
 
-### 10. A “Macroeconomic Indicator” such as GDP affects the portfolio by influencing:
+### A “Macroeconomic Indicator” such as GDP affects the portfolio by influencing:
 
 - [x] Corporate profitability and potentially equity valuations  
 - [ ] The color of currency notes  

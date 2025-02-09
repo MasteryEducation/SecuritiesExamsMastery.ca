@@ -201,7 +201,7 @@ By understanding the motivations and strategies employed by different derivative
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a hedger’s primary motivation for using derivatives?
+### Which of the following best describes a hedger’s primary motivation for using derivatives?
 
 - [ ] To maximize speculative gains.  
 - [x] To protect against unfavorable price movements on existing holdings.  
@@ -210,7 +210,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Hedgers seek to mitigate or eliminate price risk in their portfolios or businesses, commonly using derivatives to lock in prices or offset potential losses.
 
-### 2. What is typically the greatest risk faced by speculators using derivatives?
+### What is typically the greatest risk faced by speculators using derivatives?
 
 - [x] Losses from leveraged positions.  
 - [ ] Inability to find a counterparty for settlement.  
@@ -219,7 +219,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Speculators take on higher risk, often leveraging derivatives. If the market moves against their position, substantial losses—even exceeding initial capital—are possible.
 
-### 3. Which market participant is primarily focused on exploiting price discrepancies between two equivalent instruments?
+### Which market participant is primarily focused on exploiting price discrepancies between two equivalent instruments?
 
 - [ ] Hedger  
 - [ ] Speculator  
@@ -228,7 +228,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Arbitrageurs typically look for price differences in related instruments or markets for a near risk-free profit through simultaneous buy-sell transactions.
 
-### 4. A Canadian pension fund with a large bond portfolio is concerned about rising interest rates. Which derivative would it most likely use to hedge this risk?
+### A Canadian pension fund with a large bond portfolio is concerned about rising interest rates. Which derivative would it most likely use to hedge this risk?
 
 - [ ] Equity index futures  
 - [x] Interest rate swaps  
@@ -237,7 +237,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Interest rate swaps are commonly used to mitigate the impact of rising rates on fixed-income portfolios; the fund could swap fixed for floating rates.
 
-### 5. Which of the following best describes the primary role of a portfolio manager when employing derivatives?
+### Which of the following best describes the primary role of a portfolio manager when employing derivatives?
 
 - [x] To efficiently manage and adjust a portfolio’s exposure to various market sectors.  
 - [ ] To maximize personal gain through risk-free arbitrage.  
@@ -246,7 +246,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Portfolio managers use derivatives to adjust asset allocation or hedge specific risks quickly. They do not eliminate all risks; they manage them according to the investment policy statement.
 
-### 6. Why are there strict proficiency and suitability requirements in Canada for derivatives trading?
+### Why are there strict proficiency and suitability requirements in Canada for derivatives trading?
 
 - [x] Because derivatives are complex and can result in significant losses if misunderstood.  
 - [ ] Because all market players must follow the same investment strategy.  
@@ -255,7 +255,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Derivatives involve unique risks and complexities; Canadian regulators (CIRO, provincial commissions) enforce strict guidelines to protect investors.
 
-### 7. What is a disadvantage of using leverage in derivatives for speculation?
+### What is a disadvantage of using leverage in derivatives for speculation?
 
 - [x] Potential losses can exceed the initial premium or margin.  
 - [ ] Margin requirements are typically zero, weakening returns.  
@@ -264,7 +264,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** While leverage can amplify gains, it equally amplifies losses, which can exceed the initial margin or premium amount.
 
-### 8. Which best describes how arbitrageurs impact the market?
+### Which best describes how arbitrageurs impact the market?
 
 - [ ] They increase market inefficiency by creating new pricing errors.  
 - [x] They help stabilize prices by trading away mispricing.  
@@ -273,7 +273,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Arbitrageurs help maintain efficient markets by quickly exploiting and eliminating pricing discrepancies, thus stabilizing prices.
 
-### 9. In practical terms, how might a Canadian portfolio manager quickly increase equity exposure?
+### In practical terms, how might a Canadian portfolio manager quickly increase equity exposure?
 
 - [x] Purchasing equity index futures contracts on the S&P/TSX 60.  
 - [ ] Buying foreign currency forwards.  
@@ -282,7 +282,7 @@ By understanding the motivations and strategies employed by different derivative
 
 > **Explanation:** Using equity index futures is an efficient way to gain immediate exposure to a broad range of stocks without buying them individually.
 
-### 10. True or False: According to Canadian regulations, derivatives can only be used by institutional investors.
+### True or False: According to Canadian regulations, derivatives can only be used by institutional investors.
 
 - [x] True  
 - [ ] False  

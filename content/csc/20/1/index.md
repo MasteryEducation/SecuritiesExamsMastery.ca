@@ -32,15 +32,15 @@ Each of these categories has unique characteristics, including distinct regulato
 
 ## Rationale for Including Alternatives in a Portfolio
 
-### 1. Diversification
+### Diversification
 
 One of the principal motivations for introducing alternative investments is their potential to provide low or negative correlation with traditional asset classes. For instance, the performance of commodities or real estate funds may be influenced by economic fundamentals distinct from those that drive the equity or bond markets. As a result, adding alternatives to a portfolio may reduce overall volatility, smooth out returns, and help investors weather periods of stress in financial markets.
 
-### 2. Potential for Enhanced Returns
+### Potential for Enhanced Returns
 
 Many alternative strategies, such as hedge funds or private equity, focus on generating absolute returns—seeking positive performance in both rising and falling markets. While they can sometimes underperform in certain market conditions, their active strategies (e.g., long-short equity, arbitrage, special situations) may help capture opportunities not available to traditional, long-only portfolios.
 
-### 3. Access to Unique Markets and Instruments
+### Access to Unique Markets and Instruments
 
 Alternative investments offer exposure to markets and instruments that are typically inaccessible through conventional assets. For instance:
 
@@ -52,15 +52,15 @@ Alternative investments offer exposure to markets and instruments that are typic
 
 ## Key Characteristics that Distinguish Alternatives
 
-### 1. Legal Structures
+### Legal Structures
 
 A significant number of alternative investment offerings are structured as limited partnerships or trusts (in contrast to the corporate structure typical of mutual funds). Examples include hedge funds and private equity funds. These structures can impact the way gains and losses flow to investors and have tax implications that differ from typical mutual fund distributions.
 
-### 2. Liquidity Constraints
+### Liquidity Constraints
 
 Alternative investments often come with liquidity restrictions such as “lock-up periods,” during which invested capital cannot be redeemed. Even upon expiration of the lock-up, redemptions may be allowed only at specific intervals (e.g., quarterly or annually). By contrast, conventional mutual funds permit daily redemptions. This potential illiquidity is a trade-off for the unique strategies or underlying assets employed, which can themselves be illiquid or require longer time horizons.
 
-### 3. Regulatory Environment
+### Regulatory Environment
 
 In Canada, alternative investments fall under several regulatory frameworks:
 
@@ -69,7 +69,7 @@ In Canada, alternative investments fall under several regulatory frameworks:
 • Derivatives Regulations: Entities using derivatives must adhere to regulatory guidelines, including margining and reporting requirements.  
 • CIRO (Canadian Investment Regulatory Organization): Oversees the conduct of investment dealers and advisors, ensuring standards of practice and investor protection.
 
-### 4. Accreditation Requirements
+### Accreditation Requirements
 
 Historically, alternative investments like hedge funds or private equity were available primarily to accredited (or “permitted”) investors—high-net-worth individuals or institutions that meet certain income and asset thresholds. The rise of alternative mutual funds (“liquid alts”) has broadened access for retail investors, provided they meet suitability and risk tolerance requirements as assessed by registered advisors and dealers.
 
@@ -77,11 +77,11 @@ Historically, alternative investments like hedge funds or private equity were av
 
 ## Evolution of Alternative Investments
 
-### 1. Institutional Beginnings
+### Institutional Beginnings
 
 Public pension plans, large foundations, and endowments were early adopters of alternatives, aiming to diversify away from mainstream markets and capitalize on arbitrage or niche investment opportunities. The “Yale Model,” pioneered by Yale University’s endowment, famously allocated a substantial portion of its portfolio to alternatives and became a blueprint for many institutional investors worldwide.
 
-### 2. Retail Demand
+### Retail Demand
 
 The success achieved by institutional portfolios spurred increased retail interest in similar strategies. Canadian regulators, including the Canadian Securities Administrators (CSA) and CIRO, have adapted product rules to allow alternative mutual funds, which:
 

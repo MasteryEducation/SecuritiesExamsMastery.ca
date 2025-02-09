@@ -14,7 +14,7 @@ Listing a company’s securities on a recognized Canadian stock exchange—such 
 
 ---
 
-### 1. Importance of Listing
+### Importance of Listing
 
 When a private company decides to go public, it undertakes the process of issuing shares to the public and having those shares listed on a stock exchange. This action extends beyond just offering ownership; it shapes the company’s structure, governance, and reputation in the market.
 
@@ -32,7 +32,7 @@ When a private company decides to go public, it undertakes the process of issuin
 
 ---
 
-### 2. Listing Requirements
+### Listing Requirements
 
 Different exchanges in Canada have distinct listing requirements, tailored to the size, industry, and maturity level of the companies they accept. However, there are general criteria that span across most exchanges:
 
@@ -63,7 +63,7 @@ For illustration, the Toronto Stock Exchange (TSX) mandates specific financial t
 
 ---
 
-### 3. The Listing Process in Action
+### The Listing Process in Action
 
 The path to listing involves several steps of preparation and regulatory review. Below is a simplified visual outline of how a company can move from private operations to a successfully listed entity:
 
@@ -98,7 +98,7 @@ flowchart LR
 
 ---
 
-### 4. Advantages and Disadvantages of Listing
+### Advantages and Disadvantages of Listing
 
 #### 4.1 Advantages
 
@@ -129,7 +129,7 @@ flowchart LR
 
 ---
 
-### 5. Delisting and Suspension
+### Delisting and Suspension
 
 While listing is a significant achievement, companies can face suspension or delisting if they fail to comply with exchange rules or fall into financial distress.
 
@@ -149,7 +149,7 @@ While listing is a significant achievement, companies can face suspension or del
 
 ---
 
-### 6. Real-World Examples and Case Studies
+### Real-World Examples and Case Studies
 
 1. **Case: A Technology Startup Listing on the TSXV**  
    • A small Canadian software developer aims to grow quickly. Although it has yet to turn a profit, it meets the TSXV Tier 1 or Tier 2 financial requirements. By listing on the TSXV, the company gains access to a new pool of growth-oriented investors. Over time, the startup scales operations, and as its financials strengthen, it might graduate to the TSX.
@@ -162,7 +162,7 @@ While listing is a significant achievement, companies can face suspension or del
 
 ---
 
-### 7. Best Practices, Common Pitfalls, and Strategies
+### Best Practices, Common Pitfalls, and Strategies
 
 1. **Best Practices**  
    • Develop comprehensive corporate governance frameworks that align with CSA guidelines.  
@@ -181,7 +181,7 @@ While listing is a significant achievement, companies can face suspension or del
 
 ---
 
-### 8. Practical Exercises and Self-Assessment
+### Practical Exercises and Self-Assessment
 
 1. **Assess Your Company’s Readiness**  
    • Suppose you are the CFO of a mid-sized Canadian manufacturing firm. Evaluate whether your business meets key TSX listing criteria—consider market cap, public float, corporate governance, and financial health.
@@ -194,7 +194,7 @@ While listing is a significant achievement, companies can face suspension or del
 
 ---
 
-### 9. Glossary of Key Terms
+### Glossary of Key Terms
 
 • **Public Float**: The portion of a company’s outstanding shares available for purchase by the public, excluding shares held by insiders or strategic investors.  
 • **Market Capitalization**: The overall market value of a company’s shares, calculated as share price × total outstanding shares.  
@@ -203,7 +203,7 @@ While listing is a significant achievement, companies can face suspension or del
 
 ---
 
-### 10. References and Additional Resources
+### References and Additional Resources
 
 • [Toronto Stock Exchange (TSX) Manual](https://www.tsx.com/listings) – Official guide to listing requirements.  
 • [Canadian Securities Exchange (CSE)](https://thecse.com) – Listing requirements and continuous disclosure obligations.  
@@ -219,104 +219,95 @@ For guidance on compliance, open-source financial models, and frameworks to trac
 
 {{< quizdown >}}
 
-### 1. Which of the following is the main advantage of listing on a major Canadian stock exchange?
+### Which of the following is the main advantage of listing on a major Canadian stock exchange?
 
 - [ ] Reduced regulatory requirements  
 - [x] Enhanced liquidity and visibility for shares  
 - [ ] Guaranteed dividend payments  
 - [ ] Exemption from corporate governance rules  
 
-> **Explanation:** Listing on a major exchange like the TSX enhances visibility and liquidity, broadens the investor base, and can lead to increased credibility. However, regulatory requirements and corporate governance obligations typically intensify.
+> **Explanation:**( Listing on a major exchange like the TSX enhances visibility and liquidity, broadens the investor base, and can lead to increased credibility. However, regulatory requirements and corporate governance obligations typically intensify.)
 
----
 
-### 2. What does the public float represent?
+### What does the public float represent?
 
 - [ ] The total market capitalization of the company  
 - [ ] The total number of insiders holding shares  
 - [x] The portion of the company’s shares readily available to the public for trading  
 - [ ] The minimum share price assigned by the exchange  
 
-> **Explanation:** The public float is the volume of shares that can be traded by outside investors, separate from shares owned by insiders or large, long-term shareholders.
+> **Explanation:**( The public float is the volume of shares that can be traded by outside investors, separate from shares owned by insiders or large, long-term shareholders.)
 
----
 
-### 3. Which of the following is a common requirement for listing on Canadian stock exchanges?
+### Which of the following is a common requirement for listing on Canadian stock exchanges?
 
 - [ ] A minimum of five years of operation  
 - [ ] No board of directors required  
 - [ ] No need for financial statements  
 - [x] A minimum percentage of shares held by the public  
 
-> **Explanation:** Exchanges often require that a certain percentage of outstanding shares be distributed among public shareholders, ensuring adequate liquidity and a broad investor base.
+> **Explanation:**( Exchanges often require that a certain percentage of outstanding shares be distributed among public shareholders, ensuring adequate liquidity and a broad investor base.)
 
----
 
-### 4. True or False: Delisting always occurs at the request of the issuer.
+### True or False: Delisting always occurs at the request of the issuer.
 
 - [ ] True  
 - [x] False  
 
-> **Explanation:** While companies can request to be delisted voluntarily, exchanges can also force delisting if there is a failure to maintain listing standards or serious regulatory breaches.
+> **Explanation:**( While companies can request to be delisted voluntarily, exchanges can also force delisting if there is a failure to maintain listing standards or serious regulatory breaches.)
 
----
 
-### 5. Which of these is a downside of listing your company’s shares?
+### Which of these is a downside of listing your company’s shares?
 
 - [ ] A more diversified investor base  
 - [x] High costs and increased public scrutiny  
 - [ ] Access to additional capital  
 - [ ] Easier mergers and acquisitions  
 
-> **Explanation:** Listing involves meeting ongoing disclosure and corporate governance requirements, incurring compliance and reporting expenses, and facing scrutiny from regulators and public markets.
+> **Explanation:**( Listing involves meeting ongoing disclosure and corporate governance requirements, incurring compliance and reporting expenses, and facing scrutiny from regulators and public markets.)
 
----
 
-### 6. A company is seeking a listing on the TSX, but is new to the market, has minimal revenue, and is focused on early-stage biotech research. Which exchange might be more appropriate for them?
+### A company is seeking a listing on the TSX, but is new to the market, has minimal revenue, and is focused on early-stage biotech research. Which exchange might be more appropriate for them?
 
 - [ ] Toronto Stock Exchange (TSX)  
 - [ ] Canadian Securities Exchange (CSE)  
 - [x] TSX Venture Exchange (TSXV)  
 - [ ] Over-the-Counter (OTC) markets  
 
-> **Explanation:** The TSXV typically caters to earlier-stage companies that may not meet the stricter financial standards of the TSX.
+> **Explanation:**( The TSXV typically caters to earlier-stage companies that may not meet the stricter financial standards of the TSX.)
 
----
 
-### 7. Which of the following best summarizes “continuous disclosure” in Canada?
+### Which of the following best summarizes “continuous disclosure” in Canada?
 
 - [ ] A requirement to disclose quarterly marketing campaigns  
 - [ ] Regular communication with private investors only  
 - [x] Ongoing obligation to report material changes, financials, and other significant events to the public  
 - [ ] Publishing company internal memos without filtering  
 
-> **Explanation:** Continuous disclosure rules ensure that public companies file periodic financials and promptly announce material changes that could affect security prices or investment decisions.
+> **Explanation:**( Continuous disclosure rules ensure that public companies file periodic financials and promptly announce material changes that could affect security prices or investment decisions.)
 
----
 
-### 8. When a company is delisted from an exchange due to insolvency or regulatory issues, investors primarily risk:
+### When a company is delisted from an exchange due to insolvency or regulatory issues, investors primarily risk:
 
 - [ ] Market stability  
 - [x] Reduced liquidity and diminishing share value  
 - [ ] Higher dividends  
 - [ ] Unlimited liability  
 
-> **Explanation:** Delisting often makes it difficult or impossible for shareholders to sell their holdings, thus undermining liquidity and potentially eroding share value significantly.
+> **Explanation:**( Delisting often makes it difficult or impossible for shareholders to sell their holdings, thus undermining liquidity and potentially eroding share value significantly.)
 
----
 
-### 9. What is the most critical function of an underwriter in an IPO process?
+### What is the most critical function of an underwriter in an IPO process?
 
 - [x] Helping the company price and distribute shares to investors  
 - [ ] Setting corporate governance rules  
 - [ ] Filing the company’s tax returns  
 - [ ] Taking over company management  
 
-> **Explanation:** Underwriters guide the IPO process, advise on share pricing, facilitate marketing, and help distribute shares to the investing public.
+> **Explanation:**( Underwriters guide the IPO process, advise on share pricing, facilitate marketing, and help distribute shares to the investing public.)
 
----
 
-### 10. Continuous disclosure documents, such as financial statements and MD&A for Canadian public companies, are primarily accessible on which platform?
+### Continuous disclosure documents, such as financial statements and MD&A for Canadian public companies, are primarily accessible on which platform?
 
 - [ ] EDGAR  
 - [x] SEDAR+  

@@ -220,9 +220,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] It is only available for stocks on U.S. exchanges.  
 - [ ] It contains no time element.  
 
-> **Explanation:** An option contract provides the buyer with a right, but not an obligation. The seller has the obligation if the buyer exercises.
+> **Explanation:**( An option contract provides the buyer with a right, but not an obligation. The seller has the obligation if the buyer exercises.)
 
----
 
 ### What is a primary motivation for buying a put option in a Canadian portfolio?
 
@@ -231,9 +230,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] To earn dividend income  
 - [ ] To remove market risk entirely  
 
-> **Explanation:** Purchasing puts is a common hedging strategy to protect against falling prices. Although it cannot remove all risk, it helps mitigate downside losses.
+> **Explanation:**( Purchasing puts is a common hedging strategy to protect against falling prices. Although it cannot remove all risk, it helps mitigate downside losses.)
 
----
 
 ### In the context of option pricing, “time value” refers to:
 
@@ -242,9 +240,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] The interest earned on the strike price.  
 - [ ] The exact number of days left until expiration, multiplied by volatility.  
 
-> **Explanation:** Time value is the extra premium beyond intrinsic value due to the probability of future price movement and remaining time until expiration.
+> **Explanation:**( Time value is the extra premium beyond intrinsic value due to the probability of future price movement and remaining time until expiration.)
 
----
 
 ### Which of the following is true for a covered call?
 
@@ -253,9 +250,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] It is the same as a protective put strategy.  
 - [ ] It involves buying a call, not selling one.  
 
-> **Explanation:** A covered call involves writing (selling) calls on a stock you already own. The underlying shares “cover” the potential obligation to deliver if exercised.
+> **Explanation:**( A covered call involves writing (selling) calls on a stock you already own. The underlying shares “cover” the potential obligation to deliver if exercised.)
 
----
 
 ### When trading a call option on the Montreal Exchange, which organization is primarily responsible for clearing and settlement?
 
@@ -264,9 +260,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] The Ontario Securities Commission (OSC)  
 - [ ] The Toronto Stock Exchange (TSX)  
 
-> **Explanation:** The CDCC is responsible for clearing and settling trades for standardized options in Canada.
+> **Explanation:**( The CDCC is responsible for clearing and settling trades for standardized options in Canada.)
 
----
 
 ### What is the maximum loss incurred by the buyer of a call option?
 
@@ -275,9 +270,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] There is no limit to the loss  
 - [ ] The intrinsic value of the option  
 
-> **Explanation:** For an option buyer, the total loss is limited to the premium paid if the option expires worthless.
+> **Explanation:**( For an option buyer, the total loss is limited to the premium paid if the option expires worthless.)
 
----
 
 ### Which of the following factors typically increases the price of an option according to the Black–Scholes–Merton model?
 
@@ -299,9 +293,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] Generating additional income from a stagnant stock  
 - [ ] Rolling forward an option that’s about to expire  
 
-> **Explanation:** A protective put is purchased to limit downside risk—like an insurance policy—on an existing long position in the underlying asset.
+> **Explanation:**( A protective put is purchased to limit downside risk—like an insurance policy—on an existing long position in the underlying asset.)
 
----
 
 ### Which of the following best describes the binomial model for option pricing?
 
@@ -310,9 +303,8 @@ Investors looking to hedge Canadian portfolios or engage in more advanced specul
 - [ ] It ignores volatility and assumes the underlying price is constant.  
 - [ ] It cannot handle early exercise features.  
 
-> **Explanation:** The binomial model separates the time period into discrete steps, allowing either an up or down move in each step, and can handle American-style early exercise.
+> **Explanation:**( The binomial model separates the time period into discrete steps, allowing either an up or down move in each step, and can handle American-style early exercise.)
 
----
 
 ### The intrinsic value of a call option at expiration is positive if:
 

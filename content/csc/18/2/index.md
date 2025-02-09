@@ -235,7 +235,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes an active management approach?  
+### Which of the following best describes an active management approach?  
 - [x] Continuously researching and handpicking securities to outperform a benchmark.  
 - [ ] Replicating the composition of a given market index.  
 - [ ] Seeking specific macro trends in the market.  
@@ -243,7 +243,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** Active managers aim to outperform a benchmark by selecting securities based on research and adjustments as market conditions change.
 
-### 2. What is a defining characteristic of passive fund management?  
+### What is a defining characteristic of passive fund management?  
 - [ ] Frequent security trading.  
 - [ ] A high Management Expense Ratio (MER).  
 - [x] Minimal turnover to match an index’s composition.  
@@ -251,7 +251,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** Passive funds are designed to mirror a market index with minimal turnover, leading to lower fees and fewer trades.
 
-### 3. Which statement about quantitative (quant) strategies is most accurate?  
+### Which statement about quantitative (quant) strategies is most accurate?  
 - [x] They rely on mathematical models and large data sets to identify opportunities.  
 - [ ] They depend solely on fundamental metrics like P/E and dividend yield.  
 - [ ] They disregard all statistical analysis and focus on macroeconomic themes.  
@@ -259,7 +259,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** Quantitative strategies use algorithms, statistical methods, and often big data to execute trades and uncover market inefficiencies.
 
-### 4. Thematic investing typically focuses on:  
+### Thematic investing typically focuses on:  
 - [ ] Keeping turnover as low as possible.  
 - [ ] Matching a broad index benchmark through replication.  
 - [ ] Short-term technical chart patterns.  
@@ -267,7 +267,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** Thematic funds base their strategy on prevailing macro themes (e.g., green energy or AI) and invest in companies poised to benefit from these trends.
 
-### 5. Value funds generally invest in:  
+### Value funds generally invest in:  
 - [x] Companies they believe are undervalued relative to fundamentals.  
 - [ ] High-flying stocks with high P/E ratios.  
 - [x] Enterprises trading below their intrinsic worth.  
@@ -275,7 +275,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** Value funds seek stocks that are undervalued by the market, often with attractive price-to-earnings (P/E) or price-to-book ratios.
 
-### 6. High portfolio turnover in a mutual fund often indicates:  
+### High portfolio turnover in a mutual fund often indicates:  
 - [x] More frequent trading and possible higher transaction costs.  
 - [ ] A strictly passive indexing strategy.  
 - [ ] Long-term buy-and-hold tactics.  
@@ -283,7 +283,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** High turnover involves frequent buying and selling of securities, increasing trading expenses and potentially leading to higher taxable capital gains distributions.
 
-### 7. Under which regulatory framework do most Canadian mutual funds operate?  
+### Under which regulatory framework do most Canadian mutual funds operate?  
 - [x] National Instrument 81-102.  
 - [ ] Basel III Accord.  
 - [x] CIRO guidelines for dealer conduct.  
@@ -291,7 +291,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** Canadian mutual funds must adhere to NI 81-102, and CIRO oversees dealers and suitability rules.
 
-### 8. Which of the following is an essential resource for public disclosure of mutual fund documents in Canada?  
+### Which of the following is an essential resource for public disclosure of mutual fund documents in Canada?  
 - [x] SEDAR+.  
 - [ ] Bank of Canada’s monetary policy announcements.  
 - [ ] Bloomberg Terminal.  
@@ -299,7 +299,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** SEDAR+ is the electronic filing system where mutual fund prospectuses and annual reports are publicly accessible.
 
-### 9. What is a benchmark in the context of mutual funds?  
+### What is a benchmark in the context of mutual funds?  
 - [x] A standard measure against which a fund’s performance is compared.  
 - [ ] A regulatory penalty imposed by CIRO.  
 - [ ] A guaranteed rate of return set by the fund manager.  
@@ -307,7 +307,7 @@ Investors should always compare a fund’s objectives, fees, and performance rel
 
 > **Explanation:** A benchmark, such as a market index, is used to evaluate whether the fund’s performance is due to general market movement or the manager’s skill.
 
-### 10. True or False: Thematic investing targets specific sectors or industries expected to benefit from sustained macro-level trends.  
+### True or False: Thematic investing targets specific sectors or industries expected to benefit from sustained macro-level trends.  
 - [x] True  
 - [ ] False  
 

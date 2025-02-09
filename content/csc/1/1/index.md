@@ -221,9 +221,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] The Canadian Investment Regulatory Organization (CIRO)
 - [ ] The World Bank
 
-> **Explanation:** The Canadian Securities Administrators (CSA) is an umbrella organization that harmonizes regulations across provinces and territories.
+> **Explanation:**( The Canadian Securities Administrators (CSA) is an umbrella organization that harmonizes regulations across provinces and territories.)
 
----
 
 ### CIRO was formed through the amalgamation of which two self-regulatory organizations?
 
@@ -232,9 +231,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] The CSA and the OSC
 - [ ] The TSX and the TSXV
 
-> **Explanation:** CIRO (Canadian Investment Regulatory Organization) is the result of combining IIROC (Investment Industry Regulatory Organization of Canada) and the MFDA (Mutual Fund Dealers Association).
+> **Explanation:**( CIRO (Canadian Investment Regulatory Organization) is the result of combining IIROC (Investment Industry Regulatory Organization of Canada) and the MFDA (Mutual Fund Dealers Association).)
 
----
 
 ### What is the primary function of a clearinghouse like CDS in the Canadian securities market?
 
@@ -243,9 +241,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] To regulate investment dealers
 - [ ] To oversee corporate governance disclosures
 
-> **Explanation:** Clearinghouses, such as CDS, manage trade settlement and reduce counterparty risk by guaranteeing the performance of transactions.
+> **Explanation:**( Clearinghouses, such as CDS, manage trade settlement and reduce counterparty risk by guaranteeing the performance of transactions.)
 
----
 
 ### Which of the following statements is true regarding Canada's capital markets?
 
@@ -254,9 +251,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] There is no distinction between investment dealers and mutual fund dealers.
 - [ ] CIRO directly approves new securities issuances for all provinces.
 
-> **Explanation:** Canada does not have a single federal regulator; instead, each province and territory has its own securities commission or equivalent authority.
+> **Explanation:**( Canada does not have a single federal regulator; instead, each province and territory has its own securities commission or equivalent authority.)
 
----
 
 ### Which large institutional investor is known for applying sophisticated strategies in Canada's pension sector? (Select all that apply)
 
@@ -265,9 +261,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [x] Ontario Teachers’ Pension Plan
 - [ ] The Bank of Canada
 
-> **Explanation:** Both CPP Investments and Ontario Teachers’ Pension Plan are examples of large, sophisticated pension funds in Canada.
+> **Explanation:**( Both CPP Investments and Ontario Teachers’ Pension Plan are examples of large, sophisticated pension funds in Canada.)
 
----
 
 ### A mutual fund dealer must ensure that each purchase recommendation is suitable for a client. This is best described by:
 
@@ -276,9 +271,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] Dark pool regulations
 - [ ] Margin account compliance
 
-> **Explanation:** Mutual fund dealers must comply with KYC and suitability provisions to ensure investment recommendations align with a client’s objectives and risk tolerance.
+> **Explanation:**( Mutual fund dealers must comply with KYC and suitability provisions to ensure investment recommendations align with a client’s objectives and risk tolerance.)
 
----
 
 ### In Canada, which body primarily enforces trading rules and sets proficiency standards for dealer registrants?
 
@@ -287,9 +281,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [x] IIROC, prior to amalgamation into CIRO
 - [ ] Provincial governments
 
-> **Explanation:** Before CIRO was formed, IIROC enforced trading rules for investment dealers. Now, CIRO enforces these rules and sets proficiency standards.
+> **Explanation:**( Before CIRO was formed, IIROC enforced trading rules for investment dealers. Now, CIRO enforces these rules and sets proficiency standards.)
 
----
 
 ### Which factor has contributed to the rise of Algorithmic Trading in Canada’s securities markets?
 
@@ -298,9 +291,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] Removal of all regulation around HFT
 - [ ] Abolishment of the TSX Venture Exchange
 
-> **Explanation:** Technological advances enable rapid data processing, allowing trades to be executed automatically based on algorithms.
+> **Explanation:**( Technological advances enable rapid data processing, allowing trades to be executed automatically based on algorithms.)
 
----
 
 ### Which step would a small private company likely take first if planning to list on the TSX Venture Exchange?
 
@@ -309,9 +301,8 @@ By understanding the players, regulations, and market structure, you will be wel
 - [ ] Transfer all shares to a clearinghouse before issuing them
 - [ ] Issue bonds directly to the public
 
-> **Explanation:** Before listing, a company must file a prospectus and meet disclosure requirements as set out by provincial regulators and exchange rules.
+> **Explanation:**( Before listing, a company must file a prospectus and meet disclosure requirements as set out by provincial regulators and exchange rules.)
 
----
 
 ### True or False: CIRO protects investors by registering and regulating all publicly listed Canadian corporations.
 

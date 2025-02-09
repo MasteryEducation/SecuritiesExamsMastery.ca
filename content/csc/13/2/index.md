@@ -30,7 +30,7 @@ This big-picture perspective complements company-level and sector-specific analy
 
 Macroeconomic indicators are numerical measures of various aspects of an economy’s health and direction. Understanding them is crucial for any investor seeking to stay ahead of market trends.
 
-### 1. Gross Domestic Product (GDP)
+### Gross Domestic Product (GDP)
 
 GDP measures the total value of goods and services produced within a country over a specified period (typically quarterly or annually). In Canada, Statistics Canada reports official GDP figures.  
 • Higher GDP growth generally signals robust economic activity, potentially supporting higher corporate revenues and earnings.  
@@ -39,7 +39,7 @@ GDP measures the total value of goods and services produced within a country ove
 #### Example:  
 Consider a scenario where Canada’s quarterly GDP figures consistently exceed forecasts. Stocks in cyclical sectors such as consumer discretionary and industrials might see upward price momentum due to market optimism about future consumer and business spending.
 
-### 2. Interest Rates
+### Interest Rates
 
 Interest rates in Canada are influenced by the Bank of Canada’s monetary policy decisions. The BoC sets the policy interest rate (often called the overnight rate or key rate), which anchors borrowing costs across the economy.  
 • Lower interest rates reduce borrowing costs for companies and consumers, often stimulating economic expansion. This can boost equity valuations, as investors anticipate higher corporate earnings.  
@@ -48,25 +48,25 @@ Interest rates in Canada are influenced by the Bank of Canada’s monetary polic
 #### Practical Perspective:  
 A rate cut by the BoC might encourage large corporations—like major Canadian banks (RBC, TD) or energy producers—to expand operations because of cheaper financing. This can increase the profitability outlook for those firms, often translating into rising share prices.
 
-### 3. Inflation Rates
+### Inflation Rates
 
 Inflation tracks changes in the general price level of goods and services. The Consumer Price Index (CPI) is Canada’s primary inflation measure. The Bank of Canada targets a 2% inflation rate, aiming to maintain price stability and support sustainable economic growth.  
 • Moderate inflation often aligns with healthy demand, but high inflation can erode consumer purchasing power and raise input costs for businesses.  
 • If companies cannot pass rising costs to consumers, profit margins may shrink, negatively affecting stock prices.
 
-### 4. Unemployment and Labour Market Data
+### Unemployment and Labour Market Data
 
 Unemployment data reflects the percentage of the labor force actively seeking but not finding work. Strong employment often indicates healthy consumer spending and stable economic growth. However, very tight labor markets can lead to wage inflation, placing pressure on corporate profits.  
 • High employment → increased consumer spending, an overall positive for most sectors (especially retail, financial services, and consumer discretionary).  
 • Wage inflation → potential margin pressure on companies if they cannot pass along higher labor costs to customers.
 
-### 5. Consumer Confidence and Spending
+### Consumer Confidence and Spending
 
 Consumer confidence is a survey-based measure capturing how optimistic consumers feel about their financial situation and the economy’s prospects. High consumer confidence often correlates with increased spending on goods and services.  
 • Elevated consumer spending → potential boost to retailer stocks and consumer-services companies.  
 • Low consumer confidence → signals caution in spending, affecting cyclical sectors significantly.
 
-### 6. Government Fiscal Policy
+### Government Fiscal Policy
 
 Fiscal policy describes how the government collects taxes and allocates spending. In Canada, changes in personal and corporate tax rates, social program spending, or infrastructure investment can have an immediate impact on certain industries:  
 • Tax credits or incentives for specific industries (e.g., energy or technology) can attract investment and drive earnings growth in those sectors.  
@@ -171,7 +171,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 
 {{< quizdown >}}
 
-### 1. Which Canadian institution typically sets the key interest rate that influences borrowing costs across the economy?
+### Which Canadian institution typically sets the key interest rate that influences borrowing costs across the economy?
 
 - [ ] The Department of Finance Canada  
 - [x] The Bank of Canada  
@@ -181,7 +181,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** The Bank of Canada is responsible for setting the policy interest rate, which influences lending rates throughout the Canadian economy.
 
 
-### 2. What is GDP primarily used to measure?
+### What is GDP primarily used to measure?
 
 - [x] The total value of goods and services produced in a country  
 - [ ] The average inflation rate over a given period  
@@ -191,7 +191,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** GDP measures the monetary value of all finished goods and services produced within a country’s borders in a specific time frame.
 
 
-### 3. Which scenario best describes why a sustained increase in interest rates might dampen equity markets?
+### Which scenario best describes why a sustained increase in interest rates might dampen equity markets?
 
 - [x] Higher borrowing costs reduce consumer and business spending  
 - [ ] Rising interest rates usually reduce government revenue  
@@ -201,7 +201,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** When interest rates rise, consumers often reduce spending due to more expensive credit, and companies face higher borrowing costs and potential decreases in profit margins.
 
 
-### 4. What is a potential effect of high unemployment on equity markets?
+### What is a potential effect of high unemployment on equity markets?
 
 - [x] Decreased consumer spending can reduce corporate earnings  
 - [ ] Rising consumer spending drives demand in cyclical sectors  
@@ -211,7 +211,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** High unemployment could indicate weaker consumer confidence and spending, which can lower corporate revenues and weigh on stock market performance.
 
 
-### 5. Which sector is often considered “defensive” during an economic downturn?
+### Which sector is often considered “defensive” during an economic downturn?
 
 - [ ] Consumer Discretionary  
 - [x] Consumer Staples  
@@ -221,7 +221,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** In times of economic decline, investors may move toward defensive sectors like consumer staples and utilities, which provide essential goods or services less sensitive to business cycles.
 
 
-### 6. What is one of the main tactics of sector rotation in response to macroeconomic changes?
+### What is one of the main tactics of sector rotation in response to macroeconomic changes?
 
 - [ ] Only invest in one sector to reduce volatility  
 - [x] Shift investments among industries based on economic cycles  
@@ -231,7 +231,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** Sector rotation involves moving capital into those sectors that are expected to outperform during a particular stage of the economic cycle.
 
 
-### 7. If the Canadian dollar strengthens significantly against the U.S. dollar, what is the likely impact on Canadian export-oriented firms?
+### If the Canadian dollar strengthens significantly against the U.S. dollar, what is the likely impact on Canadian export-oriented firms?
 
 - [x] They might find it harder to compete in the U.S. market  
 - [ ] Their products become cheaper for U.S. consumers  
@@ -241,7 +241,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** A stronger Canadian dollar can make Canadian goods more expensive abroad and potentially shrink profit margins when converting foreign earnings back to CAD.
 
 
-### 8. How might persistent low interest rates in Canada affect investor behavior?
+### How might persistent low interest rates in Canada affect investor behavior?
 
 - [x] Investors may shift toward dividend-paying stocks  
 - [ ] Investors uniformly move to bonds due to high yields  
@@ -251,7 +251,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** Low interest rates can make fixed-income investments less attractive, prompting investors to seek higher yields in equities—especially dividend-paying stocks.
 
 
-### 9. Which of the following is a direct source of comprehensive Canadian economic data?
+### Which of the following is a direct source of comprehensive Canadian economic data?
 
 - [ ] The Federal Reserve Board  
 - [x] Statistics Canada  
@@ -261,7 +261,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 > **Explanation:** Statistics Canada is the primary agency responsible for collecting and publishing critical data, such as GDP figures, inflation, and labor market statistics in Canada.
 
 
-### 10. True or False: Government fiscal policy has no impact on equity market performance.
+### True or False: Government fiscal policy has no impact on equity market performance.
 
 - [x] True  
 - [ ] False  

@@ -71,7 +71,7 @@ flowchart LR
     A --> C[Medium-Term]
     A --> D[Long-Term]
     B --> E{High Liquidity & Low Volatility Assets}
-    C --> F{Balanced Portfolio (Equities & Bonds)}
+    C --> F{"Balanced Portfolio (Equities & Bonds)"}
     D --> G{Higher Growth Potential Assets}
 ```
 
@@ -182,7 +182,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a capital preservation objective?
+### Which of the following best describes a capital preservation objective?
 
 - [ ] Achieving maximum long-term growth by holding high-volatility equities.  
 - [x] Prioritizing the safety of principal with minimal loss of capital.  
@@ -191,7 +191,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Capital preservation focuses on safeguarding the initial principal, typically with lower-volatility, conservative investments.
 
-### 2. When assessing a client’s time horizon, which factor is most critical for determining the equity versus fixed-income mix?
+### When assessing a client’s time horizon, which factor is most critical for determining the equity versus fixed-income mix?
 
 - [x] The length of time until the client needs to access the funds.  
 - [ ] The client’s occupation and annual salary.  
@@ -200,7 +200,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Time horizon directly influences how much volatility the client can reasonably accept before needing the invested capital. An impending large purchase or short investment window reduces the ability to ride out market fluctuations.
 
-### 3. Under Canadian regulatory guidelines, which principle ensures that an investment aligns with a client’s risk profile and objectives?
+### Under Canadian regulatory guidelines, which principle ensures that an investment aligns with a client’s risk profile and objectives?
 
 - [ ] KYP (Know Your Product) alone.  
 - [x] Suitability.  
@@ -209,7 +209,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Suitability is the overarching requirement that the recommended investment must match the client’s objectives, constraints, and risk tolerance.
 
-### 4. Which of the following constraints would be most relevant to a high-net-worth investor who wants to invest in a private equity fund locked in for ten years?
+### Which of the following constraints would be most relevant to a high-net-worth investor who wants to invest in a private equity fund locked in for ten years?
 
 - [ ] Tax considerations.  
 - [x] Liquidity needs.  
@@ -218,7 +218,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Illiquid investments, like many private equity funds, typically lock up capital. Evaluating the client’s liquidity needs is paramount.
 
-### 5. Which statement best illustrates a speculative investment objective?
+### Which statement best illustrates a speculative investment objective?
 
 - [ ] “I’d like to invest in large-cap Canadian companies that pay steady dividends.”  
 - [x] “I’m willing to risk a significant portion of my capital in emerging tech start-ups for the chance of high returns.”  
@@ -227,7 +227,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Speculative gains involve higher risk assets with the expectation of substantial returns.
 
-### 6. For a client who wants to exclude all oil and gas companies from their portfolio, which type of constraint is at play?
+### For a client who wants to exclude all oil and gas companies from their portfolio, which type of constraint is at play?
 
 - [ ] Time horizon constraint.  
 - [ ] Liquidity constraint.  
@@ -236,7 +236,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Ethical or personal (ESG) preferences restrict investing in certain industries or sectors.
 
-### 7. Which regulatory body in Canada provides guidelines on risk tolerance assessments for investment suitability?
+### Which regulatory body in Canada provides guidelines on risk tolerance assessments for investment suitability?
 
 - [x] CIRO (Canadian Investment Regulatory Organization).  
 - [ ] FCAC (Financial Consumer Agency of Canada).  
@@ -245,7 +245,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** CIRO (previously IIROC) is responsible for overseeing investment dealerships and enforcing suitability guidelines. CSI offers educational programs but is not a regulatory body.
 
-### 8. A retiree needs stable monthly inflows from his RRIF. Which primary investment objective aligns most closely with this scenario?
+### A retiree needs stable monthly inflows from his RRIF. Which primary investment objective aligns most closely with this scenario?
 
 - [ ] Capital appreciation.  
 - [x] Income generation.  
@@ -254,7 +254,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** Income generation is essential for clients who rely on their portfolios for ongoing living expenses.
 
-### 9. Which Canadian government resource can help clients approximate their future retirement income needs?
+### Which Canadian government resource can help clients approximate their future retirement income needs?
 
 - [ ] RBC Wealth Management website.  
 - [x] Government of Canada’s Retirement Calculator.  
@@ -263,7 +263,7 @@ Once these objectives and constraints are clearly defined and documented, the ne
 
 > **Explanation:** The Government of Canada’s Retirement Calculator (located on canada.ca) helps estimate pension benefits and required retirement savings.
 
-### 10. Suitability ensures that:
+### Suitability ensures that:
 
 - [x] Investments match a client’s objectives, risk tolerance, and constraints.  
 - [ ] All clients receive the same portfolio allocation.  

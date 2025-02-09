@@ -247,106 +247,97 @@ To apply these concepts, conduct ongoing portfolio evaluations, remain updated w
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the role of correlation in a diversified portfolio?
+### Which of the following best describes the role of correlation in a diversified portfolio?
 
 - [x] It measures how two assets move relative to each other, helping reduce overall portfolio volatility.
 - [ ] It predicts the exact future return of a specific asset class.
 - [ ] It automatically eliminates all systematic risk.
 - [ ] It measures how frequently assets change their dividend policy.
 
-> **Explanation:** Correlation, ranging from -1 to +1, indicates how assets move in relation to one another. By combining assets with lower or negative correlations, overall portfolio volatility can be reduced.
+> **Explanation:**( Correlation, ranging from -1 to +1, indicates how assets move in relation to one another. By combining assets with lower or negative correlations, overall portfolio volatility can be reduced.)
 
----
 
-### 2. Which statement accurately describes the efficient frontier?
+### Which statement accurately describes the efficient frontier?
 
 - [x] It includes portfolios that provide the highest expected return for a defined level of risk.
 - [ ] It only applies to portfolios with 100% allocation in Canadian government bonds.
 - [x] It consists of portfolios that produce the lowest risk for a specified expected return.
 - [ ] It is a method for calculating the correlation coefficients of two stocks.
 
-> **Explanation:** The efficient frontier is a set of optimal portfolios that maximize returns for a given level of risk (or minimize risk for a given level of return). It arises from Modern Portfolio Theory concepts developed by Harry Markowitz.
+> **Explanation:**( The efficient frontier is a set of optimal portfolios that maximize returns for a given level of risk (or minimize risk for a given level of return). It arises from Modern Portfolio Theory concepts developed by Harry Markowitz.)
 
----
 
-### 3. What distinguishes systematic risk from unsystematic risk?
+### What distinguishes systematic risk from unsystematic risk?
 
 - [x] Systematic risk affects the entire market and cannot be diversified away, whereas unsystematic risk is specific to a company or industry and can be significantly reduced by diversification.
 - [ ] Systematic risk is caused by poor company management, while unsystematic risk stems from global crises.
 - [ ] Unsystematic risk affects all companies in the market equally, while systematic risk affects only targeted sectors.
 - [ ] Systematic risk disappears if the correlation between assets is zero.
 
-> **Explanation:** Systematic (market) risk pertains to broad market or economic factors and remains even in diversified portfolios. Unsystematic risk is idiosyncratic and can be mitigated through diversification.
+> **Explanation:**( Systematic (market) risk pertains to broad market or economic factors and remains even in diversified portfolios. Unsystematic risk is idiosyncratic and can be mitigated through diversification.)
 
----
 
-### 4. How is a portfolio’s beta calculated?
+### How is a portfolio’s beta calculated?
 
 - [x] By taking the weighted average of the betas of the individual securities within the portfolio.
 - [ ] By averaging historical returns of the industry index over a 10-year period.
 - [ ] By using standard deviation in isolation.
 - [ ] By adding up the correlation coefficients of all stocks in the portfolio.
 
-> **Explanation:** Portfolio beta is derived from the weighted beta of each individual security in the portfolio, reflecting overall sensitivity to market movements.
+> **Explanation:**( Portfolio beta is derived from the weighted beta of each individual security in the portfolio, reflecting overall sensitivity to market movements.)
 
----
 
-### 5. Which outcome most clearly signals that a portfolio has generated a positive alpha?
+### Which outcome most clearly signals that a portfolio has generated a positive alpha?
 
 - [x] Its return exceeds the expected return implied by its beta.
 - [ ] Its total correlation coefficient with the market is -1.
 - [x] It has a Sharpe Ratio that is less than the risk-free rate.
 - [ ] It shows performance exactly equal to the risk-free rate.
 
-> **Explanation:** Alpha measures the difference between a portfolio’s actual return and its expected return given its risk (beta). Exceeding the expected return implies a positive alpha.
+> **Explanation:**( Alpha measures the difference between a portfolio’s actual return and its expected return given its risk (beta). Exceeding the expected return implies a positive alpha.)
 
----
 
-### 6. What does the Capital Asset Pricing Model (CAPM) seek to measure or explain?
+### What does the Capital Asset Pricing Model (CAPM) seek to measure or explain?
 
 - [x] The theoretical link between expected return and systematic risk (beta).
 - [ ] The correlation between unsystematic risk and total market volatility.
 - [ ] Bond yields offered by the Government of Canada only.
 - [ ] Real returns within a single sector of the Canadian market.
 
-> **Explanation:** CAPM proposes that an asset’s expected return is determined by the risk-free rate plus a risk premium, based on the asset’s beta relative to the market.
+> **Explanation:**( CAPM proposes that an asset’s expected return is determined by the risk-free rate plus a risk premium, based on the asset’s beta relative to the market.)
 
----
 
-### 7. When would an investor typically rely on the Treynor Ratio over the Sharpe Ratio?
+### When would an investor typically rely on the Treynor Ratio over the Sharpe Ratio?
 
 - [x] When primarily interested in systematic risk and the portfolio’s beta exposure.
 - [ ] When concerned only with unsystematic risk.
 - [x] When the portfolio does not require compliance with any Canadian regulatory framework.
 - [ ] When focusing on publicly available liquidity data.
 
-> **Explanation:** The Treynor Ratio uses beta (systematic risk) in its denominator, making it especially relevant if you assume the portfolio is well-diversified, thereby emphasizing market risk over total risk.
+> **Explanation:**( The Treynor Ratio uses beta (systematic risk) in its denominator, making it especially relevant if you assume the portfolio is well-diversified, thereby emphasizing market risk over total risk.)
 
----
 
-### 8. In a risk-adjusted context, how can a high Information Ratio be interpreted?
+### In a risk-adjusted context, how can a high Information Ratio be interpreted?
 
 - [x] It means the portfolio manager has consistently outperformed the benchmark relative to the volatility of those excess returns.
 - [ ] It indicates the manager only invests in fixed-income securities.
 - [ ] It reflects that the portfolio’s unsystematic risk is entirely eliminated.
 - [ ] It proves the portfolio never experiences drawdowns.
 
-> **Explanation:** The Information Ratio indicates the consistency of a manager’s outperformance compared to a benchmark, factoring in the volatility of that outperformance.
+> **Explanation:**( The Information Ratio indicates the consistency of a manager’s outperformance compared to a benchmark, factoring in the volatility of that outperformance.)
 
----
 
-### 9. Which regulation or framework specifically addresses portfolio management registration requirements in Canada?
+### Which regulation or framework specifically addresses portfolio management registration requirements in Canada?
 
 - [x] CSA National Instrument 31-103.
 - [ ] NI 81-101, which deals only with mutual fund prospectus requirements.
 - [ ] The GDPR privacy regulation.
 - [ ] Basel III international banking norms.
 
-> **Explanation:** The Canadian Securities Administrators’ NI 31-103 details registration and compliance obligations for advisers and portfolio managers in Canada.
+> **Explanation:**( The Canadian Securities Administrators’ NI 31-103 details registration and compliance obligations for advisers and portfolio managers in Canada.)
 
----
 
-### 10. The correlation coefficient between Canadian bank stocks and precious metal mining firms is often low or negative. Is this correlation beneficial for a portfolio?
+### The correlation coefficient between Canadian bank stocks and precious metal mining firms is often low or negative. Is this correlation beneficial for a portfolio?
 
 - [x] True 
 - [ ] False

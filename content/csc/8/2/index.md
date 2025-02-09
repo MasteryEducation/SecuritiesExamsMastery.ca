@@ -16,7 +16,7 @@ This chapter dives into the structure, benefits, risks, tax considerations, and 
 
 ---
 
-### 1. Overview and Key Features
+### Overview and Key Features
 
 Preferred shares, also known simply as “preferreds,” grant holders a higher claim on earnings and corporate assets than common shares. This privileged position can be particularly attractive to income-seeking investors because:
 
@@ -47,7 +47,7 @@ flowchart TB
 
 ---
 
-### 2. Types and Structures of Preferred Shares
+### Types and Structures of Preferred Shares
 
 Preferred shares can come in different forms, each offering unique benefits and risks. The primary categories include:
 
@@ -73,7 +73,7 @@ Variable-rate or floating-rate preferred shares link their dividend payments to 
 
 ---
 
-### 3. Dividend Characteristics and Tax Treatment
+### Dividend Characteristics and Tax Treatment
 
 One of the main attractions of preferred shares in Canada is the potential tax advantage on dividend income. Most dividends paid by Canadian companies to Canadian residents qualify for the Dividend Tax Credit (DTC). This credit effectively reduces the amount of personal tax payable on dividend income, leading to a more favorable after-tax yield compared to interest from bonds or GICs, which is fully taxable at the investor’s marginal tax rate.
 
@@ -86,7 +86,7 @@ As a result, some income-oriented portfolios in Canada will favor eligible divid
 
 ---
 
-### 4. Market and Credit Risks
+### Market and Credit Risks
 
 While preferred shares are often considered less volatile than common shares, they are not without risks:
 
@@ -104,7 +104,7 @@ While preferred shares are often considered less volatile than common shares, th
 
 ---
 
-### 5. Real-World Examples and Case Studies
+### Real-World Examples and Case Studies
 
 Preferred shares are used extensively by Canadian financial institutions—large banks such as RBC, TD, and Bank of Montreal often issue preferred stock to bolster their Tier 1 capital under regulations overseen by the Office of the Superintendent of Financial Institutions (OSFI). Let’s look at two simplified case scenarios:
 
@@ -118,7 +118,7 @@ TD Bank issues convertible preferred shares with a 4% annual dividend rate that 
 
 ---
 
-### 6. Incorporating Preferred Shares into an Investment Strategy
+### Incorporating Preferred Shares into an Investment Strategy
 
 Preferred shares can play a valuable role in a diversified portfolio by providing a source of fixed or semi-fixed income, typically with higher yields than government bonds or high-grade corporate bonds (though with commensurate credit risk). Below are common ways investors use preferred shares:
 
@@ -130,7 +130,7 @@ Preferred shares can play a valuable role in a diversified portfolio by providin
 
 ---
 
-### 7. Best Practices for Holding Preferred Shares
+### Best Practices for Holding Preferred Shares
 
 1. Understand Redemption Features:  
    Always review callable or redeemable terms. If a preferred share is trading well above its call price, there is a higher risk of redemption, capping potential gains.
@@ -149,7 +149,7 @@ Preferred shares can play a valuable role in a diversified portfolio by providin
 
 ---
 
-### 8. Regulatory Considerations
+### Regulatory Considerations
 
 Preferred shares in Canada are regulated by various authorities:
 
@@ -167,7 +167,7 @@ Preferred shares in Canada are regulated by various authorities:
 
 ---
 
-### 9. Practical Tools and Resources
+### Practical Tools and Resources
 
 • Detailed corporate financial statements, including information on preferred share structures, can be found on [SEDAR+](https://www.sedarplus.ca/).  
 • “[Bond and Money Markets: Strategy, Trading, Analysis](https://www.amazon.ca/Bond-Money-Markets-Strategy-Trading/dp/0750689522)” by Moorad Choudhry provides an in-depth perspective on fixed-income and hybrid instruments such as preferred shares.  
@@ -175,7 +175,7 @@ Preferred shares in Canada are regulated by various authorities:
 
 ---
 
-### 10. Glossary of Key Terms
+### Glossary of Key Terms
 
 • **Cumulative Preferred Shares**: Preferred shares whose unpaid dividends accumulate until paid in full.  
 • **Callable (Redeemable) Preferred Shares**: Shares that can be repurchased by the issuing company at a set price after a certain date.  
@@ -185,7 +185,7 @@ Preferred shares in Canada are regulated by various authorities:
 
 ---
 
-### 11. Summary
+### Summary
 
 Preferred shares combine elements of both equity and fixed-income securities, offering investors a hybrid form of ownership that yields regular, often tax-advantaged dividends. They take precedence over common shares in receiving dividend payments and in claiming remaining assets if the company dissolves. While some features, such as callability, convertibility, and cumulative dividends, provide benefits to both issuers and investors, they also introduce unique risks like interest rate sensitivity and potential redemption by the issuer. 
 

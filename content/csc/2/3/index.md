@@ -234,97 +234,88 @@ Whether you are an individual investor looking to expand your portfolio or a lar
 
 {{< quizdown >}}
 
-### 1. Which statement best describes the primary market?  
+### Which statement best describes the primary market?  
 - [x] It is where newly issued securities are first offered to investors.  
 - [ ] It is the market where investors buy and sell previously issued securities.  
 - [ ] It is a secondary venue where stock splits take place.  
 - [ ] It is an unregulated platform for corporate bonds.  
 
-> **Explanation:** The primary market is dedicated to the initial offering of new securities (e.g., IPOs). By contrast, previously issued securities trade on the secondary market.
+> **Explanation:**( The primary market is dedicated to the initial offering of new securities (e.g., IPOs). By contrast, previously issued securities trade on the secondary market.)
 
----
 
-### 2. Which of the following is an advantage of the secondary market?  
+### Which of the following is an advantage of the secondary market?  
 - [x] It provides liquidity for investors who wish to buy or sell existing securities.  
 - [ ] It eliminates all transaction costs for large block trades.  
 - [ ] It guarantees the issuer profits on every trade.  
 - [ ] It replaces all regulatory oversight.  
 
-> **Explanation:** The main advantage of the secondary market is that it offers liquidity, enabling investors to exit or enter positions without needing to interact directly with the issuer.
+> **Explanation:**( The main advantage of the secondary market is that it offers liquidity, enabling investors to exit or enter positions without needing to interact directly with the issuer.)
 
----
 
-### 3. In an auction market, how are trades primarily matched?  
+### In an auction market, how are trades primarily matched?  
 - [ ] By calling a licensed dealer to negotiate a price.  
 - [x] By matching bid and ask orders in a central order book.  
 - [ ] Through a private agreement between institutional investors.  
 - [ ] Based solely on the highest trading volume.  
 
-> **Explanation:** Auction markets use a central order book where orders from buyers (bids) and sellers (asks) compete, and trades occur when these prices align.
+> **Explanation:**( Auction markets use a central order book where orders from buyers (bids) and sellers (asks) compete, and trades occur when these prices align.)
 
----
 
-### 4. Which type of market structure are most Canadian government bonds traded in?  
+### Which type of market structure are most Canadian government bonds traded in?  
 - [ ] Pure auction on major exchanges.  
 - [x] Dealer markets (often over-the-counter).  
 - [ ] Fixed commission-based exchanges.  
 - [ ] Proprietary high-frequency exchanges only.  
 
-> **Explanation:** Although some electronic platforms exist, most bond trading—especially corporate and certain government bonds—occurs in OTC dealer markets in Canada.
+> **Explanation:**( Although some electronic platforms exist, most bond trading—especially corporate and certain government bonds—occurs in OTC dealer markets in Canada.)
 
----
 
-### 5. What describes the function of an ATS (Alternative Trading System)?  
+### What describes the function of an ATS (Alternative Trading System)?  
 - [x] It is an electronic system allowing private matching of buy and sell orders.  
 - [ ] It is the centralized exchange for all IPOs in Canada.  
 - [x] It offers potential benefits like reduced market impact for large trades.  
 - [ ] It is a system that completely bypasses regulatory oversight.  
 
-> **Explanation:** ATSs are electronic networks that facilitate trade matching outside traditional exchanges. They can help institutions execute large trades with less public visibility.
+> **Explanation:**( ATSs are electronic networks that facilitate trade matching outside traditional exchanges. They can help institutions execute large trades with less public visibility.)
 
----
 
-### 6. What is “best execution” for a securities dealer?  
+### What is “best execution” for a securities dealer?  
 - [x] Ensuring clients’ orders receive the most advantageous price and terms under prevailing conditions.  
 - [ ] Offering trades only on the TSX, regardless of other market venues.  
 - [ ] Guaranteeing the lowest possible commission rate.  
 - [ ] Prioritizing dealer profits above client interests.  
 
-> **Explanation:** “Best execution” requires dealers to diligently pursue the best possible outcome (price, speed, and terms) for their clients under current market conditions.
+> **Explanation:**( “Best execution” requires dealers to diligently pursue the best possible outcome (price, speed, and terms) for their clients under current market conditions.)
 
----
 
-### 7. Which participant is typically responsible for quoting bid-ask prices in a dealer market?  
+### Which participant is typically responsible for quoting bid-ask prices in a dealer market?  
 - [x] The dealer acting as a market maker.  
 - [ ] A third-party clearing house.  
 - [x] Retail investors on an electronic limit order book.  
 - [ ] The provincial securities commission.  
 
-> **Explanation:** In dealer (or OTC) markets, the dealer provides bid and ask prices from its inventory. 
+> **Explanation:**( In dealer (or OTC) markets, the dealer provides bid and ask prices from its inventory. )
 
----
 
-### 8. Which statement accurately describes dark pools?  
+### Which statement accurately describes dark pools?  
 - [x] They are private venues where large trades can be executed with minimal disclosure.  
 - [ ] They are exclusively used for government bond trading.  
 - [ ] They broadcast real-time trade sizes to all market participants.  
 - [ ] They are illegal in Canada.  
 
-> **Explanation:** Dark pools provide anonymity for institutional investors placing large block orders to avoid significant market impact, making them neither publicly illegal nor exclusively for bonds.
+> **Explanation:**( Dark pools provide anonymity for institutional investors placing large block orders to avoid significant market impact, making them neither publicly illegal nor exclusively for bonds.)
 
----
 
-### 9. Which best reflects the role of provincial regulators in Canada’s financial markets?  
+### Which best reflects the role of provincial regulators in Canada’s financial markets?  
 - [x] They oversee securities issuance, trading conduct, and enforce disclosure requirements within their jurisdictions.  
 - [ ] They handle all monetary policy decisions for the country.  
 - [ ] They set interest rates for all federally regulated banks.  
 - [ ] They issue primary market securities on behalf of corporations.  
 
-> **Explanation:** Provincial regulators like the Ontario Securities Commission supervise how securities are issued and traded, ensuring transparent and fair markets.
+> **Explanation:**( Provincial regulators like the Ontario Securities Commission supervise how securities are issued and traded, ensuring transparent and fair markets.)
 
----
 
-### 10. True or False: A broker typically trades securities from its own inventory to earn a spread.  
+### True or False: A broker typically trades securities from its own inventory to earn a spread.  
 - [x] False  
 - [ ] True  
 

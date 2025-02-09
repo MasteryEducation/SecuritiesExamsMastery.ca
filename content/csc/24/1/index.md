@@ -234,9 +234,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [x] Canada Revenue Agency (CRA)
 - [ ] Employment and Social Development Canada
 
-> **Explanation:** The CRA is responsible for administering the Income Tax Act, processing tax returns, and enforcing compliance.
+> **Explanation:**( The CRA is responsible for administering the Income Tax Act, processing tax returns, and enforcing compliance.)
 
----
 
 ### What is the main benefit of the progressive tax rate structure for individual taxpayers?
 
@@ -245,9 +244,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [ ] It reduces administrative complexity.
 - [ ] It applies the same tax bracket across all provinces.
 
-> **Explanation:** A progressive tax system increases the tax rate at higher income levels, aiming for equity among taxpayers.
+> **Explanation:**( A progressive tax system increases the tax rate at higher income levels, aiming for equity among taxpayers.)
 
----
 
 ### Which of the following statements correctly differentiates deductions and credits?
 
@@ -256,9 +254,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [ ] Credits and deductions are interchangeable.
 - [ ] Deductions and credits both reduce net taxable income equally.
 
-> **Explanation:** Deductions lower your taxable income, whereas credits lower your actual tax liability.
+> **Explanation:**( Deductions lower your taxable income, whereas credits lower your actual tax liability.)
 
----
 
 ### What is the purpose of RRSP contributions in reducing an individual’s taxable income?
 
@@ -267,9 +264,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [ ] To shift income to a spouse or child immediately.
 - [ ] To eliminate the need for filing a federal tax return.
 
-> **Explanation:** RRSP contributions directly reduce current taxable income; taxes on these contributions are deferred until withdrawal.
+> **Explanation:**( RRSP contributions directly reduce current taxable income; taxes on these contributions are deferred until withdrawal.)
 
----
 
 ### For corporations, which type of income is typically taxed at a higher rate than active business income?
 
@@ -278,9 +274,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [ ] Charitable income
 - [x] Dividend income from Canadian subsidiaries
 
-> **Explanation:** Passive or investment income in a corporation is generally subject to higher tax rates than active business income, partly to discourage excess accumulation of investments within a corporate entity.
+> **Explanation:**( Passive or investment income in a corporation is generally subject to higher tax rates than active business income, partly to discourage excess accumulation of investments within a corporate entity.)
 
----
 
 ### When is the usual deadline for most individuals to file their tax returns?
 
@@ -289,9 +284,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [ ] January 1
 - [ ] March 15
 
-> **Explanation:** Most individuals must file their income tax returns by April 30. Self-employed individuals have until June 15, although any balance owing is still due by April 30.
+> **Explanation:**( Most individuals must file their income tax returns by April 30. Self-employed individuals have until June 15, although any balance owing is still due by April 30.)
 
----
 
 ### Which of the following is considered a common payroll tax in Canada?
 
@@ -300,9 +294,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [x] Employment Insurance (EI) premiums
 - [ ] Environmental handling fees
 
-> **Explanation:** CPP/QPP and EI are mandatory payroll deductions shared by employees and employers in Canada.
+> **Explanation:**( CPP/QPP and EI are mandatory payroll deductions shared by employees and employers in Canada.)
 
----
 
 ### What could happen if a corporation or individual repeatedly fails to report income?
 
@@ -311,9 +304,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [x] Penalties will be applied, and further audits may occur.
 - [ ] Only interest on late payment is charged, with no other consequences.
 
-> **Explanation:** Repeated failure to report income can result in penalties and additional scrutiny from the CRA, including possible audits.
+> **Explanation:**( Repeated failure to report income can result in penalties and additional scrutiny from the CRA, including possible audits.)
 
----
 
 ### Which of the following is a key characteristic of Canada’s federal Income Tax Act?
 
@@ -322,9 +314,8 @@ As you proceed to learn more about taxation in the broader context of personal f
 - [ ] It applies solely to municipal taxes and services.
 - [ ] It prohibits provincial income taxes.
 
-> **Explanation:** The Income Tax Act is the main federal legislation governing all income tax matters for individuals and corporations.
+> **Explanation:**( The Income Tax Act is the main federal legislation governing all income tax matters for individuals and corporations.)
 
----
 
 ### The self-assessment principle means:
 

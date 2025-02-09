@@ -181,18 +181,17 @@ By following these considerations and understanding the unique attributes of clo
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a closed-end fund’s share structure?
+### Which of the following best describes a closed-end fund’s share structure?
 
 - [ ] Shares are continuously issued and redeemed at Net Asset Value.
 - [x] A fixed number of shares are issued through an initial public offering.
 - [ ] Shares are always traded at par value.
 - [ ] Shares automatically convert to open-end after five years.
 
-> **Explanation:** Closed-end funds issue a finite number of shares during an IPO, unlike open-end funds that continuously issue and redeem units.
+> **Explanation:**( Closed-end funds issue a finite number of shares during an IPO, unlike open-end funds that continuously issue and redeem units.)
 
----
 
-### 2. When a closed-end fund is trading at a discount, this implies which of the following?
+### When a closed-end fund is trading at a discount, this implies which of the following?
 
 - [ ] The fund’s NAV is lower than its market price.
 - [ ]
@@ -201,88 +200,80 @@ The fund’s market price exceeds its NAV.
 - [x] The fund’s market price is below its NAV.
 - [ ] The fund is not listed on any stock exchange.
 
-> **Explanation:** A closed-end fund trades at a discount when the market price falls below the NAV per share.
+> **Explanation:**( A closed-end fund trades at a discount when the market price falls below the NAV per share.)
 
----
 
-### 3. How can leverage affect a closed-end fund’s returns?
+### How can leverage affect a closed-end fund’s returns?
 
 - [ ] Leverage negates the impact of market movements entirely.
 - [ ] Leverage has no impact on returns if interest rates remain constant.
 - [x] Leverage can magnify gains in rising markets and amplify losses in declining markets.
 - [ ] Leverage eliminates liquidity risks within the fund.
 
-> **Explanation:** Borrowing or issuing preferred shares to increase assets under management can accelerate both gains and losses.
+> **Explanation:**( Borrowing or issuing preferred shares to increase assets under management can accelerate both gains and losses.)
 
----
 
-### 4. Which is a potential advantage of the closed-end fund structure for portfolio management?
+### Which is a potential advantage of the closed-end fund structure for portfolio management?
 
 - [x] They do not face daily redemptions, allowing more stable capital allocation.
 - [ ] They have lower costs in all circumstances compared to open-end funds.
 - [ ] They generate guaranteed higher returns due to trading on exchanges.
 - [ ] They are never subject to regulatory oversight.
 
-> **Explanation:** With a relatively fixed pool of capital, portfolio managers can implement long-term strategies without the concern of meeting daily redemption demands.
+> **Explanation:**( With a relatively fixed pool of capital, portfolio managers can implement long-term strategies without the concern of meeting daily redemption demands.)
 
----
 
-### 5. What is the purpose of SEDAR+ for closed-end funds in Canada?
+### What is the purpose of SEDAR+ for closed-end funds in Canada?
 
 - [x] It is a public system where regulatory filings like prospectuses and financial statements are accessed.
 - [ ] It focuses solely on the personal data of investors.
 - [x] It ensures complete anonymity of fund performance.
 - [ ] It syndicates real-time fund prices to market exchanges.
 
-> **Explanation:** SEDAR+ is the platform through which regulatory documents are published, enabling transparency and investor due diligence.
+> **Explanation:**( SEDAR+ is the platform through which regulatory documents are published, enabling transparency and investor due diligence.)
 
----
 
-### 6. Which of the following might a closed-end fund distributing “return of capital” do?
+### Which of the following might a closed-end fund distributing “return of capital” do?
 
 - [x] Pay out part of an investor’s own principal instead of earnings.
 - [ ] Guarantee that the investor pays no taxes.
 - [ ] Reduce the fund’s share price below zero.
 - [ ] Invalidate the investor’s shares.
 
-> **Explanation:** A return of capital distribution involves returning a portion of the investor’s initial capital contribution rather than net income or profits.
+> **Explanation:**( A return of capital distribution involves returning a portion of the investor’s initial capital contribution rather than net income or profits.)
 
----
 
-### 7. What can cause a closed-end fund’s shares to eventually convert to an open-end structure?
+### What can cause a closed-end fund’s shares to eventually convert to an open-end structure?
 
 - [ ] It is a mandatory rule for all closed-end funds after two years.
 - [x] Shareholders voting as outlined in the fund’s offering documents.
 - [ ] An overnight change in provincial securities law.
 - [ ] A unilateral decision by Canada’s central bank.
 
-> **Explanation:** Conversion can occur based on specific provisions in the fund’s prospectus, often requiring a shareholder vote or certain predetermined conditions.
+> **Explanation:**( Conversion can occur based on specific provisions in the fund’s prospectus, often requiring a shareholder vote or certain predetermined conditions.)
 
----
 
-### 8. An investor notices a narrow bid-ask spread for a closed-end fund. What does this suggest?
+### An investor notices a narrow bid-ask spread for a closed-end fund. What does this suggest?
 
 - [ ] Low trading liquidity and significant price volatility.
 - [x] Relatively higher liquidity and tighter pricing in the secondary market.
 - [ ] The fund is likely going to be delisted soon.
 - [ ] The fund has no premium or discount.
 
-> **Explanation:** A narrow bid-ask spread indicates that buyers and sellers are close in their price expectations, reflecting relatively good secondary market liquidity.
+> **Explanation:**( A narrow bid-ask spread indicates that buyers and sellers are close in their price expectations, reflecting relatively good secondary market liquidity.)
 
----
 
-### 9. From a regulatory standpoint, which entity collaborates with provincial and territorial securities commissions in Canada to ensure consistent rules for closed-end funds?
+### From a regulatory standpoint, which entity collaborates with provincial and territorial securities commissions in Canada to ensure consistent rules for closed-end funds?
 
 - [ ] The Bank of Canada.
 - [x] The Canadian Securities Administrators (CSA).
 - [ ] The U.S. Securities and Exchange Commission.
 - [ ] The MERJ Exchange.
 
-> **Explanation:** The CSA is an umbrella organization of provincial and territorial regulators that harmonizes securities regulations across Canada.
+> **Explanation:**( The CSA is an umbrella organization of provincial and territorial regulators that harmonizes securities regulations across Canada.)
 
----
 
-### 10. True or False: Closed-end funds can be appropriate for investors seeking specialized or niche market exposure without frequent redemption pressures.
+### True or False: Closed-end funds can be appropriate for investors seeking specialized or niche market exposure without frequent redemption pressures.
 
 - [x] True
 - [ ] False

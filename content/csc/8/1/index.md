@@ -74,7 +74,7 @@ Historically, over the long term, equities have delivered returns that often sur
 
 When evaluating a common share investment, investors usually consider a range of quantitative and qualitative factors:
 
-### 1. Fundamental Analysis
+### Fundamental Analysis
 
 This approach involves studying a company’s financial statements, industry dynamics, and overall economic conditions to estimate the intrinsic value of its shares. Key considerations include:
 
@@ -85,7 +85,7 @@ This approach involves studying a company’s financial statements, industry dyn
 
 Fundamental analysis can help determine whether shares are overvalued (price above fair value), undervalued (price below fair value), or fairly valued.
 
-### 2. Technical Analysis
+### Technical Analysis
 
 Technical analysis studies patterns in market price and volume data to predict future price movements:
 
@@ -215,106 +215,97 @@ Navigating the Canadian market and ensuring regulatory compliance can be support
 
 {{< quizdown >}}
 
-### 1. Which statement best describes the core feature of common shares?
+### Which statement best describes the core feature of common shares?
 
 - [ ] They represent a debt obligation of the issuing corporation.  
 - [x] They confer ownership rights in the issuing corporation.  
 - [ ] They guarantee fixed dividend payments.  
 - [ ] They are short-term money market instruments.  
 
-> **Explanation:** Common shares represent ownership in the company, entitling investors to voting rights and residual claims on assets and earnings.
+> **Explanation:**( Common shares represent ownership in the company, entitling investors to voting rights and residual claims on assets and earnings.)
 
----
 
-### 2. In the event of bankruptcy, who has the lowest priority for repayment?
+### In the event of bankruptcy, who has the lowest priority for repayment?
 
 - [ ] Bondholders  
 - [ ] Preferred shareholders  
 - [x] Common shareholders  
 - [ ] Secured creditors  
 
-> **Explanation:** Common shareholders stand last in the capital structure when a company’s assets are distributed during liquidation, only receiving any remainder after creditors and other security holders are paid.
+> **Explanation:**( Common shareholders stand last in the capital structure when a company’s assets are distributed during liquidation, only receiving any remainder after creditors and other security holders are paid.)
 
----
 
-### 3. Which of the following is typically not a responsibility bestowed upon common shareholders?
+### Which of the following is typically not a responsibility bestowed upon common shareholders?
 
 - [ ] Voting on major corporate decisions  
 - [x] Ensuring all outstanding corporate debts are paid  
 - [ ] Electing the board of directors  
 - [ ] Approving mergers or acquisitions  
 
-> **Explanation:** Common shareholders have voting rights but are not individually responsible for corporate debts.
+> **Explanation:**( Common shareholders have voting rights but are not individually responsible for corporate debts.)
 
----
 
-### 4. What is a key reason an investor might choose common shares over bonds or preferred shares?
+### What is a key reason an investor might choose common shares over bonds or preferred shares?
 
 - [ ] Guaranteed fixed dividend payments  
 - [ ] Lower volatility of returns  
 - [ ] Guaranteed principal repayment  
 - [x] Potential for higher long-term capital appreciation  
 
-> **Explanation:** Common shares can offer greater long-term growth potential and total return, although with higher risk and no guaranteed payments.
+> **Explanation:**( Common shares can offer greater long-term growth potential and total return, although with higher risk and no guaranteed payments.)
 
----
 
-### 5. Which metric is calculated by dividing a company’s current share price by its earnings per share (EPS)?
+### Which metric is calculated by dividing a company’s current share price by its earnings per share (EPS)?
 
 - [ ] Dividend Yield  
 - [ ] Return on Equity (ROE)  
 - [x] Price-to-Earnings (P/E) Ratio  
 - [ ] Price-to-Book (P/B) Ratio  
 
-> **Explanation:** The P/E ratio is a commonly used valuation tool that helps assess whether a stock is under- or overvalued relative to its earnings.
+> **Explanation:**( The P/E ratio is a commonly used valuation tool that helps assess whether a stock is under- or overvalued relative to its earnings.)
 
----
 
-### 6. What is a primary focus of fundamental analysis when evaluating common shares?
+### What is a primary focus of fundamental analysis when evaluating common shares?
 
 - [ ] Short-term price movements  
 - [ ] Chart patterns and technical indicators  
 - [ ] Intraday trading volume  
 - [x] Company financial statements, industry trends, and economic conditions  
 
-> **Explanation:** Fundamental analysis looks into a company’s books, its industry context, and wider economic data to determine its intrinsic value.
+> **Explanation:**( Fundamental analysis looks into a company’s books, its industry context, and wider economic data to determine its intrinsic value.)
 
----
 
-### 7. Which of the following organizations offers comprehensive financial filings for publicly traded companies in Canada?
+### Which of the following organizations offers comprehensive financial filings for publicly traded companies in Canada?
 
 - [ ] CSI  
 - [ ] CIRO  
 - [x] SEDAR+  
 - [ ] IIROC  
 
-> **Explanation:** SEDAR+ (System for Electronic Document Analysis and Retrieval) is the platform where public companies file their official disclosure documents in Canada.
+> **Explanation:**( SEDAR+ (System for Electronic Document Analysis and Retrieval) is the platform where public companies file their official disclosure documents in Canada.)
 
----
 
-### 8. How do dividend payments for common shares differ from those for preferred shares?
+### How do dividend payments for common shares differ from those for preferred shares?
 
 - [ ] Common dividends are guaranteed by regulation.  
 - [x] Common dividends are declared at the discretion of the board and are not fixed.  
 - [ ] Common dividends are always higher than preferred dividends.  
 - [ ] Common dividends must be paid before preferred dividends.  
 
-> **Explanation:** Common shareholders receive dividends only if and when the board decides to declare them, unlike preferred shareholders who often have a set dividend rate.
+> **Explanation:**( Common shareholders receive dividends only if and when the board decides to declare them, unlike preferred shareholders who often have a set dividend rate.)
 
----
 
-### 9. Which factor most directly influences the day-to-day price movements of common shares?
+### Which factor most directly influences the day-to-day price movements of common shares?
 
 - [x] Market supply and demand dynamics  
 - [ ] Scheduled redemption by the company  
 - [ ] Government-controlled price caps  
 - [ ] Mandatory board-level valuations  
 
-> **Explanation:** The price of common shares is largely determined by the balance of buying and selling pressures (supply and demand) in the stock market.
+> **Explanation:**( The price of common shares is largely determined by the balance of buying and selling pressures (supply and demand) in the stock market.)
 
----
 
-### 10. Common shareholders influence corporate governance primarily through:
+### Common shareholders influence corporate governance primarily through:
 
 - [x] Voting in the election of the board of directors  
 - [ ] Submitting routine corporate expense reports  

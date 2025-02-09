@@ -248,9 +248,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [ ] Contributions and withdrawals are tax-free.  
 - [ ] Withdrawals are never taxed if used for education.
 
-> **Explanation:** RRSP contributions reduce your taxable income for the year of contribution, and all earnings are tax-deferred until withdrawal.
+> **Explanation:**( RRSP contributions reduce your taxable income for the year of contribution, and all earnings are tax-deferred until withdrawal.)
 
----
 
 ### What is a key feature of a Tax-Free Savings Account (TFSA)?
 
@@ -259,9 +258,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [ ] You cannot recover contribution room once you withdraw.  
 - [ ] There is no annual contribution limit.
 
-> **Explanation:** In a TFSA, contributions are not tax-deductible, but any growth or withdrawals are tax-free. Contribution room for withdrawn amounts is reinstated the following year.
+> **Explanation:**( In a TFSA, contributions are not tax-deductible, but any growth or withdrawals are tax-free. Contribution room for withdrawn amounts is reinstated the following year.)
 
----
 
 ### When you withdraw funds from an RRSP before retirement, what generally happens?
 
@@ -270,9 +268,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [x] They are added to your taxable income in the year of withdrawal.  
 - [ ] They are not taxed if used for any personal expenses.
 
-> **Explanation:** Withdrawing from an RRSP before retirement triggers immediate taxation, adding the withdrawn amount to that year’s income.
+> **Explanation:**( Withdrawing from an RRSP before retirement triggers immediate taxation, adding the withdrawn amount to that year’s income.)
 
----
 
 ### Which plan is specifically designed to assist with savings for a beneficiary’s post-secondary education?
 
@@ -281,9 +278,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [ ] TFSA  
 - [ ] RDSP
 
-> **Explanation:** The Registered Education Savings Plan (RESP) is expressly for funding education, often supplemented by government grants like the CESG.
+> **Explanation:**( The Registered Education Savings Plan (RESP) is expressly for funding education, often supplemented by government grants like the CESG.)
 
----
 
 ### Why might a high-income earner prioritize an RRSP over a TFSA?
 
@@ -292,9 +288,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [x] RRSP has both an immediate tax benefit and tax-deferred growth.  
 - [ ] TFSA growth is taxable for high-income earners.
 
-> **Explanation:** High-income earners benefit significantly since RRSP contributions reduce taxable income and allow for deferred taxation.
+> **Explanation:**( High-income earners benefit significantly since RRSP contributions reduce taxable income and allow for deferred taxation.)
 
----
 
 ### In a Registered Pension Plan (RPP), who typically contributes?
 
@@ -303,9 +298,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [ ] Only the employer contributes, and withdrawals are tax-free.  
 - [ ] The government funds all contributions.
 
-> **Explanation:** Many RPPs are funded by both the employer and employee. Contributions grow tax-deferred and are taxable when withdrawn.
+> **Explanation:**( Many RPPs are funded by both the employer and employee. Contributions grow tax-deferred and are taxable when withdrawn.)
 
----
 
 ### What is a main difference between a Defined Benefit (DB) plan and a Defined Contribution (DC) plan within an RPP?
 
@@ -314,9 +308,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [x] DB plans shift investment risk to the employer, while DC plans shift risk to the employee.  
 - [ ] They are essentially the same in structure.
 
-> **Explanation:** DB plans provide a predetermined payout, and the employer shoulders more investment and longevity risk, while DC plans depend on the contributions and performance of the underlying investments.
+> **Explanation:**( DB plans provide a predetermined payout, and the employer shoulders more investment and longevity risk, while DC plans depend on the contributions and performance of the underlying investments.)
 
----
 
 ### Why does an RESP offer potential tax advantages for a student beneficiary?
 
@@ -325,9 +318,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [ ] There are no lifetime limits for contributions, and it is all tax-free.  
 - [ ] Over-contributions are not penalized if the beneficiary attends school within five years.
 
-> **Explanation:** Since the student’s income is usually low while in school, the tax liability on RESP earnings and grants is often minimal.
+> **Explanation:**( Since the student’s income is usually low while in school, the tax liability on RESP earnings and grants is often minimal.)
 
----
 
 ### Which registered plan is tailored to support individuals with disabilities?
 
@@ -336,9 +328,8 @@ When used wisely, these plans not only provide financial security but also encou
 - [ ] TFSA  
 - [x] RDSP
 
-> **Explanation:** A Registered Disability Savings Plan (RDSP) offers grants and bonds for long-term savings, aimed at disability support needs.
+> **Explanation:**( A Registered Disability Savings Plan (RDSP) offers grants and bonds for long-term savings, aimed at disability support needs.)
 
----
 
 ### RRSP contributions are generally most beneficial if made during high-income years because the tax savings are higher.
 

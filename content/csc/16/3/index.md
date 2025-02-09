@@ -286,9 +286,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] Preferred broker recommendations
 - [ ] Immediate motion to terminate the advisor-client arrangement
 
-> **Explanation:** An IPS sets out the portfolio’s asset allocation targets, not just legal disclaimers or broker preferences.
+> **Explanation:**( An IPS sets out the portfolio’s asset allocation targets, not just legal disclaimers or broker preferences.)
 
----
 
 ### Which of the following benchmarks might a Canadian equity investor most likely use in their IPS?
 - [ ] The Nikkei 225
@@ -296,9 +295,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] CAC 40
 - [ ] FTSE 100
 
-> **Explanation:** In Canada, the S&P/TSX Composite Index is commonly used to benchmark domestic equity performance.
+> **Explanation:**( In Canada, the S&P/TSX Composite Index is commonly used to benchmark domestic equity performance.)
 
----
 
 ### What is the main purpose of integrating ESG considerations into an IPS?
 - [x] Aligning investments with the client’s ethical or sustainability goals
@@ -306,9 +304,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] Maximizing return regardless of ethical constraints
 - [ ] Ensuring higher volatility
 
-> **Explanation:** ESG screening ensures that investment decisions reflect the client’s environmental, social, or governance preferences.
+> **Explanation:**( ESG screening ensures that investment decisions reflect the client’s environmental, social, or governance preferences.)
 
----
 
 ### According to Canadian regulatory guidelines, how often should an IPS be reviewed and potentially updated?
 - [x] Periodically, at least once a year or when material changes occur
@@ -316,9 +313,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] Once every decade
 - [ ] Updates are optional and not required
 
-> **Explanation:** Best practice and CIRO guidelines recommend updating the IPS at least annually or when significant changes occur in the client’s circumstances or the market.
+> **Explanation:**( Best practice and CIRO guidelines recommend updating the IPS at least annually or when significant changes occur in the client’s circumstances or the market.)
 
----
 
 ### Which of the following is a key trigger for rebalancing in most IPS documents?
 - [x] When an asset class allocation deviates beyond a set threshold
@@ -326,9 +322,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] Market rumors about a potential crash
 - [ ] Criminal charges against an unrelated CEO
 
-> **Explanation:** Rebalancing typically occurs based on a defined threshold (e.g., ±5% from target weights) rather than reacting solely to market rumors or isolated incidents.
+> **Explanation:**( Rebalancing typically occurs based on a defined threshold (e.g., ±5% from target weights) rather than reacting solely to market rumors or isolated incidents.)
 
----
 
 ### What is the primary advantage of using a blended benchmark in an IPS?
 - [x] It better reflects a diversified portfolio’s performance
@@ -336,9 +331,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] It eliminates management fees
 - [ ] It guarantees a higher return than a single benchmark
 
-> **Explanation:** A blended benchmark combines multiple indexes proportionally to mirror the portfolio’s asset mix, improving performance evaluation accuracy.
+> **Explanation:**( A blended benchmark combines multiple indexes proportionally to mirror the portfolio’s asset mix, improving performance evaluation accuracy.)
 
----
 
 ### Which of the following might be considered a constraint in an IPS?
 - [x] A client’s need for consistent withdrawals
@@ -346,9 +340,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] A preference for high volatility
 - [ ] A friend’s investing habits
 
-> **Explanation:** A client’s liquidity needs (e.g., regular withdrawals) are a standard portfolio constraint and are addressed in the IPS.
+> **Explanation:**( A client’s liquidity needs (e.g., regular withdrawals) are a standard portfolio constraint and are addressed in the IPS.)
 
----
 
 ### Why are ESG factors increasingly significant in Canadian portfolio management?
 - [x] They reflect growing client and institutional emphasis on responsible investing
@@ -356,9 +349,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] They eliminate the need for diversification
 - [ ] They guarantee higher performance than non-ESG portfolios
 
-> **Explanation:** ESG integration has gained prominence as clients and regulators place more weight on responsible investing practices.
+> **Explanation:**( ESG integration has gained prominence as clients and regulators place more weight on responsible investing practices.)
 
----
 
 ### Which Canadian regulatory body emphasizes client-focused reforms that affect IPS requirements?
 - [ ] Office of the Superintendent of Financial Institutions (OSFI)
@@ -366,9 +358,8 @@ Before moving on to the next step—selecting the securities (Step 4 in the Port
 - [ ] Investment Industry Association of Canada (IIAC)
 - [ ] Toronto Stock Exchange (TSX)
 
-> **Explanation:** CIRO (formerly IIROC) oversees investment dealer and marketplace regulation, focusing on best practices for client-advisor relationships and clear documentation.
+> **Explanation:**( CIRO (formerly IIROC) oversees investment dealer and marketplace regulation, focusing on best practices for client-advisor relationships and clear documentation.)
 
----
 
 ### A flexible IPS means:
 - [x] It can be updated if the client’s life or market conditions change significantly

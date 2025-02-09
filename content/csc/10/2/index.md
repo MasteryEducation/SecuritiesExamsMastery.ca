@@ -14,7 +14,7 @@ Derivatives play a pivotal role in the Canadian securities landscape, offering i
 
 ---
 
-### 1. Overview of Underlying Assets
+### Overview of Underlying Assets
 
 Underlying assets can be broadly categorized into five main classes:
 
@@ -42,7 +42,7 @@ In this diagram:
 
 ---
 
-### 2. Equity Underlying Assets
+### Equity Underlying Assets
 
 Derivative products based on equities are among the most common. They include single-stock options, index options, and index futures.
 
@@ -63,7 +63,7 @@ Suppose a Canadian pension fund wants to protect its equity portfolio from a nea
 
 ---
 
-### 3. Fixed Income Underlying Assets
+### Fixed Income Underlying Assets
 
 Fixed income derivatives include contracts based on government bonds (federal, provincial, or municipal) and corporate bonds.
 
@@ -81,7 +81,7 @@ Fixed income derivatives include contracts based on government bonds (federal, p
 
 ---
 
-### 4. Commodity Underlying Assets
+### Commodity Underlying Assets
 
 Commodity derivatives span physical products such as precious metals, energy products, and agricultural goods. Although the Canadian commodity market is vast—particularly in oil, natural gas, and agricultural products—many Canadian investors trade global commodity contracts listed on major international exchanges (e.g., CME Group).
 
@@ -105,7 +105,7 @@ Commodity derivatives span physical products such as precious metals, energy pro
 
 ---
 
-### 5. Currency Underlying Assets
+### Currency Underlying Assets
 
 Currency derivatives—futures, forwards, and options—enable market participants to manage foreign exchange risks or speculate on currency fluctuations. In Canada, the Canadian dollar (CAD) is often paired with major currencies such as the U.S. dollar (USD), euro (EUR), and British pound (GBP).
 
@@ -115,7 +115,7 @@ Currency derivatives—futures, forwards, and options—enable market participan
 
 ---
 
-### 6. Interest Rate Underlying Assets
+### Interest Rate Underlying Assets
 
 Interest rate derivatives are unique in that they reference an interest rate, such as a benchmark short-term rate (e.g., CDOR in Canada or LIBOR/now SOFR outside Canada). Common instruments include interest rate swaps and forward rate agreements (FRAs). These derivatives allow institutions to manage exposure to fluctuations in short-term or long-term interest rates.
 
@@ -132,7 +132,7 @@ Interest rate derivatives are unique in that they reference an interest rate, su
 
 ---
 
-### 7. Risk Factors and Key Considerations
+### Risk Factors and Key Considerations
 
 When trading derivatives, it is critical to understand how the characteristics of the underlying assets influence risks and return potential:
 
@@ -143,13 +143,13 @@ When trading derivatives, it is critical to understand how the characteristics o
 
 ---
 
-### 8. Practical Example: Using Interest Rate Futures to Hedge Mortgage Portfolio Risk
+### Practical Example: Using Interest Rate Futures to Hedge Mortgage Portfolio Risk
 
 A Canadian bank with a large fixed-rate mortgage portfolio may worry about rising interest rates, which could reduce the market value of its mortgage portfolio. To guard against interest rate risk, the bank can sell interest rate futures on short-term Government of Canada bonds. If rates rise and the mortgage portfolio value declines, gains on the futures short position can help offset the losses.
 
 ---
 
-### 9. Tools, Regulations, and Best Practices
+### Tools, Regulations, and Best Practices
 
 #### 9.1 Regulatory Institutions and Resources
 
@@ -172,7 +172,7 @@ A Canadian bank with a large fixed-rate mortgage portfolio may worry about risin
 
 ---
 
-### 10. Common Pitfalls and Challenges
+### Common Pitfalls and Challenges
 
 • **Misjudging Liquidity:** Thinly traded commodity or corporate bond derivatives carry higher price impact costs.  
 • **Underestimating Volatility:** Missing the importance of implied volatility can lead to inaccurate option valuations.  
@@ -181,7 +181,7 @@ A Canadian bank with a large fixed-rate mortgage portfolio may worry about risin
 
 ---
 
-### 11. Summary
+### Summary
 
 The choice of underlying asset—be it equities, fixed income, commodities, currencies, or interest rates—directly affects a derivative’s pricing, volatility, and overall risk profile. Canadian investors and professionals who grasp these nuances can strategically select and manage derivatives to achieve hedging and investment objectives. By staying informed about the economic and regulatory environment, employing robust analytical tools, and applying thorough risk management practices, derivatives users can navigate Canada’s dynamic financial markets effectively and responsibly.
 

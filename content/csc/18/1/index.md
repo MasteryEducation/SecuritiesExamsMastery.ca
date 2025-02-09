@@ -14,7 +14,7 @@ Mutual funds are among the most popular investment products in Canada, offering 
 
 ---
 
-### 1. Key Structural Elements of Mutual Funds
+### Key Structural Elements of Mutual Funds
 
 Most mutual funds in Canada are structured as “open-end” funds, meaning new units (or shares) can be created or redeemed at the request of investors based on the fund’s Net Asset Value (NAV). This concept is central to understanding the fluid nature of mutual fund ownership:
 
@@ -36,7 +36,7 @@ This diagram highlights the constant inflow and outflow of capital. The mutual f
 
 ---
 
-### 2. Common Categories of Mutual Funds in Canada
+### Common Categories of Mutual Funds in Canada
 
 The primary characteristic that differentiates one mutual fund from another is the type of securities it invests in and the fund’s investment strategy. As such, mutual funds are typically sorted into several categories, each catering to specific investor goals and risk tolerances.
 
@@ -117,7 +117,7 @@ Examples include sustainability-oriented funds, sometimes labeled ESG (Environme
 
 ---
 
-### 3. Regulatory Framework and Key Disclosures
+### Regulatory Framework and Key Disclosures
 
 Mutual funds in Canada are governed by stringent regulations designed to protect investors and ensure transparent operations. The Canadian Securities Administrators (CSA) oversees regulations for investment funds through rules such as:
 
@@ -128,7 +128,7 @@ Additionally, the Canadian Investment Regulatory Organization (CIRO) supervises 
 
 ---
 
-### 4. Practical Considerations for Choosing a Mutual Fund
+### Practical Considerations for Choosing a Mutual Fund
 
 Selecting the right mutual fund goes beyond comparing past performance. Investors should consider:
 
@@ -141,7 +141,7 @@ Selecting the right mutual fund goes beyond comparing past performance. Investor
 
 ---
 
-### 5. Common Pitfalls and Best Practices
+### Common Pitfalls and Best Practices
 
 • **Chasing Performance**: Investors who invest solely in last year’s “top performing fund” might be disappointed if market conditions change.  
 • **Over-Concentration**: Placing too large a portion of savings into a niche or sector fund increases risk. Balanced or broad-based funds can mitigate this.  
@@ -152,7 +152,7 @@ A best practice is to treat mutual fund selection as part of a broader financial
 
 ---
 
-### 6. Step-by-Step Fund Screening and Analysis
+### Step-by-Step Fund Screening and Analysis
 
 For best results, investors can perform the following steps to screen and analyze potential mutual funds:
 
@@ -165,7 +165,7 @@ For best results, investors can perform the following steps to screen and analyz
 
 ---
 
-### 7. Real-World Scenario: A Canadian Pension Fund Example
+### Real-World Scenario: A Canadian Pension Fund Example
 
 Consider a mid-sized Canadian pension fund wishing to diversify its holdings. It may invest heavily in:
 
@@ -177,7 +177,7 @@ By combining multiple mutual funds that focus on different asset classes, the pe
 
 ---
 
-### 8. References and Additional Resources
+### References and Additional Resources
 
 1. **National Instrument 81-101 & 81-102** – Detailed guidelines on mutual fund operations in Canada.  
 2. **CIRO (Canadian Investment Regulatory Organization)** – Ensures compliance of all mutual fund and investment dealers in Canada.  
@@ -197,106 +197,97 @@ Mutual funds offer a seamless entry point to the financial markets for Canadian 
 
 {{< quizdown >}}
 
-### 1. Which feature primarily distinguishes an open-end mutual fund from a closed-end fund?
+### Which feature primarily distinguishes an open-end mutual fund from a closed-end fund?
 
 - [ ] Total number of units is fixed at inception.  
 - [ ] Units trade only on stock exchanges.  
 - [x] Shares can be issued or redeemed at the fund’s current NAV.  
 - [ ] It has no professional management team.  
 
-> **Explanation:** An open-end mutual fund’s structure enables it to continuously issue or redeem units at the prevailing NAV, while a closed-end fund issues a fixed number of shares and typically trades on an exchange.
+> **Explanation:**( An open-end mutual fund’s structure enables it to continuously issue or redeem units at the prevailing NAV, while a closed-end fund issues a fixed number of shares and typically trades on an exchange.)
 
----
 
-### 2. Why do money market funds generally offer lower returns compared to other mutual funds?
+### Why do money market funds generally offer lower returns compared to other mutual funds?
 
 - [ ] They invest heavily in speculative growth stocks.  
 - [x] They invest in short-term, low-risk debt instruments that emphasize capital preservation.  
 - [ ] Their management fees are typically higher.  
 - [ ] They are subject to more frequent regulatory changes.  
 
-> **Explanation:** Money market funds focus on short-term government and corporate debt that provide stability and liquidity. While this strategy reduces risk, it also leads to lower returns compared to riskier asset classes.
+> **Explanation:**( Money market funds focus on short-term government and corporate debt that provide stability and liquidity. While this strategy reduces risk, it also leads to lower returns compared to riskier asset classes.)
 
----
 
-### 3. Which of the following is a characteristic of balanced funds?
+### Which of the following is a characteristic of balanced funds?
 
 - [ ] They invest exclusively in equities.  
 - [x] They blend equities, fixed-income, and sometimes cash equivalents.  
 - [ ] They hold assets only in foreign markets.  
 - [ ] They redistribute all capital gains annually.  
 
-> **Explanation:** Balanced funds combine multiple asset classes—equities, bonds, and cash—to achieve moderate returns while mitigating volatility through diversification.
+> **Explanation:**( Balanced funds combine multiple asset classes—equities, bonds, and cash—to achieve moderate returns while mitigating volatility through diversification.)
 
----
 
-### 4. What is the primary objective of target-date (lifecycle) funds?
+### What is the primary objective of target-date (lifecycle) funds?
 
 - [ ] To outperform national stock indexes in any economic environment.  
 - [x] To automatically adjust their asset mix as a specific retirement date nears.  
 - [ ] To focus exclusively on emerging technologies.  
 - [ ] To replicate the performance of the S&P/TSX Composite Index.  
 
-> **Explanation:** Target-date funds gradually shift towards more conservative holdings as the investor’s target date approaches, aligning the fund’s allocation with the investor’s stage in life.
+> **Explanation:**( Target-date funds gradually shift towards more conservative holdings as the investor’s target date approaches, aligning the fund’s allocation with the investor’s stage in life.)
 
----
 
-### 5. An investor who believes actively picking stocks is beneficial but wants to maintain a significant index-based core could choose which approach?
+### An investor who believes actively picking stocks is beneficial but wants to maintain a significant index-based core could choose which approach?
 
 - [x] Core-and-satellite strategy, using index funds as the core and a small portion of active specialty funds.  
 - [ ] Investing only in money market instruments for the entire portfolio.  
 - [x] Holding a mix of large-cap index funds but also sector-specific active funds.  
 - [ ] Switching exclusively to guaranteed investment certificates (GICs).  
 
-> **Explanation:** A common best practice is to hold a “core” portion of the portfolio in low-cost index funds for broad market exposure, while “satellites” focus on active strategies or specialty funds aiming for alpha.
+> **Explanation:**( A common best practice is to hold a “core” portion of the portfolio in low-cost index funds for broad market exposure, while “satellites” focus on active strategies or specialty funds aiming for alpha.)
 
----
 
-### 6. Sector-specific funds tend to exhibit greater risk because:
+### Sector-specific funds tend to exhibit greater risk because:
 
 - [ ] They invest in government bonds.  
 - [ ] They use exclusively passive management strategies.  
 - [x] Their portfolios concentrate in a single industry, reducing diversification.  
 - [ ] They hold excessive levels of cash.  
 
-> **Explanation:** By concentrating in a single sector, these funds lose the benefit of inter-industry diversification, making them more susceptible to sector downturns.
+> **Explanation:**( By concentrating in a single sector, these funds lose the benefit of inter-industry diversification, making them more susceptible to sector downturns.)
 
----
 
-### 7. Which Canadian regulatory body oversees mutual fund dealers and investment dealers?
+### Which Canadian regulatory body oversees mutual fund dealers and investment dealers?
 
 - [ ] The Office of the Superintendent of Financial Institutions (OSFI)  
 - [ ] Canadian Securities Institute (CSI)  
 - [x] Canadian Investment Regulatory Organization (CIRO)  
 - [ ] European Securities and Markets Authority (ESMA)  
 
-> **Explanation:** CIRO (formerly IIROC/MFDA) oversees both mutual fund dealers and investment dealers in Canada, ensuring compliance and protecting investors.
+> **Explanation:**( CIRO (formerly IIROC/MFDA) oversees both mutual fund dealers and investment dealers in Canada, ensuring compliance and protecting investors.)
 
----
 
-### 8. The term “Fund Facts” refers to:
+### The term “Fund Facts” refers to:
 
 - [ ] An internal analysis prepared exclusively for high-net-worth individuals.  
 - [ ] A quarterly press release from the fund manager.  
 - [x] A concise regulatory document providing key details about a mutual fund.  
 - [ ] A letter from the Canada Revenue Agency approving the fund’s tax status.  
 
-> **Explanation:** “Fund Facts” is a mandatory, plain-language disclosure document required under Canadian securities regulations, summarizing fees, performance, and risks.
+> **Explanation:**( “Fund Facts” is a mandatory, plain-language disclosure document required under Canadian securities regulations, summarizing fees, performance, and risks.)
 
----
 
-### 9. When comparing mutual funds, which expense category is most crucial to consider over the long term?
+### When comparing mutual funds, which expense category is most crucial to consider over the long term?
 
 - [x] The Management Expense Ratio (MER)  
 - [ ] The cost of government-imposed fees on real estate transactions  
 - [ ] Non-resident withholding charges  
 - [ ] Subscription fees for financial newsletters  
 
-> **Explanation:** Over time, higher MERs can significantly erode investment returns, making it one of the most important factors to evaluate when selecting a mutual fund.
+> **Explanation:**( Over time, higher MERs can significantly erode investment returns, making it one of the most important factors to evaluate when selecting a mutual fund.)
 
----
 
-### 10. True or False: A balanced fund’s equity-to-fixed-income ratio remains static throughout different market cycles.
+### True or False: A balanced fund’s equity-to-fixed-income ratio remains static throughout different market cycles.
 
 - [ ] True  
 - [x] False  

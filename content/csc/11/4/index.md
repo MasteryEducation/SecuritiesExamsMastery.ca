@@ -74,7 +74,7 @@ Financial statements reveal the company’s revenues, expenses, profits, balance
 
 Investors in Canadian public companies enjoy a variety of rights designed to keep companies accountable and maintain shareholder protection.
 
-### 1. Right to Vote
+### Right to Vote
 Common shareholders have the right to vote on critical corporate matters, including:  
 • Election or removal of directors  
 • Appointment of auditors  
@@ -82,13 +82,13 @@ Common shareholders have the right to vote on critical corporate matters, includ
 
 Votes are cast in person at annual general or special meetings or through proxy forms. The Information Circular acts as a guide, explaining the items on which shareholders must vote and providing recommendations from the Board of Directors.
 
-### 2. Right to Receive Dividends (If Declared)
+### Right to Receive Dividends (If Declared)
 Shareholders may be entitled to dividends if the board declares them. While there is no obligation for companies to issue dividends, a healthy track record of dividend payouts can reflect consistent cash flow and earnings. 
 
-### 3. Right to Financial Information
+### Right to Financial Information
 Publicly traded companies must provide investors with access to timely and accurate financial information, primarily through quarterly and annual reporting. This transparency lets shareholders make better-informed decisions about their holdings.
 
-### 4. Dissent Rights
+### Dissent Rights
 Dissent rights allow shareholders to demand that the company purchase their shares at a fair value if they formally object to certain significant corporate actions, such as mergers, reorganizations, or other major transactions. While specific laws vary by province, dissent rights protect minority shareholders from transactions they believe undervalue or harm their investments.
 
 #### Example of Dissent Rights in Action

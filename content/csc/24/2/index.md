@@ -14,7 +14,7 @@ Capital gains and losses are central concepts within the Canadian taxation syste
 
 ---
 
-### 1. Overview of Capital Gains and Losses
+### Overview of Capital Gains and Losses
 
 A capital gain occurs when you sell or are deemed to have sold a capital asset for more than its adjusted cost base (ACB). Examples of capital assets include stocks, bonds, real estate (other than principal residences under certain conditions), and certain types of business assets. Conversely, a capital loss arises when a capital property is sold for less than its ACB.
 
@@ -25,7 +25,7 @@ This preferential treatment is part of government efforts to encourage investmen
 
 ---
 
-### 2. Adjusted Cost Base (ACB)
+### Adjusted Cost Base (ACB)
 
 The Adjusted Cost Base (ACB) is the foundation for determining the amount of gain or loss upon the disposition (sale or deemed sale) of an asset. When you purchase a capital asset, the ACB is typically its purchase price plus any expenses directly related to the purchase:
 
@@ -54,7 +54,7 @@ flowchart LR
 
 ---
 
-### 3. Real-World Examples and Case Studies
+### Real-World Examples and Case Studies
 
 1. Selling Shares of a Canadian Bank (e.g., RBC)  
    Suppose you purchase 100 shares of RBC at CAD 90 per share, incurring a commission of CAD 50. Your total cost = (100 × 90) + 50 = CAD 9,050. If you later sell these shares at CAD 100 per share and pay another CAD 50 in commission, your proceeds of disposition = (100 × 100) − 50 = CAD 9,950.  
@@ -70,7 +70,7 @@ flowchart LR
 
 ---
 
-### 4. Principal Residence Exemption
+### Principal Residence Exemption
 
 A principal residence is typically your primary home, inhabited most of the year. In many cases, the gain from selling this property (if it qualifies as your principal residence) is exempt from capital gains tax. However, certain conditions apply:
 
@@ -84,7 +84,7 @@ Failure to designate the correct property or comply with CRA guidelines could le
 
 ---
 
-### 5. Deemed Dispositions
+### Deemed Dispositions
 
 A deemed disposition occurs even if no actual sale takes place. Common scenarios include:
 
@@ -96,7 +96,7 @@ Deemed dispositions can significantly affect tax planning, especially for estate
 
 ---
 
-### 6. Reporting Capital Gains and Losses
+### Reporting Capital Gains and Losses
 
 Capital gains and losses are reported on Schedule 3 (Capital Gains or Losses) in your personal tax return. While many brokerages provide year-end tax slips summarizing dispositions, it is ultimately the taxpayer’s responsibility to maintain accurate records. Key aspects to keep in mind:
 
@@ -106,7 +106,7 @@ Capital gains and losses are reported on Schedule 3 (Capital Gains or Losses) in
 
 ---
 
-### 7. Carry-Over of Capital Losses
+### Carry-Over of Capital Losses
 
 Capital losses offer a unique tax advantage for individuals with large or unexpected capital gains:
 
@@ -117,7 +117,7 @@ This flexibility helps smooth out fluctuating investment returns over time. Howe
 
 ---
 
-### 8. Practical Strategies and Tools
+### Practical Strategies and Tools
 
 1. Online Calculators and Tools  
    • WolframAlpha and various brokerage websites offer capital gains calculators that use approximate inputs to estimate potential gains.  
@@ -133,7 +133,7 @@ This flexibility helps smooth out fluctuating investment returns over time. Howe
 
 ---
 
-### 9. Key Challenges and Best Practices
+### Key Challenges and Best Practices
 
 • Failure to Maintain Accurate ACB Records: This can lead to overpayment of taxes or unexpected tax bills.  
 • Misuse of Capital Losses to Offset Non-Capital Income: Under CRA rules, capital losses generally cannot reduce income from other sources.  
@@ -144,7 +144,7 @@ To avoid these pitfalls, keep organized documentation, consult professionals whe
 
 ---
 
-### 10. Summary and Actionable Insights
+### Summary and Actionable Insights
 
 1. Only half of your capital gains are taxable, but capital losses can only offset capital gains.  
 2. Maintain precise records of your ACB, incorporating any commissions, fees, reinvested dividends, or improvement costs.  

@@ -215,9 +215,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [ ] Fundamental analysis always produces more accurate results than technical analysis.
 - [ ] Technical analysis is regulated by CIRO, but fundamental analysis is not.
 
-> **Explanation:** Fundamental analysis prioritizes metrics such as earnings, revenues, and market position, whereas technical analysis prioritizes chart patterns, indicators, and trading volumes.
+> **Explanation:**( Fundamental analysis prioritizes metrics such as earnings, revenues, and market position, whereas technical analysis prioritizes chart patterns, indicators, and trading volumes.)
 
----
 
 ### Which indicator is considered a momentum oscillator in technical analysis?
 
@@ -226,9 +225,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [ ] Dividend Yield
 - [ ] Return on Equity (ROE)
 
-> **Explanation:** The RSI is a widely used momentum oscillator that signals overbought or oversold conditions based on recent price changes.
+> **Explanation:**( The RSI is a widely used momentum oscillator that signals overbought or oversold conditions based on recent price changes.)
 
----
 
 ### In fundamental valuation, which model discounts future cash flows back to their present value?
 
@@ -237,9 +235,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [x] Discounted Cash Flow (DCF)
 - [ ] Moving Average Convergence/Divergence (MACD)
 
-> **Explanation:** The DCF approach calculates the present value of projected future cash flows, factoring in a discount rate to account for time and risk.
+> **Explanation:**( The DCF approach calculates the present value of projected future cash flows, factoring in a discount rate to account for time and risk.)
 
----
 
 ### The Canadian Securities Administrators (CSA) primarily coordinates:
 
@@ -248,9 +245,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [x] Harmonized securities regulations across provinces and territories.
 - [ ] Monetary policy decisions and interest rates.
 
-> **Explanation:** The CSA comprises provincial and territorial regulators collaborating to streamline and harmonize securities laws across Canada.
+> **Explanation:**( The CSA comprises provincial and territorial regulators collaborating to streamline and harmonize securities laws across Canada.)
 
----
 
 ### A “golden cross” in technical analysis occurs when:
 
@@ -259,9 +255,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [ ] The RSI moves above 70.
 - [ ] The P/E ratio of a stock crosses below the industry average.
 
-> **Explanation:** A golden cross is typically interpreted as a bullish signal, indicating a potential upward trend.
+> **Explanation:**( A golden cross is typically interpreted as a bullish signal, indicating a potential upward trend.)
 
----
 
 ### Which organization oversees the registration and conduct of dealers and advisors in Canada?
 
@@ -270,9 +265,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [ ] Office of the Superintendent of Financial Institutions (OSFI)
 - [ ] U.S. Securities and Exchange Commission (SEC)
 
-> **Explanation:** CIRO (formerly IIROC) supervises the conduct of investment dealers and advisors in Canada, ensuring compliance and investor protection.
+> **Explanation:**( CIRO (formerly IIROC) supervises the conduct of investment dealers and advisors in Canada, ensuring compliance and investor protection.)
 
----
 
 ### Combining fundamental and technical analysis can:
 
@@ -281,9 +275,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [x] Help manage risk by aligning entry/exit points with intrinsic value.
 - [ ] Eliminate the need for monitoring portfolio performance.
 
-> **Explanation:** While it does not guarantee success in every trade, combining both approaches offers a more holistic viewpoint, strengthening investment decisions and risk management.
+> **Explanation:**( While it does not guarantee success in every trade, combining both approaches offers a more holistic viewpoint, strengthening investment decisions and risk management.)
 
----
 
 ### Which of the following is typically examined in fundamental analysis?
 
@@ -292,9 +285,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [ ] Elliott Wave Theory
 - [ ] Stochastic oscillator
 
-> **Explanation:** Financial statements such as balance sheets, income statements, and cash flow statements are key components of fundamental analysis.
+> **Explanation:**( Financial statements such as balance sheets, income statements, and cash flow statements are key components of fundamental analysis.)
 
----
 
 ### In technical analysis, support and resistance levels indicate:
 
@@ -303,9 +295,8 @@ Remember that market conditions, investor sentiment, and regulatory environments
 - [ ] Valuation floors based on DCF models.
 - [ ] Guaranteed reversal points recognized by all traders.
 
-> **Explanation:** Support and resistance levels often mark areas where the balance of buyers and sellers shifts, potentially stalling or reversing a trend.
+> **Explanation:**( Support and resistance levels often mark areas where the balance of buyers and sellers shifts, potentially stalling or reversing a trend.)
 
----
 
 ### In the context of the RSI indicator, a value above 70 generally suggests:
 

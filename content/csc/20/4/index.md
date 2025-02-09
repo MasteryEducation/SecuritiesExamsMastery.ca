@@ -193,106 +193,97 @@ For investors seeking a blended approach—combining diversification and regulat
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the primary regulatory difference between an alternative mutual fund and a conventional mutual fund in Canada?
+### Which of the following best describes the primary regulatory difference between an alternative mutual fund and a conventional mutual fund in Canada?
 
 - [x] Alternative mutual funds can employ greater leverage and short-selling within prescribed limits.
 - [ ] Conventional mutual funds are not regulated by National Instrument 81-102.
 - [ ] Alternative mutual funds can avoid continuous disclosure requirements.
 - [ ] Conventional mutual funds are only available to accredited investors.
 
-> **Explanation:** Both are regulated by National Instrument 81-102; however, alternative mutual funds have expanded rules allowing for more advanced strategies such as leverage and short-selling beyond the limits applied to conventional mutual funds.
+> **Explanation:**( Both are regulated by National Instrument 81-102; however, alternative mutual funds have expanded rules allowing for more advanced strategies such as leverage and short-selling beyond the limits applied to conventional mutual funds.)
 
----
 
-### 2. What is one characteristic often associated with hedge funds but typically not allowed in conventional mutual funds?
+### What is one characteristic often associated with hedge funds but typically not allowed in conventional mutual funds?
 
 - [x] High levels of leverage without set regulatory caps.
 - [ ] Long-only equity strategies.
 - [ ] Monthly or quarterly disclosure of holdings.
 - [ ] Daily redemption by retail investors.
 
-> **Explanation:** Hedge funds often use significant leverage without the regulatory caps seen in mutual funds. Conventional mutual funds have strict limits on leverage to protect retail investors.
+> **Explanation:**( Hedge funds often use significant leverage without the regulatory caps seen in mutual funds. Conventional mutual funds have strict limits on leverage to protect retail investors.)
 
----
 
-### 3. Which fee structure is most commonly attributed to hedge funds?
+### Which fee structure is most commonly attributed to hedge funds?
 
 - [ ] MER of approximately 1.5% plus a redemption fee.  
 - [ ] 3% front-end load, but no annual fee.  
 - [x] “2 and 20” (2% management fee and 20% performance fee).  
 - [ ] Fee waived for the first year.
 
-> **Explanation:** Hedge funds are known for charging management fees (often around 2%) plus performance fees (around 20%), particularly if certain return hurdles are achieved.
+> **Explanation:**( Hedge funds are known for charging management fees (often around 2%) plus performance fees (around 20%), particularly if certain return hurdles are achieved.)
 
----
 
-### 4. What is a common advantage of alternative mutual funds compared to hedge funds for retail investors?
+### What is a common advantage of alternative mutual funds compared to hedge funds for retail investors?
 
 - [ ] No regulatory oversight whatsoever.  
 - [ ] Access to unlimited leverage.  
 - [ ] Lower risk of any market-related losses.  
 - [x] Greater transparency and daily liquidity under National Instrument 81-106.
 
-> **Explanation:** Alternative mutual funds must follow standard mutual fund continuous disclosure rules, which offer transparency. They also typically afford daily liquidity, whereas hedge funds often impose lock-up periods.
+> **Explanation:**( Alternative mutual funds must follow standard mutual fund continuous disclosure rules, which offer transparency. They also typically afford daily liquidity, whereas hedge funds often impose lock-up periods.)
 
----
 
-### 5. Which investment product is typically available to the widest range of Canadian retail investors?
+### Which investment product is typically available to the widest range of Canadian retail investors?
 
 - [x] Conventional mutual funds.  
 - [ ] Hedge funds.  
 - [x] Alternative mutual funds.  
 - [ ] Private equity partnerships.
 
-> **Explanation:** Both conventional and alternative mutual funds are accessible to retail investors, while hedge funds and private equity partnerships often require accredited investor status.
+> **Explanation:**( Both conventional and alternative mutual funds are accessible to retail investors, while hedge funds and private equity partnerships often require accredited investor status.)
 
----
 
-### 6. A redemption gate in a hedge fund is best described as:
+### A redemption gate in a hedge fund is best described as:
 
 - [x] A mechanism limiting the amount investors can redeem at a given time.  
 - [ ] A minimum threshold of returns before the manager is paid.  
 - [ ] A market hedge that prevents drawdowns.  
 - [ ] A structuring tool for conventional mutual funds only.
 
-> **Explanation:** A redemption gate restricts how much capital can be liquidated from a hedge fund by its investors during a specific redemption period, ensuring the fund can maintain stable strategy execution.
+> **Explanation:**( A redemption gate restricts how much capital can be liquidated from a hedge fund by its investors during a specific redemption period, ensuring the fund can maintain stable strategy execution.)
 
----
 
-### 7. How do alternative mutual funds typically report performance data?
+### How do alternative mutual funds typically report performance data?
 
 - [x] Through continuous disclosure documents mandated by National Instrument 81-106.  
 - [ ] Exclusively on an annual basis to institutional investors.  
 - [x] Active daily announcements by the manager.  
 - [ ] Only through the fund’s offering memorandum.
 
-> **Explanation:** Alternative mutual funds follow the disclosure requirements akin to conventional funds, providing monthly or quarterly statements, annual reports, and MRFP documentation to investors.
+> **Explanation:**( Alternative mutual funds follow the disclosure requirements akin to conventional funds, providing monthly or quarterly statements, annual reports, and MRFP documentation to investors.)
 
----
 
-### 8. What is a defining limitation for conventional mutual funds regarding short-selling?
+### What is a defining limitation for conventional mutual funds regarding short-selling?
 
 - [ ] They can short-sell without limit if the manager has deemed it suitable.  
 - [x] They have stringent rules limiting short-selling activities to small portions or hedging.  
 - [ ] They cannot short-sell government securities under any condition.  
 - [ ] There are no explicit restrictions on short-selling.
 
-> **Explanation:** Under NI 81-102, conventional mutual funds face strict controls on short-selling and often can only short for hedging purposes or up to a minimal portion of net asset value.
+> **Explanation:**( Under NI 81-102, conventional mutual funds face strict controls on short-selling and often can only short for hedging purposes or up to a minimal portion of net asset value.)
 
----
 
-### 9. A typical reason for a higher Management Expense Ratio (MER) in alternative mutual funds is:
+### A typical reason for a higher Management Expense Ratio (MER) in alternative mutual funds is:
 
 - [x] The more complex strategies and specialized expertise required.  
 - [ ] The lack of regulatory oversight and random fee structures.  
 - [ ] The fund’s immediate redemption policies.  
 - [ ] The identical management style to conventional funds.
 
-> **Explanation:** Alternative mutual funds often employ strategies that demand specialized managers, research, and risk controls. This complexity can lead to higher operating costs and slightly higher MERs.
+> **Explanation:**( Alternative mutual funds often employ strategies that demand specialized managers, research, and risk controls. This complexity can lead to higher operating costs and slightly higher MERs.)
 
----
 
-### 10. In Canada, alternative mutual funds must produce:
+### In Canada, alternative mutual funds must produce:
 
 - [x] True
 - [ ] False

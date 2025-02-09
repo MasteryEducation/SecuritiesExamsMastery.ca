@@ -192,97 +192,88 @@ However, investors must be mindful of management fees, potential underperformanc
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a managed product?  
+### Which of the following best describes a managed product?  
 - [ ] An individual security chosen by retail investors without professional oversight  
 - [ ] A hedge fund that only invests in government bonds  
 - [x] An investment vehicle that pools funds from multiple investors and is managed by a professional  
 - [ ] A short-term certificate of deposit with fixed interest  
 
-> **Explanation:** A managed product is characterized by pooling assets from multiple investors and having a professional manager oversee investment decisions.
+> **Explanation:**( A managed product is characterized by pooling assets from multiple investors and having a professional manager oversee investment decisions.)
 
----
 
-### 2. Which key benefit do managed products typically offer?  
+### Which key benefit do managed products typically offer?  
 - [ ] Lower market returns  
 - [x] Diversification and professional management  
 - [ ] Guaranteed outperformance of all benchmarks  
 - [ ] Zero transactional fees  
 
-> **Explanation:** Managed products provide diversification by investing in a range of assets and offer professional management, but returns are not guaranteed, and fees generally apply.
+> **Explanation:**( Managed products provide diversification by investing in a range of assets and offer professional management, but returns are not guaranteed, and fees generally apply.)
 
----
 
-### 3. Under Canadian regulations, which National Instrument primarily governs mutual fund operations?  
+### Under Canadian regulations, which National Instrument primarily governs mutual fund operations?  
 - [ ] NI 45-106  
 - [ ] NI 81-107  
 - [x] NI 81-102  
 - [ ] NI 31-103  
 
-> **Explanation:** NI 81-102 deals specifically with investment funds, including mutual funds, outlining their operational and compliance requirements in Canada.
+> **Explanation:**( NI 81-102 deals specifically with investment funds, including mutual funds, outlining their operational and compliance requirements in Canada.)
 
----
 
-### 4. Which managed product type often comes with insurance guarantees on capital?  
+### Which managed product type often comes with insurance guarantees on capital?  
 - [x] Segregated funds  
 - [ ] ETFs  
 - [ ] Hedge funds  
 - [ ] REITs (Real Estate Investment Trusts)  
 
-> **Explanation:** Segregated funds, offered by insurance companies, typically provide maturity and death benefit guarantees, differentiating them from other fund types.
+> **Explanation:**( Segregated funds, offered by insurance companies, typically provide maturity and death benefit guarantees, differentiating them from other fund types.)
 
----
 
-### 5. How can economies of scale in a managed product benefit investors?  
+### How can economies of scale in a managed product benefit investors?  
 - [ ] By guaranteeing higher returns every year  
 - [ ] By limiting the manager’s investment choices  
 - [ ] By providing access to risk-free investments  
 - [x] By reducing per-unit trading and administrative costs  
 
-> **Explanation:** Larger asset pools spread out costs such as trading commissions and administrative fees, leading to lower costs per invested dollar.
+> **Explanation:**( Larger asset pools spread out costs such as trading commissions and administrative fees, leading to lower costs per invested dollar.)
 
----
 
-### 6. Which statement regarding fees in managed products is correct?  
+### Which statement regarding fees in managed products is correct?  
 - [x] Higher fees reduce the net return to investors  
 - [ ] Management Expense Ratios do not affect returns  
 - [ ] Fees only apply to ETFs  
 - [ ] Performance fees are charged by all funds  
 
-> **Explanation:** The more an investor pays in fees, the less net return they retain. Different managed products have varying fee structures.
+> **Explanation:**( The more an investor pays in fees, the less net return they retain. Different managed products have varying fee structures.)
 
----
 
-### 7. What is a common reason some actively managed funds underperform their benchmark?  
+### What is a common reason some actively managed funds underperform their benchmark?  
 - [x] Higher management fees can erode returns  
 - [ ] Lack of diversification rules  
 - [x] Poor investment decisions by managers  
 - [ ] Regulatory requirements force guaranteed minimum returns  
 
-> **Explanation:** Actively managed funds must earn enough returns above their benchmarks to offset management fees. Additionally, any poor investment strategy or timing miscalculations can adversely impact performance.
+> **Explanation:**( Actively managed funds must earn enough returns above their benchmarks to offset management fees. Additionally, any poor investment strategy or timing miscalculations can adversely impact performance.)
 
----
 
-### 8. One drawback of including hedge funds in a portfolio is:  
+### One drawback of including hedge funds in a portfolio is:  
 - [ ] Lower legal and regulatory requirements  
 - [ ] Guaranteed returns, which limit upside potential  
 - [ ] No lock-up period for investors  
 - [x] Potential illiquidity and higher risks  
 
-> **Explanation:** Hedge funds often have lock-up periods and use higher-risk strategies, making them less liquid and more speculative than traditional managed products.
+> **Explanation:**( Hedge funds often have lock-up periods and use higher-risk strategies, making them less liquid and more speculative than traditional managed products.)
 
----
 
-### 9. Which of the following best describes the role of Canadian Investment Regulatory Organization (CIRO)?  
+### Which of the following best describes the role of Canadian Investment Regulatory Organization (CIRO)?  
 - [x] Oversight of investment dealers and advisors to ensure regulatory compliance  
 - [ ] Setting interest rates for financial institutions  
 - [ ] Underwriting initial public offerings (IPOs)  
 - [ ] Providing government subsidies for hedge funds  
 
-> **Explanation:** CIRO supervises Canadian investment dealers and advisors, ensuring they meet industry regulations and maintain ethical standards.
+> **Explanation:**( CIRO supervises Canadian investment dealers and advisors, ensuring they meet industry regulations and maintain ethical standards.)
 
----
 
-### 10. True or False: Managed products eliminate all investment risks for individual investors.  
+### True or False: Managed products eliminate all investment risks for individual investors.  
 - [ ] True  
 - [x] False  
 

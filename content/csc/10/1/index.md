@@ -210,9 +210,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] Company dividends
 - [ ] Broker commissions
 
-> **Explanation:** A derivative’s price is contingent upon the price of an underlying asset or market factor.
+> **Explanation:**( A derivative’s price is contingent upon the price of an underlying asset or market factor.)
 
----
 
 ### Which of the following best describes hedging?
 
@@ -221,9 +220,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] Attempting to distort market prices for profit
 - [ ] Maintaining a fully uninvested cash position
 
-> **Explanation:** Hedging involves using derivatives or other instruments to protect an existing position from declining in value.
+> **Explanation:**( Hedging involves using derivatives or other instruments to protect an existing position from declining in value.)
 
----
 
 ### What is the main difference between exchange-traded and over-the-counter (OTC) derivatives?
 
@@ -232,9 +230,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] OTC derivatives are illegal in Canada.
 - [ ] Exchange-traded derivatives are exclusively used for speculation.
 
-> **Explanation:** Exchange-traded contracts are standardized and cleared, thus minimizing counterparty risk, whereas OTC products are negotiated directly between parties.
+> **Explanation:**( Exchange-traded contracts are standardized and cleared, thus minimizing counterparty risk, whereas OTC products are negotiated directly between parties.)
 
----
 
 ### If a Canadian investor purchases put options on a stock, what strategy are they employing?
 
@@ -243,9 +240,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] They are expecting the underlying stock price to remain unchanged.
 - [ ] They are trying to stabilize interest rates.
 
-> **Explanation:** Put options grant the right to sell at a specific price, effectively providing a hedge if the price falls.
+> **Explanation:**( Put options grant the right to sell at a specific price, effectively providing a hedge if the price falls.)
 
----
 
 ### Which of the following is a potential pitfall of using leverage in derivatives trading?
 
@@ -254,9 +250,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [x] Regulatory compliance becomes unnecessary.
 - [ ] Unlimited gains are guaranteed.
 
-> **Explanation:** Leverage amplifies both gains and losses; if a trade moves against the investor, losses can exceed the initial margin.
+> **Explanation:**( Leverage amplifies both gains and losses; if a trade moves against the investor, losses can exceed the initial margin.)
 
----
 
 ### Which entity primarily oversees derivatives regulations and investor protections in Canada?
 
@@ -265,9 +260,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] The World Bank
 - [ ] Canadian Competition Bureau
 
-> **Explanation:** CIRO is responsible for enforcing regulations and ensuring investor protection in the Canadian securities and derivatives markets.
+> **Explanation:**( CIRO is responsible for enforcing regulations and ensuring investor protection in the Canadian securities and derivatives markets.)
 
----
 
 ### Why might a Canadian pension fund use equity index futures?
 
@@ -276,9 +270,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [x] To reduce the costs associated with bond investments
 - [ ] To avoid all forms of risk entirely
 
-> **Explanation:** A pension fund can short equity index futures to offset potential losses in its underlying equity portfolio, effectively hedging a portion of its market risk.
+> **Explanation:**( A pension fund can short equity index futures to offset potential losses in its underlying equity portfolio, effectively hedging a portion of its market risk.)
 
----
 
 ### What function does the Canadian Derivatives Clearing Corporation (CDCC) serve?
 
@@ -287,9 +280,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] It dictates interest rates for open contracts.
 - [ ] It prohibits the trading of OTC derivatives.
 
-> **Explanation:** The CDCC’s central clearing role mitigates counterparty risk, ensuring trades settle smoothly.
+> **Explanation:**( The CDCC’s central clearing role mitigates counterparty risk, ensuring trades settle smoothly.)
 
----
 
 ### Which of the following best describes speculation with derivatives?
 
@@ -298,9 +290,8 @@ By developing a strong foundation in derivative products, Canadian market partic
 - [ ] Matching all trades with offsetting positions to eliminate risk
 - [ ] Donating portfolio proceeds to a charitable organization
 
-> **Explanation:** Speculation involves accepting risk in anticipation of price movement that will produce a profit.
+> **Explanation:**( Speculation involves accepting risk in anticipation of price movement that will produce a profit.)
 
----
 
 ### CIRO regulations require that advisors ensure a derivative product is suitable for a client. True or False?
 

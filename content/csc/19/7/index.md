@@ -14,7 +14,7 @@ Exchange-Traded Funds (ETFs) have emerged as a flexible, cost-effective, and acc
 
 ---
 
-### 1. Core and Satellite Approach
+### Core and Satellite Approach
 
 One of the most popular ways to incorporate ETFs into a portfolio is through the Core and Satellite approach:
 
@@ -41,7 +41,7 @@ flowchart LR
 
 ---
 
-### 2. Dollar-Cost Averaging (DCA) with ETFs
+### Dollar-Cost Averaging (DCA) with ETFs
 
 Dollar-Cost Averaging (DCA) is a systematic strategy that involves investing a fixed amount of money at regular intervals, regardless of the ETF’s price. This method helps reduce the impact of short-term market fluctuations and eliminates the need to time the market.
 
@@ -60,7 +60,7 @@ Dollar-Cost Averaging (DCA) is a systematic strategy that involves investing a f
 
 ---
 
-### 3. Tactical Asset Allocation with ETFs
+### Tactical Asset Allocation with ETFs
 
 While many investors maintain a long-term strategic asset allocation, some opt to adjust their portfolio weights in response to market conditions, a practice known as Tactical Asset Allocation (TAA). ETFs make it relatively easy to implement short-term shifts because you can quickly and cost-effectively sell one ETF (e.g., equity-based) and buy another (e.g., bond-based).
 
@@ -76,7 +76,7 @@ While many investors maintain a long-term strategic asset allocation, some opt t
 
 ---
 
-### 4. Portfolio Diversification
+### Portfolio Diversification
 
 **Diversification** is a hallmark of prudent investing, and ETFs significantly simplify the process. Rather than individually purchasing numerous stocks and bonds, a single ETF can offer exposure to an entire market subset. Canadian investors, for example, can look at ETFs for:
 
@@ -90,7 +90,7 @@ Access to diversified holdings helps reduce unsystematic risk—risks associated
 
 ---
 
-### 5. Hedging and Risk Management
+### Hedging and Risk Management
 
 #### 5.1 Currency-Hedged ETFs  
 Canadian investors venturing into international markets often face currency risk. As the Canadian dollar fluctuates relative to foreign currencies (e.g., USD, EUR), the value of overseas investments can rise or fall independently of market performance. Currency-hedged ETFs mitigate this risk by using currency derivatives (forwards or futures) to lock in exchange rates.
@@ -163,7 +163,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 {{< quizdown >}}
 
-### 1. Which statement best describes the core and satellite approach to building an ETF portfolio?
+### Which statement best describes the core and satellite approach to building an ETF portfolio?
 
 - [x] Using broad-market ETFs as the portfolio foundation and sector or thematic ETFs for smaller, targeted allocations  
 - [ ] Buying only broad-market ETFs and avoiding sector-specific ETFs  
@@ -172,7 +172,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** The core and satellite approach typically uses broad-based ETFs as the main “core” portion of the portfolio, with smaller “satellite” allocations in more specialized ETFs.
 
-### 2. One primary advantage of Dollar-Cost Averaging (DCA) with ETFs is:
+### One primary advantage of Dollar-Cost Averaging (DCA) with ETFs is:
 
 - [x] It reduces the impact of short-term market volatility  
 - [ ] It guarantees the highest possible returns  
@@ -181,7 +181,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** DCA systematically invests a fixed amount at regular intervals, which helps mitigate the effects of volatile prices and removes the need for market timing.
 
-### 3. Tactical Asset Allocation (TAA) with ETFs primarily involves:
+### Tactical Asset Allocation (TAA) with ETFs primarily involves:
 
 - [x] Adjusting portfolio weights to capitalize on anticipated market changes  
 - [ ] Completely withdrawing investments during market volatility  
@@ -190,7 +190,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** TAA uses short-term shifts in portfolio allocation to exploit perceived opportunities or manage risk, facilitated by the flexibility and liquidity of ETFs.
 
-### 4. Which of the following is NOT typically a reason for using currency-hedged ETFs in Canada?
+### Which of the following is NOT typically a reason for using currency-hedged ETFs in Canada?
 
 - [x] To earn extra income from hedging premiums  
 - [ ] To protect investments from fluctuations in CAD relative to foreign currencies  
@@ -199,7 +199,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** Currency-hedged ETFs are used to mitigate FX risk, not to generate additional income from hedging costs. Normally, hedging has an associated cost.
 
-### 5. Inverse ETFs can be effectively used to:
+### Inverse ETFs can be effectively used to:
 
 - [x] Hedge a portfolio or speculate on market declines  
 - [ ] Gain double the returns of the underlying index  
@@ -208,7 +208,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** Inverse ETFs aim to produce returns opposite to that of a chosen index, often for hedging purposes, but do not guarantee double returns, dividends, or replace a core approach.
 
-### 6. What is the primary benefit of making fixed contributions to an ETF portfolio at regular intervals?
+### What is the primary benefit of making fixed contributions to an ETF portfolio at regular intervals?
 
 - [x] It can lower the average cost per share by buying more shares when prices are lower  
 - [ ] It guarantees maximum profits when markets are volatile  
@@ -217,7 +217,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** Dollar-Cost Averaging (DCA) invests consistently, potentially reducing an investor’s average cost due to purchasing more shares during market dips.
 
-### 7. Which of the following best illustrates a “satellite” holding?
+### Which of the following best illustrates a “satellite” holding?
 
 - [x] A small-cap technology ETF purchased to enhance growth potential beyond a broad Canadian equity ETF  
 - [ ] A large index ETF that tracks the entire S&P/TSX Composite  
@@ -226,7 +226,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** By definition, satellite allocations are smaller, focused investments meant to complement or enhance the returns of the core holdings.
 
-### 8. In a Core and Satellite portfolio design, the core portion usually focuses on:
+### In a Core and Satellite portfolio design, the core portion usually focuses on:
 
 - [x] A broad index or broad market exposure  
 - [ ] A single sector ETF that swings widely  
@@ -235,7 +235,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** Core holdings generally track a broad market index like S&P/TSX or MSCI World to provide stable, diversified exposure.
 
-### 9. When rebalancing a tactical ETF portfolio:
+### When rebalancing a tactical ETF portfolio:
 
 - [x] Adjust holdings back to the predetermined target weights if they deviate beyond set thresholds  
 - [ ] Sell all holdings after a market rally to lock in profits  
@@ -244,7 +244,7 @@ This structure offers a clear roadmap for achieving diversification and growth p
 
 > **Explanation:** Rebalancing typically involves bringing the portfolio back to defined allocations if one component becomes too large or too small relative to the target.
 
-### 10. True or False: Leveraged ETFs are generally optimized for long-term investing.
+### True or False: Leveraged ETFs are generally optimized for long-term investing.
 
 - [x] True  
 - [ ] False  

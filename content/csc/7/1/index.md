@@ -212,106 +212,97 @@ Bond pricing and yield calculations form the cornerstone of fixed-income analysi
 
 {{< quizdown >}}
 
-### 1. Which statement best describes the relationship between bond prices and market interest rates?
+### Which statement best describes the relationship between bond prices and market interest rates?
 
 - [x] Bond prices and market interest rates move in opposite directions.
 - [ ] Bond prices and market interest rates move in the same direction.
 - [ ] Bond prices completely ignore changes in market interest rates.
 - [ ] Bond prices only respond to interest rates at maturity.
 
-> **Explanation:** As market interest rates increase, existing bond prices fall (and vice versa) due to their relative attractiveness to new issues.
+> **Explanation:**( As market interest rates increase, existing bond prices fall (and vice versa) due to their relative attractiveness to new issues.)
 
----
 
-### 2. What best describes the “dirty price” of a bond?
+### What best describes the “dirty price” of a bond?
 
 - [ ] The quoted price only.
 - [x] The quoted price plus accrued interest.
 - [ ] The price with brokerage fees included.
 - [ ] The price minus accrued interest.
 
-> **Explanation:** The dirty price is the total settlement amount paid by the buyer, which includes the clean price (quoted) plus accrued interest since the last coupon date.
+> **Explanation:**( The dirty price is the total settlement amount paid by the buyer, which includes the clean price (quoted) plus accrued interest since the last coupon date.)
 
----
 
-### 3. When calculating bond price, which of the following do you discount back to the present?
+### When calculating bond price, which of the following do you discount back to the present?
 
 - [x] Coupon payments and the par value.
 - [ ] Coupon payments only.
 - [ ] The par value only.
 - [ ] Future taxes on coupon payments.
 
-> **Explanation:** Bond price is the sum of the present value of all future coupon payments and the redemption amount at maturity.
+> **Explanation:**( Bond price is the sum of the present value of all future coupon payments and the redemption amount at maturity.)
 
----
 
-### 4. Which measure gives the annual return of a bond if held until maturity, assuming coupons are reinvested at the same rate?
+### Which measure gives the annual return of a bond if held until maturity, assuming coupons are reinvested at the same rate?
 
 - [x] Yield to Maturity.
 - [ ] Current Yield.
 - [ ] Yield to Call.
 - [ ] Clean Yield.
 
-> **Explanation:** Yield to Maturity (YTM) factors in the time value of money on all coupons and principal repayment until maturity, assuming coupon reinvestment at the same yield.
+> **Explanation:**( Yield to Maturity (YTM) factors in the time value of money on all coupons and principal repayment until maturity, assuming coupon reinvestment at the same yield.)
 
----
 
-### 5. A bond trading at $1,050 with a $40 annual coupon has a current yield of:
+### A bond trading at $1,050 with a $40 annual coupon has a current yield of:
 
 - [x] 3.81%.
 - [ ] 4.00%.
 - [ ] 3.33%.
 - [ ] 5.21%.
 
-> **Explanation:** Current Yield = Annual Coupon / Price = $40 ÷ $1,050 = 3.81%.
+> **Explanation:**( Current Yield = Annual Coupon / Price = $40 ÷ $1,050 = 3.81%.)
 
----
 
-### 6. Which regulatory body is primarily responsible for overseeing investment dealers that facilitate bond trading in Canada?
+### Which regulatory body is primarily responsible for overseeing investment dealers that facilitate bond trading in Canada?
 
 - [x] Canadian Investment Regulatory Organization (CIRO).
 - [ ] Canada Revenue Agency (CRA).
 - [ ] Bank of Canada.
 - [ ] Office of the Superintendent of Financial Institutions (OSFI).
 
-> **Explanation:** CIRO is responsible for the oversight of investment dealers in Canada, ensuring compliance and fair practices in bond market transactions.
+> **Explanation:**( CIRO is responsible for the oversight of investment dealers in Canada, ensuring compliance and fair practices in bond market transactions.)
 
----
 
-### 7. When is Yield to Call (YTC) most relevant?
+### When is Yield to Call (YTC) most relevant?
 
 - [x] When a bond can be redeemed by the issuer at a specified date before maturity.
 - [ ] When the purchaser is planning to sell the bond immediately.
 - [ ] When the bond is considered high yield or “junk.”
 - [ ] When the bond does not have a coupon attached.
 
-> **Explanation:** YTC is calculated for callable bonds, assuming the bond is called (redeemed early) at the first call date.
+> **Explanation:**( YTC is calculated for callable bonds, assuming the bond is called (redeemed early) at the first call date.)
 
----
 
-### 8. Which bond pricing input is frequently overlooked but particularly important in the Canadian market?
+### Which bond pricing input is frequently overlooked but particularly important in the Canadian market?
 
 - [ ] The coupon rate.
 - [x] The effect of semi-annual coupon payments.
 - [ ] The face value convention.
 - [ ] The rating agency’s credit risk assessment.
 
-> **Explanation:** Many newer investors forget that Canadian bonds typically pay coupons semi-annually, requiring specific adjustments to yield calculations.
+> **Explanation:**( Many newer investors forget that Canadian bonds typically pay coupons semi-annually, requiring specific adjustments to yield calculations.)
 
----
 
-### 9. What is the main assumption behind Yield to Maturity that can be difficult to achieve in practice?
+### What is the main assumption behind Yield to Maturity that can be difficult to achieve in practice?
 
 - [ ] That the bond’s coupon will be cut in half.
 - [ ] That the bond’s price will remain constant.
 - [ ] That interest rates will fall for the entire holding period.
 - [x] That coupons can be reinvested at the same YTM.
 
-> **Explanation:** YTM assumes reinvestment of each coupon payment at the same yield, which may not be achievable if interest rates change over time.
+> **Explanation:**( YTM assumes reinvestment of each coupon payment at the same yield, which may not be achievable if interest rates change over time.)
 
----
 
-### 10. A 4% coupon bond (paid annually) was purchased one month after its last coupon payment. The buyer must pay:
+### A 4% coupon bond (paid annually) was purchased one month after its last coupon payment. The buyer must pay:
 
 - [x] The clean price plus accrued interest for one month.
 - [ ] Only the clean price, because there is no accrued interest in Canada.

@@ -14,7 +14,7 @@ Equity transactions in the Canadian marketplace involve a variety of account typ
 
 ---
 
-### 1. Understanding Cash Accounts
+### Understanding Cash Accounts
 
 A cash account is a brokerage account in which you, as the investor, must pay the full cost of the securities you purchase by the settlement date. No borrowing is involved, which typically simplifies the investment process.
 
@@ -38,7 +38,7 @@ Suppose you have a cash account with a large Canadian financial institution, suc
 
 ---
 
-### 2. Understanding Margin Accounts
+### Understanding Margin Accounts
 
 A margin account allows you to borrow money from your investment dealer to finance part of your securities purchase. By depositing a “margin”—a percentage of the total trade value—you increase your potential liquidity, but also face higher risk.
 
@@ -67,7 +67,7 @@ If the value of your shares rises to \$12,000, your profit is magnified because 
 
 ---
 
-### 3. Margin Requirements and Canadian Regulations
+### Margin Requirements and Canadian Regulations
 
 Margin requirements in Canada are regulated through a combination of federal, provincial, and self-regulatory frameworks. Dealers customarily rely on CIRO guidelines when setting their internal policies.
 
@@ -85,7 +85,7 @@ Margin requirements in Canada are regulated through a combination of federal, pr
 
 ---
 
-### 4. The Margin Call Process
+### The Margin Call Process
 
 A margin call occurs if the equity in a margin account falls below the minimum maintenance requirement. Several factors contribute to triggering a margin call, including market volatility, fluctuations in share prices, and changes to the margin requirements themselves.
 
@@ -111,7 +111,7 @@ Missing or ignoring a margin call can result in forced liquidation of positions 
 
 ---
 
-### 5. Risk and Reward Comparison
+### Risk and Reward Comparison
 
 | Feature/Aspect       | Cash Account                                                                           | Margin Account                                                                 |
 |----------------------|-----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
@@ -124,7 +124,7 @@ Missing or ignoring a margin call can result in forced liquidation of positions 
 
 ---
 
-### 6. Best Practices and Pitfalls
+### Best Practices and Pitfalls
 
 #### 6.1 Best Practices
 
@@ -160,7 +160,7 @@ Missing or ignoring a margin call can result in forced liquidation of positions 
 
 ---
 
-### 7. Practical Tools, Resources, and Further Reading
+### Practical Tools, Resources, and Further Reading
 
 • **Interactive Brokers Margin Calculator** (Example):  
   – Many dealers offer online calculators to help you gauge how much margin you can access and the interest you’ll pay.  
@@ -180,7 +180,7 @@ Missing or ignoring a margin call can result in forced liquidation of positions 
 
 ---
 
-### 8. Applying Concepts in a Canadian Context
+### Applying Concepts in a Canadian Context
 
 Many Canadian investors use margin accounts selectively, adding borrowing capacity to seize short-term market opportunities. Institutional investors like pension funds might also employ leverage through different structures, though more sophisticated than a standard margin account. Meanwhile, conservative or novice investors will often stick to fully funded cash accounts, leveraging the straightforward structure and lower risk profile.
 
@@ -188,7 +188,7 @@ When deciding between a cash account and a margin account, assess your risk tole
 
 ---
 
-### 9. Summary
+### Summary
 
 Cash and margin accounts serve different investor goals and risk profiles. While a cash account demands full payment and thus offers a simpler, lower-risk approach, a margin account allows investors to utilize borrowed funds—potentially enhancing returns but also heightening losses. Understanding regulatory requirements, margin calls, and best practices is crucial for effective—and compliant—use of these account types in the Canadian market.
 

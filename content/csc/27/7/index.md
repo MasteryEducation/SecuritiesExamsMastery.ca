@@ -243,97 +243,88 @@ By studying a broad spectrum of investment styles, adhering to well-defined guid
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes value investing?  
+### Which of the following best describes value investing?  
 - [x] Buying undervalued companies with strong fundamentals.  
 - [ ] Purchasing companies that demonstrate strong upward price momentum.  
 - [ ] Targeting early-stage stocks regardless of valuation.  
 - [ ] Focusing solely on large-cap stocks.  
 
-> **Explanation:** Value investing involves seeking out companies priced below their intrinsic value, often with strong fundamentals that the market has overlooked.
+> **Explanation:**( Value investing involves seeking out companies priced below their intrinsic value, often with strong fundamentals that the market has overlooked.)
 
----
 
-### 2. What is a key characteristic of growth investing?  
+### What is a key characteristic of growth investing?  
 - [x] Buying companies expected to achieve above-average rates of earnings growth.  
 - [ ] Targeting companies with below-market P/E ratios.  
 - [x] Preferring higher valuations if future growth prospects are strong.  
 - [ ] Focusing on minimal volatility.  
 
-> **Explanation:** Growth investing looks for companies that can expand revenues and earnings at a pace faster than the overall market. Since these stocks are expected to grow quickly, they often trade at higher valuations.
+> **Explanation:**( Growth investing looks for companies that can expand revenues and earnings at a pace faster than the overall market. Since these stocks are expected to grow quickly, they often trade at higher valuations.)
 
----
 
-### 3. Which of the following is a primary concern when employing leverage in a portfolio?  
+### Which of the following is a primary concern when employing leverage in a portfolio?  
 - [x] Amplified losses if investments decline in value.  
 - [ ] Reduced volatility due to borrowing costs.  
 - [ ] Guaranteed outperformance of the market.  
 - [ ] Leverage always lowers risk.  
 
-> **Explanation:** While leverage can enhance returns, it can also magnify losses. Hence, institutional mandates often limit leverage to control risk.
+> **Explanation:**( While leverage can enhance returns, it can also magnify losses. Hence, institutional mandates often limit leverage to control risk.)
 
----
 
-### 4. When discussing Canadian institutional guidelines, what do National Instrument 81-102 rules typically cover?  
+### When discussing Canadian institutional guidelines, what do National Instrument 81-102 rules typically cover?  
 - [x] Mutual fund investment restrictions and operational requirements.  
 - [ ] Foreign currency exchange limitations.  
 - [ ] Hedge fund strategies and short selling rules.  
 - [ ] Private equity valuation standards.  
 
-> **Explanation:** National Instrument 81-102 specifies regulations applying primarily to mutual funds in Canada, limiting leverage, derivative usage, and concentration risks.
+> **Explanation:**( National Instrument 81-102 specifies regulations applying primarily to mutual funds in Canada, limiting leverage, derivative usage, and concentration risks.)
 
----
 
-### 5. Which of the following is a common restriction in Canadian pension fund mandates?  
+### Which of the following is a common restriction in Canadian pension fund mandates?  
 - [x] Cap on foreign holdings to manage currency risk.  
 - [ ] Unlimited leverage on all investment instruments.  
 - [x] Strict ban on sector diversification.  
 - [ ] No ethical standards requirement.  
 
-> **Explanation:** Canadian pension funds often limit foreign holdings to hedge currency risk and comply with local regulatory or fiduciary guidelines.
+> **Explanation:**( Canadian pension funds often limit foreign holdings to hedge currency risk and comply with local regulatory or fiduciary guidelines.)
 
----
 
-### 6. Which factor is most critical when choosing between value and growth investing styles?  
+### Which factor is most critical when choosing between value and growth investing styles?  
 - [x] Alignment with an institution’s risk tolerance and performance objectives.  
 - [ ] The market’s fascination with high P/E ratios.  
 - [ ] Seasonal stock market patterns.  
 - [ ] Dividend payout frequency.  
 
-> **Explanation:** The choice between value and growth should align with the investor’s (or institution’s) long-term objectives, including tolerance for volatility and return targets.
+> **Explanation:**( The choice between value and growth should align with the investor’s (or institution’s) long-term objectives, including tolerance for volatility and return targets.)
 
----
 
-### 7. A portfolio manager updates guidelines to allow limited use of equity index futures for hedging purposes. This action likely aims to:  
+### A portfolio manager updates guidelines to allow limited use of equity index futures for hedging purposes. This action likely aims to:  
 - [x] Manage market exposure without allocating capital to directly purchase all underlying stocks.  
 - [ ] Abandon diversification requirements.  
 - [x] Eliminate all risk from the portfolio.  
 - [ ] Maximize currency exposure in emerging markets.  
 
-> **Explanation:** Equity index futures are commonly used for efficient exposure or hedging; they don’t eliminate all risk, but they help manage exposure, especially when adjusting positions quickly.
+> **Explanation:**( Equity index futures are commonly used for efficient exposure or hedging; they don’t eliminate all risk, but they help manage exposure, especially when adjusting positions quickly.)
 
----
 
-### 8. Why might a hedge fund have fewer restrictions than a mutual fund under Canadian regulations?  
+### Why might a hedge fund have fewer restrictions than a mutual fund under Canadian regulations?  
 - [x] Hedge funds often cater to accredited investors with higher risk tolerance.  
 - [ ] Hedge funds are universally more transparent and regulated.  
 - [ ] Mutual funds have no leverage limits.  
 - [ ] Hedge funds are the only funds subject to NI 81-102 regulations.  
 
-> **Explanation:** Hedge funds typically serve accredited, high-net-worth, or institutional investors who can bear more risk. Mutual funds, widely sold to retail investors, must adhere to stricter regulations such as NI 81-102.
+> **Explanation:**( Hedge funds typically serve accredited, high-net-worth, or institutional investors who can bear more risk. Mutual funds, widely sold to retail investors, must adhere to stricter regulations such as NI 81-102.)
 
----
 
-### 9. Which of the following best describes ESG exclusions within an institutional mandate?  
+### Which of the following best describes ESG exclusions within an institutional mandate?  
 - [x] Prohibiting investment in companies that fail certain environmental, social, or governance criteria.  
 - [ ] Mandating investment exclusively in high-leverage firms.  
 - [ ] Investing only in real estate properties.  
 - [ ] Imposing no ethical constraints on the portfolio.  
 
-> **Explanation:** ESG exclusions are examples of ethical or social responsibility guidelines that prohibit investment in companies involved in harmful or controversial activities.
+> **Explanation:**( ESG exclusions are examples of ethical or social responsibility guidelines that prohibit investment in companies involved in harmful or controversial activities.)
 
----
 
-### 10. In Canada, if market conditions change drastically, portfolio managers should:  
+### In Canada, if market conditions change drastically, portfolio managers should:  
 - [x] Review and potentially revise investment guidelines to stay aligned with the mandate and regulations.  
 - [ ] Automatically abandon the existing mandate and switch to full speculation.  
 - [ ] Stop communicating portfolio changes to stakeholders.  

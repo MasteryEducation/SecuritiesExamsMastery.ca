@@ -220,7 +220,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a price-weighted index?
+### Which of the following best describes a price-weighted index?
 
 - [x] An index where each stock’s impact is based on its share price.
 - [ ] An index where each stock is weighted by its market capitalization.
@@ -229,7 +229,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** A price-weighted index’s calculation hinges on the share price alone, making higher-priced stocks more influential.
 
-### 2. Which major Canadian index tracks roughly 70% of the total market capitalization of the Toronto Stock Exchange?
+### Which major Canadian index tracks roughly 70% of the total market capitalization of the Toronto Stock Exchange?
 
 - [x] The S&P/TSX Composite Index
 - [ ] The NASDAQ Composite
@@ -238,7 +238,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** The S&P/TSX Composite Index is Canada’s primary market benchmark, capturing the majority of TSX-listed companies by capitalization.
 
-### 3. In a market capitalization-weighted index, which factor most significantly influences a stock’s impact on the index?
+### In a market capitalization-weighted index, which factor most significantly influences a stock’s impact on the index?
 
 - [ ] Dividend yield
 - [ ] Stock’s P/E ratio
@@ -247,7 +247,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** By its design, market cap weighting gives larger companies a proportionally greater influence on index performance.
 
-### 4. The Dow Jones Industrial Average (DJIA) is primarily known as what type of index?
+### The Dow Jones Industrial Average (DJIA) is primarily known as what type of index?
 
 - [x] Price-weighted average
 - [ ] Market cap-weighted index
@@ -256,7 +256,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** The DJIA was historically constructed by summing component stock prices and dividing by a specific divisor, making it a classic example of a price-weighted average/index.
 
-### 5. Which of the following is a common pitfall when using stock market indexes for performance comparison?
+### Which of the following is a common pitfall when using stock market indexes for performance comparison?
 
 - [x] Using an index that doesn’t represent your portfolio’s market sector
 - [ ] Collecting data on sector allocation
@@ -265,7 +265,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** Choosing an index that does not closely match your portfolio exposure (e.g., comparing small-cap stocks to a large-cap benchmark) can distort your performance evaluation.
 
-### 6. Why might an investor choose an index-tracking ETF?
+### Why might an investor choose an index-tracking ETF?
 
 - [x] For passive market exposure and low-cost diversification
 - [ ] To maximize outperformance of the index
@@ -274,7 +274,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** Index-tracking ETFs replicate the returns of a benchmark, offering diversified market exposure with minimal management fees.
 
-### 7. Which of the following is true about the S&P/TSX 60?
+### Which of the following is true about the S&P/TSX 60?
 
 - [x] It contains 60 large, liquid stocks from the TSX.
 - [ ] It includes only small-cap Canadian companies.
@@ -283,7 +283,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** The S&P/TSX 60 is composed of large-cap Canadian companies that are typically more liquid.
 
-### 8. What is a key reason a market cap-weighted index adjusts its divisor over time?
+### What is a key reason a market cap-weighted index adjusts its divisor over time?
 
 - [x] To account for corporate actions like stock splits
 - [ ] To make the index less volatile
@@ -292,7 +292,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** The divisor is adjusted to maintain consistency in the index when companies issue more shares, execute splits, or undergo mergers.
 
-### 9. Which index would a technology-focused Canadian investor most likely use to benchmark a portfolio of large U.S. tech companies?
+### Which index would a technology-focused Canadian investor most likely use to benchmark a portfolio of large U.S. tech companies?
 
 - [ ] S&P/TSX Composite
 - [ ] DAX
@@ -301,7 +301,7 @@ Whether you pursue a passive or active strategy, a solid understanding of indexe
 
 > **Explanation:** The NASDAQ Composite is heavily weighted toward technology firms, making it a more suitable benchmark for a U.S. tech-focused portfolio.
 
-### 10. True or False: In an equal-weighted index, each stock’s influence on the index returns remains constant without any rebalancing.
+### True or False: In an equal-weighted index, each stock’s influence on the index returns remains constant without any rebalancing.
 
 - [x] True
 - [ ] False

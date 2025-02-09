@@ -14,7 +14,7 @@ The term structure of interest rates lies at the heart of fixed-income securitie
 
 ---
 
-### 1. Defining the Yield Curve
+### Defining the Yield Curve
 
 A yield curve plots yields (typically shown on the vertical axis) against a range of maturities (on the horizontal axis). The most commonly used yield curve references Government of Canada bonds, as these bonds are considered the benchmark for risk-free rates in Canada.
 
@@ -38,7 +38,7 @@ When plotted on a graph with yield on the vertical axis and time to maturity on 
 
 ---
 
-### 2. Common Shapes of the Yield Curve
+### Common Shapes of the Yield Curve
 
 The yield curve can exhibit several shapes, each providing different signals about the market’s view of future economic conditions and monetary policy.
 
@@ -59,7 +59,7 @@ The yield curve can exhibit several shapes, each providing different signals abo
 
 ---
 
-### 3. Influences on the Yield Curve
+### Influences on the Yield Curve
 
 Several factors drive the shape and level of the yield curve in Canada:
 
@@ -70,7 +70,7 @@ Several factors drive the shape and level of the yield curve in Canada:
 
 ---
 
-### 4. Theories Explaining Term Structure
+### Theories Explaining Term Structure
 
 Various theories seek to explain why and how long-term interest rates differ from short-term rates. While each has its nuances, together, they offer a holistic understanding of market behavior.
 
@@ -94,7 +94,7 @@ This theory suggests that the bond market is “segmented” by investor prefere
 
 ---
 
-### 5. Practical Applications and Examples
+### Practical Applications and Examples
 
 #### 5.1 Case Study: Portfolio Management at a Canadian Pension Fund
 
@@ -110,7 +110,7 @@ The spot rate curve represents the yields of zero-coupon bonds across different 
 
 ---
 
-### 6. Best Practices, Common Pitfalls, and Strategies
+### Best Practices, Common Pitfalls, and Strategies
 
 1. **Stay Informed:** Monitor the Bank of Canada’s policy announcements and check yield curve data regularly at <https://www.bankofcanada.ca/>.  
 2. **Avoid Over-Reliance on a Single Theory:** The yield curve is complex, and no single theory explains all movements. Track macroeconomic indicators, inflation data, and investor sentiment to understand yield shifts comprehensively.  
@@ -120,7 +120,7 @@ The spot rate curve represents the yields of zero-coupon bonds across different 
 
 ---
 
-### 7. Step-by-Step Guidance: Analyzing the Yield Curve for a Canadian Portfolio
+### Step-by-Step Guidance: Analyzing the Yield Curve for a Canadian Portfolio
 
 1. **Collect Data:** Obtain current yield curve figures from the Bank of Canada’s daily data by maturity buckets (e.g., 1-year, 2-year, 5-year, 10-year).  
 2. **Plot the Curve:** Plot yields against maturities to visualize the current shape (normal, inverted, or flat).  
@@ -131,7 +131,7 @@ The spot rate curve represents the yields of zero-coupon bonds across different 
 
 ---
 
-### 8. Regulatory and Compliance Considerations
+### Regulatory and Compliance Considerations
 
 • **CIRO (Canadian Investment Regulatory Organization):** Monitors the practices of investment dealers to ensure they provide suitable recommendations on bond allocations, factoring in yield curve conditions.  
 • **CSA (Canadian Securities Administrators):** Issues guidelines on disclosure and risk assessment, which can influence how advisors communicate yield curve shifts and potential pricing impacts.  
@@ -141,7 +141,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 ---
 
-### 9. Additional Resources
+### Additional Resources
 
 • **Bank of Canada Yield Curves:** <https://www.bankofcanada.ca/> for current and historical data.  
 • **Canadian Securities Institute (CSI):** Provides comprehensive resources and courses on integrating yield curve analysis into portfolio management strategies.  
@@ -154,7 +154,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 {{< quizdown >}}
 
-### 1. Which term best describes a yield curve where longer-term bonds have higher yields than shorter-term bonds?
+### Which term best describes a yield curve where longer-term bonds have higher yields than shorter-term bonds?
 
 - [ ] Inverted yield curve
 - [ ] Flat yield curve
@@ -163,7 +163,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** A normal (or upward-sloping) yield curve occurs when yields on longer-term bonds exceed those on shorter-term bonds, often reflecting expectations of economic growth and moderate inflation.
 
-### 2. According to the Expectations Theory, long-term rates are:
+### According to the Expectations Theory, long-term rates are:
 
 - [x] An average of expected future short-term rates
 - [ ] Always higher than short-term rates
@@ -172,7 +172,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** The Expectations Theory states that the long-term rate is the geometric or arithmetic average of expected future short-term rates, depending on the precise model used.
 
-### 3. If the Bank of Canada unexpectedly lowers the overnight lending rate, which part of the yield curve is likely to be most immediately affected?
+### If the Bank of Canada unexpectedly lowers the overnight lending rate, which part of the yield curve is likely to be most immediately affected?
 
 - [x] Short-term maturities
 - [ ] Intermediate maturities
@@ -181,7 +181,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** Monetary policy actions typically have a direct and immediate impact on short-term interest rates, although they can influence the entire yield curve over time.
 
-### 4. Which scenario is often associated with an inverted yield curve?
+### Which scenario is often associated with an inverted yield curve?
 
 - [ ] Central bank tightening leads to lower short-term rates
 - [x] Markets anticipating an economic downturn
@@ -190,7 +190,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** An inverted yield curve frequently signals that investors expect economic growth to slow or contract, which typically precedes a recession.
 
-### 5. Liquidity Preference Theory suggests which of the following about long-term bonds?
+### Liquidity Preference Theory suggests which of the following about long-term bonds?
 
 - [x] Investors demand a premium for locking funds longer
 - [ ] They carry no additional risk over short-term bonds
@@ -199,7 +199,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** Because investors forgo the flexibility of reinvesting, they demand extra compensation for the risk of holding longer-term bonds—often leading to an upward-sloping curve.
 
-### 6. Flat yield curves commonly appear in which circumstance?
+### Flat yield curves commonly appear in which circumstance?
 
 - [x] During periods when economic transitions are underway
 - [ ] When central banks are raising interest rates aggressively
@@ -208,7 +208,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** A flat yield curve often emerges in transitional periods and may precede either a normal or inverted curve, reflecting uncertainty in economic conditions.
 
-### 7. Under Market Segmentation Theory, the shape of the yield curve is driven primarily by:
+### Under Market Segmentation Theory, the shape of the yield curve is driven primarily by:
 
 - [x] Supply and demand in distinct maturity segments
 - [ ] Central banks forcing yields up or down
@@ -217,7 +217,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** Market Segmentation Theory maintains that different investor groups have distinctive maturity preferences, impacting supply and demand within each segment and shaping the overall curve.
 
-### 8. Which yield curve strategy involves holding bonds with staggered maturities to manage reinvestment risk?
+### Which yield curve strategy involves holding bonds with staggered maturities to manage reinvestment risk?
 
 - [x] Bond laddering
 - [ ] Convexity hedging
@@ -226,7 +226,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** A bond ladder is a strategy in which an investor allocates funds to multiple maturities, spreading out reinvestment points and balancing short-term liquidity with longer-term yields.
 
-### 9. Which institution provides official Canadian yield curve data and influences short-term interest rates through monetary policy decisions?
+### Which institution provides official Canadian yield curve data and influences short-term interest rates through monetary policy decisions?
 
 - [x] Bank of Canada
 - [ ] Canada Revenue Agency
@@ -235,7 +235,7 @@ Staying current with updates from these regulators ensures compliance when advis
 
 > **Explanation:** The Bank of Canada sets the policy rate and publishes daily yield curve information for Government of Canada bonds, playing a critical role in shaping the term structure of interest rates.
 
-### 10. Spot rates are typically associated with zero-coupon bonds and help to value coupon bonds accurately.
+### Spot rates are typically associated with zero-coupon bonds and help to value coupon bonds accurately.
 
 - [x] True
 - [ ] False

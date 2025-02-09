@@ -28,7 +28,7 @@ In the Canadian context, the business cycle can be influenced by several localiz
 
 Economists typically divide the business cycle into four distinctive phases: expansion, peak, contraction, and trough.
 
-### 1. Expansion
+### Expansion
 
 • Economic Indicators: Rising GDP, increased consumer demand, low unemployment, and higher consumer confidence.  
 • Stock Market Effects: Generally rising stock prices, strong corporate earnings, vibrant Initial Public Offerings (IPOs).  
@@ -37,7 +37,7 @@ Economists typically divide the business cycle into four distinctive phases: exp
 
 During an expansion, businesses often take advantage of low borrowing costs to undertake new projects and mergers or acquisitions. For instance, Canadian banks like RBC and TD might give priority to extending credit to consumers and corporations, anticipating strong economic activity. 
 
-### 2. Peak
+### Peak
 
 • Economic Indicators: High level of consumer spending, widespread business optimism, low unemployment.  
 • Stock Market Effects: Stock valuations may appear overextended; market sentiment is highly optimistic yet vulnerable to changing conditions.  
@@ -46,7 +46,7 @@ During an expansion, businesses often take advantage of low borrowing costs to u
 
 A peak marks the turning point before the economy begins to slow. Sometimes, a peak is identifiable only after the economy has begun contracting, because lagging indicators (like unemployment) can take time to react.
 
-### 3. Contraction (or Recession)
+### Contraction (or Recession)
 
 • Economic Indicators: Rising unemployment, reduced consumer spending, declining GDP.  
 • Stock Market Effects: Falling prices in equities, tighter credit conditions, declining corporate earnings.  
@@ -57,7 +57,7 @@ A contraction extends over two consecutive quarters or more of negative GDP grow
 
 If the contraction is prolonged, it is commonly referred to as a recession. In extreme circumstances, where economic decline is both deep and enduring, it can become a depression—an example being the Great Depression of the 1930s.
 
-### 4. Trough
+### Trough
 
 • Economic Indicators: Stabilizing or slightly rebounding GDP, modest improvements in consumer confidence.  
 • Stock Market Effects: Potential buying opportunities as asset valuations may be at cyclical lows.  

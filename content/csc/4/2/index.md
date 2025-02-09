@@ -255,106 +255,97 @@ Individuals reviewing economic trends may decide to rebalance their RRSP portfol
 
 {{< quizdown >}}
 
-### 1. Which statement best describes why Real GDP is often considered more reliable than Nominal GDP?
+### Which statement best describes why Real GDP is often considered more reliable than Nominal GDP?
 
 - [ ] Real GDP includes government spending, whereas Nominal GDP excludes it.  
 - [ ] Real GDP focuses on services only, while Nominal GDP focuses on goods only.  
 - [x] Real GDP is adjusted for changes in the price level, allowing for consistent comparisons over time.  
 - [ ] Real GDP considers the output of Canadian residents abroad, while Nominal GDP does not.  
 
-> **Explanation:** Real GDP factors out the effects of inflation by using base-year prices, providing a more accurate representation of actual economic output over time.
+> **Explanation:**( Real GDP factors out the effects of inflation by using base-year prices, providing a more accurate representation of actual economic output over time.)
 
----
 
-### 2. What is the primary focus of Gross National Product (GNP) compared to GDP?
+### What is the primary focus of Gross National Product (GNP) compared to GDP?
 
 - [x] GNP measures the output produced by a country’s residents worldwide.  
 - [ ] GNP focuses on per capita measures only.  
 - [ ] GNP tracks intermediate goods, while GDP excludes them.  
 - [ ] GNP ignores government spending to reflect pure market valuation.  
 
-> **Explanation:** GNP centers on the production of a nation’s residents, including income earned outside domestic borders, in contrast to GDP’s domestic production focus.
+> **Explanation:**( GNP centers on the production of a nation’s residents, including income earned outside domestic borders, in contrast to GDP’s domestic production focus.)
 
----
 
-### 3. When calculating GDP using the expenditure approach, which of the following components is subtracted?
+### When calculating GDP using the expenditure approach, which of the following components is subtracted?
 
 - [ ] Government Spending  
 - [ ] Consumer Spending  
 - [ ] Investment  
 - [x] Imports  
 
-> **Explanation:** The expenditure formula is GDP = C + I + G + (X - M). Imports (M) are subtracted to exclude foreign-produced goods from domestic calculations.
+> **Explanation:**( The expenditure formula is GDP = C + I + G + (X - M). Imports (M) are subtracted to exclude foreign-produced goods from domestic calculations.)
 
----
 
-### 4. Which federal agency is the main source of Canada’s official GDP data?
+### Which federal agency is the main source of Canada’s official GDP data?
 
 - [ ] Bank of Canada  
 - [x] Statistics Canada  
 - [ ] Department of Finance  
 - [ ] Canada Revenue Agency  
 
-> **Explanation:** Statistics Canada collects and publishes comprehensive economic data, including official GDP figures.
+> **Explanation:**( Statistics Canada collects and publishes comprehensive economic data, including official GDP figures.)
 
----
 
-### 5. Which metric is most commonly used as an indicator of a population’s average standard of living?
+### Which metric is most commonly used as an indicator of a population’s average standard of living?
 
 - [ ] GNP  
 - [ ] Nominal GDP  
 - [x] GDP per Capita  
 - [ ] Real GDP Growth Rate  
 
-> **Explanation:** GDP per capita divides total output by population, giving a broad estimate of the average economic well-being of individuals.
+> **Explanation:**( GDP per capita divides total output by population, giving a broad estimate of the average economic well-being of individuals.)
 
----
 
-### 6. Which of the following elements can contribute to economic growth in Canada?
+### Which of the following elements can contribute to economic growth in Canada?
 
 - [x] Technological innovation and productivity improvements  
 - [ ] Increasing inflation rates only  
 - [ ] Strict capital controls  
 - [ ] Prolonged stagnation in population growth  
 
-> **Explanation:** Technological innovation and productivity enhancements drive long-term economic growth by boosting output potential.
+> **Explanation:**( Technological innovation and productivity enhancements drive long-term economic growth by boosting output potential.)
 
----
 
-### 7. In the income approach to measuring GDP, which of the following is not typically included?
+### In the income approach to measuring GDP, which of the following is not typically included?
 
 - [ ] Wages and salaries  
 - [ ] Interest income  
 - [x] Consumer spending  
 - [ ] Corporate profits  
 
-> **Explanation:** Consumer spending is part of the expenditure approach. The income approach sums wages, interest, rent, and profits earned within the economy.
+> **Explanation:**( Consumer spending is part of the expenditure approach. The income approach sums wages, interest, rent, and profits earned within the economy.)
 
----
 
-### 8. How does the Bank of Canada most directly influence Canada’s economic growth?
+### How does the Bank of Canada most directly influence Canada’s economic growth?
 
 - [x] By setting the overnight interest rate, thereby affecting borrowing costs  
 - [ ] By publishing GDP estimates  
 - [ ] By determining corporate tax rates  
 - [ ] By adjusting population growth policies  
 
-> **Explanation:** By controlling key interest rates, the Bank of Canada influences credit availability, investment, and consumption, which all affect the pace of economic growth.
+> **Explanation:**( By controlling key interest rates, the Bank of Canada influences credit availability, investment, and consumption, which all affect the pace of economic growth.)
 
----
 
-### 9. Which of the following describes a limitation of GDP as a measure of well-being?
+### Which of the following describes a limitation of GDP as a measure of well-being?
 
 - [ ] GDP includes all underground economic activity.  
 - [x] GDP doesn’t indicate whether income is distributed equitably across the population.  
 - [ ] GDP precisely measures inflation as well as output.  
 - [ ] GDP directly reflects environmental quality.  
 
-> **Explanation:** GDP does not capture wealth inequality or non-monetary factors (e.g., environmental impact and social well-being), limiting its ability to measure overall welfare.
+> **Explanation:**( GDP does not capture wealth inequality or non-monetary factors (e.g., environmental impact and social well-being), limiting its ability to measure overall welfare.)
 
----
 
-### 10. True or False: When a nation’s nominal GDP increases, it always indicates that there is real economic growth.
+### True or False: When a nation’s nominal GDP increases, it always indicates that there is real economic growth.
 
 - [ ] True  
 - [x] False  

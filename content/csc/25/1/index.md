@@ -213,97 +213,88 @@ Fee-based accounts allow investors and advisors in Canada to establish a transpa
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes the main advantage of a fee-based account structure? 
+### Which of the following best describes the main advantage of a fee-based account structure? 
 - [ ] It guarantees higher returns.  
 - [x] It offers greater cost transparency and aligns advisor compensation with portfolio growth.  
 - [ ] It allows clients to trade at no cost under all circumstances.  
 - [ ] It eliminates all potential conflicts of interest.  
 
-> **Explanation:** A fee-based account structure generally makes fees more transparent and aligns the interests of advisors and clients by basing the advisor’s compensation on the portfolio size, rather than the number of trades.
+> **Explanation:**( A fee-based account structure generally makes fees more transparent and aligns the interests of advisors and clients by basing the advisor’s compensation on the portfolio size, rather than the number of trades.)
 
----
 
-### 2. In Canada, what primary regulation emphasizes the importance of client interests, fee disclosures, and conflict-of-interest management in fee-based accounts? 
+### In Canada, what primary regulation emphasizes the importance of client interests, fee disclosures, and conflict-of-interest management in fee-based accounts? 
 - [x] Client Focused Reforms (CFRs)  
 - [ ] The Companies Act  
 - [ ] Prospectus Regulation (NI 41-101)  
 - [ ] Insurance Companies Act of Canada  
 
-> **Explanation:** The Client Focused Reforms (CFRs) lay out regulations requiring advisors to prioritize client interests, disclose fees clearly, and manage or avoid conflicts of interest for fee-based accounts.
+> **Explanation:**( The Client Focused Reforms (CFRs) lay out regulations requiring advisors to prioritize client interests, disclose fees clearly, and manage or avoid conflicts of interest for fee-based accounts.)
 
----
 
-### 3. Which of the following fee structures might involve a 1% annual management fee plus an additional fee if the portfolio outperforms a specific benchmark? 
+### Which of the following fee structures might involve a 1% annual management fee plus an additional fee if the portfolio outperforms a specific benchmark? 
 - [ ] Flat fee  
 - [ ] Spread-based fee  
 - [x] Performance-based fee  
 - [ ] Transaction-based commission  
 
-> **Explanation:** A performance-based fee structure ties a portion of the advisor’s compensation to the portfolio’s performance relative to a benchmark. Many hedge funds and certain high-net-worth investment programs use this model.
+> **Explanation:**( A performance-based fee structure ties a portion of the advisor’s compensation to the portfolio’s performance relative to a benchmark. Many hedge funds and certain high-net-worth investment programs use this model.)
 
----
 
-### 4. Why might a low-trading-volume investor be less suited for a fee-based account? 
+### Why might a low-trading-volume investor be less suited for a fee-based account? 
 - [x] The annual fee could exceed what they would pay in a commission-based model.  
 - [ ] The advisor is not required to provide any advice in a fee-based account.  
 - [ ] Commissions tend to be higher for passive investors in fee-based models.  
 - [ ] Fee disclosure is not required.  
 
-> **Explanation:** If an investor trades rarely, a commission-based structure could be cheaper overall since they don’t pay for frequent advisory services or ongoing fees.
+> **Explanation:**( If an investor trades rarely, a commission-based structure could be cheaper overall since they don’t pay for frequent advisory services or ongoing fees.)
 
----
 
-### 5. Which of the following services would most likely be included in a managed fee-based account? 
+### Which of the following services would most likely be included in a managed fee-based account? 
 - [x] Portfolio rebalancing and professional discretion on trades  
 - [ ] Real estate brokerage advice  
 - [x] Comprehensive financial planning  
 - [ ] Free life insurance coverage  
 
-> **Explanation:** Managed fee-based accounts commonly include professional portfolio management (often with discretionary authority), regular portfolio rebalancing, and holistic financial services such as financial planning.
+> **Explanation:**( Managed fee-based accounts commonly include professional portfolio management (often with discretionary authority), regular portfolio rebalancing, and holistic financial services such as financial planning.)
 
----
 
-### 6. What is “churning,” and how does a fee-based account structure help mitigate it? 
+### What is “churning,” and how does a fee-based account structure help mitigate it? 
 - [x] Excessive trading to generate commissions; fee-based structures remove direct incentives for frequent trades.  
 - [ ] Frequent portfolio rebalancing; fee-based structures encourage more trades.  
 - [ ] The act of charging higher fees for smaller accounts; fee-based structures penalize smaller investors.  
 - [ ] Rolling over retirement accounts; fee-based structures discourage transferring assets.  
 
-> **Explanation:** Churning refers to excessive trading done primarily to generate more commissions. Since fee-based accounts usually base compensation on AUM rather than volume of trades, there’s a reduced incentive to churn.
+> **Explanation:**( Churning refers to excessive trading done primarily to generate more commissions. Since fee-based accounts usually base compensation on AUM rather than volume of trades, there’s a reduced incentive to churn.)
 
----
 
-### 7. Under fee-based models, advisors often earn compensation as a percentage of: 
+### Under fee-based models, advisors often earn compensation as a percentage of: 
 - [x] The client’s total assets under management (AUM).  
 - [ ] The client’s monthly income.  
 - [x] The overall profit in a single quarter.  
 - [ ] The number of transactions executed.  
 
-> **Explanation:** Fee-based models are commonly tied to AUM, and in some cases, also involve a performance component. They are not directly tied to the number of transactions.
+> **Explanation:**( Fee-based models are commonly tied to AUM, and in some cases, also involve a performance component. They are not directly tied to the number of transactions.)
 
----
 
-### 8. How do the Client Focused Reforms prioritize “Know Your Client” (KYC) in a fee-based setup? 
+### How do the Client Focused Reforms prioritize “Know Your Client” (KYC) in a fee-based setup? 
 - [x] They require advisors to continuously update client details to ensure account suitability.  
 - [ ] They eliminate the need for risk assessments after the account is opened.  
 - [ ] They only require an initial KYC form.  
 - [ ] They encourage advisors to focus solely on performance.  
 
-> **Explanation:** The CFRs demand that advisors maintain accurate and up-to-date client information. Ensuring the fees and strategy remain suitable is a continuous requirement, not just an initial one.
+> **Explanation:**( The CFRs demand that advisors maintain accurate and up-to-date client information. Ensuring the fees and strategy remain suitable is a continuous requirement, not just an initial one.)
 
----
 
-### 9. Which of the following Canadian institutions or solutions might be used in a fee-based account? 
+### Which of the following Canadian institutions or solutions might be used in a fee-based account? 
 - [x] RRSPs and TFSAs  
 - [ ] Solely U.S. 401(k) plans  
 - [ ] Only U.K. ISAs  
 - [ ] None of the above  
 
-> **Explanation:** Fee-based accounts in Canada commonly include RRSPs, TFSAs, and other Canadian-registered as well as non-registered investment vehicles. U.S. 401(k)s and U.K. ISAs are generally not used directly in Canadian accounts.
+> **Explanation:**( Fee-based accounts in Canada commonly include RRSPs, TFSAs, and other Canadian-registered as well as non-registered investment vehicles. U.S. 401(k)s and U.K. ISAs are generally not used directly in Canadian accounts.)
 
----
 
-### 10. A flat retainer fee for all clients, regardless of account size or performance, is an example of:  
+### A flat retainer fee for all clients, regardless of account size or performance, is an example of:  
 - [x] A fee-based structure.  
 - [ ] Commission-based compensation.  
 - [ ] Transaction-based billing.  

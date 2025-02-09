@@ -259,9 +259,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] Providing profitability for commercial banks.  
 - [x] Maintaining price stability and supporting economic growth.  
 
-> **Explanation:** The Bank of Canada’s main objectives are to keep inflation within a target range (usually 1%–3%) and to support stable, sustainable economic growth.
+> **Explanation:**( The Bank of Canada’s main objectives are to keep inflation within a target range (usually 1%–3%) and to support stable, sustainable economic growth.)
 
----
 
 ### When the Bank of Canada lowers its key policy rate, which of the following typically occurs?
 - [x] Borrowing costs fall, stimulating economic activity.  
@@ -269,9 +268,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] Prime lending rates remain unchanged.  
 - [ ] Inflation falls substantially in the short term.  
 
-> **Explanation:** Lowering the policy rate makes borrowing cheaper, which usually encourages consumer and business spending. Prime lending rates are often reduced, facilitating economic growth.
+> **Explanation:**( Lowering the policy rate makes borrowing cheaper, which usually encourages consumer and business spending. Prime lending rates are often reduced, facilitating economic growth.)
 
----
 
 ### A yield curve that slopes downward (inverted) most frequently suggests:
 - [ ] Very high inflation expectations.  
@@ -279,9 +277,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] The Bank of Canada’s plan to keep rates near zero permanently.  
 - [ ] Unusually high short-term Treasury yields influenced by corporate bond spreads.  
 
-> **Explanation:** An inverted yield curve typically reflects market expectations that economic growth will slow and that interest rates will be lower in the future.
+> **Explanation:**( An inverted yield curve typically reflects market expectations that economic growth will slow and that interest rates will be lower in the future.)
 
----
 
 ### Which factor does NOT commonly affect interest rates in Canada?
 - [ ] The Bank of Canada’s policy decisions.  
@@ -289,9 +286,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] Inflation expectations.  
 - [x] The U.S. Internal Revenue Service (IRS) tax policies.  
 
-> **Explanation:** While U.S. economic policies can have an indirect influence on Canadian interest rates through global market dynamics, the IRS tax code is not a direct factor shaping Canadian interest rates.
+> **Explanation:**( While U.S. economic policies can have an indirect influence on Canadian interest rates through global market dynamics, the IRS tax code is not a direct factor shaping Canadian interest rates.)
 
----
 
 ### How do higher market interest rates generally affect bond prices?
 - [x] Bond prices generally decrease as interest rates rise.  
@@ -299,9 +295,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [x] The “coupon rate” also independently adjusts upward automatically.  
 - [ ] Bond prices generally increase as interest rates rise.  
 
-> **Explanation:** Bond prices and interest rates move inversely. If interest rates increase, existing fixed-coupon bonds provide lower returns compared to new issues, causing their market prices to decline. Note that coupons do not typically adjust automatically—once set, the coupon rate is fixed (except in the case of variable-rate bonds).
+> **Explanation:**( Bond prices and interest rates move inversely. If interest rates increase, existing fixed-coupon bonds provide lower returns compared to new issues, causing their market prices to decline. Note that coupons do not typically adjust automatically—once set, the coupon rate is fixed (except in the case of variable-rate bonds).)
 
----
 
 ### In calculating equity valuations, the discount rate primarily:
 - [x] Determines the present value of future cash flows.  
@@ -309,9 +304,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] Eliminates risk premiums.  
 - [ ] Guarantees a higher stock price in low interest rate environments.  
 
-> **Explanation:** A discount rate is used to compute the present value of expected future cash flows. Changes to the discount rate can significantly alter that valuation.
+> **Explanation:**( A discount rate is used to compute the present value of expected future cash flows. Changes to the discount rate can significantly alter that valuation.)
 
----
 
 ### Which Canadian regulatory body sets margin and lending guidelines for investment dealers?
 - [x] The Canadian Investment Regulatory Organization (CIRO).  
@@ -319,9 +313,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [x] The Office of the Superintendent of Financial Institutions (OSFI).  
 - [ ] The Canada Revenue Agency (CRA).  
 
-> **Explanation:** CIRO (formerly IIROC) oversees dealer member regulation and sets key margin and lending guidelines. OSFI, on the other hand, also plays a role in overseeing financial institutions, but not specifically margin guidelines for investment dealers.
+> **Explanation:**( CIRO (formerly IIROC) oversees dealer member regulation and sets key margin and lending guidelines. OSFI, on the other hand, also plays a role in overseeing financial institutions, but not specifically margin guidelines for investment dealers.)
 
----
 
 ### When the Bank of Canada signals it might raise rates, corporations often:
 - [x] Issue debt sooner to lock in lower rates.  
@@ -329,9 +322,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] Delay capital intensive projects to benefit from future low rates.  
 - [ ] Avoid adjusting their treasury strategies.  
 
-> **Explanation:** Expecting higher future rates, many corporations will issue bonds or take on debt earlier, anticipating that future borrowing costs will be higher.
+> **Explanation:**( Expecting higher future rates, many corporations will issue bonds or take on debt earlier, anticipating that future borrowing costs will be higher.)
 
----
 
 ### Which of the following is considered a key step in analyzing interest rate impacts on a portfolio?
 - [x] Conducting scenario analysis for varying interest rates.  
@@ -339,9 +331,8 @@ By staying abreast of economic indicators, listening to policy announcements, an
 - [ ] Assuming bond prices generally rise as interest rates rise.  
 - [ ] Eliminating equity investments during monetary tightening.  
 
-> **Explanation:** Scenario analysis examines different interest rate environments to measure the potential impact on a portfolio. This proactive approach helps in adjusting asset allocations strategically.
+> **Explanation:**( Scenario analysis examines different interest rate environments to measure the potential impact on a portfolio. This proactive approach helps in adjusting asset allocations strategically.)
 
----
 
 ### The relationship between interest rates and inflation is:
 - [x] True  
