@@ -1,13 +1,13 @@
 # https://raw.githubusercontent.com/hbstack/site/main/config/_default/menus.en.yml
 
 main:
-  - name: Beginner
-    identifier: beginner
-    weight: 1
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Beginner
+  #   identifier: beginner
+  #   weight: 1
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
   # - name: Tags
   #   identifier: patterns
   #   weight: 1000
@@ -17,23 +17,23 @@ main:
   #       #color: 'skyblue'
   #       className: text-primary
 
-  - name: Intermediate
-    identifier: intermediate
-    weight: 2
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Intermediate
+  #   identifier: intermediate
+  #   weight: 2
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
 
-  - name: Expert
-    identifier: expert
-    weight: 3
-    params:
-      icon:
-        vendor: bs
-        name: book
+  # - name: Expert
+  #   identifier: expert
+  #   weight: 3
+  #   params:
+  #     icon:
+  #       vendor: bs
+  #       name: book
 
-  - name: Exams
+  - name: Licensing
     identifier: exams
     weight: 4
     params:
