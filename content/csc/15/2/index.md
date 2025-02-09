@@ -40,7 +40,7 @@ Below is a basic diagram illustrating how two assets with low correlation can re
 
 ```mermaid
 flowchart LR
-    A[Asset A \n (e.g., RBC Stock)] -- Low or Negative Correlation --> B[Asset B \n (e.g., Gold Fund)]
+    A["Asset A <br/> (e.g., RBC Stock)"] -- Low or Negative Correlation --> B["Asset B <br/> (e.g., Gold Fund)"]
     A --> |Mitigates Volatility| Portfolio
     B --> |Mitigates Volatility| Portfolio
 ```
