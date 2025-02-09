@@ -20,11 +20,11 @@ Canadian taxation rules offer multiple avenues for reducing or deferring taxes, 
 
 ---
 
-### 1. Leveraging Registered Accounts in Canada
+### Leveraging Registered Accounts in Canada
 
 Registered accounts, such as RRSPs and TFSAs, form the backbone of strategic tax planning for retirement. Understanding each account’s tax implications helps determine the most effective saving, investing, and withdrawal patterns.
 
-#### 1.1 RRSP and Spousal RRSP
+#### RRSP and Spousal RRSP
 
 • RRSP (Registered Retirement Savings Plan):  
   – Contributions are tax-deductible, which reduces taxable income in the current year.  
@@ -36,7 +36,7 @@ Registered accounts, such as RRSPs and TFSAs, form the backbone of strategic tax
   – Contributions offer a tax deduction to the contributor, while withdrawals are taxed in the spouse’s name (after a specified period, typically three years, to avoid attribution rules).  
   – Helps split retirement income between spouses and may reduce the overall family tax bill.  
 
-#### 1.2 TFSA (Tax-Free Savings Account)
+#### TFSA (Tax-Free Savings Account)
 
 • Contributions are made with after-tax dollars (no tax deduction), but all growth and withdrawals are tax-free.  
 • Unused contribution room carries forward indefinitely, enabling clients to make large catch-up contributions if they have available room.  
@@ -57,7 +57,7 @@ flowchart TB
 
 ---
 
-### 2. Structuring Withdrawal Sequences
+### Structuring Withdrawal Sequences
 
 Once clients retire, deciding which accounts to draw from first is crucial:
 
@@ -74,15 +74,15 @@ Once clients retire, deciding which accounts to draw from first is crucial:
 
 ---
 
-### 3. Employing Income-Splitting Tactics
+### Employing Income-Splitting Tactics
 
 Income splitting across spouses or common-law partners is a cornerstone of Canadian tax-minimization. The idea is simple: shift income from the higher-income spouse (subject to a higher marginal tax rate) to the lower-income spouse (subject to a lower marginal tax rate).
 
-#### 3.1 Spousal RRSP Contributions
+#### Spousal RRSP Contributions
 
 As noted, spousal RRSPs are a common technique. The heart of this strategy is balancing the retirement income of both spouses so they stay in lower tax brackets during withdrawal years.
 
-#### 3.2 Pension Income-Splitting
+#### Pension Income-Splitting
 
 The Canada Revenue Agency (CRA) allows eligible pension incomes, such as certain life annuity payments from a pension plan or RRIF withdrawals, to be split between spouses. For current rules and details, see the CRA’s official resource on pension income splitting:  
 [CRA’s Pension Income Splitting Rules](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/pension-income-splitting.html)
@@ -94,7 +94,7 @@ Key notes on pension income-splitting:
 
 ---
 
-### 4. Timing for RRSP to RRIF Conversion
+### Timing for RRSP to RRIF Conversion
 
 Under current Canadian legislation, clients must convert their RRSPs to a RRIF (or an annuity) by the end of the year they turn 71. However, there might be benefits to converting earlier:
 
@@ -108,7 +108,7 @@ Under current Canadian legislation, clients must convert their RRSPs to a RRIF (
 
 ---
 
-### 5. Managing Old Age Security (OAS) Clawbacks
+### Managing Old Age Security (OAS) Clawbacks
 
 Old Age Security (OAS) is a major program for Canadian seniors aged 65 and older. However, once a senior’s net income surpasses a certain threshold, their OAS payments are gradually reduced (also known as a “clawback”). Strategies to mitigate clawbacks include:
 
@@ -120,7 +120,7 @@ The clawback threshold and reduction rates adjust periodically. Always consult t
 
 ---
 
-### 6. Harnessing Provincial Tax Credits and Preferences
+### Harnessing Provincial Tax Credits and Preferences
 
 In Canada, provincial tax credits and surtaxes vary widely:
 
@@ -130,13 +130,13 @@ In Canada, provincial tax credits and surtaxes vary widely:
 
 ---
 
-### 7. Practical Example: TD Bank Example of Pension Splitting
+### Practical Example: TD Bank Example of Pension Splitting
 
 Imagine a married couple, Donna and James. Donna is 70 and receives a pension of $50,000 annually from her former employer (TD Bank). James, also 70, has minimal pension income of $5,000. Donna could choose to split her $50,000 pension, allocating half ($25,000) to James’s tax return. If James remains in a lower bracket than Donna, this effectively shifts income that would have been taxed at Donna’s higher rate to James’s lower rate, saving them thousands of dollars in combined taxes.  
 
 ---
 
-### 8. Case Study: Early RRIF Conversion
+### Case Study: Early RRIF Conversion
 
 RBC client Carmen, age 68, has a large RRSP valued at $800,000 and minimal living expenses covered by part-time work. She’s concerned about future OAS clawbacks. By converting part of her RRSP to a RRIF earlier and taking modest withdrawals each year, Carmen distributes her retirement income more evenly. This approach helps Carmen:  
 • Stay under the OAS clawback threshold.  
@@ -144,7 +144,7 @@ RBC client Carmen, age 68, has a large RRSP valued at $800,000 and minimal livin
 
 ---
 
-### 9. Additional Tools and Resources
+### Additional Tools and Resources
 
 For a comprehensive look at retirement tax strategies, planners and clients can leverage:  
 • The Income Tax Act for guidance on spousal RRSP, RRIF rules, and other legislative details.  
@@ -154,7 +154,7 @@ For a comprehensive look at retirement tax strategies, planners and clients can 
 
 ---
 
-### 10. Summary and Key Takeaways
+### Summary and Key Takeaways
 
 • A carefully designed withdrawal sequence minimizes taxes, keeping valuable retirement dollars working longer.  
 • RRSPs and spousal RRSPs remain central to deferral and income-splitting strategies, while TFSAs offer flexible, tax-free withdrawals.  

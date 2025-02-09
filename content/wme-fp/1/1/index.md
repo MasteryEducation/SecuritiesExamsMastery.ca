@@ -14,7 +14,7 @@ Wealth management in Canada has evolved into a holistic, client-centric practice
 
 ---
 
-### 1.1.1 Defining Wealth Management
+### Defining Wealth Management
 
 Wealth management can be thought of as a comprehensive financial planning process that considers every dimension of an individual’s (or family’s) financial life. Its aim is to help clients identify their short- and long-term goals, then develop and implement strategies to pursue these goals successfully. In practical terms, wealth management can include:
 
@@ -29,7 +29,7 @@ This holistic approach distinguishes wealth management from more limited, transa
 
 ---
 
-### 1.1.2 Key Elements of Wealth Management in Canada
+### Key Elements of Wealth Management in Canada
 
 Although the fundamentals of wealth management are universal, several factors make the Canadian landscape unique:
 
@@ -54,7 +54,7 @@ Although the fundamentals of wealth management are universal, several factors ma
 
 ---
 
-### 1.1.3 The Client-Centric Approach
+### The Client-Centric Approach
 
 A hallmark of effective wealth management is the emphasis on individualized client service. Advisors work collaboratively with clients to establish a long-term roadmap. This process commonly involves:
 
@@ -76,7 +76,7 @@ The circular nature of the diagram emphasizes how wealth management is an iterat
 
 ---
 
-### 1.1.4 Canadian Financial Institutions and Service Offerings
+### Canadian Financial Institutions and Service Offerings
 
 #### 1.1.4.1 Major Banks and Their Wealth Management Divisions
 
@@ -105,7 +105,7 @@ Boutique firms are smaller, specialized offices providing highly personalized se
 
 ---
 
-### 1.1.5 Roles of Advisors and Specialists
+### Roles of Advisors and Specialists
 
 A single advisor rarely has expertise in all facets of wealth management. Instead, a team of specialists typically collaborates to deliver comprehensive advice:
 
@@ -117,7 +117,7 @@ A single advisor rarely has expertise in all facets of wealth management. Instea
 
 ---
 
-### 1.1.6 Regulatory Landscape
+### Regulatory Landscape
 
 Wealth managers in Canada operate under a diversified regulatory framework intended to ensure investor protection and market stability:
 
@@ -130,7 +130,7 @@ When working in wealth management, it is crucial to keep abreast of ongoing regu
 
 ---
 
-### 1.1.7 Specialized Topics and Emerging Trends
+### Specialized Topics and Emerging Trends
 
 1. **Private Markets and Alternatives**  
    • Increased adoption of private equity, hedge funds, and real estate investments among HNWIs.  
@@ -150,7 +150,7 @@ When working in wealth management, it is crucial to keep abreast of ongoing regu
 
 ---
 
-### 1.1.8 Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 Below are several lessons learned by successful wealth managers, as well as pitfalls encountered by those less prepared:
 
@@ -169,7 +169,7 @@ Below are several lessons learned by successful wealth managers, as well as pitf
 
 ---
 
-### 1.1.9 Practical Examples and Case Scenarios
+### Practical Examples and Case Scenarios
 
 1. **Case Study: RBC Wealth Management for an HNWI Family**  
    • A family with substantial holdings seeks estate planning, philanthropy structuring, and tax-efficient income. RBC provides an integrated wealth plan coordinating investments, trusts, and charitable giving strategies. Result: Minimization of tax exposure and clear estate transition blueprint.
@@ -182,7 +182,7 @@ Below are several lessons learned by successful wealth managers, as well as pitf
 
 ---
 
-### 1.1.10 Summary
+### Summary
 
 Wealth management in Canada is characterized by a holistic, client-focused philosophy and robust regulatory oversight. Clients can access a range of services from integrated big banks, independent boutique firms, and regional credit unions. Advisors employ a broad spectrum of strategies—from personalized tax planning to cross-border considerations—to help clients pursue their long-term financial objectives. By staying informed of the latest regulatory developments, market innovations, and best practices, wealth managers in Canada can deliver tailored advice that preserves and grows client wealth over time.
 

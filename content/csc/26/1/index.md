@@ -29,11 +29,11 @@ The financial planning approach is not just about picking the right stocks or in
 
 ### The Importance of “Know Your Client” (KYC)
 
-#### 2.1 Regulatory Requirements
+#### Regulatory Requirements
 
 In Canada, advisors must satisfy the Know Your Client (KYC) rule set out by the Canadian Investment Regulatory Organization (CIRO). This includes a structured data-gathering process to understand the client’s financial situation and investment knowledge, thus informing suitable recommendations. Additionally, the Canadian Securities Administrators (CSA) harmonizes these rules across provinces and territories, ensuring a consistent application of securities regulation in Canada.
 
-#### 2.2 Scope of KYC
+#### Scope of KYC
 
 The KYC framework requires collecting a range of information from the client, such as:  
 • Age, marital status, and family circumstances  
@@ -49,7 +49,7 @@ By fully detailing a client’s present situation, an advisor can tailor investm
 
 ### Setting Financial Objectives
 
-#### 3.1 Identifying Client Goals
+#### Identifying Client Goals
 
 Once an advisor knows the client’s situation, they need to clarify the client’s specific financial objectives. This might include:
 
@@ -61,7 +61,7 @@ Once an advisor knows the client’s situation, they need to clarify the client�
 
 Defining these objectives in measurable terms (e.g., “retire at age 62 with $60,000 in annual income from investments”) helps guide the planning conversation and sets realistic targets.
 
-#### 3.2 Time Horizons
+#### Time Horizons
 
 Each financial objective has its own timeline, which influences the asset allocation strategies. Short-term goals for a down payment might require liquid, lower-risk investments (e.g., High-Interest Savings Accounts, short-term bonds), while long-term goals for retirement can incorporate growth-oriented assets such as equities or equity funds.
 
@@ -69,7 +69,7 @@ Each financial objective has its own timeline, which influences the asset alloca
 
 ### Identifying Available Resources
 
-#### 4.1 Registered Plans
+#### Registered Plans
 
 Canada offers various registered plans that carry tax advantages and can help accelerate savings. Common examples include:  
 • Registered Retirement Savings Plan (RRSP): Contributions reduce taxable income, and growth within the plan is tax-deferred until withdrawal.  
@@ -77,7 +77,7 @@ Canada offers various registered plans that carry tax advantages and can help ac
 
 Selecting the appropriate mix of registered vehicles is crucial for tax efficiency. For example, a client in a higher tax bracket may prioritize RRSP contributions, whereas a younger individual seeking flexibility might prefer contributing to a TFSA.
 
-#### 4.2 Non-Registered Investments and Other Assets
+#### Non-Registered Investments and Other Assets
 
 Beyond registered plans, clients may have non-registered brokerage accounts, real estate investments, or significant cash on hand that can be directed toward their goals. Clients over 65 might receive government pension benefits such as Old Age Security (OAS) or the Canada Pension Plan (CPP), which also play into their available resources.
 
@@ -85,7 +85,7 @@ Beyond registered plans, clients may have non-registered brokerage accounts, rea
 
 ### Crafting the Financial Plan
 
-#### 5.1 Steps in the Financial Planning Process
+#### Steps in the Financial Planning Process
 
 The financial planning process often flows through these key steps:
 
@@ -126,7 +126,7 @@ flowchart LR
 
 ### Asset Allocation and Investment Strategy
 
-#### 6.1 Defining Asset Classes
+#### Defining Asset Classes
 
 Advisors structure client portfolios among different asset classes, typically:  
 • Equities (Canadian, U.S., Global)  
@@ -136,7 +136,7 @@ Advisors structure client portfolios among different asset classes, typically:
 
 The proportion assigned to each reflects risk tolerance, time horizon, and financial goals. As an example, a 35-year-old client with a moderate risk tolerance saving for retirement might have 60% in equities, 30% in bonds, and 10% in cash equivalents.
 
-#### 6.2 Risk Management
+#### Risk Management
 
 Risk management strategies encompass diversification, insurance coverage, and emergency funds. If a client is heavily invested in a single sector or stock—perhaps a large concentration of shares in their employer, such as RBC or TD—an advisor would emphasize diversification to reduce unexpected drawdowns from sector-specific volatility. Additionally, insurance products might be recommended to protect against disability or premature death.
 
@@ -144,11 +144,11 @@ Risk management strategies encompass diversification, insurance coverage, and em
 
 ### Ongoing Monitoring and Plan Adjustments
 
-#### 7.1 The Role of Regular Review
+#### The Role of Regular Review
 
 Financial plans are not static. Life events—marriage, birth of a child, job changes, or inheritances—can rapidly alter one’s path. External factors like inflation, economic downturns, or changes in government tax policy also affect financial strategies. Advisors typically schedule annual or semi-annual reviews, though significant life events may prompt immediate updates.
 
-#### 7.2 Adjusting Asset Allocations
+#### Adjusting Asset Allocations
 
 As clients near retirement, or if market conditions shift, the proportions of equities, fixed income, and cash may need adjusting. Moreover, if a client’s risk tolerance changes following a market downturn, a more conservative stance may be prudent. This dynamic approach preserves alignment with goals and personal comfort levels.
 

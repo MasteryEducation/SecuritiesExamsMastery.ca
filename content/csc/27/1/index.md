@@ -14,7 +14,7 @@ Institutional investing in Canada revolves around two critical segments: the sel
 
 ---
 
-## 1. Overview of the Institutional Marketplace
+## Overview of the Institutional Marketplace
 
 The institutional marketplace includes asset management firms, investment dealers, hedge funds, mutual funds, pension funds, large-scale insurance companies, and other organizations managing substantial pools of capital. These institutions significantly influence market liquidity, capital flows, and pricing, both in Canada and globally.
 
@@ -27,9 +27,9 @@ Both groups interact closely with each other, exchanging research, capital, and 
 
 ---
 
-## 2. The Sell Side
+## The Sell Side
 
-### 2.1 Primary Role and Activities
+### Primary Role and Activities
 
 The sell side primarily creates, markets, and distributes securities. They act as intermediaries between issuers—such as corporations or governments seeking to raise capital—and investors seeking to buy or sell those securities. Key services and roles of the sell side include:
 
@@ -38,7 +38,7 @@ The sell side primarily creates, markets, and distributes securities. They act a
 • Market Making: Many sell-side institutions act as market makers, holding inventories of various securities (e.g., common shares, bonds) to provide liquidity. This ensures that institutional and retail investors can buy or sell securities swiftly.  
 • Trading and Execution Services: The sell side facilitates trades on behalf of buy-side clients, matching buyers and sellers while adhering to best execution requirements under regulations enforced by the Canadian Investment Regulatory Organization (CIRO).  
 
-### 2.2 Product Creation and Innovation
+### Product Creation and Innovation
 
 Because the sell side is driven to provide new investment opportunities, they often engage in product innovation. For instance, structured products may be devised to meet specific risk or return profiles demanded by institutional investors. This includes:
 
@@ -48,15 +48,15 @@ Because the sell side is driven to provide new investment opportunities, they of
 
 Sell-side firms must ensure compliance with capital-raising regulations outlined by the CSA and maintain transparency to protect the interests of investors, while also helping issuers structure deals that are attractive and feasible.
 
-### 2.3 Research and Market Insights
+### Research and Market Insights
 
 Sell-side analysts play a crucial role in shaping market expectations. Through economic reports and company-specific recommendations (e.g., “buy,” “hold,” or “sell”), these analysts influence both retail and institutional trading decisions. While research must be objective and independent, the closeness of sell-side analysts to investment bankers can create potential conflicts of interest, which is why information barriers (commonly known as “Chinese walls”) are essential.
 
 ---
 
-## 3. The Buy Side
+## The Buy Side
 
-### 3.1 Primary Role and Activities
+### Primary Role and Activities
 
 Buy-side institutions manage client funds—be it for individuals (through mutual funds or segregated accounts) or for large entities like pension funds (e.g., Canada Pension Plan Investment Board) and insurance companies. Their primary goal is to invest assets in a manner that meets specific risk and return objectives. Key functions include:
 
@@ -65,7 +65,7 @@ Buy-side institutions manage client funds—be it for individuals (through mutua
 • Risk Management: Ensuring that the portfolio remains within regulatory and client-imposed risk parameters, often using sophisticated tools for stress testing, scenario analysis, and performance attribution.  
 • Compliance and Reporting: Abiding by provincial securities regulations, CIRO guidelines, and the internal policies of the asset management firm to ensure ethical management and full disclosure.
 
-### 3.2 Typical Buy-Side Institutions
+### Typical Buy-Side Institutions
 
 Buy-side players in Canada include:
 
@@ -75,13 +75,13 @@ Buy-side players in Canada include:
 4. Hedge Funds: Less regulated funds pursuing absolute returns. They may employ advanced techniques such as short selling, leverage, and derivatives, subject to restrictions and applicable regulatory frameworks.  
 5. Asset Managers: Firms managing segregated portfolios or pooled vehicles on behalf of institutional and high net-worth clients.
 
-### 3.3 Investment Mandates and Strategies
+### Investment Mandates and Strategies
 
 Buy-side investors tailor their strategies to each client’s risk tolerance, liquidity needs, and return objectives. For example, a pension fund with long-duration liabilities might favor more stable, long-term investments. Conversely, a hedge fund might pursue higher-risk strategies seeking alpha through derivatives or event-driven trades.
 
 ---
 
-## 4. Information Barriers (Chinese Walls)
+## Information Barriers (Chinese Walls)
 
 Large financial institutions may house both investment banking (sell side) and asset management (buy side) divisions. In these cases, strict internal procedures—described as “Chinese walls” or information barriers—help prevent the flow of material, non-public information between the two divisions. This practice ensures:
 
@@ -92,9 +92,9 @@ An information barrier typically includes separate physical office spaces, dedic
 
 ---
 
-## 5. Navigating Trades Between Sell Side and Buy Side
+## Navigating Trades Between Sell Side and Buy Side
 
-### 5.1 Execution Channels
+### Execution Channels
 
 Institutional trades, often in large “block” quantities, require specialized handling. The sell side offers the following execution channels:
 
@@ -102,7 +102,7 @@ Institutional trades, often in large “block” quantities, require specialized
 2. Principal Trading: The sell side acts as a counterparty, using its own capital to complete the trade. This can be advantageous for large orders that might otherwise disrupt the market.  
 3. Electronic Trading and Algorithms: Algorithmic trading platforms facilitate automated execution strategies. Buy-side traders can input parameters like volume participation rates or price limits, enabling them to reduce market impact.
 
-### 5.2 Prime Brokerage
+### Prime Brokerage
 
 Prime brokerage services are specialized offerings for hedge funds or other active trading entities on the buy side. They typically include:
 
@@ -115,9 +115,9 @@ These services, often provided by major Canadian financial institutions, help bu
 
 ---
 
-## 6. Regulatory Considerations and Market Integrity
+## Regulatory Considerations and Market Integrity
 
-### 6.1 CIRO and CSA Oversight
+### CIRO and CSA Oversight
 
 In Canada, the Canadian Investment Regulatory Organization (CIRO), formerly known as IIROC, enforces rules for investment dealers and trading activity to ensure fairness and transparency. Meanwhile, at the provincial level, regulators under the CSA framework set the securities laws that govern:
 
@@ -127,7 +127,7 @@ In Canada, the Canadian Investment Regulatory Organization (CIRO), formerly know
 
 Provincial regulators coordinate through the CSA to maintain consistent standards across Canada’s capital markets. By requiring accurate, timely disclosure, regulators foster a level playing field for all market participants.
 
-### 6.2 Compliance Best Practices
+### Compliance Best Practices
 
 From a compliance perspective, both sell-side and buy-side organizations must:
 
@@ -137,7 +137,7 @@ From a compliance perspective, both sell-side and buy-side organizations must:
 
 ---
 
-## 7. Diagram: Interplay Between Sell Side and Buy Side
+## Diagram: Interplay Between Sell Side and Buy Side
 
 Below is a simplified visualization of how sell-side and buy-side institutions interact in Canadian capital markets:
 
@@ -156,9 +156,9 @@ flowchart LR
 
 ---
 
-## 8. Real-World Examples and Case Studies
+## Real-World Examples and Case Studies
 
-### 8.1 Canadian Banks with Both Sell-Side and Buy-Side Divisions
+### Canadian Banks with Both Sell-Side and Buy-Side Divisions
 
 Major Canadian banks like RBC, TD, and BMO operate both investment banking (sell-side) arms and wealth management or asset management (buy-side) arms. These divisions are legally and operationally separated through information barriers. For instance:
 
@@ -167,27 +167,27 @@ Major Canadian banks like RBC, TD, and BMO operate both investment banking (sell
 
 Despite the shared parent company, each division’s activities must comply with strict regulations that prohibit the free flow of non-public information.
 
-### 8.2 Pension Funds and Large Investment Needs
+### Pension Funds and Large Investment Needs
 
 Consider the Ontario Teachers’ Pension Plan (OTPP), one of the world’s largest institutional investors. As a buy-side entity with billions in assets, OTPP works with various sell-side dealers for research, block trade execution, and customized derivatives. OTPP’s long-term investment horizon shapes its strategies, while the sell side tailors offerings like inflation-linked bonds or private placements to match OTPP’s objectives.
 
 ---
 
-## 9. Applications, Challenges, and Best Practices
+## Applications, Challenges, and Best Practices
 
-### 9.1 Common Pitfalls
+### Common Pitfalls
 
 • Conflict of Interest: Without robust information barriers, a combined institution might face scrutiny for sharing information among different departments.  
 • Over-Reliance on Sell-Side Research: Buy-side managers should employ independent analysis rather than relying exclusively on sell-side recommendations.  
 • Liquidity Traps: Large orders from buy-side institutions can sometimes distort markets if not carefully executed, leading to unfavorable fills.
 
-### 9.2 Strategies to Overcome Challenges
+### Strategies to Overcome Challenges
 
 • Comprehensive Due Diligence: Both sell side and buy side require consistent, rigorous analysis—both fundamental and quantitative tools (e.g., QuantLib) can help model risks and returns.  
 • Diversified Relationships: Buy-side firms often maintain relationships with multiple sell-side institutions to access varied insights and ensure competitive execution.  
 • Transparent Communication: Clear guidelines must be established when discussing potential deals or trades between the buy side and sell side to remain compliant with CIRO and CSA rules.
 
-### 9.3 Best Practices for Professionals
+### Best Practices for Professionals
 
 • Stay Informed: Keep abreast of IIROC/CIRO bulletins, CSA updates, and new rules on best execution or disclosure obligations.  
 • Encourage Ethical Culture: Promote a culture of compliance and ethics within your organization to foster trust and safeguard market integrity.  
@@ -195,7 +195,7 @@ Consider the Ontario Teachers’ Pension Plan (OTPP), one of the world’s large
 
 ---
 
-## 10. Key Takeaways
+## Key Takeaways
 
 1. The sell side produces, markets, and distributes securities, while the buy side invests assets according to mandates and risk profiles.  
 2. Both segments are essential to market liquidity and efficiency, despite being functionally separate entities within the same financial institution.  

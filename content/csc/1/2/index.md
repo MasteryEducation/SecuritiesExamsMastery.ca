@@ -14,19 +14,7 @@ Investment dealers form the backbone of Canada’s capital markets by connecting
 
 ---
 
-## Table of Contents
 
-1. [Understanding Financial Intermediation](#understanding-financial-intermediation)  
-2. [Underwriting and the Primary Market](#underwriting-and-the-primary-market)  
-3. [Market-Making and the Secondary Market](#market-making-and-the-secondary-market)  
-4. [Services Provided by Investment Dealers](#services-provided-by-investment-dealers)  
-5. [Regulatory Compliance and Oversight](#regulatory-compliance-and-oversight)  
-6. [Practical Examples and Case Studies](#practical-examples-and-case-studies)  
-7. [Common Pitfalls and Best Practices](#common-pitfalls-and-best-practices)  
-8. [Summary of Key Points](#summary-of-key-points)  
-9. [Glossary](#glossary)  
-
----
 
 ## Understanding Financial Intermediation
 

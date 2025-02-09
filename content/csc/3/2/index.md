@@ -14,17 +14,17 @@ Regulation is the backbone of the Canadian securities industry, shaping how fina
 
 ---
 
-## 1. Overview of Principles-Based vs. Rules-Based Regulation
+## Overview of Principles-Based vs. Rules-Based Regulation
 
-### 1.1 The Growing Trend Toward Principles-Based Regulation
+### The Growing Trend Toward Principles-Based Regulation
 Historically, Canadian securities regulation was largely rules-based, meaning that detailed prescriptions governed every aspect of market conduct. However, there has been a gradual shift to principles-based regulation, emphasizing broad principles and desired outcomes (e.g., transparency, fairness, investor trust). Rather than relying solely on prescriptive rules, principles-based regulation encourages market participants to interpret and implement the spirit of the law. This more flexible approach allows adaptation to evolving market conditions and innovative financial instruments.
 
-### 1.2 Benefits of Principles-Based Regulation
+### Benefits of Principles-Based Regulation
 • Flexibility: Firms can adopt compliance solutions that best match their business models and client needs.  
 • Focus on Outcomes: Regulators underscore the underlying objectives rather than just checking boxes.  
 • Encouraging Innovation: Emerging financial products can often be integrated into the market more swiftly and responsibly.
 
-### 1.3 When Rules are Still Necessary
+### When Rules are Still Necessary
 Despite the shift toward principles, Canada’s securities industry still relies on traditional rules and national instruments for clarity and consistency. For example, registration requirements for individuals and firms are often explicit, as are disclosure obligations for various securities. This blend ensures that certain core aspects—like investor protection, trade reporting, and capital requirements—remain well-defined, avoiding ambiguity or uneven application.
 
 Below is a visual representation of how principles-based and rules-based regulation interact, illustrating their roles in fostering market integrity:
@@ -43,25 +43,25 @@ In this diagram, Market Conduct is guided by both high-level principles and deta
 
 ---
 
-## 2. Legislative Authority
+## Legislative Authority
 
-### 2.1 Provincial Securities Acts
+### Provincial Securities Acts
 Canada does not have a single, centralized securities regulator. Instead, regulation occurs primarily at the provincial and territorial level. Each province or territory has its own securities legislation—such as the Ontario Securities Act or the British Columbia Securities Act—that provides the legislative authority for regulating the offer and sale of securities. These acts empower provincial regulatory bodies, such as the Ontario Securities Commission (OSC), the British Columbia Securities Commission (BCSC), or the Alberta Securities Commission (ASC).
 
-### 2.2 National Instruments and Multilateral Instruments
+### National Instruments and Multilateral Instruments
 The Canadian Securities Administrators (CSA) is an umbrella organization comprising the country’s provincial and territorial securities regulators. The CSA issues National Instruments (NIs) and Multilateral Instruments (MIs) to harmonize regulations across jurisdictions. A prominent example is NI 31-103, which establishes registration requirements and ongoing obligations for registrants across Canada.  
 
-### 2.3 Role of Regulatory Commissions and Tribunals
+### Role of Regulatory Commissions and Tribunals
 Legally, these commissions have the power to create and enforce rules. They can approve or reject prospectuses, impose conditions on registration, conduct hearings, and levy penalties. If a regulatory breach contravenes both securities law and criminal law, these matters can be referred to provincial or federal courts.
 
 ---
 
-## 3. Registration Categories and Proficiency
+## Registration Categories and Proficiency
 
-### 3.1 Why Registration Matters
+### Why Registration Matters
 Registration ensures that individuals and firms interacting with the public meet educational, ethical, and financial standards. It is a core pillar of investor protection, and regulators hold registered individuals to high professional standards.
 
-### 3.2 Registration Categories
+### Registration Categories
 Common registration categories include:  
 • Dealing Representatives (e.g., investment advisors or mutual fund representatives)  
 • Advising Representatives (portfolio managers providing investment advice)  
@@ -78,39 +78,39 @@ flowchart TB
     A --> E[Associate Advising Representative]
 ```
 
-### 3.3 Proficiency Requirements
+### Proficiency Requirements
 Educational prerequisites vary by category. Entry-level mutual fund or dealing representative roles often require courses like the Canadian Securities Course (CSC®). More senior or specialized roles, such as Advising Representatives for portfolio managers, typically require advanced designations (e.g., CFA) or significant industry experience.  
 A shift is underway with the Canadian Investment Regulatory Organization (CIRO), which is examining a more assessment-focused approach to proficiency. Rather than only classroom-based instruction, new rules may rely on a combination of practical assessments, continuous learning, and demonstration of skills directly relevant to daily tasks.
 
 ---
 
-## 4. Supervisory Structure
+## Supervisory Structure
 
-### 4.1 Role of Registrants and Dealing Representatives
+### Role of Registrants and Dealing Representatives
 Firms and individual registrants share responsibility for oversight to ensure that day-to-day activities comply with securities laws, CIRO rules, and internal policies. For example, a dealing representative (commonly known as an advisor) must act in clients’ best interests and document all interactions to demonstrate suitability and transparency.
 
-### 4.2 Internal Compliance Departments
+### Internal Compliance Departments
 Most firms have an internal compliance department that monitors and supervises employees. Key duties include:  
 • Reviewing new client applications and ensuring proper KYC (Know Your Client) documentation.  
 • Approving marketing materials for accuracy and truthfulness.  
 • Monitoring trading activity and raising red flags for unusual patterns or suspected market manipulation.  
 • Providing ongoing training sessions to educate employees on emerging regulations and best practices.
 
-### 4.3 CIRO and Self-Regulation
+### CIRO and Self-Regulation
 CIRO (the Canadian Investment Regulatory Organization) was established through the merger of IIROC and the MFDA. CIRO enforces many of the rules that apply to broker-dealers and mutual fund dealers, including compliance policies and trade surveillance. While CIRO is not a government agency, it is recognized by securities commissions, which delegate significant oversight authority to it.  
 CIRO’s rules often parallel provincial laws, but they can be more prescriptive in certain areas—such as margin requirements or business conduct standards. Registered firms under CIRO must meet these self-regulatory standards in addition to the requirements under provincial acts.
 
 ---
 
-## 5. Enforcement and Penalties
+## Enforcement and Penalties
 
-### 5.1 Investigative Powers
+### Investigative Powers
 Regulators can investigate when they suspect wrongdoing. They commonly:  
 • Request transaction records and communications (emails, phone logs).  
 • Interview registrants and any other relevant parties.  
 • Collaborate with other regulators or law enforcement if a crime is suspected.
 
-### 5.2 Penalties and Sanctions
+### Penalties and Sanctions
 If a violation occurs, regulators can impose a range of sanctions:  
 • Monetary Fines: These can vary from modest amounts to millions of dollars.  
 • License Suspension or Revocation: Advisors who recklessly or repeatedly violate rules can be suspended or permanently barred.  
@@ -121,20 +121,20 @@ A practical example is the case of an advisor at a major Canadian bank (e.g., RB
 
 ---
 
-## 6. Coordination Among Regulators
+## Coordination Among Regulators
 
-### 6.1 Canadian Securities Administrators (CSA)
+### Canadian Securities Administrators (CSA)
 The CSA is the coordinating body for Canada’s 13 provincial and territorial regulators. It harmonizes and streamlines securities regulation across provinces to reduce duplication. The CSA meets regularly to develop National Instruments, coordinate enforcement actions, and share best practices.  
 
-### 6.2 Federal-Level Coordination
+### Federal-Level Coordination
 While securities regulation is primarily provincial, certain federal agencies and laws also influence the securities landscape. For instance, the Office of the Superintendent of Financial Institutions (OSFI) regulates banks and insurance companies, and sometimes these regulations intersect with securities activities (e.g., underwriting, structured notes).  
 
-### 6.3 Evolving Efforts Toward Centralization
+### Evolving Efforts Toward Centralization
 There have been ongoing discussions about creating a national securities regulator. Proposals include the Cooperative Capital Markets Regulatory System (CCMR), which would combine several provinces under a single federal body. Although not yet fully adopted, these initiatives reflect a desire to further unify Canada’s regulatory framework, reducing fragmentation and compliance complexity for interprovincial firms.
 
 ---
 
-## 7. Glossary of Key Terms
+## Glossary of Key Terms
 
 • **Principles-Based Regulation**: A regulatory approach focusing on high-level objectives. Rules are less prescriptive, giving firms flexibility to meet desired outcomes (e.g., fairness, transparency).  
 • **Registration**: The mandatory process through which individuals and firms receive authorization to deal in or advise on securities. Requires meeting experience and educational standards.  

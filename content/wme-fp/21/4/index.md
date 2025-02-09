@@ -14,11 +14,11 @@ Debt markets provide essential channels for governments and corporations to rais
 
 ---------------------------------------------------------------------------
 
-## 1. The Primary Market
+## The Primary Market
 
 The primary market is where newly issued bonds are first made available to investors. While large institutional investors often dominate primary offerings, retail investors in Canada can also participate, particularly in government bond auctions or through dealers distributing new corporate issues.
 
-### 1.1 Issuers and Their Motivations
+### Issuers and Their Motivations
 
 • Government Issuers (Federal and Provincial):  
   - Raise funds to finance public expenditures and manage economic policy.  
@@ -28,7 +28,7 @@ The primary market is where newly issued bonds are first made available to inves
   - Seek to fund business operations, expansion, acquisitions, or refinancing of existing debt.  
   - Bond terms (maturity, coupon, security) vary based on company credit status, market interest rates, and appetite from institutional and retail investors.
 
-### 1.2 Government Bond Auctions
+### Government Bond Auctions
 
 In Canada, auctions for federal government bonds and treasury bills are conducted through the Bank of Canada. The process is designed to promote transparent and efficient allocation of securities:
 
@@ -41,7 +41,7 @@ In Canada, auctions for federal government bonds and treasury bills are conducte
 
 The Bank of Canada’s Market Notices and auction results are publicly available on its website, providing transparency and fostering confidence in the Canadian government debt market.
 
-### 1.3 Corporate Bond Underwriting
+### Corporate Bond Underwriting
 
 When corporations decide to issue bonds, they often employ an underwriting syndicate. A lead underwriter—usually an investment bank or a major broker-dealer (e.g., RBC Capital Markets or TD Securities)—works with a group of dealers to structure, price, and distribute the new bond issue. Key steps include:
 
@@ -53,11 +53,11 @@ Some corporate issuers may opt for private placements, selling bonds directly to
 
 ---------------------------------------------------------------------------
 
-## 2. The Secondary Market
+## The Secondary Market
 
 Once bonds are issued, their ownership can change hands in the secondary market. These trades do not raise capital for issuers but allow investors to buy or sell existing securities based on changing investment objectives or market conditions.
 
-### 2.1 Over-the-Counter (OTC) Dominance
+### Over-the-Counter (OTC) Dominance
 
 Unlike equities, most bond trading in Canada occurs over-the-counter (OTC), where:
 
@@ -65,13 +65,13 @@ Unlike equities, most bond trading in Canada occurs over-the-counter (OTC), wher
 • Transactions often take place over electronic communication networks, telephone, or specialized trading platforms.  
 • Large blocks of bonds can be traded privately, and trade details may be disclosed post-transaction to facilitate regulatory oversight.
 
-### 2.2 Dealer and Investor Interaction
+### Dealer and Investor Interaction
 
 Dealers quote bid (price at which the dealer buys) and ask (price at which the dealer sells) prices. Investors typically approach dealers for quotes, especially for larger trades that might not have an easily visible market price. This approach ensures flexible pricing structures but can reduce the transparency found in centralized exchange-traded products.
 
 ---------------------------------------------------------------------------
 
-## 3. Dealers and Market Makers
+## Dealers and Market Makers
 
 Dealers, also called broker-dealers, provide liquidity by continuously quoting bid and ask prices. They often manage inventories of bonds and can commit capital to facilitate client trades:
 
@@ -79,7 +79,7 @@ Dealers, also called broker-dealers, provide liquidity by continuously quoting b
 2. Spread Management: The difference between the bid and ask drives dealer compensation and reflects credit risk, market volatility, and supply/demand.  
 3. Risk Management: Dealers must manage the volatility (interest rate movements and credit events) associated with holding bond inventories.
 
-### 3.1 Example: TD as a Market Maker
+### Example: TD as a Market Maker
 
 A hypothetical scenario helps illustrate the role:  
 • TD Securities holds an inventory of Federal Government bonds and corporate bonds.  
@@ -89,18 +89,18 @@ A hypothetical scenario helps illustrate the role:
 
 ---------------------------------------------------------------------------
 
-## 4. Settlement Procedures
+## Settlement Procedures
 
 Settlement refers to the exchange of payment for securities. In Canada, settlement typically follows a T+2 cycle—two business days after the trade date.
 
-### 4.1 The Canadian Depository for Securities (CDS)
+### The Canadian Depository for Securities (CDS)
 
 Clearing and settlement services for most Canadian debt transactions are facilitated by the Canadian Depository for Securities (CDS), a subsidiary of the TMX Group. Key roles include:  
 • Recording trades and ownership changes.  
 • Facilitating payment through large-value transfer systems such as the Canadian Payments Association’s LVTS (Large Value Transfer System).  
 • Reducing counterparty risk through netting processes.
 
-### 4.2 Settlement Workflow Diagram
+### Settlement Workflow Diagram
 
 Below is a simplified diagram (using Mermaid.js) showing how a transaction might settle:
 
@@ -119,14 +119,14 @@ flowchart LR
 
 ---------------------------------------------------------------------------
 
-## 5. Pricing Sources and Transparency
+## Pricing Sources and Transparency
 
-### 5.1 Government Bond Pricing
+### Government Bond Pricing
 
 • Market data for Government of Canada bonds is widely disseminated.  
 • Yields for benchmark issues (e.g., 2-year, 5-year, 10-year, 30-year) are published daily through various financial news outlets and the Bank of Canada.  
 
-### 5.2 Corporate Bond Pricing
+### Corporate Bond Pricing
 
 Although public reporting has improved, corporate bond pricing can still be more opaque. Initiatives by the Canadian Securities Administrators (CSA) and improved electronic platforms have enhanced transparency, but complexities remain:
 
@@ -136,9 +136,9 @@ Although public reporting has improved, corporate bond pricing can still be more
 
 ---------------------------------------------------------------------------
 
-## 6. Regulatory Oversight
+## Regulatory Oversight
 
-### 6.1 CIRO
+### CIRO
 
 The Canadian Investment Regulatory Organization (CIRO)—formed by the consolidation of IIROC and the MFDA—oversees investment firms dealing in debt securities. Their mandates include:
 
@@ -146,7 +146,7 @@ The Canadian Investment Regulatory Organization (CIRO)—formed by the consolida
 • Enforcing best execution practices, so clients get fair dealing.  
 • Overseeing compliance with suitability requirements.
 
-### 6.2 CSA and Provincial Regulators
+### CSA and Provincial Regulators
 
 The Canadian Securities Administrators (CSA) and each province’s securities commission (e.g., Ontario Securities Commission) coordinate to maintain fair debt markets:
 
@@ -156,19 +156,19 @@ The Canadian Securities Administrators (CSA) and each province’s securities co
 
 ---------------------------------------------------------------------------
 
-## 7. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 7.1 Pension Funds and Federal Government Bonds
+### Pension Funds and Federal Government Bonds
 
 A large Canadian pension fund, such as the CPP Investments Board, may opt to purchase federal government bonds during a Bank of Canada auction to match its long-term liabilities. By participating in the primary market directly (or via a dealer), it can secure an allocation of high-quality assets at auction-determined yields. The pension fund’s risk management team then monitors the bond portfolio in the secondary market, adjusting exposures through OTC trades as interest rates or credit conditions evolve.
 
-### 7.2 Corporate Bond Issuance by RBC
+### Corporate Bond Issuance by RBC
 
 Royal Bank of Canada (RBC) may issue a 5-year corporate bond to raise $1 billion at a fixed coupon. RBC Capital Markets may lead the underwriting syndicate, marketing the bond to institutional clients such as mutual funds, insurance companies, and wealth management firms. After the initial distribution, these bonds trade on the secondary market, typically via OTC dealer networks. RBC, as both an issuer and dealer, must manage any potential conflicts of interest under strict regulations, ensuring arms-length pricing and best execution for clients.
 
 ---------------------------------------------------------------------------
 
-## 8. Actionable Insights and Best Practices
+## Actionable Insights and Best Practices
 
 1. Stay Informed: Monitor Bank of Canada press releases and auction schedules to anticipate shifts in yield curves that could affect bond allocations.  
 2. Evaluate Liquidity: In the secondary market, higher credit bonds (like federal or provincial) typically have narrower spreads and greater liquidity. Advising clients to consider liquidity needs is critical to minimize transaction costs.  
@@ -178,7 +178,7 @@ Royal Bank of Canada (RBC) may issue a 5-year corporate bond to raise $1 billion
 
 ---------------------------------------------------------------------------
 
-## 9. Common Pitfalls
+## Common Pitfalls
 
 • Overlooking Credit Risk: Investors may chase higher yields without adequately assessing the bond’s credit rating or default risk.  
 • Ignoring Liquidity Constraints: Less-liquid bonds can have wide bid-ask spreads—significantly impacting returns if you need to sell before maturity.  
@@ -187,7 +187,7 @@ Royal Bank of Canada (RBC) may issue a 5-year corporate bond to raise $1 billion
 
 ---------------------------------------------------------------------------
 
-## 10. Glossary
+## Glossary
 
 • **Primary Market:** The market for new issues of securities.  
 • **Secondary Market:** The market where investors buy and sell existing securities.  
@@ -196,7 +196,7 @@ Royal Bank of Canada (RBC) may issue a 5-year corporate bond to raise $1 billion
 
 ---------------------------------------------------------------------------
 
-## 11. Additional Resources
+## Additional Resources
 
 • Bank of Canada: Market Notices and auction results (bankofcanada.ca)  
 • Canadian Depository for Securities (CDS): Clearing and settlement processes (https://www.cds.ca)  

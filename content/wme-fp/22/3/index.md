@@ -16,11 +16,11 @@ In this section, we evaluate both passive and active bond trading strategies, hi
 
 ---
 
-## 1. Passive Bond Strategies
+## Passive Bond Strategies
 
 Passive strategies emphasize lower turnover, aiming to capture broad market returns. These approaches generally have lower transaction costs and rely on the conviction that it is difficult to consistently outperform a market index after fees and trading costs.
 
-### 1.1 Buy-and-Hold Strategy
+### Buy-and-Hold Strategy
 • Investors hold bonds until maturity, collecting coupon payments.  
 • Minimizes transaction costs and reduces the influence of market sentiment on investment decisions.  
 • Avoids frequent rebalancing but may not exploit market opportunities (e.g., rising yields that permit reinvestment at higher rates).
@@ -28,7 +28,7 @@ Passive strategies emphasize lower turnover, aiming to capture broad market retu
 ◈ Case Example  
 A retiree invests in a ladder of high-quality provincial bonds, each maturing in different years. Their primary objective is to secure predictable coupon income for the duration of their retirement, ignoring short-term price fluctuations. This buy-and-hold strategy ensures they capture the yield they locked in at purchase, mitigating market timing risks.
 
-### 1.2 Indexing
+### Indexing
 • Replicate the holdings of a targeted bond index, such as the FTSE Canada Universe Bond Index.  
 • Reduces tracking error, approximates market returns, and typically offers lower management costs compared to active strategies.  
 • Ideal for those wishing to gain exposure to broad segments of the Canadian bond market without incurring the time and expense of security selection.
@@ -38,11 +38,11 @@ A wealth management firm replicates the FTSE Canada Universe Bond Index for clie
 
 ---
 
-## 2. Active Bond Strategies
+## Active Bond Strategies
 
 Active bond managers seek to outperform benchmarks by adjusting portfolio structure based on interest rate forecasts, credit analysis, or sector rotation. This typically involves higher research costs and trading frequency.
 
-### 2.1 Interest Rate Anticipation (Riding the Yield Curve)
+### Interest Rate Anticipation (Riding the Yield Curve)
 • Adjust portfolio duration in anticipation of interest rate movements.  
 • If rates are expected to fall, increasing duration may maximize capital gains. Conversely, if rates are expected to rise, a shorter duration reduces price volatility.  
 • Requires careful monitoring of economic data (inflation indicators, GDP growth reports, Bank of Canada policy statements).
@@ -50,7 +50,7 @@ Active bond managers seek to outperform benchmarks by adjusting portfolio struct
 ◈ Canadian Pension Fund Example  
 A large Canadian pension fund expects the Bank of Canada to lower interest rates in response to slowing economic growth. In response, the fund strategically purchases long-term Government of Canada bonds, aiming to benefit from price appreciation when rates drop.
 
-### 2.2 Yield Curve Strategies: Bullet, Barbell, and Laddered
+### Yield Curve Strategies: Bullet, Barbell, and Laddered
 The shape of the yield curve can significantly influence bond strategy. Three common yield curve positioning approaches are:
 
 1. **Bullet**  
@@ -76,7 +76,7 @@ flowchart LR
     E(Ladder Strategy) --- F(Regularly Staggered Maturities)
 ```
 
-### 2.3 Bond Swaps
+### Bond Swaps
 A bond swap involves simultaneously selling one bond and purchasing another with the objective of improving the portfolio, whether through yield enhancement, credit quality improvements, or tax benefits. Common types include:
 
 • **Yield Pickup Swap**: Exchanging a lower-yield bond for a higher-yield alternative of similar maturity and credit quality.  
@@ -89,7 +89,7 @@ An investor holds a mid-range corporate bond that has declined in price. Wanting
 
 ---
 
-## 3. Credit Analysis and Sector Rotation
+## Credit Analysis and Sector Rotation
 
 Active bond managers also try to outperform by carefully assessing credit risk and rotating among different sectors (e.g., corporate debt, government debt, high-yield bonds) based on market conditions and economic cycles:
 
@@ -101,7 +101,7 @@ An ETF manager invests more heavily in high-yield Canadian corporate bonds upon 
 
 ---
 
-## 4. Immunization
+## Immunization
 
 Immunization is the process of matching your assets’ duration to your liabilities’ duration so that changes in interest rates have minimal net impact on portfolio value relative to obligations. This approach is common among insurance companies and pension funds, which have predictable future liabilities:
 
@@ -121,7 +121,7 @@ Immunization provides stability but also involves reinvestment risks and require
 
 ---
 
-## 5. Practical Considerations for Advisors
+## Practical Considerations for Advisors
 
 To ensure successful fixed-income management, Canadian wealth advisors must consider:
 
@@ -142,7 +142,7 @@ To ensure successful fixed-income management, Canadian wealth advisors must cons
 
 ---
 
-## 6. Glossary
+## Glossary
 
 • **Buy-and-Hold**  
 Maintaining an investment in bonds until maturity to avoid frequent trading.
@@ -161,7 +161,7 @@ Balancing the duration of assets and liabilities so that the portfolio value rem
 
 ---
 
-## 7. Additional Resources and References
+## Additional Resources and References
 
 • **CIRO Guidelines on Suitability and Disclosure**: Ensure your recommended strategies meet clients’ financial objectives, risk profiles, and regulatory requirements.  
 • **Government of Canada’s Department of Finance Canada** (https://www.fin.gc.ca/) for fiscal updates, debt issuance schedules, and economic projections.  

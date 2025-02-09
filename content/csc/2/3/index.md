@@ -16,9 +16,9 @@ Canada’s financial markets are shaped by a combination of regulatory framework
 
 ---
 
-## 1. Primary vs. Secondary Markets
+## Primary vs. Secondary Markets
 
-### 1.1 Primary Market
+### Primary Market
 
 The primary market is where new securities—such as stocks or bonds—are issued and sold to investors for the first time.  
 • In an equity context, an Initial Public Offering (IPO) is a classic example: a private company offers its shares publicly for the first time.  
@@ -39,7 +39,7 @@ graph LR
 #### Real-World Example:  
 A major Canadian bank, such as RBC or TD, might underwrite a new issuance of corporate bonds for a blue-chip Canadian company. The bank works with the company to structure the bond, finalize the interest rate (coupon), and distribute the bonds to institutional and retail investors who purchase them for the first time in the primary market.
 
-### 1.2 Secondary Market
+### Secondary Market
 
 Once securities have been issued, they begin trading in the secondary market, where investors buy and sell these existing securities among themselves.  
 • The majority of stock and bond trading volume takes place here.  
@@ -62,16 +62,16 @@ A pension fund that purchased shares in a major Canadian corporation at the IPO 
 
 ---
 
-## 2. Auction Markets vs. Dealer Markets
+## Auction Markets vs. Dealer Markets
 
-### 2.1 Auction Markets
+### Auction Markets
 
 In an auction market, buyers and sellers place competing bids and offers, with trades executed when there is a match.  
 • The Toronto Stock Exchange (TSX) is an auction market where a central order book displays buy orders (bids) and sell orders (asks).  
 • These orders are matched based on price priority (the highest buy bid matches the lowest sell offer) and time priority (earlier orders at the same price get matched first).  
 • This setup provides transparency, as current bid/ask prices and trade volumes are publicly visible.
 
-### 2.2 Dealer Markets (OTC)
+### Dealer Markets (OTC)
 
 In dealer or over-the-counter (OTC) markets, individual dealers (sometimes referred to as market makers) quote bid and ask prices.  
 • The dealer handles the execution by buying or selling from its own inventory.  
@@ -96,11 +96,11 @@ flowchart LR
 
 ---
 
-## 3. Electronic Trading Systems
+## Electronic Trading Systems
 
 Technology continues to reshape financial markets, accelerating trade matching and fostering new platforms.
 
-### 3.1 Equity Markets
+### Equity Markets
 • Electronic order books, or “matching engines,” execute trades in fractions of a second.  
 • Alternative Trading Systems (ATS) allow market participants to execute large or specialized orders outside traditional exchange structures, seeking better prices or mitigating market impact.  
 • “Dark pools” are private ATS venues where large institutional blocks can be traded with minimal disclosure of trading intentions.  
@@ -108,29 +108,29 @@ Technology continues to reshape financial markets, accelerating trade matching a
 #### Practical Example:  
 Algorithmic trading strategies are widely used by large Canadian institutions. RBC, for instance, might use sophisticated algorithms for block trading on TSX or ATS platforms. An asset manager seeking to acquire a large block of shares can place an order on a dark pool to avoid revealing its full intention to the broader market.
 
-### 3.2 Fixed-Income Markets
+### Fixed-Income Markets
 • Government of Canada bonds and some highly liquid corporate bonds trade via electronic request-for-quote systems, where institutions can solicit multiple quotes from dealers simultaneously.  
 • Many trades still occur through direct communication (telephone or chat) with dealers—particularly for less liquid bonds or structured fixed-income products.  
 • Specialized electronic bond trading platforms provide real-time quotes and improved transparency, though uptake is often more robust for government securities than for corporate issues.
 
 ---
 
-## 4. Regulatory and Disclosure Requirements
+## Regulatory and Disclosure Requirements
 
-### 4.1 Oversight
+### Oversight
 
 Canada’s financial market regulation is somewhat decentralized, managed at the provincial and territorial level. However, several national bodies set consistent standards.  
 • The Canadian Investment Regulatory Organization (CIRO) oversees conduct and operational standards for investment dealers.  
 • Provincial regulators (e.g., the Ontario Securities Commission, the British Columbia Securities Commission) supervise marketplace operations and issuer disclosures.
 
-### 4.2 Best Execution and Market Transparency
+### Best Execution and Market Transparency
 
 Dealers and advisors face a fiduciary or regulatory duty to seek the best possible price and execution terms for their clients. This concept is commonly referred to as “best execution.”  
 • CIRO Trading Conduct Rules require that participating firms maintain robust policies and procedures to ensure they consistently strive for best execution.  
 • Real-time data feeds (Level I, Level II quotes) help investors and dealers gauge price and market depth.  
 • Regulators balance transparency with confidentiality for larger block trades to prevent market distortions.  
 
-### 4.3 Disclosure and Reporting
+### Disclosure and Reporting
 
 Firms are required to:  
 • Provide trade confirmations to clients, detailing execution prices, commissions, and any relevant fees.  
@@ -139,33 +139,33 @@ Firms are required to:
 
 ---
 
-## 5. Market Intermediaries and Participants
+## Market Intermediaries and Participants
 
-### 5.1 Brokers
+### Brokers
 
 Brokers act as agents for clients, executing trades on their behalf. They do not generally hold an inventory of securities but charge a commission or fee for their services.  
 • Full-service brokers may offer research, advice, and financial planning, while discount brokers primarily focus on execution.
 
-### 5.2 Dealers (Market Makers)
+### Dealers (Market Makers)
 
 Dealers, sometimes called market makers, can buy and sell from their own inventories, profiting from the spread between the bid price and the ask price.  
 • In an OTC bond market, a dealer quotes both bid and ask prices.  
 • In an exchange-traded equity market, designated market makers may also be obligated to provide liquidity under certain conditions.
 
-### 5.3 Institutional Investors
+### Institutional Investors
 
 Institutions such as pension funds, mutual funds, insurance companies, or hedge funds often trade large volumes.  
 • They can significantly influence pricing and liquidity due to the size of their orders.  
 • Many institutions use algorithmic and high-frequency trading to optimize execution strategies.
 
-### 5.4 Retail Investors
+### Retail Investors
 
 Individual investors quite often trade through discount brokers or online platforms, utilizing resources like research reports, charting tools, and robo-advisors.  
 • While their individual orders are typically smaller, retail investor sentiment can have a noticeable influence on market momentum and liquidity over time.
 
 ---
 
-## 6. Step-by-Step Guidance: Navigating the Markets
+## Step-by-Step Guidance: Navigating the Markets
 
 1. Identify Your Objectives: Determine if you are buying newly issued securities (primary market) or established ones (secondary market).  
 2. Choose a Market Venue: Decide whether you’ll trade on an auction market (e.g., TSX) or via a dealer market (common for bonds).  
@@ -177,7 +177,7 @@ Individual investors quite often trade through discount brokers or online platfo
 
 ---
 
-## 7. Best Practices, Pitfalls, and Challenges
+## Best Practices, Pitfalls, and Challenges
 
 • Stay Informed of Regulatory Developments: As regulations evolve, being aware of changes in market conduct rules or listing requirements helps maintain compliance.  
 • Mind Liquidity in Dealer Markets: Not all bonds or thinly traded stocks are equally liquid. Recognize the implications of wide bid-ask spreads.  
@@ -187,7 +187,7 @@ Individual investors quite often trade through discount brokers or online platfo
 
 ---
 
-## 8. Glossary of Key Terms
+## Glossary of Key Terms
 
 • **Primary Market:** The market in which new securities are offered to the public for the first time.  
 • **Secondary Market:** The market where existing securities are traded among investors.  
@@ -197,7 +197,7 @@ Individual investors quite often trade through discount brokers or online platfo
 
 ---
 
-## 9. References and Additional Resources
+## References and Additional Resources
 
 • **CIRO Trading Conduct Rules:**  
   Visit [https://www.ciro.ca/](https://www.ciro.ca/) for comprehensive guidelines on best execution, order protection, and marketplace operations.  

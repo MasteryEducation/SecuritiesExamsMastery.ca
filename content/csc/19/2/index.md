@@ -16,7 +16,7 @@ Below is an in-depth look at some of the most important features of ETFs and how
 
 ---
 
-## 1. Lower Management Fees
+## Lower Management Fees
 
 One of the primary attractions of ETFs is their relatively low Management Expense Ratio (MER). Compared to many actively managed mutual funds, ETFs—especially index-based or “passive” ETFs—tend to carry lower fees because their objective is simply to replicate the performance of a specific index (e.g., S&P/TSX Composite). Lower costs can significantly impact investors’ net returns in the long run.
 
@@ -28,7 +28,7 @@ Lower fees allow investors to keep more of their gains. Over long investment hor
 
 ---
 
-## 2. Intra-Day Trading
+## Intra-Day Trading
 
 Unlike mutual funds that are priced once a day after the market closes, ETFs trade throughout the trading day on public exchanges (e.g., Toronto Stock Exchange). This flexibility offers the following benefits:
 
@@ -41,7 +41,7 @@ Consider an investor holding a TFSA (Tax-Free Savings Account) at a Canadian bro
 
 ---
 
-## 3. Transparency of Holdings
+## Transparency of Holdings
 
 ETFs generally disclose their portfolio holdings on a daily or near-daily basis. Such transparency is invaluable for investors who want to understand exactly what they own:
 
@@ -54,7 +54,7 @@ RBC iShares ETFs provide frequent holdings updates on their websites. For exampl
 
 ---
 
-## 4. Creation and Redemption Mechanism (Liquidity)
+## Creation and Redemption Mechanism (Liquidity)
 
 A critical feature of ETFs is the creation/redemption mechanism. This structure typically involves “authorized participants” (often large financial institutions or market makers) who can create or redeem large blocks of ETF shares known as “creation units.”
 
@@ -79,7 +79,7 @@ flowchart LR
 
 ---
 
-## 5. Market Exposure (Broad-Based or Specialized)
+## Market Exposure (Broad-Based or Specialized)
 
 ETFs provide immense flexibility. Investors can choose from an array of offerings—ranging from broad-based ETFs covering the entire equity market to more specialized ones focused on specific sectors, asset classes, or even thematic investing.
 
@@ -92,7 +92,7 @@ A Canadian pension fund may allocate a portion of its assets to ETF strategies t
 
 ---
 
-## 6. Glossary
+## Glossary
 
 Below are key terms that investors will often encounter when dealing with ETFs:
 
@@ -103,7 +103,7 @@ Below are key terms that investors will often encounter when dealing with ETFs:
 
 ---
 
-## 7. Best Practices and Considerations
+## Best Practices and Considerations
 
 When selecting ETFs for your portfolio, consider these best practices:
 
@@ -120,7 +120,7 @@ When selecting ETFs for your portfolio, consider these best practices:
 
 ---
 
-## 8. Step-by-Step Guidance for Evaluating an ETF
+## Step-by-Step Guidance for Evaluating an ETF
 
 1. Define Your Investment Objective  
    Determine if you need broad market exposure, sector-specific coverage, or a niche thematic focus.
@@ -148,7 +148,7 @@ When selecting ETFs for your portfolio, consider these best practices:
 
 ---
 
-## 9. Canadian Regulatory Environment and Additional Resources
+## Canadian Regulatory Environment and Additional Resources
 
 In Canada, ETFs are primarily governed under National Instrument 81-102 (Investment Funds), which sets out requirements for mutual funds and exchange-traded funds alike. This regulatory framework outlines permissible investments, custodial arrangements, disclosure obligations, and overall operational standards.
 

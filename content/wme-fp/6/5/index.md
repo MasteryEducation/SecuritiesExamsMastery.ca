@@ -14,7 +14,7 @@ Divorce is a significant life transition that can dramatically alter a client’
 
 ---
 
-### 1. Changes to Net Worth and Liquidity
+### Changes to Net Worth and Liquidity
 
 A divorce often leads to a reconfiguration of a client’s net worth and available liquidity. Several factors contribute to this shift:
 
@@ -35,50 +35,50 @@ Overall, a client’s post-divorce net worth is often lower and may come with ne
 
 ---
 
-### 2. Shifting Goals and Timeline
+### Shifting Goals and Timeline
 
 A divorce can fundamentally alter a client’s financial goals. Advisors, therefore, have to take a fresh look at timelines and target objectives.
 
-#### 2.1 Retirement Plans
+#### Retirement Plans
 
 • Reduced Savings Rate: Spousal support obligations, a division of retirement accounts, and legal fees can limit the ability to contribute to Registered Retirement Savings Plans (RRSPs) or Tax-Free Savings Accounts (TFSAs).  
 • Revised Lifestyle Expectations: Clients might need to adjust their expected retirement age and the lifestyle they can afford upon leaving the workforce.
 
 For example, a client at RBC managing a balanced portfolio for retirement at age 60 may now need to postpone this goal to age 65 to budget for spousal support payments. Alternatively, they might decide to increase contributions, if feasible, to stay on track.
 
-#### 2.2 Education Savings
+#### Education Savings
 
 • RESP Contributions: If the separation changes a child’s primary residence or reduces a parent’s disposable income, contributions to a Registered Education Savings Plan (RESP) could decline.  
 • Adjusting Income Splits: Divorced parents might renegotiate how to split future education costs, affecting overall planning strategies for the child’s post-secondary education.
 
-#### 2.3 Housing Plans
+#### Housing Plans
 
 • Shifting Residency: One spouse could be forced to sell the matrimonial home and move, instantly changing housing costs and mortgage requirements.  
 • Down Payments or Mortgage Refinancing: A client may need to refinance the existing mortgage under a single name or secure a new mortgage to purchase a separate property.
 
 ---
 
-### 3. Insurance and Estate Adjustments
+### Insurance and Estate Adjustments
 
 Post-divorce, a client’s insurance and estate plans often require immediate review to ensure they remain current and aligned with new realities.
 
-#### 3.1 Beneficiary Designations
+#### Beneficiary Designations
 
 • Life Insurance Policies: Many couples list each other as primary beneficiaries; a divorce may prompt an immediate change to remove the former spouse.  
 • Registered Accounts: RRSPs, RRIFs, and TFSAs often carry beneficiary designations that must be updated to prevent unintended asset transfers.
 
-#### 3.2 Wills and Powers of Attorney
+#### Wills and Powers of Attorney
 
 • Executors and Guardians: If a former spouse was named as executor or guardian, the client may wish to name a different individual.  
 • Estate Documents: Clients should promptly revise their wills and any Powers of Attorney (POA), ensuring they align with the new family and financial situation.
 
-#### 3.3 Joint Accounts and Policies
+#### Joint Accounts and Policies
 
 Untangling joint financial products is crucial to avoid unintended liability or entitlement. For example, a joint life insurance policy might require an adjustment to coverage limits, beneficiary designations, or even termination if no longer needed.
 
 ---
 
-### 4. Emotional and Psychological Factors
+### Emotional and Psychological Factors
 
 The emotional stress of divorce can influence decision-making and hamper objective financial evaluations. While advisors are not mental health professionals, it is important to acknowledge:
 
@@ -89,7 +89,7 @@ Providing a supportive, empathetic environment can help clients stay focused on 
 
 ---
 
-### 5. Coordination with Other Professionals
+### Coordination with Other Professionals
 
 Because divorce intersects legal, tax, and financial realms, multidisciplinary collaboration is often vital.
 
@@ -108,7 +108,7 @@ Because divorce intersects legal, tax, and financial realms, multidisciplinary c
 
 ---
 
-### 6. Practical Example: A Case Study
+### Practical Example: A Case Study
 
 Consider a hypothetical scenario involving John and Linda, both aged 45, living in Toronto:
 
@@ -128,7 +128,7 @@ This scenario highlights the interplay between asset division, liquidity, retire
 
 ---
 
-### 7. Visual Overview of the Divorce Financial Planning Process
+### Visual Overview of the Divorce Financial Planning Process
 
 Below is a simple flowchart illustrating key steps in managing finances after a divorce decision:
 
@@ -151,7 +151,7 @@ flowchart TB
 
 ---
 
-### 8. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 • Maintain Detailed Records: Tax authorities or courts may require extensive evidence of each spouse’s assets and debts—keep meticulous documentation.  
 • Revisit Budgeting and Cash Flow: Post-divorce income and expenses can shift dramatically, requiring detailed forecasting and scenario analysis.  
@@ -161,7 +161,7 @@ flowchart TB
 
 ---
 
-### 9. Glossary
+### Glossary
 
 - **Liquidity:** The ease with which assets can be converted into cash without significantly impacting their price.  
 - **Beneficiary Designation:** Naming a specific individual or entity to receive proceeds upon the account holder’s death.  
@@ -170,7 +170,7 @@ flowchart TB
 
 ---
 
-### 10. Summary
+### Summary
 
 Divorce significantly reshapes your client’s finances, from net worth and liquidity to insurance policies and estate plans. As a wealth advisor, you play a pivotal role in helping clients navigate legal obligations, emotional turmoil, and tax implications. By coordinating with family lawyers, tax specialists, and counselors or therapists, you can offer clients comprehensive support during a period that often demands sensitivity, thorough planning, and strategic foresight. 
 

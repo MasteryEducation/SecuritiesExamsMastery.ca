@@ -14,7 +14,7 @@ In Canadian capital markets, issuing new securities to the public can take multi
 
 ---
 
-## 1. Private Placements
+## Private Placements
 
 Private placements involve the sale of securities (either equity or debt) directly to a relatively small group of institutional or accredited investors without filing a public prospectus. Typically, private placements fall under prospectus exemptions set out in [National Instrument 45-106 “Prospectus Exemptions”](https://www.securities-administrators.ca), which provides the legal framework for offering securities privately. Under this framework:
 
@@ -22,18 +22,18 @@ Private placements involve the sale of securities (either equity or debt) direct
 • The issuer avoids the expense and disclosure requirements of a public offering, although certain reporting and disclosure obligations still apply (e.g., providing an offering memorandum).  
 • Private placements can typically be completed more rapidly than public offerings.
 
-### 1.1 Typical Workflow for a Private Placement
+### Typical Workflow for a Private Placement
 
 1. Identify Potential Investors: Issuers, underwriters, or dealers approach high-net-worth individuals or institutional clients.  
 2. Negotiate Terms: Price per share, number of shares, or coupon rates for debt instruments are established.  
 3. Documentation: A private placement memorandum (or offering memorandum) detailing investment risks, business operations, and terms of the offering is prepared.  
 4. Closing & Funding: Upon investors’ agreement, funds are transferred to the issuer. Legal documentation is signed and the issuer delivers the newly issued securities.
 
-### 1.2 Real-World Example
+### Real-World Example
 
 Consider a smaller Canadian technology startup aiming to raise CA$10 million to expand its product line. The startup might choose a private placement due to time constraints and a desire to maintain confidentiality regarding their internal growth strategy. By securing funds from a few venture capital firms that qualify as accredited investors, the issuer avoids extensive public disclosure and can close the deal swiftly.
 
-### 1.3 Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 • Conduct Thorough Due Diligence: Even though prospectus requirements are exempt, comprehensive due diligence remains vital.  
 • Maintain Clear Investor Communication: Investors must understand the risks and benefits associated with the private offering.  
@@ -42,17 +42,17 @@ Consider a smaller Canadian technology startup aiming to raise CA$10 million to 
 
 ---
 
-## 2. Short Form Prospectus
+## Short Form Prospectus
 
 A short form prospectus allows eligible issuers to file a condensed prospectus if they meet continuous disclosure requirements. The process is governed by rules under [National Instrument 44-101 “Short Form Prospectus Distributions”](https://www.securities-administrators.ca).
 
-### 2.1 Key Features
+### Key Features
 
 • Streamlined Disclosure: Rather than producing an exhaustive document, the issuer references information from its existing continuous disclosure records (e.g., annual information form, management discussion & analysis).  
 • Faster Time to Market: Companies meeting the eligibility criteria often have already satisfied ongoing disclosure requirements, reducing regulatory review times.  
 • Lower Costs: Reduced length and complexity of documents can mean lower legal, printing, and administrative expenses.
 
-### 2.2 Step-by-Step Process
+### Step-by-Step Process
 
 1. Preliminary Short Form Prospectus: Issuer prepares a preliminary version and files it.  
 2. Review by Regulators: Securities commissions examine the document for completeness and accuracy.  
@@ -60,11 +60,11 @@ A short form prospectus allows eligible issuers to file a condensed prospectus i
 4. Final Short Form Prospectus: After incorporating any required changes, the final document is filed.  
 5. Closing: Investors purchase the new securities under the offering.
 
-### 2.3 Real-World Example
+### Real-World Example
 
 Royal Bank of Canada (RBC), being a large and longstanding reporting issuer, frequently uses the short form prospectus system. Because RBC consistently meets continuous disclosure requirements, it can quickly file a short form prospectus when raising capital. This agility can be crucial if RBC anticipates favourable market conditions and seeks to lock in an advantageous price.
 
-### 2.4 Challenges and Considerations
+### Challenges and Considerations
 
 • Must Be a Qualified Reporting Issuer: Not all companies qualify. Firms with insufficient reporting history or major recent corporate events may be ineligible.  
 • Market Timing Complexity: Even with a streamlined process, external market conditions can change rapidly, requiring quick strategic decisions.  
@@ -72,17 +72,17 @@ Royal Bank of Canada (RBC), being a large and longstanding reporting issuer, fre
 
 ---
 
-## 3. Shelf Registration (Shelf Prospectus)
+## Shelf Registration (Shelf Prospectus)
 
 A shelf registration (or “shelf prospectus”) is a mechanism that lets an issuer file a base shelf prospectus with regulators, which is valid for a specified period (usually 25 months in Canada). During this period, the issuer can offer securities in multiple tranches without needing to file a new prospectus each time, provided the offerings fall within the scope described in the base prospectus. This structure is governed by [National Instrument 44-102 “Shelf Distributions”](https://www.securities-administrators.ca).
 
-### 3.1 Advantages of a Shelf Prospectus
+### Advantages of a Shelf Prospectus
 
 • Flexibility and Speed: Once the base shelf prospectus is cleared, new offerings can be launched quickly, allowing the issuer to capitalize on market windows.  
 • Reduced Regulatory Burden: Shorter supplemental or “prospectus supplement” documents typically accompany each subsequent issuance, referencing the base shelf.  
 • Cost Efficiency: Legal and documentation expenses may be lower over time, especially for issuers with recurring funding needs.  
 
-### 3.2 Visual Overview
+### Visual Overview
 
 Below is a simplified diagram illustrating how shelf registration works from filing to subsequent offerings:
 
@@ -98,11 +98,11 @@ flowchart LR
 2. Upon approval, the issuer has a window (e.g., up to 25 months) to issue multiple tranches of securities under that shelf.  
 3. Each time the issuer wants to distribute new securities, it files a short supplement referencing the base prospectus.  
 
-### 3.3 Practical Example: Timing the Market
+### Practical Example: Timing the Market
 
 Imagine Toronto-Dominion (TD) Bank expects to raise CA$4 billion over the next two years for strategic acquisitions. By filing a shelf prospectus, TD can time each issuance to match favourable market conditions (e.g., lower interest rates for bond issues). This approach gives TD flexibility to spread out financing across multiple tranches when capital is cheapest.
 
-### 3.4 Considerations and Pitfalls
+### Considerations and Pitfalls
 
 • Continuous Disclosure: The issuer must keep all disclosures (financial statements, material changes) current throughout the shelf’s validity.  
 • Size and Demand Estimates: Overestimating investor demand or undervaluing the total shelf size can lead to unused capacity or capital structure mismatches.  
@@ -110,11 +110,11 @@ Imagine Toronto-Dominion (TD) Bank expects to raise CA$4 billion over the next t
 
 ---
 
-## 4. Bought Deals
+## Bought Deals
 
 In a bought deal, investment banks (underwriters) agree to purchase the entire offering—equity or debt—before the preliminary prospectus is filed. The underwriter then resells the securities to the public. This arrangement is common for seasoned issuers with stable credit histories and strong investor followings.
 
-### 4.1 How Bought Deals Work
+### How Bought Deals Work
 
 1. Pre-Negotiation: The issuer and underwriters discuss offering size, price, and timing.  
 2. Underwriter Commitment: The underwriter (or syndicate) commits to purchasing all securities, effectively guaranteeing the issuer a set amount of capital.  
@@ -122,17 +122,17 @@ In a bought deal, investment banks (underwriters) agree to purchase the entire o
 4. Risk Transfer: Market risk shifts from issuer to underwriter, raising the stakes for underwriters to accurately price the offering.  
 5. Distribution to Public: The underwriter markets and sells parcels of the offering to investors (institutions, retail, etc.).
 
-### 4.2 Why Choose a Bought Deal?
+### Why Choose a Bought Deal?
 
 • Speed and Certainty: The issuer knows immediately how much capital will be raised.  
 • Market Risk Reduction for Issuer: Any immediate fluctuation in market prices affects the underwriter, not the issuer.  
 • Favourable for Strong Credits/Brands: Underwriters are more willing to agree to bought deals for established companies with robust financials.
 
-### 4.3 Example in Practice
+### Example in Practice
 
 A major mining company, known for consistent production and stable prices, might execute a bought deal with a top-tier Canadian investment bank. Given the miner’s solid track record, the underwriter is comfortable taking on the risk. The miner benefits from an expedited timeline and less uncertainty about final proceeds.
 
-### 4.4 Key Challenges
+### Key Challenges
 
 • Underwriter Pricing Dilemma: If the underwriter overestimates demand, it could be left holding unsold securities.  
 • Regulation: Although the process is quick, it must still comply with [National Instrument 44-101 “Short Form Prospectus”](https://www.securities-administrators.ca) and related disclosure rules if a short form prospectus is used.  

@@ -16,7 +16,7 @@ This section discusses how securities are bought and sold, emphasizing the diffe
 
 ---
 
-## 1. Understanding the Order Flow in the Canadian Markets
+## Understanding the Order Flow in the Canadian Markets
 
 At the heart of a securities transaction is the order flow: the path an order travels from the investor to the marketplace where it is matched with a corresponding buy or sell order. The major participants in this process are:
 
@@ -40,7 +40,7 @@ Investors choose an appropriate order type based on their goals, risk tolerance,
 
 ---
 
-## 2. Market Orders
+## Market Orders
 
 A market order instructs the brokerage or trading platform to buy or sell a security immediately at the best available price. Because market orders are executed promptly:
 
@@ -50,11 +50,11 @@ A market order instructs the brokerage or trading platform to buy or sell a secu
 • Disadvantage:  
   - Price uncertainty. In volatile conditions, the final execution price may differ significantly from the quote at the time the order was placed.
 
-### 2.1 Practical Example
+### Practical Example
 
 Consider an investor at RBC Direct Investing who places a market order to buy 1,000 shares of ABC Inc. at 10:00 a.m. The most recent bid price may be $20.00, and the ask could be $20.05. With a market order, the investor’s instruction is processed immediately, and shares are purchased at a price close to $20.05, possibly spanning multiple limit orders on the order book if the share volume at each price level is insufficient to fill the entire order at once.
 
-### 2.2 When to Use a Market Order
+### When to Use a Market Order
 
 • When speed is of utmost importance (e.g., urgent buying or selling).  
 • For actively traded stocks that feature tight bid-ask spreads and high liquidity.  
@@ -62,7 +62,7 @@ Consider an investor at RBC Direct Investing who places a market order to buy 1,
 
 ---
 
-## 3. Limit Orders
+## Limit Orders
 
 A limit order sets a specified price—target for buyers (no more than a stated price) and a minimum acceptable price for sellers. This grants the investor significant control over the transaction price but comes with the risk that the order may not execute if the security’s market price does not meet the limit price.
 
@@ -72,11 +72,11 @@ A limit order sets a specified price—target for buyers (no more than a stated 
 • Disadvantage:  
   - Non-execution or partial execution risk if the market never hits the specified price.
 
-### 3.1 How Limit Orders Work
+### How Limit Orders Work
 
 Imagine an investor wants to buy shares of XYZ Corp. at no more than $50.00 per share. They could place a buy limit order at $50.00. If the asking price remains above $50.00, the order will not fill. The order executes only if the market price drops to $50.00 or better (below $50.00).
 
-### 3.2 Strategic Considerations
+### Strategic Considerations
 
 • Helpful in volatile markets where prices fluctuate rapidly and an investor wants to avoid paying more (or receiving less) than intended.  
 • Often used by more risk-averse or price-conscious traders.  
@@ -84,7 +84,7 @@ Imagine an investor wants to buy shares of XYZ Corp. at no more than $50.00 per 
 
 ---
 
-## 4. Stop Orders (Stop-Loss Orders)
+## Stop Orders (Stop-Loss Orders)
 
 A stop-loss (stop) order is triggered once a specified “stop price” is reached or surpassed. After triggering, it converts to a market order and executes at the best available price. **Stop orders** are widely used to limit losses or protect gains in a portfolio.
 
@@ -94,11 +94,11 @@ A stop-loss (stop) order is triggered once a specified “stop price” is reach
 • Disadvantage:  
   - Execution could occur at a price significantly worse than the stop price in a rapidly falling market or during a market gap.
 
-### 4.1 Real-World Example
+### Real-World Example
 
 Assume an investor has accumulated shares of DEF Ltd. in a margin account at TD Direct Investing. The shares are trading around $35.00, and the investor places a stop order at $30.00 to exit the position if the price drops significantly. If DEF Ltd. trades below $30.00 for any reason (e.g., a major earnings miss), the stop order is triggered and converts into a market order. If the stock is temporarily very illiquid or experiences a large downward gap, the actual execution price could be $29.50 or even lower.
 
-### 4.2 Best Practices
+### Best Practices
 
 • Place stop orders based on support levels identified in fundamental or technical analysis.  
 • Recognize that stops do not guarantee execution at or near the stop price.  
@@ -106,11 +106,11 @@ Assume an investor has accumulated shares of DEF Ltd. in a margin account at TD 
 
 ---
 
-## 5. Stop-Limit Orders
+## Stop-Limit Orders
 
 A stop-limit order merges the features of a stop order and a limit order. Once the stop price is reached, the order becomes a **limit order** (as specified), rather than a market order. This provides partial protection against slippage but introduces the risk that the position won’t be closed if the limit price is not fulfilled.
 
-### 5.1 Example: Stop-Limit Order Dynamics
+### Example: Stop-Limit Order Dynamics
 
 If an investor holds GHI Inc. shares trading at $40.00 and wishes to protect downside below $35.00 but also wants to avoid a massive price gap, they could use a stop-limit order. For instance:
 
@@ -121,21 +121,21 @@ Once GHI Inc. hits $35.00, the order transforms into a limit order to sell at $3
 
 ---
 
-## 6. Day Orders vs. Good-Till-Cancelled (GTC) Orders
+## Day Orders vs. Good-Till-Cancelled (GTC) Orders
 
 An order’s duration is equally important as its type:
 
 1. **Day Order**: Valid only for the current trading session. It automatically expires if not executed by day’s end.  
 2. **Good-Till-Cancelled (GTC)**: Remains active until it is executed or explicitly cancelled (often subject to a dealer’s maximum time limit, commonly around 30–90 days).
 
-### 6.1 Strategic Use of Day vs. GTC Orders
+### Strategic Use of Day vs. GTC Orders
 
 • **Day Orders**: Suitable for short-term traders who frequently adjust trading levels or rely on daily market movements.  
 • **GTC Orders**: Favorable for investors operating with longer timelines who do not wish to re-enter orders daily. However, GTC orders can become neglected and fill unexpectedly after corporate announcements, leading to unintended trades at certain price levels.
 
 ---
 
-## 7. Special Instructions: Fill or Kill, Immediate or Cancel
+## Special Instructions: Fill or Kill, Immediate or Cancel
 
 When exact timing and certainty are required, special instructions can be added:
 
@@ -146,7 +146,7 @@ Institutional investors sometimes use these instructions to control the market i
 
 ---
 
-## 8. Regulatory Oversight and Order Protection
+## Regulatory Oversight and Order Protection
 
 Regulatory bodies such as CIRO (Canadian Investment Regulatory Organization) exist to ensure an equitable and transparent marketplace:
 
@@ -160,7 +160,7 @@ For detailed guidance on these rules, see:
 
 ---
 
-## 9. Practical Tools and Resources
+## Practical Tools and Resources
 
 Modern technology and data tools enable investors to simulate and analyze the potential outcomes of different orders:
 
@@ -172,7 +172,7 @@ Modern technology and data tools enable investors to simulate and analyze the po
 
 ---
 
-## 10. Putting It All Together: Key Considerations for Investors
+## Putting It All Together: Key Considerations for Investors
 
 Investors should weigh liquidity, volatility, and individual risk tolerance when selecting order types. Below is a summary comparison table of main order types:
 
@@ -187,7 +187,7 @@ Investors should weigh liquidity, volatility, and individual risk tolerance when
 
 ---
 
-## 11. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 • **Regularly Monitor GTC Orders**: Prices can trigger unexpectedly, especially after earnings announcements or other market-moving news.  
 • **Consider Bid-Ask Spreads**: Thinly traded stocks or wide bid-ask spreads can cause unexpected trade prices (especially with market orders).  

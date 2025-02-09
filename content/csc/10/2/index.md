@@ -46,13 +46,13 @@ In this diagram:
 
 Derivative products based on equities are among the most common. They include single-stock options, index options, and index futures.
 
-#### 2.1 Single-Stock Options
+#### Single-Stock Options
 
 • These derive their value from the price movements of a single equity security (e.g., a TSX-listed company like RBC or TD).  
 • Option buyers can speculate on whether the stock price will go up (call options) or down (put options).  
 • In Canada, single-stock options are primarily listed on the Montreal Exchange.
 
-#### 2.2 Equity Index Derivatives
+#### Equity Index Derivatives
 
 • These derivatives use broader equity benchmarks, such as the S&P/TSX 60, as the underlying assets.  
 • Traders and portfolio managers use equity index options and futures to gain diversified exposure or hedge their overall Canadian equity portfolios.  
@@ -67,13 +67,13 @@ Suppose a Canadian pension fund wants to protect its equity portfolio from a nea
 
 Fixed income derivatives include contracts based on government bonds (federal, provincial, or municipal) and corporate bonds.
 
-#### 3.1 Government Bonds
+#### Government Bonds
 
 • Derivatives may be linked to Government of Canada bonds with various maturities.  
 • Because government bonds are generally considered to have lower default risk, the primary risk is interest rate volatility rather than credit risk.  
 • Options on Government of Canada bond futures (e.g., 10-year bond futures) are heavily influenced by Bank of Canada policy, economic indicators, and market sentiment.
 
-#### 3.2 Corporate Bonds
+#### Corporate Bonds
 
 • While less common than government bond derivatives, corporate bond derivatives may reference solid, investment-grade issuers like major Canadian banks.  
 • These derivatives incorporate both interest rate risk and credit risk, potentially making them more volatile.  
@@ -85,19 +85,19 @@ Fixed income derivatives include contracts based on government bonds (federal, p
 
 Commodity derivatives span physical products such as precious metals, energy products, and agricultural goods. Although the Canadian commodity market is vast—particularly in oil, natural gas, and agricultural products—many Canadian investors trade global commodity contracts listed on major international exchanges (e.g., CME Group).
 
-#### 4.1 Precious Metals
+#### Precious Metals
 
 • Gold, silver, platinum, and palladium are popular precious metals.  
 • Price drivers include global economic conditions, geopolitical events, currency movements, and investor sentiment on safe-haven assets.  
 • Canadian investors may trade gold futures or use exchange-traded funds (ETFs) with embedded derivative strategies.
 
-#### 4.2 Energy (Oil, Natural Gas)
+#### Energy (Oil, Natural Gas)
 
 • Canada, being one of the world’s major energy producers, sees significant activity in energy-related derivatives.  
 • Supply-demand imbalances, OPEC decisions, and environmental factors often affect prices.  
 • Crude oil and natural gas futures are common instruments for hedging by producers, such as Canadian oil sands companies seeking to stabilize revenues.
 
-#### 4.3 Agricultural Products
+#### Agricultural Products
 
 • Wheat, canola, and other agricultural products are essential to Canada’s economy.  
 • Commodity prices can be volatile due to weather conditions, trade policies, and global demand.  
@@ -119,13 +119,13 @@ Currency derivatives—futures, forwards, and options—enable market participan
 
 Interest rate derivatives are unique in that they reference an interest rate, such as a benchmark short-term rate (e.g., CDOR in Canada or LIBOR/now SOFR outside Canada). Common instruments include interest rate swaps and forward rate agreements (FRAs). These derivatives allow institutions to manage exposure to fluctuations in short-term or long-term interest rates.
 
-#### 6.1 Interest Rate Swaps
+#### Interest Rate Swaps
 
 • Involve exchanging fixed interest payments for floating interest payments (or vice versa) over time.  
 • Commonly used by Canadian banks, corporations, or pension funds to transform their interest rate exposure.  
 • For example, a corporation with outstanding variable-rate debt might enter a swap to pay a fixed rate and receive a floating rate, mitigating future rate-hike exposure.
 
-#### 6.2 Forward Rate Agreements (FRAs)
+#### Forward Rate Agreements (FRAs)
 
 • Over-the-counter contracts to lock in a future interest rate for a specified period on a notional principal amount.  
 • Often used to manage short-term interest rate volatility—e.g., a bank anticipating future fluctuations in short-term rates might use an FRA to stabilize its funding costs.
@@ -151,19 +151,19 @@ A Canadian bank with a large fixed-rate mortgage portfolio may worry about risin
 
 ### Tools, Regulations, and Best Practices
 
-#### 9.1 Regulatory Institutions and Resources
+#### Regulatory Institutions and Resources
 
 • **CIRO (Canadian Investment Regulatory Organization)**: Oversees IIROC and MFDA legacy frameworks, helping ensure that market participants operate fairly and transparently.  
 • **Bank of Canada**: A key resource for interest rate information, official monetary policy statements, and economic analyses (https://www.bankofcanada.ca).  
 • **SEDAR+** (System for Electronic Document Analysis and Retrieval): Access corporate filings, financial statements, and regulatory documents (https://www.sedar.com).  
 
-#### 9.2 Analytical Tools and Frameworks
+#### Analytical Tools and Frameworks
 
 • **Python Libraries**: Pandas, NumPy, and Matplotlib for time-series analysis of volatility and correlation.  
 • **Bloomberg/Refinitiv Eikon**: Professional platforms to screen derivatives, retrieve real-time quotes, and evaluate trading strategies.  
 • **Risk Models**: Value-at-Risk (VaR), sensitivity analysis (Greeks for options) to stress test derivative positions.
 
-#### 9.3 Best Practices
+#### Best Practices
 
 • **Understand the Underlying:** Conduct thorough due diligence on the economic factors driving the asset.  
 • **Monitor Correlation and Diversification:** Evaluate how the derivative’s performance might offset or amplify other exposures in your portfolio.  

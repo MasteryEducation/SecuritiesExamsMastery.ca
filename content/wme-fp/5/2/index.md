@@ -21,7 +21,7 @@ We will also explore practical examples and strategies, so you can better guide 
 
 ---
 
-### 1. Types of Mortgages
+### Types of Mortgages
 
 Canadian lenders—such as the major banks (e.g., Royal Bank of Canada (RBC) and Toronto-Dominion (TD) Bank)—and various credit unions provide different mortgage options to suit individual investment strategies, risk tolerances, and financial goals. The three most common are:
 
@@ -29,7 +29,7 @@ Canadian lenders—such as the major banks (e.g., Royal Bank of Canada (RBC) and
 2. **Variable-Rate Mortgages**  
 3. **Hybrid or Combination Mortgages**
 
-#### 1.1 Fixed-Rate Mortgages
+#### Fixed-Rate Mortgages
 A fixed-rate mortgage offers an interest rate that remains constant throughout the selected term (often 1 to 5 years, though other term lengths exist). With predictable monthly payments, fixed-rate mortgages appeal to borrowers who want stability and straightforward budgeting.  
 
 • **Advantages:**  
@@ -43,7 +43,7 @@ A fixed-rate mortgage offers an interest rate that remains constant throughout t
 ##### Practical Example  
 Suppose a client obtains a 5-year fixed-rate mortgage at 4.50% on a principal of $400,000. Their monthly payment stays consistent, making it easier to forecast monthly budgeting for the family’s cash flow.
 
-#### 1.2 Variable-Rate Mortgages
+#### Variable-Rate Mortgages
 A variable-rate mortgage has an interest rate that fluctuates based on the lender’s prime rate (often influenced by the Bank of Canada’s overnight rate).  
 
 • **Advantages:**  
@@ -57,7 +57,7 @@ A variable-rate mortgage has an interest rate that fluctuates based on the lende
 ##### Practical Example  
 Consider a 5-year variable-rate mortgage with an initial rate of prime minus 0.50%. If the bank’s prime rate is 6.00%, the mortgage interest rate effectively starts at 5.50%. If the prime rate goes down to 5.75%, the mortgage interest rate drops to 5.25%, potentially lowering the borrower’s interest costs.
 
-#### 1.3 Hybrid or Combination Mortgages
+#### Hybrid or Combination Mortgages
 Hybrid or combination mortgages split the principal into different segments: one portion at a fixed rate and another at a variable rate. This approach balances the stability of fixed payments with the possibility of lower costs from variable rates.
 
 • **Advantages:**  
@@ -70,9 +70,9 @@ Hybrid or combination mortgages split the principal into different segments: one
 
 ---
 
-### 2. Mortgage Amortization vs. Term
+### Mortgage Amortization vs. Term
 
-#### 2.1 Amortization Period
+#### Amortization Period
 The amortization period represents the total time it would take to pay off your entire mortgage if the interest rate and payment amounts remained constant. Common amortization periods in Canada include 25 years for first-time homebuyers, though some borrowers may opt for 30-year (or shorter) amortizations.  
 
 • **Longer amortization:**  
@@ -83,7 +83,7 @@ The amortization period represents the total time it would take to pay off your 
   – Higher monthly payments.  
   – Less total interest paid, faster path to full homeownership.
 
-#### 2.2 Term
+#### Term
 The term is the length of time the mortgage contract is in effect—commonly 1, 3, or 5 years but can be as long as 10 years or as short as 6 months. Upon renewal, rates and conditions can change.  
 
 • **Short-term mortgages:**  
@@ -96,9 +96,9 @@ The term is the length of time the mortgage contract is in effect—commonly 1, 
 
 ---
 
-### 3. Qualifying for a Mortgage
+### Qualifying for a Mortgage
 
-#### 3.1 Down Payment Requirements
+#### Down Payment Requirements
 Canadian homebuyers generally require a minimum of 5% down for owner-occupied homes. However, any down payment below 20% results in a “high-ratio mortgage” that requires mortgage default insurance.
 
 • **5% down payment:**  
@@ -109,7 +109,7 @@ Canadian homebuyers generally require a minimum of 5% down for owner-occupied ho
   – Avoids mortgage default insurance.  
   – Lowers monthly payment obligations.
 
-#### 3.2 Debt Service Ratios
+#### Debt Service Ratios
 Lenders use two primary ratios to assess affordability:
 
 • **Gross Debt Service (GDS) Ratio**  
@@ -122,19 +122,19 @@ Lenders use two primary ratios to assess affordability:
 
 Keep in mind that lenders may apply additional “stress tests,” using a higher qualifying interest rate to ensure borrowers can handle potential rate increases.
 
-#### 3.3 Credit Score Benchmarks
+#### Credit Score Benchmarks
 Lenders have various minimum credit score thresholds (e.g., 620, 650, or 680) that can affect interest rates and qualification criteria. A high credit score often results in more favorable terms and lower interest rates.  
 
 • **Example:** A client with an excellent credit score of 750 may receive a discounted interest rate (e.g., prime minus 1.0%) compared to a client with a 650 credit score (who might only qualify for prime minus 0.25%).
 
-#### 3.4 Documentation
+#### Documentation
 Key documents often required for mortgage applications include:  
 • Proof of income (T4 slips, Notices of Assessment (NOAs) from the Canada Revenue Agency).  
 • Employment verification letters.  
 • Bank statements and proof of down payment sources.  
 • Personal identification (driver’s license, passport, etc.).  
 
-#### 3.5 Visual Overview of the Mortgage Qualification Process
+#### Visual Overview of the Mortgage Qualification Process
 
 ```mermaid
 flowchart LR
@@ -147,15 +147,15 @@ flowchart LR
 
 ---
 
-### 4. Mortgage Default Insurance
+### Mortgage Default Insurance
 
-#### 4.1 Canada Mortgage and Housing Corporation (CMHC)
+#### Canada Mortgage and Housing Corporation (CMHC)
 CMHC is the dominant provider of mortgage default insurance for high-ratio mortgages. Other providers include Genworth Canada and Canada Guaranty.  
 
 • **Purpose:** Protects the lender in case of borrower default.  
 • **Who Pays:** Premiums are added to the mortgage principal, thereby increasing monthly payments.
 
-#### 4.2 Effect on Costs
+#### Effect on Costs
 Because default insurance premiums get added to the mortgage and increase the principal, the borrower pays interest on both the mortgage amount and the insurance premium. A lower down payment typically involves higher premiums.
 
 | Down Payment | Insurance Premium (Approx.) |
@@ -166,7 +166,7 @@ Because default insurance premiums get added to the mortgage and increase the pr
 
 (Note: Premium rates vary and are subject to change. Always consult the most recent CMHC guidelines.)
 
-#### 4.3 Benefits
+#### Benefits
 Mortgage default insurance enables individuals with less than 20% down to become homeowners sooner, promoting broader access to the real estate market.
 
 ---

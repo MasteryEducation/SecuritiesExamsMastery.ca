@@ -27,7 +27,7 @@ A well-defined process is essential to tackle these scenarios. Without it, there
 
 ---
 
-### 1. Identify the Ethical Issue
+### Identify the Ethical Issue
 
 The first step in resolving an ethical dilemma is understanding exactly what the dilemma entails.
 
@@ -56,7 +56,7 @@ By identifying the ethical issue, you recognize the conflict between personal in
 
 ---
 
-### 2. Consult the Code of Ethics
+### Consult the Code of Ethics
 
 Consulting a standardized code of ethics is essential for maintaining professional conduct and objectivity. Codes from CIRO and FP Canada often include principles such as integrity, transparency, confidentiality, and fairness.
 
@@ -72,7 +72,7 @@ By reviewing these codes, advisors can confirm the professional obligations that
 
 ---
 
-### 3. Gather Relevant Facts and Stakeholder Perspectives
+### Gather Relevant Facts and Stakeholder Perspectives
 
 Accurate information is critical for making an informed decision.
 
@@ -94,7 +94,7 @@ Suppose you work for TD Wealth Management, and a long-standing client approaches
 
 ---
 
-### 4. Evaluate Possible Courses of Action
+### Evaluate Possible Courses of Action
 
 After clarifying the ethical issue and gathering relevant facts, the next step is to develop potential solutions and analyze the consequences of each action.
 
@@ -125,7 +125,7 @@ flowchart TB
 
 ---
 
-### 5. Implement and Reflect
+### Implement and Reflect
 
 Once you have decided on the most ethically responsible course of action, it is crucial to:
 

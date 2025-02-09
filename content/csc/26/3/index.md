@@ -16,7 +16,7 @@ This chapter offers an in-depth look at effective estate planning strategies, le
 
 ---
 
-## 1. Understanding the Purpose of Estate Planning
+## Understanding the Purpose of Estate Planning
 
 Estate planning aims to:
 
@@ -27,7 +27,7 @@ Estate planning aims to:
 • Protect beneficiaries and loved ones, especially minor children or dependents with special needs.  
 • Engage in philanthropic or charitable giving opportunities.
 
-### 1.1 Defining Key Objectives
+### Defining Key Objectives
 
 Clients’ primary estate objectives often include:
 
@@ -41,7 +41,7 @@ Advisors begin by clarifying each client’s personal and financial situation, i
 
 ---
 
-## 2. Common Estate Planning Components
+## Common Estate Planning Components
 
 Estate planning often involves these core components:
 
@@ -53,7 +53,7 @@ Estate planning often involves these core components:
 6. Trust structures.  
 7. Healthcare directives.  
 
-### 2.1 Writing a Will
+### Writing a Will
 
 A will is a legally binding document outlining the distribution of the testator’s assets after death. Without a valid will (i.e., if an individual dies intestate), provincial legislation determines how the estate is divided. In Ontario, for instance, the Succession Law Reform Act outlines the order of inheritance, which may differ from personal preferences.
 
@@ -65,7 +65,7 @@ Key elements of a will include:
 • Guardian appointment for minor children.  
 • Specific or residual gifts.
 
-### 2.2 Appointing an Executor (Estate Trustee)
+### Appointing an Executor (Estate Trustee)
 
 The executor administers the estate according to the will, ensuring liabilities are satisfied and assets distributed correctly. Key responsibilities include:
 
@@ -76,7 +76,7 @@ The executor administers the estate according to the will, ensuring liabilities 
 
 Given the complexity and time involved (often 12 to 18 months or more), individuals may select a trusted family member, friend, or a professional trustee (e.g., a trust company) to serve as the executor.  
 
-### 2.3 Powers of Attorney
+### Powers of Attorney
 
 A Power of Attorney (POA) is essential in the event of incapacity:
 
@@ -85,11 +85,11 @@ A Power of Attorney (POA) is essential in the event of incapacity:
 
 In Quebec, similar roles exist under the concept of a Mandate in Case of Incapacity, governed by provincial law. These legal documents help avoid costly guardianship proceedings and ensure timely decision-making aligned with the client’s wishes.
 
-### 2.4 Beneficiary Designations
+### Beneficiary Designations
 
 For registered accounts such as RRSPs, TFSAs, and RRIFs, as well as for life insurance policies, naming beneficiaries directly allows assets to pass outside of the estate, potentially bypassing probate and reducing fees. Canadians may also designate beneficiaries for certain pension plans (e.g., group RRSPs or defined contribution plans). A successor annuitant or successor holder arrangement may apply to certain registered products (e.g., naming a spouse as a successor annuitant for a RRIF).
 
-### 2.5 Life Insurance
+### Life Insurance
 
 Life insurance can be a powerful estate planning tool. By designating the estate or an individual as the beneficiary, insurance proceeds can:
 
@@ -101,7 +101,7 @@ For example, a participating whole life policy may accumulate cash value and pro
 
 ---
 
-## 3. Minimizing Taxes and Preserving Wealth
+## Minimizing Taxes and Preserving Wealth
 
 Tax minimization strategies help preserve more assets for the intended beneficiaries. Estate plans often incorporate:
 
@@ -111,17 +111,17 @@ Tax minimization strategies help preserve more assets for the intended beneficia
 4. **Trust Structures**: Inter vivos trusts (established during the grantor’s lifetime) or testamentary trusts (established after death) can help manage wealth efficiently, protect minors or vulnerable dependents, and reduce probate fees.  
 5. **Charitable Giving**: Donating publicly traded securities directly to a charity allows the donor to avoid capital gains tax while claiming a charitable tax credit equal to the fair market value of the donated securities.
 
-### 3.1 Example: Spousal RRIF Rollover
+### Example: Spousal RRIF Rollover
 
 Consider a client, Alex, who has a $500,000 RRIF. Alex names their spouse, Jamie, as the successor annuitant. Upon Alex’s death, the RRIF rolls over tax-free into Jamie’s name, continuing the same payment schedule. Had Alex not made this designation, the entire RRIF value could be deemed a withdrawal on death and taxed as income in the final return.
 
-### 3.2 Example: Insurance Funding for Estate Taxes
+### Example: Insurance Funding for Estate Taxes
 
 RBC or TD wealth advisors often note that Canadians who own significant assets, such as cottages or investment properties, might incur large capital gains tax upon death. By holding a life insurance policy with a sufficient death benefit, the heirs can use the proceeds to pay taxes without forced liquidation of cherished assets like a family cottage.
 
 ---
 
-## 4. Comprehensive Estate Planning Process
+## Comprehensive Estate Planning Process
 
 Effective estate planning involves a thorough, step-by-step approach:  
 
@@ -154,7 +154,7 @@ flowchart LR
 
 ---
 
-## 5. Powers of Attorney and Healthcare Directives
+## Powers of Attorney and Healthcare Directives
 
 Preparing for incapacity is as important as planning for death because someone must handle health decisions and financial matters if the client cannot. Two primary documents typically apply in Canada:
 
@@ -165,14 +165,14 @@ In some provinces, healthcare directives are recognized under various forms (als
 
 ---
 
-## 6. Role of Trusts in Estate Planning
+## Role of Trusts in Estate Planning
 
 Trusts can be particularly beneficial in complex estate situations or where privacy and creditor protection are important. They fall into two broad categories:
 
 • **Inter Vivos Trusts**: Created during the grantor’s lifetime (e.g., family trusts, alter ego trusts).  
 • **Testamentary Trusts**: Created upon the grantor’s death, typically under a will.
 
-### 6.1 Inter Vivos (Living) Trusts
+### Inter Vivos (Living) Trusts
 
 An Inter Vivos trust transfers assets to a trustee while the settlor (grantor) is still alive. This structure can provide:
 
@@ -180,7 +180,7 @@ An Inter Vivos trust transfers assets to a trustee while the settlor (grantor) i
 • Potential income splitting opportunities (subject to tax rules and attribution concerns).  
 • Privacy regarding estate affairs.
 
-### 6.2 Testamentary Trusts
+### Testamentary Trusts
 
 Established through the will, these trusts only come into effect upon death. In many cases, testamentary trusts are used to:
 
@@ -190,17 +190,17 @@ Established through the will, these trusts only come into effect upon death. In 
 
 ---
 
-## 7. Gifting and Charitable Giving
+## Gifting and Charitable Giving
 
 Gifting assets before death can reduce the size of the estate and, consequently, minimize probate fees. However, gifting can trigger tax consequences, such as capital gains on appreciated assets. At times, gifting to family members or charitable organizations is more tax-efficient if structured carefully.
 
-### 7.1 Charitable Donations
+### Charitable Donations
 
 Donating securities (e.g., shares of a publicly listed company) to recognized charities can offer an attractive tax credit and exemption from capital gains tax on the donated amount. For instance, a client might donate $50,000 of stock that has a $10,000 cost basis, thereby avoiding capital gains tax on $40,000. Meanwhile, they receive a charitable tax credit for the full $50,000 fair market value.
 
 ---
 
-## 8. Special Considerations for Unique Assets
+## Special Considerations for Unique Assets
 
 Estate planning might be more complex when dealing with assets like private corporations, cottages, farmland, or collectibles. Each item may require special handling:
 
@@ -210,7 +210,7 @@ Estate planning might be more complex when dealing with assets like private corp
 
 ---
 
-## 9. Common Pitfalls and How to Avoid Them
+## Common Pitfalls and How to Avoid Them
 
 Despite the importance of estate planning, many Canadians overlook these pitfalls:
 
@@ -224,7 +224,7 @@ Staying proactive and reviewing estate plans every three to five years (or after
 
 ---
 
-## 10. Best Practices for Advisors
+## Best Practices for Advisors
 
 Advisors play a crucial role, guiding clients through:
 

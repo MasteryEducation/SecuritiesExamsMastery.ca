@@ -42,17 +42,17 @@ When plotted on a graph with yield on the vertical axis and time to maturity on 
 
 The yield curve can exhibit several shapes, each providing different signals about the market’s view of future economic conditions and monetary policy.
 
-#### 2.1 Normal (Upward-Sloping) Yield Curve
+#### Normal (Upward-Sloping) Yield Curve
 • Longer-term bonds typically yield more than shorter-term bonds.  
 • Reflects expectations of continued economic growth, modest inflation, and stable monetary policy.  
 • Often considered the “standard” shape, as investors typically demand higher premiums (yields) for taking on longer-term risk.
 
-#### 2.2 Inverted (Downward-Sloping) Yield Curve
+#### Inverted (Downward-Sloping) Yield Curve
 • Occurs when short-term yields exceed long-term yields.  
 • Frequently interpreted as a signal of an impending economic slowdown or recession.  
 • May prompt investors to re-examine their bond portfolios, as the short end of the curve can offer better yields with less duration risk.
 
-#### 2.3 Flat Yield Curve
+#### Flat Yield Curve
 • Yields across short, medium, and long maturities converge and differ relatively little.  
 • Often observed during economic transitions, such as the late stages of an expansion period or the early stages of a recession.  
 • Can be a precursor to an inverted yield curve or a normalization phase after a flat period.
@@ -74,7 +74,7 @@ Several factors drive the shape and level of the yield curve in Canada:
 
 Various theories seek to explain why and how long-term interest rates differ from short-term rates. While each has its nuances, together, they offer a holistic understanding of market behavior.
 
-#### 4.1 Expectations Theory
+#### Expectations Theory
 
 The Expectations Theory posits that the long-term yield on a bond reflects the market’s expectations for future short-term rates. For example, if investors anticipate the Bank of Canada will raise rates over time, long-term yields will incorporate these expected increases. In mathematical terms:
 
@@ -84,11 +84,11 @@ Rᵣₙ ≈ (r₁ + r₂ + … + rₙ) / n
 
 Where the long-term rate is essentially an average of expected short-term rates. This theory helps explain why yield curves often slope upward: if short-term rates are expected to rise, the average of future short rates will be higher than the current short-term rate.
 
-#### 4.2 Liquidity Preference Theory
+#### Liquidity Preference Theory
 
 According to the Liquidity Preference Theory, investors generally prefer liquidity and will require a premium for holding longer-term bonds. This premium cushions against uncertainties such as price volatility, interest-rate risk, and inflation. As a result, long-term yields will be higher than the expected short-term interest rates to compensate for the additional risk—helping explain why yield curves typically slope upward.
 
-#### 4.3 Market Segmentation Theory
+#### Market Segmentation Theory
 
 This theory suggests that the bond market is “segmented” by investor preferences for specific maturities. Pension funds and insurance companies, for instance, often invest in long-term bonds to match their long-duration liabilities, while corporations with periodic liquidity needs may concentrate on shorter maturities. The supply and demand dynamics in each segment can create distinct yield patterns, contributing to a yield curve shape that might deviate from purely rational expectations.
 
@@ -96,15 +96,15 @@ This theory suggests that the bond market is “segmented” by investor prefere
 
 ### Practical Applications and Examples
 
-#### 5.1 Case Study: Portfolio Management at a Canadian Pension Fund
+#### Case Study: Portfolio Management at a Canadian Pension Fund
 
 A large Canadian pension fund, such as the Ontario Teachers’ Pension Plan (OTPP), might have a mandate to match long-term obligations (future pension payouts) with long-term assets like 30-year Government of Canada bonds. When a normal upward-sloping yield curve is present, the fund might buy longer-term bonds to lock in higher yields. If the curve inverts, the fund might adjust its strategy—perhaps favoring shorter-term bonds or alternative asset classes—to minimize interest-rate and economic risks.
 
-#### 5.2 Example: RBC’s Treasury Operations
+#### Example: RBC’s Treasury Operations
 
 Royal Bank of Canada (RBC) often issues short-term and long-term debt. If the yield curve is upward sloping, RBC would find it cheaper to issue shorter-term debt (since yields are lower). Conversely, if the yield curve flattens or inverts, RBC’s decision to issue short- vs. long-term debt might reflect its view on future interest rates, potential refinancing risk, and market reception.
 
-#### 5.3 Spot Rate Curve in Practice
+#### Spot Rate Curve in Practice
 
 The spot rate curve represents the yields of zero-coupon bonds across different maturities. Practitioners often use the spot rate curve to discount each coupon of a bond to present value, providing a more precise valuation. For instance, if a five-year coupon bond has annual coupons, you would discount each coupon by the corresponding yearly spot rate. This methodology is common in advanced bond pricing tools, including certain open-source platforms in Python (e.g., libraries in the quantitative finance ecosystem like “QuantLib”).
 

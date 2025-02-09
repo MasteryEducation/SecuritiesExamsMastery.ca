@@ -14,11 +14,11 @@ Measuring economic growth is essential for understanding the health and prospect
 
 ---
 
-## 1. Understanding Economic Growth
+## Understanding Economic Growth
 
 Economic growth represents an expansion in the volume—or more precisely, the value—of goods and services produced by an economy over a specified period. Increasing economic output usually corresponds to higher incomes, improved standards of living, and more robust business opportunities. For Canadian investors, accelerated growth may imply stronger corporate profits, better performance on the Toronto Stock Exchange (TSX), and potentially favorable job market conditions.
 
-### 1.1 Why Economic Growth Matters
+### Why Economic Growth Matters
 
 1. **Indicator of Prosperity**  
    Higher levels of output often lead to more jobs, which in turn improves consumer confidence and stimulates further spending. A healthy, growing economy generally indicates that businesses and individuals have more resources at their disposal.
@@ -31,18 +31,18 @@ Economic growth represents an expansion in the volume—or more precisely, the v
 
 ---
 
-## 2. Key Measures of Economic Growth
+## Key Measures of Economic Growth
 
-### 2.1 Gross Domestic Product (GDP)
+### Gross Domestic Product (GDP)
 
 GDP is the most broadly utilized metric to gauge an economy’s overall output. It sums the monetary value of all final goods and services produced within a country’s borders in a given period—commonly reported quarterly and annually.
 
-#### 2.1.1 Inclusion Criteria
+#### Inclusion Criteria
 
 • All final goods and services, excluding intermediate goods (to prevent double-counting).  
 • Economic activity within Canada’s geographic boundaries—including output by foreign-owned entities operating in Canada.
 
-#### 2.1.2 Example of Canadian GDP Calculation
+#### Example of Canadian GDP Calculation
 
 To illustrate, consider the financial outputs from multiple sectors of the Canadian economy:  
 • Manufacturing output in Ontario (e.g., automotive production).  
@@ -51,11 +51,11 @@ To illustrate, consider the financial outputs from multiple sectors of the Canad
 
 All final goods and services in these sectors are aggregated—minus intermediate inputs—resulting in the country’s GDP figure for that period.
 
-### 2.2 Gross National Product (GNP)
+### Gross National Product (GNP)
 
 While GDP centers on domestic output, Gross National Product (GNP) emphasizes the total value of goods and services produced by a country’s residents, regardless of their geographic location. For instance, profits earned abroad by Canadian-owned brokerage firms or technology startups also factor into Canada’s GNP. Conversely, foreign-owned companies operating within Canada contribute to Canadian GDP but not its GNP (their earnings would be associated with the GNP of their home countries).
 
-### 2.3 Nominal GDP vs. Real GDP
+### Nominal GDP vs. Real GDP
 
 When analyzing changes in an economy’s production across time, it is crucial to distinguish between nominal GDP and real GDP.
 
@@ -74,11 +74,11 @@ Real GDP is often viewed as the more accurate metric when assessing true economi
 
 ---
 
-## 3. Methods of Measuring GDP
+## Methods of Measuring GDP
 
 There are three primary approaches to calculating GDP, each offering a different vantage point on the same total value:
 
-### 3.1 The Income Approach
+### The Income Approach
 
 This method sums all forms of income within the economy, including:  
 • Wages and salaries (paid to workers)  
@@ -88,7 +88,7 @@ This method sums all forms of income within the economy, including:
 
 By aggregating all income paid to the factors of production (i.e., labour, capital, land, and entrepreneurship), the total should theoretically match the GDP figure from other methods.
 
-### 3.2 The Expenditure Approach
+### The Expenditure Approach
 
 GDP can also be viewed through the total spending on final goods and services:
 
@@ -101,7 +101,7 @@ Mathematically, this is expressed as:
 (1)  
 {{< katex >}} \text{GDP} = C + I + G + (X - M) {{< /katex >}}
 
-### 3.3 The Production (or Output) Approach
+### The Production (or Output) Approach
 
 This approach sums the value added at each stage of production. Practically, it tallies each firm’s output, subtracting the cost of intermediate inputs to avoid double-counting. 
 
@@ -109,13 +109,13 @@ While all methods theoretically yield the same total GDP, discrepancies can aris
 
 ---
 
-## 4. GDP per Capita and Limitations
+## GDP per Capita and Limitations
 
-### 4.1 GDP per Capita
+### GDP per Capita
 
 GDP per capita is obtained by dividing GDP by the total population. It serves as a broad gauge of a population’s average standard of living. For instance, if Canada’s GDP is $2 trillion and its population is 40 million, the GDP per capita would be $50,000. This figure can help compare living standards among provinces or with other countries.
 
-### 4.2 Limitations
+### Limitations
 
 1. **Inequality**  
    GDP per capita does not account for income distribution. A small affluent segment could raise average figures, masking poverty or low incomes for the majority.
@@ -128,27 +128,27 @@ GDP per capita is obtained by dividing GDP by the total population. It serves as
 
 ---
 
-## 5. Factors Affecting Economic Growth
+## Factors Affecting Economic Growth
 
-### 5.1 Technological Innovation and Productivity
+### Technological Innovation and Productivity
 
 Advances in technology often boost productivity, enabling the same amount of labour or capital to yield more output. In Canada, new digital banking platforms adopted by major banks like TD or RBC can streamline customer service, reduce transaction costs, and enhance efficiency—ultimately contributing to national productivity growth.
 
-### 5.2 Labour Force Dynamics
+### Labour Force Dynamics
 
 Employment levels, immigration policies, and education or skills development significantly impact economic output. A skilled and growing Canadian workforce arguably underpins better job creation and corporate expansion.
 
-### 5.3 Capital Accumulation
+### Capital Accumulation
 
 Savings and investment rates directly affect a country’s capacity to accumulate capital—such as machinery, infrastructure, or advanced technology. Canadians who actively invest through RRSPs (Registered Retirement Savings Plans) or TFSAs (Tax-Free Savings Accounts) help channel capital into businesses, propelling overall economic growth.
 
-### 5.4 Government Policies
+### Government Policies
 
 Government policies—both fiscal (e.g., changes in taxes and public spending) and monetary (e.g., interest rates set by the Bank of Canada)—can stimulate or cool down economic growth. For example, when the Bank of Canada lowers interest rates, borrowing costs decline, often spurring consumer and business spending.
 
 ---
 
-## 6. Tracking Economic Growth in Canada
+## Tracking Economic Growth in Canada
 
 In practice, several bodies conduct data collection, forecasting, and policy formulation associated with Canadian economic growth:
 
@@ -168,23 +168,23 @@ As Canadian securities professionals, staying informed about these economic indi
 
 ---
 
-## 7. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 7.1 Example: Canadian Pension Funds Assessing Growth Trends
+### Example: Canadian Pension Funds Assessing Growth Trends
 
 Pension funds, such as the Canada Pension Plan Investment Board (CPPIB), regularly analyze real GDP growth trends when allocating assets. If forecasts indicate robust economic expansion, they might shift a larger portion of their portfolio into equities to capitalize on expected gains in corporate earnings.
 
-### 7.2 Example: Bank Forecasting
+### Example: Bank Forecasting
 
 Major Canadian banks (e.g., RBC, Scotiabank) publish quarterly economic reports. Their economists use GDP growth data to revise forecasts for interest rates, stock market outcomes, and sector performance. Such insights guide investment dealers in offering well-grounded advice to retail and institutional clients.
 
-### 7.3 Example: Personal Investment Strategy
+### Example: Personal Investment Strategy
 
 Individuals reviewing economic trends may decide to rebalance their RRSP portfolios. For instance, if high GDP growth is projected green-lighting strong corporate profits, an investor might tilt more toward equities. Conversely, if indicators suggest slowing growth, shifting to more conservative fixed-income instruments could be prudent.
 
 ---
 
-## 8. Step-by-Step Guidance: Analyzing GDP Data
+## Step-by-Step Guidance: Analyzing GDP Data
 
 1. **Obtain Official Figures**  
    Visit the Statistics Canada website to access the latest GDP press releases and data tables.
@@ -209,7 +209,7 @@ Individuals reviewing economic trends may decide to rebalance their RRSP portfol
 
 ---
 
-## 9. Best Practices, Common Challenges, and Actionable Insights
+## Best Practices, Common Challenges, and Actionable Insights
 
 1. **Stay Updated**  
    Economic data are frequently revised. Always check the latest updates—especially preliminary versus final releases.
@@ -228,7 +228,7 @@ Individuals reviewing economic trends may decide to rebalance their RRSP portfol
 
 ---
 
-## 10. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 • **GDP** is the principal measure for evaluating an economy’s size and growth.  
 • **GNP** extends coverage to resident-based production worldwide, distinguishing it from GDP’s domestic focus.  

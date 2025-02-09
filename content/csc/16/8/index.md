@@ -16,37 +16,37 @@ This section provides an in-depth look at why, when, and how to rebalance a Cana
 
 ---
 
-## 1. The Importance of Rebalancing
+## The Importance of Rebalancing
 
 At its core, rebalancing is about risk management:  
 • Asset allocations drift when strong performers outweigh weaker ones, potentially increasing or decreasing a portfolio’s overall risk beyond an investor’s comfort level.  
 • Systematically realigning asset weights back to target allocations helps maintain consistency with the original investment policy statement (IPS).  
 • Without regular rebalancing, high-performing assets might dominate the portfolio, skewing both the risk and return potential.  
 
-### 1.1 Balancing Risk and Return
+### Balancing Risk and Return
 
 Consider a balanced portfolio structured at 60% equities and 40% fixed income. If equities perform exceptionally well, the allocation might shift to 70% equities and 30% fixed income. While this may improve returns in the short term, it also exposes the investor to greater market risk if equities suddenly drop.
 
 ---
 
-## 2. Common Triggers for Rebalancing
+## Common Triggers for Rebalancing
 
 Rebalancing strategies vary depending on the investor’s goals, regulatory considerations, and taxation. The most frequently used triggers in the Canadian market are:
 
-### 2.1 Time-Based Rebalancing
+### Time-Based Rebalancing
 
 • A set interval (e.g., quarterly, semi-annually, or annually) is used to check allocations and rebalance if necessary.  
 • Advantage: Simple, predictable approach that ensures periodic evaluation.  
 • Disadvantage: May rebalance at inopportune times, incurring unnecessary costs.
 
-### 2.2 Threshold-Based Rebalancing
+### Threshold-Based Rebalancing
 
 • A “rebalancing threshold” is defined (e.g., ±5% deviation from the target allocation).  
 • Example: If a 60/40 portfolio’s equity component exceeds 65% or falls below 55%, a rebalance is triggered.  
 • Advantage: Targets significant deviations, limiting trade frequency.  
 • Disadvantage: Large market swings can trigger frequent trades, potentially increasing costs.
 
-### 2.3 Hybrid Approach
+### Hybrid Approach
 
 • A combination of time-based and threshold-based triggers.  
 • Example: Check the portfolio quarterly, but only rebalance if allocations deviate by 5% or more.  
@@ -54,49 +54,49 @@ Rebalancing strategies vary depending on the investor’s goals, regulatory cons
 
 ---
 
-## 3. Transaction Costs, Tax Implications, and Regulatory Considerations
+## Transaction Costs, Tax Implications, and Regulatory Considerations
 
 Rebalancing always comes with potential costs—both in trading fees and tax consequences. In Canada, these aspects include:
 
-### 3.1 Transaction Costs
+### Transaction Costs
 
 • Brokerage fees: Vary across Canadian brokerages such as RBC Direct Investing, TD Direct Investing, Questrade, etc.  
 • Bid-ask spreads: Especially relevant for thinly traded securities.  
 • Short-term redemption fees: Common for some mutual funds if sold before a specified holding period.  
 
-### 3.2 Tax Consequences
+### Tax Consequences
 
 • Capital gains (or losses) may be realized in non-registered accounts once securities are sold.  
 • For registered accounts (RRSPs, TFSAs), capital gains are either tax-deferred (RRSP) or tax-free (TFSA).  
 • Refer to the Income Tax Act (Canada) for the rules on capital gains and losses, as well as the CRA website for the latest regulations.  
 • Strategies such as tax-loss harvesting and strategic use of dividend income can soften tax liabilities.  
 
-### 3.3 CIRO and CSA Guidelines
+### CIRO and CSA Guidelines
 
 • Although there are no explicit regulatory mandates on how frequently to rebalance, the Canadian Investment Regulatory Organization (CIRO) and Canadian Securities Administrators (CSA) emphasize suitability and the “Know Your Client” (KYC) rule.  
 • Ensuring that a client’s portfolio remains consistent with their risk profile is a regulatory requirement. Rebalancing is one mechanism that helps maintain this consistency.
 
 ---
 
-## 4. Methods and Approaches to Rebalancing
+## Methods and Approaches to Rebalancing
 
 Below is an overview of the practical approaches Canadian investors and advisors might employ.
 
-### 4.1 Manual Rebalancing
+### Manual Rebalancing
 
 1. Identify target allocations set in the Investment Policy Statement (IPS).  
 2. Calculate current portfolio weights periodically (or as triggered by thresholds).  
 3. Determine which assets to sell and which to buy to restore the original allocation.  
 4. Execute trades carefully, factoring in transaction costs and tax implications.  
 
-### 4.2 Automated (Robo-Advisor) Rebalancing
+### Automated (Robo-Advisor) Rebalancing
 
 Robo-advisor platforms in Canada, such as Wealthsimple, Questrade Portfolios, and others, often provide automated rebalancing:  
 • Continuous monitoring of allocations, automatically triggering trades once allocations deviate from set thresholds.  
 • Incorporate tax-loss harvesting strategies.  
 • Accessible for investors with smaller portfolios or limited time.  
 
-### 4.3 Dynamic Rebalancing Models
+### Dynamic Rebalancing Models
 
 Advanced asset management firms, including large Canadian pension funds, may use dynamic models to anticipate market changes:  
 • Shorter intervals for volatile markets; longer intervals for stable conditions.  
@@ -104,7 +104,7 @@ Advanced asset management firms, including large Canadian pension funds, may use
 
 ---
 
-## 5. Real-World Example: RBC Investment Portfolios
+## Real-World Example: RBC Investment Portfolios
 
 To illustrate the importance of rebalancing in a Canadian setting, consider a simplified scenario:
 
@@ -126,26 +126,26 @@ To illustrate the importance of rebalancing in a Canadian setting, consider a si
 
 ---
 
-## 6. Practical Considerations for Canadian Investors
+## Practical Considerations for Canadian Investors
 
-### 6.1 Timing and Frequency
+### Timing and Frequency
 
 • Time-based rebalancing can fit neatly with an end-of-year tax planning session, optimizing capital loss harvests.  
 • Threshold-based rebalancing in Canada can be beneficial when large market swings occur, as it can capture abrupt shifts and rebalance at potentially advantageous points.  
 
-### 6.2 Portfolio-Wide vs. Account-Specific
+### Portfolio-Wide vs. Account-Specific
 
 • Rebalancing is often done at the total portfolio level across all accounts (TFSA, RRSP, non-registered) to optimize tax efficiency.  
 • For example, you might sell an asset in an RRSP (no capital gains taxes triggered) rather than in a non-registered account (where it would generate a taxable event).  
 
-### 6.3 Tax-Efficient Rebalancing
+### Tax-Efficient Rebalancing
 
 • In non-registered accounts, consider offsetting gains with realized losses or focusing on partial rebalancing (i.e., redirecting new contributions to underweight assets) to minimize taxable transactions.  
 • Consult resources such as “Tax-Efficient Investing in Canada” (various articles, books, and CRA bulletins) for more robust strategies.
 
 ---
 
-## 7. Step-by-Step Rebalancing Process Flowchart
+## Step-by-Step Rebalancing Process Flowchart
 
 Below is a simple flowchart illustrating the rebalancing decision:
 
@@ -169,7 +169,7 @@ flowchart LR
 
 ---
 
-## 8. Overcoming Common Pitfalls
+## Overcoming Common Pitfalls
 
 Investors often face the following challenges when rebalancing:
 
@@ -180,7 +180,7 @@ Investors often face the following challenges when rebalancing:
 
 ---
 
-## 9. Best Practices for Canadian Portfolio Rebalancing
+## Best Practices for Canadian Portfolio Rebalancing
 
 1. Document a clear rebalancing policy in the Investment Policy Statement (IPS).  
 2. Combine threshold- and time-based triggers for a balanced and disciplined approach.  
@@ -190,7 +190,7 @@ Investors often face the following challenges when rebalancing:
 
 ---
 
-## 10. Summary
+## Summary
 
 Rebalancing is more than a mechanical exercise; it is a fundamental component of disciplined portfolio management. In the Canadian context, careful consideration of tax regulations, account structures (registered vs. non-registered), and market conditions ensures that rebalancing strategies remain cost-effective and aligned with an investor’s objectives. By systematically applying either time-based, threshold-based, or hybrid tactics, investors can preserve the integrity of their portfolio’s risk/return profile.
 

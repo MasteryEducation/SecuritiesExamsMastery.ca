@@ -18,9 +18,9 @@ This section explores the various approaches to Responsible Investment, outlines
 
 ---
 
-## 1. Foundations of Responsible Investment
+## Foundations of Responsible Investment
 
-### 1.1 Why It Matters: Environmental, Social, and Governance Factors
+### Why It Matters: Environmental, Social, and Governance Factors
 
 Responsible Investment is rooted in the idea that environmental (E), social (S), and governance (G) issues can present both risks and opportunities for companies. By considering ESG factors, investors can:
 • Identify companies more likely to generate sustainable long-term returns.  
@@ -30,7 +30,7 @@ Responsible Investment is rooted in the idea that environmental (E), social (S),
 
 Industries with high carbon footprints, for instance, must be scrutinized more granularly for regulatory risks, environmental impacts, and the costs related to transitioning toward cleaner operations. Social factors like workers’ rights and product safety can directly impact brand reputation and consumer trust. Governance elements like shareholder rights, board diversity, and transparency of executive compensation can influence overall corporate health.
 
-### 1.2 Growth Drivers of Responsible Investment in Canada
+### Growth Drivers of Responsible Investment in Canada
 
 Several trends have accelerated the adoption of Responsible Investment in Canada:
 
@@ -41,11 +41,11 @@ Several trends have accelerated the adoption of Responsible Investment in Canada
 
 ---
 
-## 2. Approaches to Responsible Investment
+## Approaches to Responsible Investment
 
 Advisors can execute Responsible Investment strategies in different ways. Each approach may align differently with clients’ personal values, risk tolerance, and performance expectations.
 
-### 2.1 Negative Screening
+### Negative Screening
 
 Negative screening excludes companies, industries, or countries that do not meet certain ethical or responsibility criteria. Examples:
 • Exclusion of tobacco, marijuana, alcohol, or firearms manufacturers.  
@@ -53,7 +53,7 @@ Negative screening excludes companies, industries, or countries that do not meet
 
 Negative screening effectively aligns portfolios with clients’ values by removing specific exposures. However, excluding large segments of the market could also affect diversification.
 
-### 2.2 Positive Screening
+### Positive Screening
 
 Positive screening is a proactive approach that invests in companies demonstrating strong ESG practices relative to industry peers. This often involves:
 • Selecting companies with progressive environmental policies.  
@@ -62,7 +62,7 @@ Positive screening is a proactive approach that invests in companies demonstrati
 
 Positive screening helps advisors find best-in-class leaders who manage ESG risks effectively and could potentially outperform laggards over the long term.
 
-### 2.3 Best-in-Class Selection
+### Best-in-Class Selection
 
 Best-in-class selection merges elements of both positive and negative screening:
 • Ranks companies within a given sector or industry based on ESG performance metrics.  
@@ -70,7 +70,7 @@ Best-in-class selection merges elements of both positive and negative screening:
 
 This approach acknowledges that different industries have unique ESG challenges. A best-in-class strategy aims to encourage improvement within industries rather than excluding entire categories outright.
 
-### 2.4 Impact Investing
+### Impact Investing
 
 Impact investing seeks measurable social or environmental outcomes alongside financial returns. Unlike traditional investments that focus on profit maximization, impact investments aim to address societal challenges, such as:
 • Affordable housing projects.  
@@ -81,23 +81,23 @@ Impact investing often involves structured measurement frameworks, like the Glob
 
 ---
 
-## 3. Integrating ESG into Canadian Portfolios
+## Integrating ESG into Canadian Portfolios
 
-### 3.1 Aligning with Client Objectives
+### Aligning with Client Objectives
 
 In wealth planning, ESG integration goes beyond screening. Advisors must thoroughly understand a client’s values, ethical preferences, and specific environmental or social concerns:
 • Conduct in-depth conversations about why the client wants to invest responsibly. Is it purely values-based, or is it also about risk mitigation?  
 • Determine acceptance of possible sector or geographic biases that might arise.  
 • Evaluate how ESG investing fits within broader financial goals and risk tolerance.  
 
-### 3.2 Evaluating ESG Ratings and Methodologies
+### Evaluating ESG Ratings and Methodologies
 
 The Responsible Investment landscape includes numerous ESG rating agencies (e.g., MSCI, Sustainalytics, Refinitiv). Each may use different metrics, weightings, and data sources. Advisors should:
 • Investigate how each rating provider defines and measures ESG.  
 • Confirm that an ESG fund’s investment methodology aligns with the client’s principles.  
 • Look under the hood of funds branded as “ESG” or “responsible” to ensure alignment with stated objectives, rather than relying solely on branding.
 
-### 3.3 Constructing a Responsible Portfolio
+### Constructing a Responsible Portfolio
 
 Below is a high-level flowchart representing how ESG factors can be integrated into a typical Canadian investment process:
 
@@ -117,9 +117,9 @@ flowchart LR
 
 ---
 
-## 4. Regulatory Landscape in Canada
+## Regulatory Landscape in Canada
 
-### 4.1 CSA ESG Disclosure Requirements
+### CSA ESG Disclosure Requirements
 
 The Canadian Securities Administrators (CSA) have published guidelines to improve:
 • Transparency among issuers regarding ESG-related risk factors.  
@@ -128,14 +128,14 @@ The Canadian Securities Administrators (CSA) have published guidelines to improv
 Wealth advisors needing a deeper understanding of these requirements can visit the CSA’s official portal:  
 [https://www.securities-administrators.ca/](https://www.securities-administrators.ca/)
 
-### 4.2 CIRO Guidelines
+### CIRO Guidelines
 
 The Canadian Investment Regulatory Organization (CIRO) provides supplemental guidelines to ensure that client-facing resources (e.g., fund fact sheets) accurately describe how ESG factors are integrated. Advisors should consult:  
 [https://www.ciro.ca/](https://www.ciro.ca/)  
 
 These guidelines protect investors from “greenwashing” (the misrepresentation of a product as more sustainable or ethical than it is).
 
-### 4.3 Rise of Sustainable Finance
+### Rise of Sustainable Finance
 
 Sustainable finance takes into consideration broader macroprudential initiatives, including:
 • Green bonds, which fund eco-friendly projects (e.g., wind farms, solar plants).  
@@ -144,28 +144,28 @@ Sustainable finance takes into consideration broader macroprudential initiatives
 
 ---
 
-## 5. Practical Case Studies in the Canadian Context
+## Practical Case Studies in the Canadian Context
 
-### 5.1 Major Canadian Bank’s ESG Fund
+### Major Canadian Bank’s ESG Fund
 
 Consider a scenario where a Canadian bank (e.g., RBC or TD) launches an ESG-focused mutual fund. It invests in North American equities while screening out firearms manufacturers and firms with high carbon footprints. The fund then applies positive screening to identify top ESG performers in each sector. Over time, the fund outperforms comparable non-ESG funds, partly due to lower volatility and stronger brand reputation among the selected companies.
 
-### 5.2 Canadian Pension Plan’s Low-Carbon Strategy
+### Canadian Pension Plan’s Low-Carbon Strategy
 
 A large Canadian pension plan implements a best-in-class selection strategy which reduces its exposure to high-emission industries but continues partial investments in sectors making tangible steps toward cleaner energy solutions. The plan actively engages with portfolio companies to improve corporate governance and reduce carbon intensity. This approach lowers the pension plan’s overall carbon footprint while maintaining diversification to meet long-term liabilities.
 
 ---
 
-## 6. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 6.1 Best Practices
+### Best Practices
 
 1. **Client-Centric Customization:** Tailor strategies to the client’s specific ESG goals and risk tolerance.  
 2. **Due Diligence:** Investigate ESG methodologies, data sources, and ratings thoroughly; confirm that “ESG-labeled” products are genuinely aligned with stated principles.  
 3. **Ongoing Engagement:** Stay up-to-date with emerging regulations, corporate reporting trends, and best practices in responsible investing.  
 4. **Transparency and Reporting:** Provide clear, tangible metrics about the efficacy and impact of your chosen ESG strategy.
 
-### 6.2 Common Pitfalls
+### Common Pitfalls
 
 1. **Greenwashing Exposure:** Accepting a fund’s marketing claims at face value without digging into its actual holdings and methodology.  
 2. **Lack of Diversification:** Narrow exclusions and heavy sector biases can lead to increased portfolio concentration risk.  
@@ -174,7 +174,7 @@ A large Canadian pension plan implements a best-in-class selection strategy whic
 
 ---
 
-## 7. Actionable Steps for Canadian Advisors
+## Actionable Steps for Canadian Advisors
 
 1. **Conduct a Comprehensive Client Discovery:** Learn your client’s responsible investment priorities, personal values, financial goals, and risk tolerance.  
 2. **Explore ESG Data Tools:** Use open-source libraries like Sustainable Finance Disclosure tools or proprietary rating systems to evaluate ESG performance.  
@@ -184,7 +184,7 @@ A large Canadian pension plan implements a best-in-class selection strategy whic
 
 ---
 
-## 8. Additional Resources and References
+## Additional Resources and References
 
 Below are some valuable resources to explore:
 

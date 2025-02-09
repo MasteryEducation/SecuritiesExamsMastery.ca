@@ -16,7 +16,7 @@ In Canada, overlay management solutions must comply with applicable regulations 
 
 ---
 
-### 1. Understanding Overlay Management
+### Understanding Overlay Management
 
 Overlay management involves adding a “layer” of supervision across various investment strategies or sub-portfolios. Instead of relying on each sub-portfolio manager to implement changes or hedges independently, the overlay manager takes a centralized approach.
 
@@ -27,7 +27,7 @@ Key elements of a typical overlay management structure include:
 • A centralized, real-time monitoring system that tracks exposures, allocation targets, and potential conflicts at the total portfolio level.  
 • An overlay manager responsible for making tactical allocation decisions (e.g., momentarily increasing equity exposure or hedging currency risk) across the entire portfolio.
 
-#### 1.1 How Overlay Management Works
+#### How Overlay Management Works
 
 A practical way to visualize overlay management is to think of it as a conductor leading an orchestra. While each sub-portfolio manager (like an instrument section) focuses on a specific area (e.g., Canadian equities, U.S. fixed income, alternative assets), the overlay manager ensures the entire performance (portfolio) aligns with the client’s risk-return objectives and overall strategic vision.
 
@@ -51,23 +51,23 @@ In this diagram:
 
 ---
 
-### 2. The Role of the Overlay Manager
+### The Role of the Overlay Manager
 
-#### 2.1 Coordination and Consistency  
+#### Coordination and Consistency  
 The overlay manager reviews all sub-portfolios to ensure that trades, exposures, and overall risk profiles align. This prevents scenarios where one manager might increase equity exposure while another is selling equities, inadvertently triggering unnecessary capital gains or losses.
 
-#### 2.2 Tactical Asset Allocation  
+#### Tactical Asset Allocation  
 Overlay managers often have discretion to adjust allocations based on short-term market dynamics. For instance, if economic indicators suggest Canadian equities are undervalued relative to global equities, the overlay manager can overweight Canadian equities across the entire portfolio without waiting for individual sub-managers to react.
 
-#### 2.3 Currency Hedging  
+#### Currency Hedging  
 When clients hold international assets, currency fluctuations can significantly affect returns. The overlay manager can implement currency hedging strategies—such as entering forward contracts on the U.S. dollar or euro—to help manage foreign exchange risk across the total portfolio, rather than having each sub-manager hedge independently.
 
-#### 2.4 Real-Time Monitoring of Risk  
+#### Real-Time Monitoring of Risk  
 Overlay management relies heavily on sophisticated systems that can monitor real-time risk exposures. By aggregating data from each sub-portfolio, overlay managers can quickly identify whether the overall portfolio meets risk targets or if any corrective measure (e.g., rebalancing) is needed to stay within the IPS guidelines.
 
 ---
 
-### 3. Unified Managed Accounts (UMAs)
+### Unified Managed Accounts (UMAs)
 
 A Unified Managed Account (UMA) is an account structure often used in conjunction with overlay management. UMAs allow multiple sub-portfolios or product “sleeves” to be combined into a single account, seamless to the investor. This offers:
 
@@ -80,7 +80,7 @@ Major Canadian pension funds, such as the Canada Pension Plan Investment Board (
 
 ---
 
-### 4. Key Benefits of Overlay Management
+### Key Benefits of Overlay Management
 
 1. **Reduced Conflicting Trades**: Avoids sub-managers working at cross-purposes (e.g., buying and selling the same asset simultaneously).  
 2. **Minimized Transaction Costs**: By centralizing execution, the overlay manager may net trades across sub-portfolios, potentially lowering commissions and market impact.  
@@ -90,7 +90,7 @@ Major Canadian pension funds, such as the Canada Pension Plan Investment Board (
 
 ---
 
-### 5. Potential Pitfalls and Challenges
+### Potential Pitfalls and Challenges
 
 Although overlay management offers valuable benefits, there are inherent risks and complexities:
 
@@ -102,17 +102,17 @@ Although overlay management offers valuable benefits, there are inherent risks a
 
 ---
 
-### 6. Practical Canadian Examples
+### Practical Canadian Examples
 
-#### 6.1 RBC Dominion Securities Wealth Management  
+#### RBC Dominion Securities Wealth Management  
 RBC Dominion Securities offers overlay management solutions within integrated portfolios where currency and interest rate risks can be hedged centrally. Their service often uses a UMA framework, providing clients with consolidated reporting under a single tax structure.
 
-#### 6.2 TD Wealth Private Investment Advice  
+#### TD Wealth Private Investment Advice  
 TD Wealth Private Investment Advice may incorporate overlay strategies for high-net-worth clients involving complex allocations to alternative assets or customized indexing solutions. The overlay manager ensures that the client’s overall risk tolerance and return objectives remain aligned despite changes in different sub-portfolios.
 
 ---
 
-### 7. Regulatory Considerations
+### Regulatory Considerations
 
 In Canada, overlay management programs must comply with:  
 
@@ -123,7 +123,7 @@ In Canada, overlay management programs must comply with:
 
 ---
 
-### 8. Fee Structures and Cost-Benefit Analysis
+### Fee Structures and Cost-Benefit Analysis
 
 Overlay managers typically charge an additional fee (as a percentage of assets or a flat retainer) on top of the fees for each sub-portfolio or manager. Advisors should ensure clients understand:
 
@@ -133,7 +133,7 @@ Overlay managers typically charge an additional fee (as a percentage of assets o
 
 ---
 
-### 9. Best Practices and Implementation Steps
+### Best Practices and Implementation Steps
 
 1. **Clearly Define the IPS**: A robust IPS helps the overlay manager navigate between strategic and tactical decisions without conflicting priorities.  
 2. **Select Specialized Sub-Managers**: Each sub-portfolio manager should have a clear mandate and investment style.  
@@ -144,7 +144,7 @@ Overlay managers typically charge an additional fee (as a percentage of assets o
 
 ---
 
-### 10. Additional Resources
+### Additional Resources
 
 • **CFA Institute Research Paper – “Overlay Portfolio Management in Practice”**: Explores advanced methodologies and case studies in overlay management. (Access may require CFA membership.)  
 • **Canadian Securities Institute (CSI) “Advanced Portfolio Construction” Course**: Provides in-depth study of asset allocation and overlay techniques.  

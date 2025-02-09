@@ -16,7 +16,7 @@ Ethics is not a mere box-ticking exercise; it is a mindset and practice that ens
 
 ---
 
-### 26.4.1 Suitability and Fiduciary Duty
+### Suitability and Fiduciary Duty
 
 1. **Suitability Obligation**  
    In Canada, all advisors must ensure that any advice or recommendation they give is suitable for the client. Suitability rules impose an obligation to consider the client’s:  
@@ -38,7 +38,7 @@ Ethics is not a mere box-ticking exercise; it is a mindset and practice that ens
 
 ---
 
-### 26.4.2 Disclosure and Transparency
+### Disclosure and Transparency
 
 An ethical advisor must practice full, accurate, and timely disclosure of all factors relevant to the client’s decision-making process. This transparency:
 
@@ -51,7 +51,7 @@ A hallmark of ethical practice is to present all details in plain language. Clie
 
 ---
 
-### 26.4.3 Client Focused Reforms (CFRs)
+### Client Focused Reforms (CFRs)
 
 Over recent years, the Canadian Securities Administrators (CSA) have introduced the Client Focused Reforms (CFRs) to enhance investor protection and ensure that clients receive advice tailored to their unique needs and circumstances. Under these reforms:
 
@@ -64,7 +64,7 @@ Compliance with CFRs underscores the broader commitment of advisors to act ethic
 
 ---
 
-### 26.4.4 Complaints and Dispute Resolution
+### Complaints and Dispute Resolution
 
 Despite best efforts to maintain high ethical standards, disputes can arise. Ethical advisors proactively inform clients about available recourse:
 
@@ -82,7 +82,7 @@ Despite best efforts to maintain high ethical standards, disputes can arise. Eth
 
 ---
 
-### 26.4.5 Standards of Professional Practice
+### Standards of Professional Practice
 
 In addition to regulatory obligations, many advisors voluntarily adhere to professional designations that have stringent codes of conduct, such as:
 
@@ -99,7 +99,7 @@ Advisors who commit to these formally recognized ethical standards provide clien
 
 ---
 
-### 26.4.6 Ongoing Professional Development
+### Ongoing Professional Development
 
 Ethical advisors understand that maintaining professional competence is integral to serving clients effectively. Markets evolve, regulations change, and new products and technologies emerge. Therefore, advisors must engage in ongoing professional development:
 
@@ -111,7 +111,7 @@ By continually upgrading their skills, advisors can provide more refined, accura
 
 ---
 
-### 26.4.7 Visualizing the Ethical Process
+### Visualizing the Ethical Process
 
 The flowchart below illustrates the typical journey of establishing and maintaining an ethical advisor-client relationship:
 
@@ -135,7 +135,7 @@ graph LR
 
 ---
 
-### 26.4.8 Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 • **Best Practices**  
   1. Maintain detailed records of every client interaction, rationale for recommendations, and how each aligns with the client’s objectives.  
@@ -149,7 +149,7 @@ graph LR
 
 ---
 
-### 26.4.9 Glossary
+### Glossary
 
 • **Fiduciary Duty:** The highest standard of care, requiring an advisor to act in the best interest of the client, disclosing any material conflict of interest.  
 • **Conflict of Interest:** A situation in which an individual’s personal or financial considerations could compromise their objectivity and potentially disadvantage the client.  
@@ -158,7 +158,7 @@ graph LR
 
 ---
 
-### 26.4.10 Summary
+### Summary
 
 Ethics and standards of conduct transcend mere regulatory mandates; they define the essence of a trusted advisory relationship. The requirement to act in the client’s best interest, ensure suitability, and maintain transparency is critical for both guarding the client’s welfare and fostering a reputation of integrity within the Canadian investment industry. By staying aligned with regulatory frameworks such as CIRO rules, Client Focused Reforms, and voluntarily adhering to professional codes of conduct, advisors bolster client confidence and contribute to a healthy, client-centric financial ecosystem.
 

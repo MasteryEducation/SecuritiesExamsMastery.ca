@@ -14,11 +14,11 @@ Retirement income needs analysis is essential for helping clients determine the 
 
 ---
 
-## 1. Gathering Client Information
+## Gathering Client Information
 
 A thorough, accurate retirement income needs analysis begins with collecting relevant data from clients. Financial planners should aim to move beyond basic form-filling for compliance and truly delve into each client’s lifestyle goals, family commitments, and potential health concerns.
 
-### 1.1 Mandatory Expenses
+### Mandatory Expenses
 
 Mandatory expenses include costs deemed essential for a retiree’s daily life. Typical categories include:  
 • Housing costs: Mortgage or rent, property taxes, condo fees, and maintenance.  
@@ -26,7 +26,7 @@ Mandatory expenses include costs deemed essential for a retiree’s daily life. 
 • Property taxes: Specifically for homeowners; these vary between municipalities.  
 • Insurance: House or condominium insurance, and possibly other forms of insurance (auto, health, etc.).
 
-### 1.2 Discretionary Expenses
+### Discretionary Expenses
 
 Discretionary expenses focus on maintaining the retiree’s desired quality of life. Clients often want to spend more time traveling, indulging in hobbies, or socializing with family and friends once they retire. Examples include:  
 • Travel and leisure: Costs of trips, vacation homes, and special events.  
@@ -34,7 +34,7 @@ Discretionary expenses focus on maintaining the retiree’s desired quality of l
 • Entertainment: Dining out, movies, and family gatherings.  
 • Charitable giving or family gifts: Contributions to charities or family members.
 
-### 1.3 Healthcare Expenses
+### Healthcare Expenses
 
 Healthcare costs can increase significantly as clients age. While universal healthcare in Canada covers basic medical needs, retirees often face additional expenses, such as:  
 • Prescription medications.  
@@ -44,25 +44,25 @@ Advisors should prepare a conservative estimate for rising treatment and care co
 
 ---
 
-## 2. Accounting for Inflation
+## Accounting for Inflation
 
 Inflation is a vital factor in retirement planning, as it erodes purchasing power over time. By including a realistic (often conservative) inflation rate—potentially higher than the current rate—to forecast future expenses, planners can help ensure clients’ nest eggs remain sufficient.
 
-### 2.1 Why a Conservative Rate Matters
+### Why a Conservative Rate Matters
 
 Using a slightly higher inflation assumption than the present rate provides an added margin of safety. In Canada, the Bank of Canada typically aims for an inflation target of around 2%. To be cautious, many planners may use 2.5% to 3% to stress-test the client’s expenses, especially for extended retirements that span 20 to 30 years.
 
-### 2.2 Inflation’s Impact on Different Expenses
+### Inflation’s Impact on Different Expenses
 
 Not all expenses increase at the same pace. Healthcare costs, for instance, tend to grow faster than general inflation. Including separate inflation rates for specific expense categories, such as prescription drugs or specialized medical care, can deliver a more refined analysis.
 
 ---
 
-## 3. Identifying and Projecting Income Sources
+## Identifying and Projecting Income Sources
 
 Most Canadians rely on multiple income streams during retirement, ranging from government pensions to personal investments. Each has distinct features and constraints.
 
-### 3.1 Government Pensions: CPP/QPP and OAS
+### Government Pensions: CPP/QPP and OAS
 
 The Canada Pension Plan (CPP) or Quebec Pension Plan (QPP), along with Old Age Security (OAS), provide a foundational income. To accurately estimate these benefits:  
 • Obtain and review the client’s “My Service Canada Account” or QPP statements to clarify potential CPP/QPP benefits.  
@@ -70,14 +70,14 @@ The Canada Pension Plan (CPP) or Quebec Pension Plan (QPP), along with Old Age S
 • Understand OAS eligibility requirements (e.g., residency) and how applying at different ages affects payment size.  
 • Remain mindful of the OAS clawback threshold, particularly for high-income retirees.
 
-### 3.2 Employer-Sponsored Pension Plans
+### Employer-Sponsored Pension Plans
 
 Clients with access to employer-sponsored pensions may belong to either a Defined Benefit (DB) or a Defined Contribution (DC) plan.
 
 - **Defined Benefit (DB) Plan:** Offers a specified payout in retirement, typically based on average salary and years of service. This guaranteed source may reduce the volatility of retirement income needs.  
 - **Defined Contribution (DC) Plan:** Contributions are invested, usually in mutual funds or other market instruments, so the final retirement income depends on accumulated returns. These plans require more active monitoring to keep the portfolio in line with the retiree’s risk tolerance.
 
-### 3.3 Personal Savings and Registered Plans
+### Personal Savings and Registered Plans
 
 For many Canadians, personal savings and registered accounts create the largest segment of retirement income. These can include:  
 • Registered Retirement Savings Plan (RRSP) contributions, rolled into Registered Retirement Income Funds (RRIFs) once the client reaches 71.  
@@ -85,7 +85,7 @@ For many Canadians, personal savings and registered accounts create the largest 
 • Non-registered investment accounts, which may offer different tax treatments for interest, dividends, and capital gains.  
 • Rental property income or other passive income streams (e.g., royalties, limited partnerships).
 
-### 3.4 Coordinating with a Spouse or Partner
+### Coordinating with a Spouse or Partner
 
 Spousal RRSPs, income-splitting strategies, and survivor benefits in pension plans can affect the overall retirement income picture. Building a retirement plan that integrates both spouses’ or partners’ resources can:  
 • Help manage tax brackets through spousal RRSPs and pension income splitting.  
@@ -94,16 +94,16 @@ Spousal RRSPs, income-splitting strategies, and survivor benefits in pension pla
 
 ---
 
-## 4. Bridging Period Planning
+## Bridging Period Planning
 
 Clients may choose to retire earlier than the standard age at which they become eligible for government or employer pensions. During this “bridging period,” they will rely mostly on personal savings, which might be in RRSPs, TFSAs, or other investment accounts.
 
-### 4.1 Timing: When Government Pensions Begin
+### Timing: When Government Pensions Begin
 
 - **CPP/QPP:** Clients can begin receiving reduced benefits as early as age 60 in exchange for lower monthly payments. Conversely, deferring beyond age 65 results in higher monthly benefits.  
 - **OAS:** This often starts at age 65, but can be deferred for up to five years for a higher monthly payout.
 
-### 4.2 Investment Withdrawals Before Pensions Start
+### Investment Withdrawals Before Pensions Start
 
 Advisors may recommend tapping into non-registered or Tax-Free Savings Account (TFSA) funds to minimize taxes during the bridging period. Targeting the correct mix of registered and non-registered assets can help:  
 • Reduce taxable income by delaying RRSP withdrawals until the official pension begins.  
@@ -111,18 +111,18 @@ Advisors may recommend tapping into non-registered or Tax-Free Savings Account (
 
 ---
 
-## 5. Tools and Methods for Forecasting
+## Tools and Methods for Forecasting
 
 Financial planning software and scenario analysis are indispensable for modern retirement income planning. By running multiple models under different assumptions, clients can better grasp potential outcomes.
 
-### 5.1 Financial Planning Software
+### Financial Planning Software
 
 Many financial planning tools (e.g., NaviPlan, Snap Projections, PlanPlus) focus on:  
 • Forecasting account balances, factoring in contribution rates and expected returns.  
 • Stress-testing the retirement plan against market downturns, higher-than-expected inflation, or unexpected medical costs.  
 • Presenting clear visuals, such as cash flow tables and net worth charts, which help clients see the interplay between age, withdrawal rates, and account depletion.  
 
-### 5.2 Stress-Testing Retirement Portfolios
+### Stress-Testing Retirement Portfolios
 
 Stress testing simulates adverse market events—like the 2008 financial crisis—and examines how a portfolio might perform. It helps advisors and clients:  
 • Determine if the portfolio can withstand a significant decline in equities or rising interest rates.  
@@ -146,7 +146,7 @@ This diagram encompasses the core rationale for integrating stress testing withi
 
 ---
 
-## 6. Best Practices in Retirement Income Needs Analysis
+## Best Practices in Retirement Income Needs Analysis
 
 1. **Regularly Update the Analysis:** A plan created at age 50 may not be as effective by age 55 or 60. Encourage annual or semi-annual reviews to track changes in the client’s situation and market conditions.  
 2. **Overestimate Expenses:** Budget for contingencies such as unexpected home repairs, medical emergencies, or aiding adult children.  
@@ -156,14 +156,14 @@ This diagram encompasses the core rationale for integrating stress testing withi
 
 ---
 
-## 7. Canadian Case Study Illustration
+## Canadian Case Study Illustration
 
-### 7.1 Scenario Overview
+### Scenario Overview
 
 • Jane, age 62, plans to retire at 63. She has a substantial RRSP, some savings in a TFSA, and minimal non-registered investments.  
 • Her spouse, Kyle, age 60, will continue working part-time until 65, at which point he’ll start drawing his Company DC pension.  
 
-### 7.2 Outline of Their Needs Analysis
+### Outline of Their Needs Analysis
 
 1. **Expenses:** Their monthly housing costs are CAD 1,800. They anticipate travel expenses of about CAD 5,000 a year, plus CAD 2,000 for medical supplements.  
 2. **Income Sources:** They plan to rely on Jane’s RRSP for the bridging period (age 63 to 65), until her OAS starts at age 65. For Kyle, partial income from his job covers daily expenses, and his DC pension comes into play at 65.  
@@ -178,7 +178,7 @@ This case demonstrates how bridging periods, coordinated spousal strategies, and
 
 ---
 
-## 8. Real-World Tools and References
+## Real-World Tools and References
 
 • [RBC Retirement Planner](https://www.rbcroyalbank.com/retirement/index.html) and [Scotiabank Retirement Calculator](https://www.scotiabank.com/ca/en/personal/advice-plus/retirement-calculator.html) are valuable for preliminary calculations.  
 • [Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency.html) – Official guidelines on RRSP/RRIF withdrawals and tax implications.  
@@ -188,7 +188,7 @@ Advisors can further explore Frederick Vettese’s “Retirement Income for Life
 
 ---
 
-## 9. Summary
+## Summary
 
 Retirement income needs analysis is both an art and a science, involving personal exploration of client goals alongside rigorous planning tools. By systematically evaluating mandatory, discretionary, and health-related expenses; examining all potential retirement income sources; and factoring in inflation, spousal coordination, and bridging periods, Canadian financial planners create robust retirement strategies that stand the test of time.  
 

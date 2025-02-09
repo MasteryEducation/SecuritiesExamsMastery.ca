@@ -14,16 +14,16 @@ In the Canadian investment landscape, exchange-traded funds (ETFs) and mutual fu
 
 ---
 
-## 1. Pricing and Trading
+## Pricing and Trading
 
 A prominent distinction between ETFs and mutual funds is how their shares or units are priced and traded.
 
-### 1.1 Mutual Funds: Single Daily Pricing
+### Mutual Funds: Single Daily Pricing
 • Mutual fund transactions (buys and sells) are typically executed once per trading day at the net asset value (NAV), calculated after the market closes (usually 4:00 p.m. ET).  
 • Investors place orders throughout the day, but the price at which the order executes is determined at the close of business when the fund’s assets are priced.  
 • Mutual funds can be purchased directly from the fund company or through a broker, and some mutual funds have minimum investment thresholds, which can be as low as $500 or $1,000.
 
-### 1.2 ETFs: Intraday Trading
+### ETFs: Intraday Trading
 • ETFs trade on a stock exchange similarly to common shares, offering intraday liquidity.  
 • Prices fluctuate in real-time based on market conditions, supply, and demand—just like a stock.  
 • Investors can utilize limit orders, stop-loss orders, or other trading strategies to control the purchase or sale price. This creates opportunities to react quickly to market conditions.  
@@ -46,50 +46,50 @@ In this diagram, you can see that mutual fund orders wait for day-end pricing. E
 
 ---
 
-## 2. Management Fees
+## Management Fees
 
-### 2.1 ETF Fee Structure
+### ETF Fee Structure
 ETFs generally have lower management expense ratios (MERs) compared to mutual funds, particularly if the ETF is passively managed (e.g., it tracks a broad market index like the S&P/TSX Composite). Lower fees can be advantageous for cost-conscious investors or those who want to hold a position for a longer time horizon. However, not all ETFs are low-cost; some sector-based or actively managed ETFs may have higher expense ratios.
 
-### 2.2 Mutual Fund Fee Structure
+### Mutual Fund Fee Structure
 Mutual funds, especially those providing active management, often charge higher MERs. This can be justified if the fund manager consistently outperforms the market or offers specific expertise in niche sectors. However, many actively managed mutual funds struggle to outperform their benchmark indices over the long term after fees are accounted for. Mutual funds may also impose sales charges (front-end loads, back-end loads, or deferred sales charges) that can increase the overall cost to investors.
 
 ---
 
-## 3. Transparency
+## Transparency
 
-### 3.1 Daily Disclosure in ETFs
+### Daily Disclosure in ETFs
 Most ETFs disclose their full portfolio holdings every trading day. This frequent disclosure helps mitigate pricing discrepancies and provides transparency that can be valuable for investors who want to know precisely what they hold.
 
-### 3.2 Periodic Disclosure in Mutual Funds
+### Periodic Disclosure in Mutual Funds
 Mutual funds generally disclose their holdings quarterly or monthly, though some choose to disclose more often. This reduced frequency of disclosure can limit your visibility into the fund’s underlying securities at any given time. However, mutual funds with strong track records and trustworthy management teams might still be an excellent choice for long-term strategies, despite less frequent updates.
 
 ---
 
-## 4. Minimum Investment Requirements
+## Minimum Investment Requirements
 
-### 4.1 ETF Purchase Amount
+### ETF Purchase Amount
 • To purchase an ETF, you generally need enough capital to buy at least one share plus any brokerage commission.  
 • If the market price of an ETF is $30 per share, a minimum investment for one share would be $30, not including trading fees. Over time, this can add up significantly for larger positions, but there is flexibility in how many shares you buy.
 
-### 4.2 Mutual Fund Minimums
+### Mutual Fund Minimums
 • Mutual funds often have set minimum purchase requirements, such as $1,000 or $5,000, though in some cases this can be as low as $500.  
 • Investor platforms with pre-authorized contribution plans (PACs) may allow smaller subscription increments after an initial investment.  
 • Depending on your broker, smaller regular monthly contributions can also be arranged, especially useful in Registered Retirement Savings Plans (RRSPs) or Tax-Free Savings Accounts (TFSAs).
 
 ---
 
-## 5. Tax Efficiency
+## Tax Efficiency
 
-### 5.1 ETF Creation and Redemption Mechanism
+### ETF Creation and Redemption Mechanism
 A key tax advantage for many ETFs is the in-kind creation/redemption mechanism. Large investors, known as authorized participants, can exchange baskets of securities for ETF shares (and vice versa). Because these are often in-kind transactions, ETFs can minimize realized capital gains that would otherwise be distributed to shareholders in non-registered accounts.
 
-### 5.2 Mutual Fund Distributions
+### Mutual Fund Distributions
 Mutual funds often distribute capital gains to unitholders at year-end. In non-registered accounts, these gains are taxed in the hands of the investor, potentially increasing the total tax liability. While the actual impact depends on the level of trading within the fund, higher turnover strategies can lead to more frequent distributions.
 
 ---
 
-## 6. Practical Example: RBC vs. TD Products
+## Practical Example: RBC vs. TD Products
 
 Consider two scenarios from major Canadian financial institutions:
 
@@ -101,7 +101,7 @@ This comparison highlights the importance of aligning investment preferences—w
 
 ---
 
-## 7. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 • Do your homework on fees: Over time, even a difference of 0.5% in annual fees can significantly impact returns.  
 • Pay attention to trading costs: Cost savings from a low MER can be offset by frequent trading commissions if you rebalance the ETF portion often.  
@@ -110,7 +110,7 @@ This comparison highlights the importance of aligning investment preferences—w
 
 ---
 
-## 8. Step-by-Step Guidance for Evaluating ETFs vs. Mutual Funds
+## Step-by-Step Guidance for Evaluating ETFs vs. Mutual Funds
 
 1. Identify your financial goals: Determine your investment horizon, risk tolerance, and performance expectations.  
 2. Compare fees: Look at the management expense ratio, trading commissions, and any sales charges. A fund facts document (required under National Instrument 81-101) must clearly disclose these costs.  
@@ -122,7 +122,7 @@ This comparison highlights the importance of aligning investment preferences—w
 
 ---
 
-## 9. Glossary
+## Glossary
 
 • **In-Kind Transactions:** The exchange of actual securities (rather than cash) for ETF shares, which can reduce tax events in some situations.  
 • **Capital Gains Distributions:** Mandatory distributions of realized gains to shareholders, typically taxed if the fund is held in a non-registered account.  
@@ -131,7 +131,7 @@ This comparison highlights the importance of aligning investment preferences—w
 
 ---
 
-## 10. Diagrams and Tables
+## Diagrams and Tables
 
 Below is a simple table illustrating some key differences:
 
@@ -160,7 +160,7 @@ flowchart BT
 
 ---
 
-## 11. References and Additional Resources
+## References and Additional Resources
 
 • National Instrument 81-101 (Mutual Fund Prospectus Disclosure) – Provides guidance on fund facts disclosures.  
 • Canadian Investment Regulatory Organization (CIRO) course modules: Explores different fund structures and their regulatory requirements.  

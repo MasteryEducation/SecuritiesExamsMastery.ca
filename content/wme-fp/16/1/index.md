@@ -14,7 +14,7 @@ Trusts play a pivotal role in estate planning in Canada, offering privacy, prote
 
 -------------------------------------------------------------------------------
 
-### 1. What Is a Trust?
+### What Is a Trust?
 
 A trust is a legal relationship involving three key parties:
 
@@ -39,7 +39,7 @@ In this diagram:
 
 -------------------------------------------------------------------------------
 
-### 2. Types of Trusts
+### Types of Trusts
 
 Trusts can be broadly classified into two main categories in Canada:
 
@@ -50,7 +50,7 @@ Within these two categories, several sub-types or specialized trusts exist to ad
 
 -------------------------------------------------------------------------------
 
-#### 2.1 Inter Vivos Trusts
+#### Inter Vivos Trusts
 
 **Inter vivos trusts** are formed while the settlor is still alive. They are sometimes referred to as “living trusts.” Key benefits include:
 
@@ -67,7 +67,7 @@ Common inter vivos trusts include:
 
 -------------------------------------------------------------------------------
 
-#### 2.2 Testamentary Trusts
+#### Testamentary Trusts
 
 A **testamentary trust** is created through the instructions laid out in a person’s will and takes effect upon their death. Many Canadians choose testamentary trusts to accomplish:
 
@@ -79,7 +79,7 @@ Because testamentary trusts only come into existence upon death, they meld seaml
 
 -------------------------------------------------------------------------------
 
-### 3. Common Canadian Trust Structures
+### Common Canadian Trust Structures
 
 Below are some of the most frequently used trust types in Canada, each offering unique benefits and considerations:
 
@@ -106,7 +106,7 @@ Below are some of the most frequently used trust types in Canada, each offering 
 
 -------------------------------------------------------------------------------
 
-### 4. Key Tax Considerations
+### Key Tax Considerations
 
 While trusts can unlock tax benefits, they can also trigger significant obligations or immediate liabilities if not set up correctly. Key points include:
 
@@ -124,9 +124,9 @@ While trusts can unlock tax benefits, they can also trigger significant obligati
 
 -------------------------------------------------------------------------------
 
-### 5. Trustee Responsibilities and Fiduciary Duties
+### Trustee Responsibilities and Fiduciary Duties
 
-#### 5.1 Fiduciary Obligation
+#### Fiduciary Obligation
 
 Trustees owe a **fiduciary duty** to the beneficiaries. This implies they must always act:
 
@@ -136,7 +136,7 @@ Trustees owe a **fiduciary duty** to the beneficiaries. This implies they must a
 
 Failure to comply can result in personal liability for the trustee, underlining the importance of careful decision-making and transparent record-keeping.
 
-#### 5.2 Typical Trustee Duties
+#### Typical Trustee Duties
 
 • **Investment Management** – Ensuring assets are invested prudently, following the “prudent investor” principle in line with provincial trustee legislation.  
 • **Distribution of Income/Capital** – Making distributions as outlined in the trust deed, ensuring beneficiaries receive the amounts or assets they are entitled to.  
@@ -145,7 +145,7 @@ Failure to comply can result in personal liability for the trustee, underlining 
 
 -------------------------------------------------------------------------------
 
-### 6. Drafting the Trust Deed
+### Drafting the Trust Deed
 
 A well-crafted trust deed is vital to avoid ambiguity or future disputes. Key elements include:
 
@@ -158,7 +158,7 @@ A well-crafted trust deed is vital to avoid ambiguity or future disputes. Key el
 
 -------------------------------------------------------------------------------
 
-### 7. Practical Examples and Case Scenarios
+### Practical Examples and Case Scenarios
 
 1. **Family Trust for Minor Children**  
    Suppose a Canadian entrepreneur sets up a family trust to hold shares in her corporation. The trust pays dividends to her children. Since dividends are typically taxed in a beneficiary’s hands, the family may realize overall tax savings. However, the trustee must ensure compliance with CRA’s attribution rules and the “kiddie tax” rules.
@@ -171,7 +171,7 @@ A well-crafted trust deed is vital to avoid ambiguity or future disputes. Key el
 
 -------------------------------------------------------------------------------
 
-### 8. Best Practices, Common Pitfalls, and Strategies
+### Best Practices, Common Pitfalls, and Strategies
 
 • **Early Planning** – The sooner assets are placed into a trust (or a testamentary trust is designed within the will), the more seamlessly the estate planning strategy can unfold.  
 • **Professional Advice** – Lawyers, tax specialists, and trust companies can help create a valid trust deed and ensure compliance with legislation.  
@@ -181,7 +181,7 @@ A well-crafted trust deed is vital to avoid ambiguity or future disputes. Key el
 
 -------------------------------------------------------------------------------
 
-### 9. Additional Resources
+### Additional Resources
 
 For readers seeking deeper insights or case-specific guidance, the following resources are invaluable:
 
@@ -203,7 +203,7 @@ For readers seeking deeper insights or case-specific guidance, the following res
 
 -------------------------------------------------------------------------------
 
-### 10. Summary
+### Summary
 
 Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of effective estate planning in Canada. When properly drafted and administered, trusts can enable tax-efficient wealth transfers, protect assets from creditors or marital claims, avoid probate, and provide for loved ones long after the settlor’s lifetime. By understanding the duties of trustees, the importance of a solid trust deed, and the taxation considerations—especially the 21-year rule—financial planners and their clients can tailor trust strategies that align with family, financial, and philanthropic objectives.
 
@@ -213,7 +213,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 {{< quizdown >}}
 
-### 1. Which of the following is a key characteristic of a trust?  
+### Which of the following is a key characteristic of a trust?  
 - [x] A trustee manages assets for the benefit of a beneficiary.  
 - [ ] A trust cannot earn income.  
 - [ ] A trust never has to file a tax return in Canada.  
@@ -221,7 +221,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** The fundamental feature of a trust is that the trustee manages assets on behalf of the beneficiary. Trusts can earn income and typically must file a T3 return if required under the Income Tax Act.
 
-### 2. Which statement best describes an inter vivos trust?  
+### Which statement best describes an inter vivos trust?  
 - [x] It is established during the settlor’s lifetime.  
 - [ ] It is created only after the death of the settlor.  
 - [ ] It arises automatically without documentation.  
@@ -229,7 +229,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** Inter vivos, or living trusts, are created and funded while the settlor is alive. In contrast, testamentary trusts come into effect upon the settlor’s death.
 
-### 3. What is a primary advantage of using a testamentary trust for minor beneficiaries?  
+### What is a primary advantage of using a testamentary trust for minor beneficiaries?  
 - [x] It enables controlled distribution and management of inherited assets.  
 - [ ] It avoids all taxes for the beneficiaries.  
 - [ ] It eliminates any need for a will.  
@@ -237,7 +237,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** Testamentary trusts allow parents or testators to provide orderly asset management and controlled distributions for minor or disabled beneficiaries. They do not eliminate taxes entirely, nor replace wills, nor impact citizenship.
 
-### 4. Which statement accurately reflects a spousal or common-law partner trust in Canada?  
+### Which statement accurately reflects a spousal or common-law partner trust in Canada?  
 - [x] Property can transfer to the trust on a tax-deferred basis until the spouse’s death.  
 - [ ] It disqualifies the surviving spouse from receiving income.  
 - [ ] The trust is taxed at lower rates regardless of income level.  
@@ -245,7 +245,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** A spousal trust allows for tax-deferred transfers of property. The surviving spouse commonly receives all income, and taxes are triggered upon that spouse’s death.
 
-### 5. Which trust type is specifically designed for Canadians aged 65 or older, often to defer capital gains until death?  
+### Which trust type is specifically designed for Canadians aged 65 or older, often to defer capital gains until death?  
 - [x] Alter Ego or Joint Partner Trust  
 - [ ] Charitable Remainder Trust  
 - [ ] Blind Trust  
@@ -253,7 +253,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** Alter Ego (or Joint Partner) Trusts are available to Canadians aged 65 or older, permitting the deferral of capital gains to the settlor’s (or spouse’s) death.
 
-### 6. What is the 21-year deemed disposition rule?  
+### What is the 21-year deemed disposition rule?  
 - [x] A periodic tax event where certain trusts must realize gains on assets at fair market value.  
 - [ ] A rule that requires all trusts to terminate after 21 years.  
 - [ ] A requirement for trustees to distribute income every 21 years.  
@@ -261,7 +261,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** After 21 years, most inter vivos trusts face a deemed disposition on assets at fair market value, potentially triggering capital gains tax.
 
-### 7. Which of the following best describes a trustee’s fiduciary duty?  
+### Which of the following best describes a trustee’s fiduciary duty?  
 - [x] The obligation to act in the best interests of the beneficiaries.  
 - [ ] The right to use trust assets for personal gain.  
 - [x] The duty to follow the instructions in the trust deed.  
@@ -269,7 +269,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** Trustees must prioritize beneficiary interests, manage assets prudently, and abide by the trust deed. They cannot modify beneficiary designations unless permissible under the trust deed.
 
-### 8. In an inter vivos family trust, which of the following can help reduce overall taxes within a family?  
+### In an inter vivos family trust, which of the following can help reduce overall taxes within a family?  
 - [x] Splitting investment income among multiple beneficiaries  
 - [ ] Filing a T4 slip for each beneficiary  
 - [ ] Avoiding record-keeping for distributions  
@@ -277,7 +277,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** By distributing trust income to different family members, a well-structured family trust can achieve tax minimization, subject to CRA rules and regulations.
 
-### 9. Which document typically outlines how trust property should be managed and distributed?  
+### Which document typically outlines how trust property should be managed and distributed?  
 - [x] The trust deed or trust agreement  
 - [ ] A CRA T4 slip  
 - [ ] The beneficiary’s birth certificate  
@@ -285,7 +285,7 @@ Trusts, whether **inter vivos** or **testamentary**, remain a cornerstone of eff
 
 > **Explanation:** The trust deed (or trust agreement) is the legal instrument that specifies the trustee’s powers, beneficiary entitlements, and how the trust assets should be handled.
 
-### 10. A charitable trust is often used to:  
+### A charitable trust is often used to:  
 - [x] Provide ongoing donations to chosen causes while offering tax benefits.  
 - [ ] Automate direct property transfers to minor children.  
 - [ ] Guarantee no taxes on capital gains for the trust.  

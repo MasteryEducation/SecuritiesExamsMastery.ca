@@ -16,7 +16,7 @@ This section explores how risk fits into the broader scope of strategic wealth m
 
 ---
 
-### 1. Defining Risk in Personal Financial Planning
+### Defining Risk in Personal Financial Planning
 In a personal finance context, “risk” refers to any factor or event that may adversely affect an individual’s or a family’s financial health. Risks might range in severity and likelihood—from small-scale property damage to a major health crisis or even global economic downturns.
 
 Typically, an advisor aims to estimate:
@@ -27,7 +27,7 @@ This probability-magnitude combination is the hallmark of financial risk, illust
 
 ---
 
-### 2. Types of Personal Risks
+### Types of Personal Risks
 
 Personal financial risks usually fall into five broad categories:
 
@@ -55,7 +55,7 @@ These risks underscore the importance of robust insurance coverage (life, disabi
 
 ---
 
-### 3. Balancing Reward and Risk
+### Balancing Reward and Risk
 
 Financial advisors routinely advocate for a judicious balance between risk and potential reward:
 
@@ -71,7 +71,7 @@ Determining how much or how little risk to accept involves deep client discovery
 
 ---
 
-### 4. Behavioral Aspects of Risk
+### Behavioral Aspects of Risk
 
 Behavioral biases often play a significant role in shaping a client’s approach to risk:
 
@@ -90,7 +90,7 @@ When advisors understand these behavioral triggers, they can develop more effect
 
 ---
 
-### 5. Integrating Life Stages
+### Integrating Life Stages
 
 Clients’ risk tolerance and risk management strategies tend to evolve over the life cycle. Advisors should tailor plans based on these shifting needs:
 

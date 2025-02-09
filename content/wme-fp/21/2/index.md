@@ -35,9 +35,9 @@ This chart highlights the primary categories of debt securities we will examine.
 
 ---
 
-## 1. Government Bonds
+## Government Bonds
 
-### 1.1 Federal Bonds (e.g., Government of Canada Bonds)
+### Federal Bonds (e.g., Government of Canada Bonds)
 • These bonds are widely regarded as the safest form of Canadian debt instruments due to the full backing of the federal government.  
 • Federal bonds come in various maturities (e.g., short-term, medium-term, and long-term).  
 • They often carry lower yields than comparable corporate issues because of their relatively low default risk.  
@@ -46,7 +46,7 @@ This chart highlights the primary categories of debt securities we will examine.
 #### Practical Example
 An investor nearing retirement may hold a significant portion of Government of Canada bonds to ensure capital preservation. For instance, RBC or TD might offer government bond mutual funds tailored for conservative retirement portfolios.
 
-### 1.2 Provincial and Municipal Bonds
+### Provincial and Municipal Bonds
 • Sub-sovereign entities (e.g., provinces, municipalities) issue these bonds to fund infrastructure projects like public transportation or energy initiatives.  
 • Provincial bonds typically yield slightly higher interest than federal bonds due to incrementally higher credit risk. Municipal bonds can carry higher yields than provincial issues but vary widely based on the issuer's creditworthiness.  
 • Interest often qualifies for favorable tax treatments in some provinces, making them appealing investments for local residents.
@@ -56,7 +56,7 @@ School boards in Ontario or the City of Toronto might issue bonds for constructi
 
 ---
 
-## 2. Treasury Bills (T-Bills)
+## Treasury Bills (T-Bills)
 
 • T-Bills are short-term federal government debt, typically maturing in less than one year (commonly 3, 6, or 12 months).  
 • Sold at a discount from par (face value). The difference between the discount purchase price and the par value at maturity represents the investor’s return.  
@@ -74,7 +74,7 @@ You can apply the money market yield (also called the T-Bill yield) formula to e
 
 ---
 
-## 3. Corporate Bonds
+## Corporate Bonds
 
 • Issued by corporations to raise capital for operations, mergers, acquisitions, or expansions.  
 • Credit ratings and yields vary significantly based on corporate credit quality, economic environment, and time to maturity.  
@@ -88,7 +88,7 @@ You can apply the money market yield (also called the T-Bill yield) formula to e
 
 ---
 
-## 4. Convertible Bonds
+## Convertible Bonds
 
 • A hybrid security that grants the investor the right to convert the bond into a predetermined number of shares of the issuer’s common stock.  
 • Convertible bonds usually offer lower coupons because the embedded conversion feature has value to the investor.  
@@ -102,7 +102,7 @@ Suppose a company issues a CAD 1,000 par value convertible bond, convertible int
 
 ---
 
-## 5. Floating-Rate Notes (FRNs)
+## Floating-Rate Notes (FRNs)
 
 • FRNs pay variable interest tied to a benchmark rate (e.g., the prime rate, CDOR [Canadian Dollar Offered Rate], or LIBOR for global issues).  
 • Bond coupon payments reset periodically (e.g., quarterly), reflecting changes in the benchmark rate.  
@@ -114,7 +114,7 @@ FRNs can appear attractive in times of uncertain interest rates, but if rates fa
 
 ---
 
-## 6. Zero-Coupon Bonds (Strip Bonds)
+## Zero-Coupon Bonds (Strip Bonds)
 
 • Zero-coupon bonds do not pay periodic interest; instead, they are issued (or sold) at a discount and redeemed at full face value at maturity.  
 • The difference between the purchase price and the face value is the investor’s return.  
@@ -126,7 +126,7 @@ A parent might purchase zero-coupon bonds to ensure a child's post-secondary tui
 
 ---
 
-## 7. Mortgage-Backed Securities (MBS) and Asset-Backed Securities (ABS)
+## Mortgage-Backed Securities (MBS) and Asset-Backed Securities (ABS)
 
 • MBS are backed by pools of residential or commercial mortgages. ABS are backed by various other receivables such as credit card debt, auto loans, or student loans.  
 • Characterized by different tranches, with each tranche offering varied rates of return and risk levels.  

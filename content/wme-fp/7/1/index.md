@@ -14,24 +14,24 @@ Strategic wealth preservation is a crucial dimension of financial planning, focu
 
 ---
 
-### 1. Understanding Wealth Preservation
+### Understanding Wealth Preservation
 
-#### 1.1 Defining Wealth Preservation
+#### Defining Wealth Preservation
 
 Wealth preservation refers to a range of strategies, tools, and techniques designed to protect both tangible and intangible assets. Tangible assets might include real estate, investment portfolios, and business interests. Intangible assets—such as reputation, goodwill, family unity, and intellectual property—can be equally critical but are often overlooked. Unexpected events, like lawsuits or critical illnesses, can rapidly erode these resources if protective measures are absent.
 
 • Wealth Preservation: Strategies and tools aimed at maintaining and safeguarding a client’s accumulated assets and wealth.  
 • Asset Protection: Legal and financial methods that protect an individual’s assets from creditors, lawsuits, or other claims.  
 
-#### 1.2 Why Wealth Preservation Matters
+#### Why Wealth Preservation Matters
 
 Failure to protect assets can derail financial goals and stifle wealth transfer to future generations. A robust preservation plan considers multiple perspectives—legal, financial, and personal—to anticipate and mitigate potential threats. A well-designed program operates in tandem with growth strategies, ensuring that a client’s portfolio or family business is not excessively impacted by unforeseen events.
 
 ---
 
-### 2. The Role of Strategic Wealth Preservation in Financial Planning
+### The Role of Strategic Wealth Preservation in Financial Planning
 
-#### 2.1 Linking Protection to Growth
+#### Linking Protection to Growth
 
 Wealth preservation is not merely an afterthought—it runs parallel to growth strategies. Even with a well-diversified investment portfolio, without adequate insurance or legal structures, a lawsuit or accident could severely deplete resources reserved for future needs, such as retirement, education funding, or philanthropic goals.
 
@@ -40,34 +40,34 @@ Wealth preservation is not merely an afterthought—it runs parallel to growth s
 Case in Point (Canadian Scenario):  
 A high-net-worth family in Toronto with significant holdings in real estate and public equities relied solely on diversification for risk mitigation. When a serious accident occurred, lack of adequate disability and life insurance threatened both their short-term liquidity and long-term investment objectives. By setting up an integrated strategy—incorporating life insurance and liability coverage—they protected themselves against a substantial financial drawdown.
 
-#### 2.2 Critical Life Events and Vulnerabilities
+#### Critical Life Events and Vulnerabilities
 
 Major life events—marriage, birth, critical illness, divorce, starting a business, or major career changes—create new vulnerabilities. For instance, a client who starts a consulting business should consider professional liability insurance and re-evaluate how to protect personal assets if the business faces a lawsuit. Incorporating these considerations into routine reviews ensures that adjustments are made before risks materialize.
 
 ---
 
-### 3. Coordination with Other Planning Areas
+### Coordination with Other Planning Areas
 
-#### 3.1 Estate Planning
+#### Estate Planning
 
 Wealth preservation often overlaps with estate planning and may include will drafting, trusts, and beneficiary designations to optimize asset distribution and minimize estate taxes. Implementing tools like spousal trusts, testamentary trusts, or alter ego trusts can shelter assets from creditors or future claims, safeguarding family wealth.  
 
 • Holistic Financial Plan: A comprehensive roadmap that addresses a client’s current needs and future goals in all facets of personal finance.
 
-#### 3.2 Retirement Planning
+#### Retirement Planning
 
 Long-term retirement planning aims to ensure sufficient income once employment ends. However, an unexpected disability or an untimely death can disrupt the accumulation period. Disability insurance or critical illness coverage can maintain contribution levels to Registered Retirement Savings Plans (RRSPs) or pension plans despite health setbacks.  
 
 Canadian Reference:  
 If you contribute to your RRSP or employer-sponsored pension plan, your ability to continue funding retirement hinges on stable income. A critical illness policy can help maintain these contributions while you recover, avoiding interruptions that could jeopardize compounding benefits over time.
 
-#### 3.3 Tax Planning
+#### Tax Planning
 
 Asset protection, through structures such as holding companies or family trusts, can yield tax efficiencies and potential creditor protection. Wealth preservation strategies include reviewing how capital gains, dividend income, and interest income are taxed federally and provincially, and setting up the optimal structure to retain more of what is earned.  
 
 ---
 
-### 4. Ongoing Assessment and Adaptation
+### Ongoing Assessment and Adaptation
 
 A static risk management plan can rapidly become obsolete. Clients continuously experience life changes and shifts in financial status, such as:  
 • Marriage or divorce  
@@ -79,28 +79,28 @@ Advisors should adopt a systematic review cycle—annually, semi-annually, or up
 
 ---
 
-### 5. Practical Tools and Frameworks for Wealth Preservation
+### Practical Tools and Frameworks for Wealth Preservation
 
-#### 5.1 Insurance Solutions
+#### Insurance Solutions
 
 1. Life Insurance: Provides financial support for beneficiaries and preserves wealth for future generations.  
 2. Disability Insurance: Ensures continuity of income in the event of disability, protecting retirement contributions.  
 3. Critical Illness Insurance: Helps manage the high costs of recovery from severe illnesses like cancer or heart disease.  
 4. Liability Insurance: Shields personal and business assets from legal claims.
 
-#### 5.2 Legal Structures
+#### Legal Structures
 
 1. Family Trusts: Manage how assets are held, controlled, and distributed among family members.  
 2. Holding Companies: Offer a buffer between personal and corporate liabilities, potentially protecting personal assets.  
 3. Pre-Nuptial or Domestic Agreements: Guard separate property in the event of divorce or separation.  
 
-#### 5.3 Monitoring and Reviewing
+#### Monitoring and Reviewing
 
 A robust monitoring system ensures early detection of red flags, such as suspicious account activity, building legal exposure, or lapses in policy coverage. Wealth advisors typically schedule periodic check-ins for clients to review key documents, insurance terms, and beneficiary designations.
 
 ---
 
-### 6. Integrating Concepts: A Visual Overview
+### Integrating Concepts: A Visual Overview
 
 Below is a simplified diagram demonstrating how risk management intersects with wealth preservation decisions:
 
@@ -120,7 +120,7 @@ flowchart LR
 
 ---
 
-### 7. Actionable Steps for Advisors
+### Actionable Steps for Advisors
 
 1. Conduct a Comprehensive Risk Audit: Interview clients to uncover potential red flags—lawsuit exposures, upcoming life changes, or underinsured assets.  
 2. Prioritize Risks: Based on severity and probability, focus on mitigating critical risks as early as possible.  
@@ -130,19 +130,19 @@ flowchart LR
 
 ---
 
-### 8. Real-World Case Studies
+### Real-World Case Studies
 
-#### 8.1 RBC’s Holistic Approach
+#### RBC’s Holistic Approach
 
 Consider a mid-career professional working with RBC who has a specialized investment portfolio and a growing family. By collaborating with RBC’s wealth management team, the client integrated life, disability, and critical illness insurance into his overall plan. The RBC advisor also facilitated a discussion with trust specialists to establish a family trust for holding investments intended for future generations. This synergy of banking, investment, and insurance solutions epitomizes effective holistic wealth preservation.
 
-#### 8.2 TD’s Private Banking and Asset Protection
+#### TD’s Private Banking and Asset Protection
 
 A small-business owner seeking private banking services at TD discovered potential vulnerabilities in his business structure. A TD wealth strategist recommended forming a holding company to separate personal assets from business liabilities, in addition to securing appropriate commercial general liability insurance. This structure provided valuable legal insulation and, when combined with an umbrella liability policy, fortified both personal and corporate assets.
 
 ---
 
-### 9. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 • Best Practices:  
   – Integrate risk management into every facet of the financial plan.  
@@ -156,7 +156,7 @@ A small-business owner seeking private banking services at TD discovered potenti
 
 ---
 
-### 10. Resources and References
+### Resources and References
 
 • CIRO’s Guidelines:  
   [Canadian Investment Regulatory Organization (CIRO)](https://www.ciro.ca) on suitability and conduct requirements related to insurance and risk management products.  
@@ -214,7 +214,7 @@ Strategic wealth preservation is a deliberate, ongoing process designed to defen
 
 > **Explanation:** While tangible assets include property or stocks, intangible assets such as reputation, goodwill, or brand names also require strategic protection measures.
 
-### 5. Estate planning often interacts with wealth preservation by…  
+### Estate planning often interacts with wealth preservation by…  
 - [x] Creating trusts and legal instruments to protect assets from creditors  
 - [ ] Eliminating all tax liabilities on familial transfers  
 - [x] Ensuring a smooth transfer of wealth to the next generation  

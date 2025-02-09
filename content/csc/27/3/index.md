@@ -27,7 +27,7 @@ Each of these divisions serves distinct yet complementary roles. This section de
 
 ### Investment Banking
 
-#### 1.1 Role and Responsibilities
+#### Role and Responsibilities
 Investment banking divisions play a pivotal role in connecting companies and governments (issuers) with the capital they need to fund projects, expand operations, or restructure. They handle:  
 • Underwriting initial public offerings (IPOs) and follow-on equity offerings.  
 • Structuring and issuing debt instruments, such as corporate bonds and debentures.  
@@ -36,12 +36,12 @@ Investment banking divisions play a pivotal role in connecting companies and gov
 
 In Canada, well-known names like RBC Capital Markets and TD Securities lead on many underwriting transactions. These investment banking teams work closely with clients to determine the appropriate issue price, coordinate with legal counsel to finalize offering documents, and market the new securities to institutional and sometimes retail investors.
 
-#### 1.2 Canadian Regulatory Considerations
+#### Canadian Regulatory Considerations
 • Underwriting and distribution of new securities must comply with CSA regulations, with additional oversight by local securities commissions (e.g., Ontario Securities Commission, Autorité des marchés financiers in Quebec).  
 • Investment bankers must ensure the transaction abides by disclosure requirements, including filing a prospectus or offering memorandum.  
 • Bank of Canada’s monetary policies indirectly affect underwriting terms, as changes in interest rates can impact the attractiveness of debt.
 
-#### 1.3 Common Pitfalls and Best Practices
+#### Common Pitfalls and Best Practices
 • Pitfall: Mispricing an IPO due to volatile market conditions can damage relationships and reputations.  
 • Best Practice: Thoroughly analyze macroeconomic indicators and maintain close communication with buy-side analysts to gauge market appetite.  
 • Pitfall: Failing to detect conflicts of interest where a bank might advise both parties in an M&A deal.  
@@ -51,13 +51,13 @@ In Canada, well-known names like RBC Capital Markets and TD Securities lead on m
 
 ### Sales and Trading
 
-#### 2.1 The Sales Function
+#### The Sales Function
 The sales team is responsible for building client relationships and distributing both new and secondary-market securities. This team:  
 • Develops and nurtures relationships with institutional investors such as pension funds or hedge funds, and sometimes with high-net-worth individuals.  
 • Presents investment ideas, facilitates large block trades, and provides market intelligence.  
 • Assists in marketing new securities being underwritten by the investment banking division.
 
-#### 2.2 The Trading Desk
+#### The Trading Desk
 Traders execute orders in equities, fixed income, currencies, and derivatives for clients (agency trades) and often for the firm’s proprietary accounts. Key tasks include:  
 • Matching buy and sell orders in the firm’s order book or through exchanges and alternative trading systems (ATS).  
 • Monitoring real-time market movements to optimize trade execution.  
@@ -68,10 +68,10 @@ Typical desks include:
 • Fixed-Income Trading: Government bonds, corporate bonds, and money market instruments.  
 • Derivatives Trading: Swaps, futures, forwards, and other structured products.
 
-#### 2.3 Technology and Algorithmic Trading
+#### Technology and Algorithmic Trading
 Sales and trading increasingly depend on robust technology platforms. Algorithmic (algo) trading strategies often rely on high-speed connectivity and proprietary models to identify and capture short-lived arbitrage opportunities. As markets move toward electronification, the technological edge can be a differentiator for sell-side firms.
 
-#### 2.4 Common Pitfalls and Best Practices
+#### Common Pitfalls and Best Practices
 • Pitfall: Poor understanding of a client’s risk tolerance can lead to executing trades misaligned with client objectives.  
 • Best Practice: Apply CIRO’s “Know-Your-Client” (KYC) and suitability requirements rigorously—though these are stricter on the retail side, many institutional engagements demand thorough due diligence.  
 • Pitfall: Inadequate technology infrastructure can result in trade execution delays or system failures.  
@@ -81,7 +81,7 @@ Sales and trading increasingly depend on robust technology platforms. Algorithmi
 
 ### Research Division
 
-#### 3.1 Objectives and Output
+#### Objectives and Output
 Research analysts provide critical insights and forecasts regarding companies, industries, and macroeconomic trends. Their core functions include:  
 • Creating equity and debt research reports with buy, sell, or hold recommendations.  
 • Analyzing economic data, interest rates, and currency movements for fixed-income and broader market research.  
@@ -89,13 +89,13 @@ Research analysts provide critical insights and forecasts regarding companies, i
 
 In Canada, for instance, a research analyst might focus on major banks like RBC or TD, discussing their quarterly earnings, competitive edge, or new lines of business, and projecting future performance given interest rate forecasts from the Bank of Canada.
 
-#### 3.2 Conflicts of Interest Management
+#### Conflicts of Interest Management
 Though research divisions are integral, they can spark potential conflicts of interest if they overly align with investment banking deals. Strict regulations and firewall policies—often referred to as “Chinese walls”—ensure:  
 • Research independence from the investment banking team.  
 • Prohibition of undue influence on analysts’ recommendations by other internal departments.  
 • Compliance checks for receiving inside information from corporate clients.
 
-#### 3.3 Best Practices
+#### Best Practices
 • Conduct thorough due diligence using both quantitative models and on-the-ground insights, such as site visits and management interviews.  
 • Maintain impartiality to preserve the reliability and integrity of research outputs.  
 • Incorporate relevant data from external sources, like the Bank of Canada’s Economic Indicator series or public disclosures from SEDAR (System for Electronic Document Analysis and Retrieval).
@@ -104,13 +104,13 @@ Though research divisions are integral, they can spark potential conflicts of in
 
 ### Compliance and Risk Management
 
-#### 4.1 The Importance of Compliance
+#### The Importance of Compliance
 Compliance teams ensure that all divisions adhere to CIRO, CSA, and internal policies. Responsibilities include:  
 • Monitoring trading activities for suspicious patterns and potential market abuse.  
 • Ensuring regulatory filings and disclosures are submitted accurately and on time.  
 • Training staff on ethical standards, anti-money laundering (AML) requirements, and insider trading rules.
 
-#### 4.2 Risk Management Functions
+#### Risk Management Functions
 Risk management often operates alongside compliance but with a slightly different mandate, focusing on:  
 • Market Risk: Exposure from price fluctuations of assets.  
 • Credit Risk: Potential default from counterparties in derivative contracts or bond issuances.  
@@ -118,7 +118,7 @@ Risk management often operates alongside compliance but with a slightly differen
 
 Firms leverage advanced risk analytics tools—both proprietary and third-party solutions, such as FINCAD or OpenGamma—to measure Scenario Value-at-Risk (VaR) or conduct stress tests against interest rate hikes or market downturns.
 
-#### 4.3 Key Challenges
+#### Key Challenges
 • Keeping up with evolving rules: Canadian securities regulations often change in response to international trends, making continuous monitoring essential.  
 • Implementing robust technology: Automated compliance platforms can flag suspicious activity yet require thorough configuration and oversight.  
 • Balancing risk appetite: Senior management must set acceptable risk limits to align with strategic goals without compromising the firm’s financial standing or regulatory compliance.
@@ -127,31 +127,31 @@ Firms leverage advanced risk analytics tools—both proprietary and third-party 
 
 ### Technology Infrastructure
 
-#### 5.1 Core Systems
+#### Core Systems
 A sell-side trading firm’s operational efficiency and competitiveness hinge on a solid technology framework. Key elements include:  
 • Trading Platforms and Order Management Systems (OMS).  
 • High-Frequency Trading (HFT) networks and co-location facilities for low-latency execution.  
 • Data Warehousing and Analytics for real-time risk monitoring.  
 
-#### 5.2 Cybersecurity
+#### Cybersecurity
 With increasing reliance on digital solutions, cybersecurity has become paramount. Firms need robust firewalls, encryption protocols, and continuous monitoring to protect sensitive client data and prevent breaches.
 
-#### 5.3 Operational Risk Mitigation
+#### Operational Risk Mitigation
 Technology can be a double-edged sword. While it streamlines order execution and risk analysis, technical glitches or system failures can lead to operational chaos. Backup servers, disaster recovery sites, and well-documented contingency plans form the core of risk mitigation strategies.
 
 ---
 
 ### Senior Management and Strategy
 
-#### 6.1 Leadership Role
+#### Leadership Role
 Senior management sets the strategic vision and culture of the firm, balancing profit-driven objectives with regulatory and ethical obligations. Whether deciding expansion into new product lines or implementing cost-saving measures, management must align each department—investment banking, sales, trading, research, compliance, and technology—for integrated success.
 
-#### 6.2 Policy and Ethics
+#### Policy and Ethics
 • Promote an ethical culture: Ensure employees understand that ethical behavior is non-negotiable.  
 • Oversee corporate governance: This includes setting up committees for audit, risk, and compliance oversight.  
 • Stay ahead of trends: Monitor global and Canadian economic indicators, government policy changes, and shifting market dynamics.
 
-#### 6.3 Organizational Hierarchy Overview (Diagram)
+#### Organizational Hierarchy Overview (Diagram)
 
 Below is a simplified Mermaid diagram showing how a typical sell-side trading firm might structure its core departments. The exact organization varies by firm size and strategy, but the fundamental divisions remain the same.
 

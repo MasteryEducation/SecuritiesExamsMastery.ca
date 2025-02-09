@@ -14,7 +14,7 @@ Regulatory oversight in Canada’s securities industry rests largely in the hand
 
 ---
 
-## 1. Overview of Canadian Financial Regulation
+## Overview of Canadian Financial Regulation
 
 Unlike certain other jurisdictions—such as the United States, which boasts an overarching federal securities regulator (the SEC)—Canada’s primary oversight of securities markets falls under provincial and territorial jurisdiction. Each province and territory operates its own securities commission or analogous agency. However, this decentralized approach is tempered by collaborative organizations at the national level, ensuring consistency and unity in policy and regulation.
 
@@ -24,7 +24,7 @@ Historically, the Constitution Act, 1867 vested the provinces with jurisdiction 
 
 ---
 
-## 2. Provincial and Territorial Regulators
+## Provincial and Territorial Regulators
 
 Each of Canada’s 13 provinces and territories has its own securities regulator. Examples include:  
 • Ontario Securities Commission (OSC)  
@@ -46,7 +46,7 @@ Because these commissions operate with the same ultimate goals, they strive to c
 
 ---
 
-## 3. The Canadian Securities Administrators (CSA)
+## The Canadian Securities Administrators (CSA)
 
 The Canadian Securities Administrators (CSA) is an umbrella organization that unites and coordinates the efforts of each provincial and territorial securities regulator. Although the CSA is not a legislating body per se, it aims to harmonize best practices and policies through “National Instruments” and “Companion Policies” that each jurisdiction adopts. 
 
@@ -72,7 +72,7 @@ The diagram above illustrates the CSA’s pivotal role as a conduit among provin
 
 ---
 
-## 4. The Canadian Investment Regulatory Organization (CIRO)
+## The Canadian Investment Regulatory Organization (CIRO)
 
 On the self-regulatory front, the Canadian Investment Regulatory Organization (CIRO) is Canada’s new national self-regulatory organization (SRO) that came into effect in 2023. CIRO was formed by the amalgamation of IIROC (Investment Industry Regulatory Organization of Canada) and MFDA (Mutual Fund Dealers Association), consolidating oversight functions for both investment dealers and mutual fund dealers under one self-regulatory umbrella.
 
@@ -92,24 +92,24 @@ Through its member network, CIRO fosters industry professionalism, offering guid
 
 ---
 
-## 5. Federal Regulatory Bodies
+## Federal Regulatory Bodies
 
 Beyond the provincial and SRO layers, certain federal agencies or corporations also shape Canada’s financial sector landscape:
 
-### 5.1 Office of the Superintendent of Financial Institutions (OSFI)
+### Office of the Superintendent of Financial Institutions (OSFI)
 
 The Office of the Superintendent of Financial Institutions (OSFI) supervises and regulates federally incorporated financial institutions such as national banks, insurance companies, trust companies, and pension plans. Though OSFI does not directly regulate securities transactions, its oversight ensures that major financial institutions remain solvent, stable, and well-capitalized.
 
 • Example: OSFI sets capital adequacy requirements (e.g., Basel III guidelines for banks).  
 • Powers: OSFI can conduct examinations, impose capital requirements, or direct institutions to take remedial actions if they fall below certain thresholds.
 
-### 5.2 Canada Deposit Insurance Corporation (CDIC)
+### Canada Deposit Insurance Corporation (CDIC)
 
 CDIC is a federal Crown corporation offering deposit insurance coverage (up to specified limits) on eligible deposits at member institutions. This coverage includes chequing and savings accounts, GICs, and other deposit products, ensuring retail and business depositors have confidence in the safety of their funds.
 
 • Notable Example: During times of increased uncertainty—e.g., a financial crisis—CDIC coverage reassures depositors, thus reducing the risk of bank runs.
 
-### 5.3 Canadian Investor Protection Fund (CIPF)
+### Canadian Investor Protection Fund (CIPF)
 
 The Canadian Investor Protection Fund (CIPF) exists to protect client assets held at CIRO-member firms if the firm becomes insolvent. Coverage extends to securities and cash in client accounts, subject to defined limits. Where bank deposits are covered by CDIC, CIPF applies to investment accounts, offering essential safeguards for investors.
 
@@ -117,7 +117,7 @@ The Canadian Investor Protection Fund (CIPF) exists to protect client assets hel
 
 ---
 
-## 6. Registration and Compliance
+## Registration and Compliance
 
 Under Canadian securities laws, firms and individuals who wish to trade, advise, or manage investments must register with the relevant provincial regulator. Compliance with CSA National Instruments, plus adherence to CIRO rules (if dealing in any type of securities or mutual fund products), is essential.
 
@@ -131,13 +131,13 @@ A key principle is “Know Your Client” (KYC). Dealers and advisers must asses
 
 ---
 
-## 7. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 7.1 Pension Fund Compliance
+### Pension Fund Compliance
 
 Imagine a Canadian pension fund managed by a trust company under OSFI regulation. While OSFI ensures the pension plan meets capital and actuarial standards, the trust company’s asset managers must also be registered with the relevant securities commission if they provide advisory services. This dual structure underscores the interplay of federal and provincial authorities.
 
-### 7.2 Major Bank Investment Subsidiary
+### Major Bank Investment Subsidiary
 
 Consider a major Canadian bank like RBC or TD that offers investment management services. The bank itself is federally overseen by OSFI. However, its brokerage arm, which provides securities trading and advisory services to clients, falls under provincial securities regulators and is a CIRO member. Additionally, the brokerage’s client assets are covered by CIPF.  
 
@@ -145,7 +145,7 @@ This layering of regulation ensures a holistic safety net—from solvency oversi
 
 ---
 
-## 8. Best Practices and Common Challenges
+## Best Practices and Common Challenges
 
 Regulatory compliance can be intricate and resource-intensive. Below are practical tips to navigate these layers efficiently:
 
@@ -162,7 +162,7 @@ Regulatory compliance can be intricate and resource-intensive. Below are practic
 
 ---
 
-## 9. Additional Resources
+## Additional Resources
 
 For further research and insights on Canadian securities regulation, consider the following:
 
@@ -176,7 +176,7 @@ Academic references include specialized courses offered through business schools
 
 ---
 
-## 10. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 1. Regulation is largely at the provincial and territorial level, but the Canadian Securities Administrators (CSA) fosters national coordination.  
 2. The Canadian Investment Regulatory Organization (CIRO) oversees both investment and mutual fund dealers, safeguarding market integrity and investor protection.  

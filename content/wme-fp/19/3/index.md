@@ -14,7 +14,7 @@ Strategic Asset Allocation (SAA) is a cornerstone of portfolio management. It in
 
 ---
 
-### 1. Definition and Purpose of Strategic Asset Allocation
+### Definition and Purpose of Strategic Asset Allocation
 
 Strategic Asset Allocation (SAA) is the process of determining and maintaining a long-term target mix of asset classes. Because it is tied to fundamental client goals and constraints (e.g., retirement needs, funding post-secondary education, estate planning), the result is often referred to as a “policy portfolio.” The policy portfolio provides a clear framework or baseline for investment decisions.
 
@@ -32,7 +32,7 @@ Strategic Asset Allocation (SAA) is the process of determining and maintaining a
 
 ---
 
-### 2. The Long-Term Perspective
+### The Long-Term Perspective
 
 A key hallmark of SAA is its focus on the long term, typically spanning years or even decades. This horizon allows investors to see beyond day-to-day market fluctuations and harness the power of compounding returns:
 
@@ -50,7 +50,7 @@ A key hallmark of SAA is its focus on the long term, typically spanning years or
 
 ---
 
-### 3. Expected Return and Risk Profile
+### Expected Return and Risk Profile
 
 A principal objective of SAA is to ensure the portfolio’s expected return meets or exceeds the investor’s long-term goals while the associated risk remains within an acceptable range:
 
@@ -68,7 +68,7 @@ A principal objective of SAA is to ensure the portfolio’s expected return meet
 
 ---
 
-### 4. Role in Minimizing Emotional Decision-Making
+### Role in Minimizing Emotional Decision-Making
 
 One of the great strengths of any well-designed strategic asset allocation is the discipline it enforces:
 
@@ -85,7 +85,7 @@ One of the great strengths of any well-designed strategic asset allocation is th
 
 ---
 
-### 5. Periodic Review and Monitoring
+### Periodic Review and Monitoring
 
 Although strategic asset allocation focuses on stability, regular check-ups and adjustments are essential:
 
@@ -103,7 +103,7 @@ Although strategic asset allocation focuses on stability, regular check-ups and 
 
 ---
 
-### 6. Putting It All Together: SAA in Practice
+### Putting It All Together: SAA in Practice
 
 Below is a simplified Mermaid diagram illustrating the process of building and maintaining a strategic asset allocation framework. This visual can help guide advisors and investors through key steps.
 
@@ -137,7 +137,7 @@ flowchart LR
 
 ---
 
-### 7. Glossary of Key Terms
+### Glossary of Key Terms
 
 - **Policy Portfolio:** The baseline mix of asset classes (e.g., 60% equities, 40% fixed income) deemed appropriate for meeting specific long-term objectives and constraints.  
 - **Long-Term Capital Market Assumptions:** Forward-looking estimates of expected returns, volatilities, and correlations for different asset classes. Large asset managers often update these assumptions annually or quarterly.  
@@ -145,7 +145,7 @@ flowchart LR
 
 ---
 
-### 8. Best Practices and Considerations
+### Best Practices and Considerations
 
 1. **Documentation:**  
    - Keep transparent records showing how the chosen SAA aligns with the client’s objectives and risk profile. This is crucial if questioned by regulators like CIRO.  
@@ -164,7 +164,7 @@ flowchart LR
 
 ---
 
-### 9. Canadian Regulatory References and Additional Resources
+### Canadian Regulatory References and Additional Resources
 
 Navigating strategic asset allocation in Canada involves adapting to unique local regulations and market structures. For further study and expertise, consider the following:
 

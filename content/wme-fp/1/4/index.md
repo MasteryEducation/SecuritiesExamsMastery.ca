@@ -14,7 +14,7 @@ Regulatory compliance forms the backbone of wealth management in Canada. Whether
 
 ---
 
-### 1.4.1 Overview of the Canadian Regulatory Landscape
+### Overview of the Canadian Regulatory Landscape
 
 Canada’s regulatory environment differs from that of many other countries, primarily because it does not have a single national securities regulator. Instead, regulation is carried out at the provincial and territorial levels, guided and harmonized by the Canadian Securities Administrators (CSA). This structure can be understood as a system of “passport” rules, whereby compliance with one jurisdiction’s regulatory requirements often meets or approximates compliance with another’s.
 
@@ -28,7 +28,7 @@ Beyond securities, wealth management professionals often deal with additional re
 
 ---
 
-### 1.4.2 Key Regulatory Bodies
+### Key Regulatory Bodies
 
 #### Canadian Securities Administrators (CSA)
 
@@ -64,7 +64,7 @@ Maintaining membership with CIRO ensures that firms and advisors adhere to indus
 
 ---
 
-### 1.4.3 Additional Regulatory Authorities
+### Additional Regulatory Authorities
 
 #### Insurance Regulators
 
@@ -91,7 +91,7 @@ For more details, visit FINTRAC’s official website:
 
 ---
 
-### 1.4.4 Key Regulatory Concepts in Wealth Management
+### Key Regulatory Concepts in Wealth Management
 
 #### Know-Your-Client (KYC)
 
@@ -120,7 +120,7 @@ Suitability ties KYC and KYP together. Advisors must ensure that investment stra
 
 ---
 
-### 1.4.5 Step-by-Step Compliance Framework
+### Step-by-Step Compliance Framework
 
 Below is a simplified diagram illustrating how different regulatory considerations interact in a compliance framework for wealth management professionals:
 
@@ -146,7 +146,7 @@ flowchart TB
 
 ---
 
-### 1.4.6 Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 #### Case Study 1: Registered Investment Advisor at a National Bank
 
@@ -158,7 +158,7 @@ An independent agent licensed in Ontario through FSRA focuses on life and living
 
 ---
 
-### 1.4.7 Common Pitfalls and Best Practices
+### Common Pitfalls and Best Practices
 
 • Failing to Update KYC Information: Client data can go stale if not regularly updated. A best practice is to conduct annual or semi-annual reviews.  
 • Inadequate Documentation: Even if an advisor conducts thorough KYC and product due diligence, failing to document properly can still lead to compliance issues.  
@@ -173,7 +173,7 @@ An independent agent licensed in Ontario through FSRA focuses on life and living
 
 ---
 
-### 1.4.8 Leveraging Tools and Resources
+### Leveraging Tools and Resources
 
 • Provincial Securities Commission Websites (e.g., OSC): Access rulebooks, investor alerts, and regulatory consultations.  
 • CIRO Rulebook: Stay informed on SRO rules related to sales practices, continuing education, and supervision.  
@@ -183,7 +183,7 @@ An independent agent licensed in Ontario through FSRA focuses on life and living
 
 ---
 
-### 1.4.9 Summary
+### Summary
 
 Navigating the multifaceted Canadian regulatory landscape is central to delivering trustworthy and ethical financial advice. By ensuring compliance with provincial securities commissions, adhering to CIRO’s oversight, and respecting AML and privacy statutes, advisors protect both clients and themselves from significant risks. Core principles like KYC, KYP, and suitability form the backbone of wealth management practice, while ongoing monitoring and documentation keep the advisor well-prepared for audits and regulatory changes.
 

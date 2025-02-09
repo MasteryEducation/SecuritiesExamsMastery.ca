@@ -20,75 +20,75 @@ Each product type offers unique benefits, risks, and structural nuances that can
 
 ---
 
-## 1. Exchange-Traded Notes (ETNs)
+## Exchange-Traded Notes (ETNs)
 
-### 1.1 What Are ETNs?
+### What Are ETNs?
 Exchange-Traded Notes (ETNs) are debt obligations issued by financial institutions such as banks. They are designed to provide investors with a return tied to the performance of a specific underlying benchmark or index, minus fees. ETNs trade on an exchange, similar to equities and ETFs, which allows for intraday liquidity.
 
 However, ETNs differ from ETFs in one key aspect: credit risk. Because ETNs are unsecured debt obligations, the solvency and creditworthiness of the issuing institution can significantly impact the ETN’s viability. If the issuing bank or financial institution defaults, investors may only receive partial or no return on the ETN, regardless of how the underlying index performs.
 
-### 1.2 Key Structural Features
+### Key Structural Features
 • Principal Protection: Most ETNs are not principal-protected. While some may advertise limited downside protection, investors should carefully read the offering documents.  
 • No Tracking Error Risk: Because ETNs promise to deliver the total return of the reference index (minus fees), they do not hold a basket of securities as ETFs do. This structure typically results in minimal tracking error but introduces credit risk.  
 • Fees: ETNs generally have ongoing fees (often deducted from the note’s value) and possibly redemption fees for early redemption prior to maturity. These fees must be accounted for when evaluating long-term returns.  
 
-### 1.3 Real-World Example
+### Real-World Example
 Suppose RBC issues an ETN directly tied to the performance of the S&P/TSX 60 Index. If the S&P/TSX 60 increases by 10% over one year, and the ETN charges a 1% annual fee, the gross payoff to ETN holders (excluding credit risk considerations) would be roughly 9%. However, if RBC faces a significant credit event, the ETN’s value may plummet, even if the S&P/TSX 60 remains robust.
 
-### 1.4 Considerations Within Canadian Investment Portfolios
+### Considerations Within Canadian Investment Portfolios
 • Credit Risk Management: Check the issuer’s credit rating through agencies such as DBRS, Fitch, Moody’s, or S&P.  
 • Regulatory Observations: Although primarily regulated under debt securities frameworks, ETNs also come under the purview of the Canadian Securities Administrators (CSA) for market rules.  
 • Portfolio Positioning: ETNs can offer access to hard-to-reach asset classes or esoteric indexes. However, Canadian advisors must weigh the trade-off between potential lack of tracking error and the added credit risk.  
 
 ---
 
-## 2. Closed-End Funds (CEFs)
+## Closed-End Funds (CEFs)
 
-### 2.1 Defining Closed-End Funds
+### Defining Closed-End Funds
 Closed-End Funds (CEFs) are similar to ETFs in that they pool money from investors to invest in a diversified portfolio of securities. However, unlike traditional ETFs, CEFs do not continuously create or redeem shares based on supply and demand. Instead, CEFs often go through an initial public offering (IPO) to raise capital, after which their shares trade on the stock exchange. 
 
 A defining characteristic of CEFs is that they may trade at a premium or discount relative to the fund’s net asset value (NAV). This discrepancy arises from market supply and demand dynamics—if there are more buyers than sellers, it can drive the share price above NAV, creating a premium; the reverse situation can lead to a discount.
 
-### 2.2 Key Structural Features
+### Key Structural Features
 • Fixed Capital Structure: The number of shares outstanding is typically fixed, which can result in price fluctuations independent of NAV.  
 • Portfolio Freedom: Because CEFs do not face daily creation/redemption pressures, managers may have more freedom to invest in less liquid or specialized markets such as private credit, real estate, or frontier markets.  
 • Distributions: CEFs often distribute dividends or interest payments, making them potentially attractive for income-focused investors.  
 
-### 2.3 Premiums and Discounts
+### Premiums and Discounts
 The phenomenon of trading at a premium or discount can be attributed to multiple factors, including market sentiment, the fund’s investment strategy, liquidity levels, and the reputation of the fund manager. In the Canadian market, some CEFs focusing on niche sectors (e.g., real estate investment trusts, private debt) exhibit longer periods of trading at a discount or premium depending on investor demand and perceived asset value.
 
-### 2.4 Example: Canadian Real Estate CEF
+### Example: Canadian Real Estate CEF
 A hypothetical CEF that invests in high-yield Canadian real estate assets—say, mortgage-backed securities from provinces like Ontario or British Columbia—might trade at a discount during periods of economic uncertainty or rising interest rates. Conversely, if the real estate outlook is positive and demand is high, shares could command a premium over NAV.
 
-### 2.5 Regulatory Considerations
+### Regulatory Considerations
 • Listing Requirements: Like most exchange-traded products, CEFs must meet standard exchange listing requirements set by regulators.  
 • Disclosures: Managers must provide regular updates, including NAV calculations and holdings data.  
 • Oversight: CSA’s National Instruments (for instance, NI 81-101 or NI 81-106) outline disclosure and operational guidelines for funds, which also apply to certain aspects of closed-end structures.  
 
 ---
 
-## 3. Alternative ETFs (Liquid Alternatives)
+## Alternative ETFs (Liquid Alternatives)
 
-### 3.1 Introduction to Alternatives and “Liquid Alts”
+### Introduction to Alternatives and “Liquid Alts”
 “Alternative ETFs” or “Liquid Alternatives” refer to ETFs that utilize non-traditional investment strategies and/or asset classes. These can include hedge-fund-like strategies such as long/short equity, market-neutral, managed futures, or multi-strategy approaches. Although hedge funds often face liquidity restrictions, alternative ETFs are structured to offer daily liquidity and are subject to regulatory frameworks designed for retail investment vehicles.
 
-### 3.2 Common Alternative Strategies
+### Common Alternative Strategies
 • Long/Short Equity: Employs short selling in addition to long positions, aiming to capitalize on both rising (long) and falling (short) security prices.  
 • Market-Neutral: Attempts to profit from relative mispricings in securities while maintaining minimal net market exposure.  
 • Global Macro or Multi-Strategy: Deploys multiple techniques, often involving commodities, currencies, and derivatives, seeking absolute returns.
 
-### 3.3 Canadian Regulatory Environment for Liquid Alts
+### Canadian Regulatory Environment for Liquid Alts
 The Canadian Securities Administrators introduced amendments to National Instrument 81-102 (Investment Funds) in January 2019, which paved the way for liquid alternative funds accessible to retail investors. These new guidelines allow asset managers more latitude in leveraging, short selling, and investing in derivatives, but within regulated limits to control risk.
 
-### 3.4 Practical Uses in Canadian Portfolios
+### Practical Uses in Canadian Portfolios
 Alternative ETFs can diversify and potentially reduce overall portfolio correlations to traditional asset classes. For instance, a Canadian-based alternative ETF that invests in long/short U.S. equities may hedge part of its currency exposure to CAD. When RBC or TD invests client assets in such ETFs, the goal is often to enhance risk-adjusted returns, particularly during periods of market volatility.
 
-### 3.5 Case Study: Long/Short Canadian Equity ETF
+### Case Study: Long/Short Canadian Equity ETF
 Imagine an ETF that holds a basket of top Canadian banks (going long on shares of RBC, TD, BMO) while shorting a basket of weaker or overvalued Canadian industrial stocks. This strategy aims to generate alpha from both upward and downward price movements. It remains subject to liquidity regulations, ensuring that retail investors can buy or sell ETF units on the TSX without facing the gating or lock-up periods often encountered in traditional hedge funds.
 
 ---
 
-## 4. Comparing ETNs, CEFs, and Alternative ETFs
+## Comparing ETNs, CEFs, and Alternative ETFs
 
 To better visualize how these products differ on key factors such as structure, liquidity, and risk, consider the following diagram:
 
@@ -108,7 +108,7 @@ flowchart LR
 
 ---
 
-## 5. Best Practices and Key Takeaways
+## Best Practices and Key Takeaways
 
 When evaluating ETNs, CEFs, or alternative ETFs in the Canadian market:
 
@@ -134,7 +134,7 @@ When evaluating ETNs, CEFs, or alternative ETFs in the Canadian market:
 
 ---
 
-## 6. References and Additional Resources
+## References and Additional Resources
 
 • CSA Guidelines and National Instruments Regulating Non-Traditional Funds:  
   – National Instrument 81-102 and 81-104 for mutual funds and alternative funds.  

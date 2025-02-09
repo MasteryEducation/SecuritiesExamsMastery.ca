@@ -16,7 +16,7 @@ Throughout this chapter, we will integrate real-world examples from Canadian fin
 
 ---
 
-## 1. Overview of the Trading Lifecycle
+## Overview of the Trading Lifecycle
 
 The trading lifecycle can be broken into five primary steps:
 
@@ -36,7 +36,7 @@ flowchart LR
     D --> E(Settlement: Transfer of Funds & Securities)
 ```
 
-### 1.1 Order Entry
+### Order Entry
 
 Order entry involves an investor relaying trading instructions to their dealer (investment firm or broker). In Canada, dealers typically capture the following information:  
 • The ticker symbol of the security (e.g., RBC on TSX: RY).  
@@ -46,30 +46,30 @@ Order entry involves an investor relaying trading instructions to their dealer (
 
 The dealer routes the order to the appropriate exchange or an alternative trading system (ATS) consistent with best-execution policies and regulatory guidelines issued by the self‐regulatory organizations.
 
-### 1.2 Order Matching
+### Order Matching
 
 Once the order arrives on the marketplace, the matching engine pairs buy orders with sell orders based on factors such as price and time. Key points include:  
 • Price Priority: Orders at the best price (highest bid for buyers, lowest ask for sellers) get filled first.  
 • Time Priority: Among competing orders at the same price, the earliest order takes precedence.
 
-### 1.3 Trade Execution
+### Trade Execution
 
 A “trade” occurs when a buy order and a sell order match. At this point, the exchange or ATS transmits trade details—price, quantity, time, and unique identifiers—to the dealer and ultimately to back-office systems for clearing.
 
 ---
 
-## 2. Clearing Through CDS
+## Clearing Through CDS
 
 Clearing is the intermediary step between trade execution and settlement. It consists of determining the obligations of each party and verifying that each side can meet its responsibilities. In Canada, the primary clearing agent for equity trades is CDS Clearing and Depository Services Inc. (CDS).
 
-### 2.1 Netting and Risk Reduction
+### Netting and Risk Reduction
 
 CDS employs a netting process, aggregating all buy and sell activity for each dealer. For example, if Dealer A buys 1,000 shares of Bank of Nova Scotia (BNS) from Dealer B, and simultaneously sells 500 shares of BNS to Dealer B, CDS calculates a net position:  
 • Dealer A owes Dealer B only 500 shares (1,000 – 500).  
 
 Netting reduces the volume of securities and funds that move between dealers, minimizing settlement risk and enhancing market efficiency.
 
-### 2.2 Final Confirmation
+### Final Confirmation
 
 Before settlement, CDS provides all participants (broker/dealers) with a summary of net obligations. These records act as confirmation for each firm regarding how many securities they must deliver or receive, and how much money they should pay or expect to receive.
 
@@ -78,11 +78,11 @@ More information on CDS and its clearing rules can be found on the official CDS 
 
 ---
 
-## 3. Settlement Procedures
+## Settlement Procedures
 
 Settlement constitutes the actual exchange of securities for money. Under current Canadian regulations, most equity securities, including common shares, settle on a T+2 basis. “T” stands for the trade date—and “+2” means two business days following the trade date.
 
-### 3.1 T+2 Settlement
+### T+2 Settlement
 
 For a trade executed on Monday (assuming no holidays during the week), payment and delivery must occur by the close of business on Wednesday. This T+2 cycle applies to most equity trades on Canadian markets, aligning with major global marketplaces such as the New York Stock Exchange.
 
@@ -94,7 +94,7 @@ For a trade executed on Monday (assuming no holidays during the week), payment a
 | Thursday         | Monday              |
 | Friday           | Tuesday             |
 
-### 3.2 Cash Accounts vs. Margin Accounts
+### Cash Accounts vs. Margin Accounts
 
 In both a cash account and a margin account, T+2 is the standard timeline. However, the requirements differ:
 
@@ -108,11 +108,11 @@ In both a cash account and a margin account, T+2 is the standard timeline. Howev
 
 ---
 
-## 4. Electronic Record-Keeping and Delivery
+## Electronic Record-Keeping and Delivery
 
 Physical share certificates have become rare. Instead, securities are typically held in “street name” (the dealer holds the securities on behalf of the client) or via electronic book-entry forms. Book-entry ensures convenient transfers and significantly reduces administrative overhead.
 
-### 4.1 Role of the Canadian Depository for Securities
+### Role of the Canadian Depository for Securities
 
 CDS holds and tracks securities electronically. When settlement occurs:  
 • CDS updates its records to reflect the transfer of ownership.  
@@ -122,15 +122,15 @@ For more details on settlement infrastructure, the [Bank of Canada Settlement Sy
 
 ---
 
-## 5. Buy-Ins and Sell-Outs
+## Buy-Ins and Sell-Outs
 
 Even though most trades settle seamlessly under T+2 guidelines, the system includes measures to handle defaults. Two crucial mechanisms are buy-ins and sell-outs:
 
-### 5.1 Buy-In
+### Buy-In
 
 If the seller fails to deliver securities by the settlement date, the buyer’s brokerage can engage in a buy-in. Essentially, the buyer’s brokerage firm purchases the same securities in the market to deliver to the buyer, then charges all associated costs (e.g., any additional market price increase) to the failing seller’s brokerage.
 
-### 5.2 Sell-Out
+### Sell-Out
 
 Conversely, if the buyer cannot pay or does not deliver the required funds by settlement, the brokerage firm can perform a sell-out, selling the securities in the market and deducting any shortfall from the buyer’s account.
 
@@ -138,7 +138,7 @@ These remedies encourage discipline, ensure investors honor their commitments, a
 
 ---
 
-## 6. Regulatory Landscape
+## Regulatory Landscape
 
 Clearing and settlement in Canada function within a regulatory environment overseen by agencies such as:
 
@@ -156,7 +156,7 @@ Staying current with the latest regulatory notices ensures compliance and reduce
 
 ---
 
-## 7. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
 ### Case Study 1: Large Canadian Bank Trade
 
@@ -182,16 +182,16 @@ These examples underscore the importance of meeting payment or delivery obligati
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 8.1 Best Practices
+### Best Practices
 
 • Always Verify Funding or Security Availability: Ensure the proper funds or shares are in the account well before T+2.  
 • Track Margins Carefully: Keep track of margin requirements, especially in volatile markets where security values can fluctuate.  
 • Stay Abreast of Settlement Cycles: Global markets sometimes have different settlement cycles, so know the differences if trading cross-border.  
 • Maintain Good Communication with Brokerage Firms: Promptly respond to margin calls or settlement issues to avoid forced transactions.
 
-### 8.2 Common Pitfalls
+### Common Pitfalls
 
 • Overlooking Settlement Holidays: Settlement timetables exclude weekends and statutory holidays. Failing to account for holidays can lead to missed settlement deadlines.  
 • Insufficient Funds in Cash Accounts: New investors sometimes forget to deposit funds into their accounts, causing avoidable sell-out procedures.  
@@ -199,7 +199,7 @@ These examples underscore the importance of meeting payment or delivery obligati
 
 ---
 
-## 9. Additional Resources and References
+## Additional Resources and References
 
 • [CDS Clearing and Depository Services](https://www.cds.ca): Official source of clearing and settlement practices.  
 • [CIRO](https://www.ciro.ca): Trade-related compliance and regulatory updates.  
@@ -209,7 +209,7 @@ These examples underscore the importance of meeting payment or delivery obligati
 
 ---
 
-## 10. Key Takeaways
+## Key Takeaways
 
 1. Canadian equity trades typically operate on a T+2 settlement cycle.  
 2. Clearing through CDS reduces transaction risk by netting buy and sell orders among dealers.  

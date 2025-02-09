@@ -14,7 +14,7 @@ Effective decision-making in corporate finance depends largely on the availabili
 
 ---
 
-### 11.2.1 Purpose and Importance of Financial Statements
+### Purpose and Importance of Financial Statements
 
 Financial statements are designed to:
 • Provide stakeholders (investors, creditors, and others) with insight into a corporation’s performance over a specified period.  
@@ -26,7 +26,7 @@ Each statement, along with the notes, offers a different perspective of the comp
 
 ---
 
-### 11.2.2 The Four Primary Financial Statements
+### The Four Primary Financial Statements
 
 Under generally accepted accounting principles (GAAP) and IFRS, corporations in Canada typically prepare four main financial statements:
 
@@ -117,7 +117,7 @@ This statement is crucial for assessing a firm’s liquidity and solvency. Even 
 
 ---
 
-### 11.2.3 The Notes to the Financial Statements: Adding Context
+### The Notes to the Financial Statements: Adding Context
 
 The Notes to the Financial Statements provide essential explanatory detail for the numbers reported. They often include:
 
@@ -130,7 +130,7 @@ These notes can be wide-ranging and may constitute the bulk of a corporation’s
 
 ---
 
-### 11.2.4 IFRS vs. ASPE in Canada
+### IFRS vs. ASPE in Canada
 
 In Canada, publicly accountable enterprises (PAEs) are required to use IFRS for financial reporting. However, private enterprises may elect to use either IFRS or Accounting Standards for Private Enterprises (ASPE). Below are some key differences:
 
@@ -142,7 +142,7 @@ By understanding the differences between IFRS and ASPE, investors and advisors c
 
 ---
 
-### 11.2.5 Practical Perspectives and Best Practices
+### Practical Perspectives and Best Practices
 
 • **Comparability:** When analyzing firms in the same industry—such as comparing RBC to TD—ensure that both follow IFRS. Similar reporting standards help maintain consistency when matching financial metrics across industry peers.  
 • **Liquidity Focus:** Watch short-term liquidity indicators such as the current and quick ratios on the Balance Sheet, and ensure that any shortfall in cash flow is explained in the Statement of Cash Flows.  

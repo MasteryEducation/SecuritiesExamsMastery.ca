@@ -16,7 +16,7 @@ This section explores how non-managed fee-based accounts function, their advanta
 
 ---
 
-## 1. Defining Non-Managed Fee-Based Accounts
+## Defining Non-Managed Fee-Based Accounts
 
 A non-managed fee-based account is designed for investors who:
 • Wish to maintain control over investment decisions (i.e., no discretionary authority is provided to the advisor).  
@@ -25,7 +25,7 @@ A non-managed fee-based account is designed for investors who:
 
 In this arrangement, the client is responsible for authorizing each trade, but benefits from the advisor’s ongoing monitoring, research resources, and planning services. While the account includes advisory input, it differs from discretionary managed accounts, where the portfolio manager makes buy/sell decisions without seeking prior client approval.
 
-### 1.1 Key Characteristics
+### Key Characteristics
 
 1. **Non-Discretionary Advisory**: The advisor provides recommendations but does not have the authority to execute trades without the client’s consent.  
 2. **Fee Structure**: Usually a percentage of AUM or a fixed annual fee; less reliance on commissions.  
@@ -34,7 +34,7 @@ In this arrangement, the client is responsible for authorizing each trade, but b
 
 ---
 
-## 2. Rationale Behind Non-Managed Fee-Based Accounts
+## Rationale Behind Non-Managed Fee-Based Accounts
 
 Many Canadian investors appreciate the balance of autonomy and support offered by non-managed fee-based models. Below are some key reasons investors choose this account type:
 
@@ -46,15 +46,15 @@ However, a non-managed fee-based approach is not inherently less expensive than 
 
 ---
 
-## 3. Cost Analysis: Commission vs. Fee-Based Structure
+## Cost Analysis: Commission vs. Fee-Based Structure
 
-### 3.1 Factors Influencing Cost
+### Factors Influencing Cost
 
 • **Trading Frequency**: A client who trades sparingly may find that an annual fee exceeds the aggregate cost of sporadic commissions. By contrast, active traders may realize immediate savings with a capped annual fee.  
 • **Portfolio Complexity**: For portfolios requiring more frequent rebalancing or specialized advice, ongoing access to an advisor can justify the annual fee.  
 • **Account Size**: Certain fee-based programs offer tiered rates, providing fee discounts as assets grow. Large portfolios may incur a proportionally lower fee rate while receiving more robust services.
 
-### 3.2 Sample Cost Comparison Table
+### Sample Cost Comparison Table
 
 Below is a simplified example illustrating how fees might differ for a hypothetical investor deciding between a commission-based and a non-managed fee-based account (assuming $500,000 in assets).
 
@@ -73,9 +73,9 @@ From this example, if the investor seldom trades and does not require much advis
 
 ---
 
-## 4. Service Scope in Non-Managed Fee-Based Accounts
+## Service Scope in Non-Managed Fee-Based Accounts
 
-### 4.1 Advisor Responsibilities
+### Advisor Responsibilities
 
 Advisors in non-managed fee-based accounts may provide:  
 • **Portfolio Analysis**: Reviewing the client’s holdings, identifying imbalances, and recommending rebalancing strategies.  
@@ -83,7 +83,7 @@ Advisors in non-managed fee-based accounts may provide:
 • **Financial Planning Support**: Suggesting tax advantages through Registered Retirement Savings Plans (RRSPs), Tax-Free Savings Accounts (TFSAs), or other vehicles.  
 • **Regular Check-Ins**: Periodic consultations to evaluate progress toward long-term goals.
 
-### 4.2 Client Responsibilities
+### Client Responsibilities
 
 While the advisor presents recommendations, the client is responsible for:  
 • **Final Investment Decisions**: Authorizing trades, ensuring they align with personal risk tolerance and objectives.  
@@ -92,9 +92,9 @@ While the advisor presents recommendations, the client is responsible for:
 
 ---
 
-## 5. Suitability Considerations and Client Focused Reforms (CFRs)
+## Suitability Considerations and Client Focused Reforms (CFRs)
 
-### 5.1 Suitability Requirements
+### Suitability Requirements
 
 Under Canadian securities regulations (CIRO and CSA), advisors must ensure that the recommended account types align with the client’s knowledge, objectives, and circumstances. Some core suitability factors for non-managed fee-based accounts include:
 
@@ -103,7 +103,7 @@ Under Canadian securities regulations (CIRO and CSA), advisors must ensure that 
 • **Complexity of Needs**: Investors requiring ongoing planning, tax guidance, and research may benefit from the expanded advisory services included in the fee.  
 • **Cost-Effectiveness**: Clients must understand how fees are charged and whether the structure matches their trading patterns.
 
-### 5.2 Client Focused Reforms (CFRs)
+### Client Focused Reforms (CFRs)
 
 CFRs encompass directives requiring transparency, conflict-of-interest management, and enhanced disclosure. In non-managed fee-based accounts, key implications include:
 
@@ -114,7 +114,7 @@ CFRs encompass directives requiring transparency, conflict-of-interest managemen
 
 ---
 
-## 6. Tiered Service Levels
+## Tiered Service Levels
 
 Many Canadian brokerage firms and wealth management institutions (e.g., RBC Dominion Securities, TD Wealth, and others) offer tiered service bundles based on the client’s AUM. As the portfolio reaches higher thresholds, investors may gain access to advanced research tools, dedicated portfolio strategists, or discounted fees.
 
@@ -126,7 +126,7 @@ Many Canadian brokerage firms and wealth management institutions (e.g., RBC Domi
 
 ---
 
-## 7. Practical Case Study: RBC Direct vs. Fee-Based Advisory
+## Practical Case Study: RBC Direct vs. Fee-Based Advisory
 
 Consider a client with $600,000 in investable assets. They are trying to evaluate whether to remain at RBC Direct Investing (a self-directed platform that charges standard commissions per trade) or shift to a non-managed fee-based program through RBC Dominion Securities.  
 
@@ -142,15 +142,15 @@ After weighing the benefits of ongoing advice against the higher annual cost, th
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 8.1 Best Practices
+### Best Practices
 
 • **Align Fees with Activity**: If you expect frequent trades or need ongoing advice, a fee-based account can offer value. Otherwise, a commission-based structure might be cheaper.  
 • **Leverage Advisory Services**: Take full advantage of the advisor’s expertise, including financial planning, research insights, and portfolio monitoring.  
 • **Maintain Open Communication**: Regularly discuss your life changes, financial goals, or risk preferences with your advisor to ensure your account remains suitable.
 
-### 8.2 Common Pitfalls
+### Common Pitfalls
 
 • **Underutilizing Advisor Resources**: Some investors pay for a fee-based structure but rarely seek guidance, undercutting their return on fees paid.  
 • **Neglecting Fee Evaluation**: Failing to benchmark fees against potential savings or exploring competitive offerings may mean paying more than necessary.  
@@ -158,7 +158,7 @@ After weighing the benefits of ongoing advice against the higher annual cost, th
 
 ---
 
-## 9. Step-by-Step Guidance for Choosing a Non-Managed Fee-Based Account
+## Step-by-Step Guidance for Choosing a Non-Managed Fee-Based Account
 
 1. **Assess Your Investment Knowledge & Time**: Evaluate whether you can handle the burden of making final investment decisions with occasional research support.  
 2. **Estimate Your Trading Frequency**: Roughly calculate annual commissions under a pay-per-trade system to compare against a projected fee schedule.  
@@ -169,7 +169,7 @@ After weighing the benefits of ongoing advice against the higher annual cost, th
 
 ---
 
-## 10. Mermaid Diagram: Non-Managed Fee-Based Account Process
+## Mermaid Diagram: Non-Managed Fee-Based Account Process
 
 ```mermaid
 flowchart LR
@@ -189,7 +189,7 @@ flowchart LR
 
 ---
 
-## 11. References and Additional Resources
+## References and Additional Resources
 
 - **CIRO**:  
   → [https://www.ciro.ca/](https://www.ciro.ca/)  

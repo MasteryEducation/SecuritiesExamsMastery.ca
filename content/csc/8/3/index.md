@@ -15,9 +15,9 @@ Stock market indexes are indispensable tools in the world of equity investing. T
 In this section, we will explore the importance of stock indexes and averages, examine calculations and methodologies, and delve into real-world examples illustrating their applications in the Canadian market context. We will also discuss how financial advisors, institutional investors, and individual traders use these benchmarks to make better-informed portfolio decisions and manage risk.
 
 --------------------------------------------------------------------------------
-## 1. Defining Stock Market Indexes
+## Defining Stock Market Indexes
 
-### 1.1 What Is a Stock Market Index?
+### What Is a Stock Market Index?
 
 A stock market index is a statistical measure of the changes in a group of stocks representing a portion of the overall market or a specific sector. The goal of an index is to capture the performance of that sector, enabling investors to compare the sector’s performance against:
 
@@ -27,7 +27,7 @@ A stock market index is a statistical measure of the changes in a group of stock
 
 These comparisons help investors identify trends, grasp market sentiments, and make strategic investment decisions—whether they aim to outperform an index (active management) or match its returns (passive management).
 
-### 1.2 Why Are Indexes Important?
+### Why Are Indexes Important?
 
 Indexes are used as benchmarks. For instance, if you hold a Canadian equity portfolio, you might gauge its performance against a benchmark like the S&P/TSX Composite Index. If your portfolio’s returns exceed the index, you’ve outperformed the market; if they’re lower, you’ve underperformed. Some key benefits of indexes are:
 
@@ -37,9 +37,9 @@ Indexes are used as benchmarks. For instance, if you hold a Canadian equity port
 • Aiding in risk management and diversification strategies  
 
 --------------------------------------------------------------------------------
-## 2. Overview of Major Indexes
+## Overview of Major Indexes
 
-### 2.1 Canadian Indexes
+### Canadian Indexes
 
 Within Canada, the most notable benchmark is the S&P/TSX Composite Index. This index tracks a broad selection of Canadian stocks listed on the Toronto Stock Exchange (TSX), capturing roughly 70% of its total market capitalization. Other Canadian indexes include:
 
@@ -48,7 +48,7 @@ Within Canada, the most notable benchmark is the S&P/TSX Composite Index. This i
 
 Canadian investors, including asset managers at RBC and TD, frequently use these benchmarks to measure performance in domestic equities, informing investment decisions and portfolio rebalancing.
 
-### 2.2 U.S. Indexes
+### U.S. Indexes
 
 In the United States, you will often see references to:
 
@@ -56,7 +56,7 @@ In the United States, you will often see references to:
 • S&P 500: A market capitalization-weighted index of 500 large U.S. companies.  
 • NASDAQ Composite: Tracks a broad range of stocks listed on the NASDAQ market, featuring numerous technology-driven companies.  
 
-### 2.3 Global Indexes
+### Global Indexes
 
 Investors broaden their horizons by also keeping track of these global benchmarks:
 
@@ -68,11 +68,11 @@ Investors broaden their horizons by also keeping track of these global benchmark
 These international indexes provide opportunities for Canadian investors to diversify across international markets and compare performance on a global scale.
 
 --------------------------------------------------------------------------------
-## 3. Methods for Calculating Indexes
+## Methods for Calculating Indexes
 
 Not all indexes are constructed the same way. Different weighting methods can significantly affect which stocks drive the index’s performance. The primary calculation methods are:
 
-### 3.1 Price-Weighted Index
+### Price-Weighted Index
 
 In a price-weighted index, a stock’s influence on the index is proportional to its share price. This means higher-priced stocks carry more weight, even if the issuing company is relatively small in market capitalization. The most famous example is the Dow Jones Industrial Average (DJIA).
 
@@ -86,7 +86,7 @@ Index Value = (10 + 20 + 30) / 3 = 60 / 3 = 20
 
 In practice, the Dow uses a divisor that is adjusted for stock splits, changes to the basket of stocks, and other corporate actions.
 
-### 3.2 Market Capitalization-Weighted Index
+### Market Capitalization-Weighted Index
 
 Market capitalization (market cap) is the total market value of a company’s outstanding shares (stock price × number of outstanding shares). In a market cap-weighted index:
 
@@ -104,7 +104,7 @@ I = ( Σ (Pᵢ × Qᵢ) ) / D
 • Σ = Summation across all stocks in the index  
 • D = Divisor (adjusted as needed for corporate actions)  
 
-### 3.3 Equal-Weighted Index
+### Equal-Weighted Index
 
 In an equal-weighted index, each stock in the index carries the same importance regardless of its share price or market cap. This construction is seen in certain benchmark indexes or specialized funds that aim to avoid concentration in large caps. Equal-weighted indexes:
 
@@ -112,37 +112,37 @@ In an equal-weighted index, each stock in the index carries the same importance 
 • Potentially place greater emphasis on mid- and small-cap stocks.  
 
 --------------------------------------------------------------------------------
-## 4. Averages: Simpler Measures of Market Performance
+## Averages: Simpler Measures of Market Performance
 
 Alongside indexes, the term “average” in a market context typically refers to the tradition of summing stock prices and dividing by a particular figure. The Dow Jones Industrial Average (DJIA) is one such example, though it is often referred to as an index. Initially, Charles Dow created it by adding stock prices together and dividing by the number of stocks in the average.
 
 Over time, the divisor changed to adjust for stock splits, changes in index constituents, and other market factors. Today, the DJIA remains price-weighted but uses a specialized divisor to maintain its continuity as companies enter and leave the 30-issue lineup.
 
 --------------------------------------------------------------------------------
-## 5. Practical Applications and Investment Strategies
+## Practical Applications and Investment Strategies
 
-### 5.1 Benchmarking Portfolio Performance
+### Benchmarking Portfolio Performance
 
 Investors, portfolio managers, and financial advisors frequently compare individual holdings or entire portfolios against a representative index. For example, a Canadian pension fund manager holding a diverse portfolio of TSX-listed equities may measure success by comparing the fund’s returns, volatility, and sector allocations against the S&P/TSX Composite Index.
 
-### 5.2 Passive vs. Active Investment Strategies
+### Passive vs. Active Investment Strategies
 
 • Passive investing: Many exchange-traded funds (ETFs) and mutual funds simply track an index (e.g., an S&P/TSX 60 ETF) to replicate its returns, minimizing cost and turnover.  
 • Active investing: Fund managers apply research, market analysis, and proprietary models to try to beat the benchmark index through superior security selection and market timing.  
 
-### 5.3 Risk Management and Diversification
+### Risk Management and Diversification
 
 Indexes also provide a way for investors to visualize and manage risk. If an investor’s holdings deviate significantly from an index composition, it can signal either superior insight or higher concentration risk. By lining up sector allocations with those of a well-known index, investors ensure they’re not accidentally overweight in a specific market segment (e.g., energy or technology).
 
 --------------------------------------------------------------------------------
-## 6. Real-World Example: Canadian Bank Stocks and the S&P/TSX Composite
+## Real-World Example: Canadian Bank Stocks and the S&P/TSX Composite
 
 Canadian bank stocks—like RBC, TD, Scotiabank, and others—often comprise a large portion of the S&P/TSX Composite. Suppose an investor wants broad exposure to the Canadian financial sector. Instead of picking individual bank stocks, they could invest in an ETF that mirrors the S&P/TSX Capped Financials Index, thus diversifying across a variety of financial institutions.
 
 Alternatively, an investor might attempt to outperform the index by overweighting a particular bank stock they believe is undervalued. Either way, the benchmark index provides a reference point for performance, risk, and market sentiment.
 
 --------------------------------------------------------------------------------
-## 7. Monitoring Key Indexes
+## Monitoring Key Indexes
 
 Regularly tracking indexes helps investors:
 
@@ -153,7 +153,7 @@ Regularly tracking indexes helps investors:
 By paying close attention to key indexes, an investor can make more informed decisions about sector rotations, asset allocation, and potential rebalancing opportunities.
 
 --------------------------------------------------------------------------------
-## 8. Visualizing Index Composition
+## Visualizing Index Composition
 
 Below is a simple Mermaid diagram illustrating how different stocks feed into a market cap-weighted index calculation.
 
@@ -172,22 +172,22 @@ Explanation:
 • The resulting figure is the index level, which changes in real time based on price movements.
 
 --------------------------------------------------------------------------------
-## 9. Best Practices, Challenges, and Pitfalls
+## Best Practices, Challenges, and Pitfalls
 
-### 9.1 Best Practices
+### Best Practices
 
 • Use the right benchmark. If your portfolio consists primarily of small-cap stocks, the S&P/TSX Composite may not be the most accurate comparison.  
 • Monitor and rebalance. Over time, certain stocks within a portfolio can grow to dominate total returns, skewing your risk profile. Indexed portfolios should be periodically rebalanced to maintain target weights.  
 • Stay informed. Corporate actions (splits, mergers, acquisitions) affect index composition. Following index announcements can help you anticipate changes in the benchmark.
 
-### 9.2 Common Pitfalls
+### Common Pitfalls
 
 • Benchmark mismatch. Evaluating a portfolio of emerging tech companies against a broad composite index can lead to misleading conclusions.  
 • Overreliance on large-cap drivers. Market cap-weighted indexes may be disproportionately driven by a few giants; be aware of concentration risks.  
 • Ignoring sector differences. Two indexes tracking different sectors can generate entirely different performance patterns, even during the same market climate.
 
 --------------------------------------------------------------------------------
-## 10. Additional Resources and References
+## Additional Resources and References
 
 • Canadian Investment Regulatory Organization (CIRO):  
   Visit <https://www.ciro.ca> for updated guidelines on market trading, derivative products, and index-linked instruments.  
@@ -208,7 +208,7 @@ Explanation:
   – Coursera’s “Financial Markets” for deeper insights into index analysis  
 
 --------------------------------------------------------------------------------
-## 11. Summary
+## Summary
 
 Stock market indexes and averages play a critical role in today’s investment landscape. By measuring segments of the equity market, these benchmarks help stakeholders compare, evaluate, and optimize their strategies in line with overall market direction. Canadian investors most commonly monitor the S&P/TSX Composite Index for domestic benchmarks, though global comparisons can shape more diversified portfolios. Alongside direct stock investment, index-tracking funds such as ETFs provide convenient, cost-effective ways to participate in market performance without having to research and manage individual stock positions constantly.
 

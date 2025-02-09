@@ -14,7 +14,7 @@ Bond pricing and yield calculations are essential components of fixed-income ana
 
 ---
 
-## 1. Overview: Price-Yield Relationship
+## Overview: Price-Yield Relationship
 
 At the heart of bond valuation lies the inverse relationship between bond prices and market interest rates (yields):  
 • When market interest rates rise, existing bonds with lower coupon rates become less attractive, decreasing their market price.  
@@ -24,18 +24,18 @@ Bondholders and potential investors should be aware of this relationship because
 
 ---
 
-## 2. Key Concepts in Bond Pricing
+## Key Concepts in Bond Pricing
 
-### 2.1 Par Value (Face Value)
+### Par Value (Face Value)
 The par value (or face value) is the amount the issuer promises to pay at maturity. In the Canadian market, par value is often $1,000, though it can vary.
 
-### 2.2 Coupon Rate
+### Coupon Rate
 The bond’s coupon rate specifies the annual interest paid on the face value. A 5% coupon on a $1,000 bond, for example, pays $50 in interest per year (often in semi-annual installments of $25 each).
 
-### 2.3 Discounting
+### Discounting
 Discounting is the process of determining the present value of future cash flows. Each coupon payment and the repayment of par value at maturity are discounted back to the present using the appropriate market yield (or required rate of return).
 
-### 2.4 Clean Price vs. Dirty Price
+### Clean Price vs. Dirty Price
 In Canadian fixed-income markets, bond prices are typically quoted on a clean price basis, which excludes accrued interest. However, when settling a trade, the buyer must pay the dirty price, which is:
   
 Dirty Price = Clean Price + Accrued Interest  
@@ -44,7 +44,7 @@ Accrued interest is the interest earned since the last coupon date but not yet p
 
 ---
 
-## 3. Calculating Bond Price
+## Calculating Bond Price
 
 The standard formula for the price (P) of a coupon-paying bond is the sum of the present value (PV) of all future coupon payments plus the present value of the bond’s par value at maturity:
 
@@ -59,7 +59,7 @@ Where:
 
 If coupons are paid semi-annually, the coupon payment is halved, and the yield is also expressed on a semi-annual basis.
 
-### 3.1 Example: Pricing a Corporate Bond from RBC
+### Example: Pricing a Corporate Bond from RBC
 Consider a fictitious RBC 5-year bond with a 4% annual coupon (2% paid semi-annually), par value of $1,000, and a required yield (market yield) of 5% per year (2.5% per semi-annual period).
 
 Step-by-Step Calculation:
@@ -80,11 +80,11 @@ You can use a financial calculator, spreadsheet, or open-source Python library l
 
 ---
 
-## 4. Yield to Maturity (YTM)
+## Yield to Maturity (YTM)
 
 Yield to Maturity (YTM) is the annualized rate of return an investor can expect if they purchase the bond at the current market price and hold it until maturity, assuming all coupons are reinvested at the same yield. Because it incorporates all future coupon payments and the redemption of par value, YTM is widely referenced as a comprehensive measure of return.
 
-### 4.1 Example: Yield to Maturity Computation
+### Example: Yield to Maturity Computation
 Suppose you can purchase a TD Bank bond with a 3.5% coupon, five years remaining until maturity, priced at $970. The problem is to find the YTM. Here’s a simplified conceptual approach:
 
 1. Use a trial-and-error method or a financial calculator function such as IRR/YTM.  
@@ -95,24 +95,24 @@ This yields the annual YTM. Bonds quoted in the Canadian market usually referenc
 
 ---
 
-## 5. Alternative Yield Measures
+## Alternative Yield Measures
 
-### 5.1 Current Yield
+### Current Yield
 Current Yield = Annual Coupon / Current Market Price
 
 While quick to compute, current yield does not account for the time value of money or the maturity value. It only measures the annual coupon relative to the bond’s current market price.
 
-### 5.2 Yield to Call (YTC)
+### Yield to Call (YTC)
 For callable bonds, the Yield to Call (YTC) calculation assumes that the issuer will call the bond at the first available call date (and at the stated call price). This can significantly alter the bond’s expected cash flows.
 
-### 5.3 Yield to Put (YTP)
+### Yield to Put (YTP)
 Less common in the Canadian market but still relevant is Yield to Put, which applies when the bond has a put feature allowing the holder to demand early redemption.
 
 ---
 
-## 6. Clean Price vs. Dirty Price in Context
+## Clean Price vs. Dirty Price in Context
 
-### 6.1 Accrued Interest
+### Accrued Interest
 In the Canadian market, bond prices on statements and quotes exclude accrued interest. However, the prudent investor must remember that the total settlement amount (the dirty price) will be adjusted upward or downward due to accrued interest.
 
 Let’s visualize the concept:
@@ -128,9 +128,9 @@ flowchart LR
 
 ---
 
-## 7. Practical Tools and Techniques
+## Practical Tools and Techniques
 
-### 7.1 Financial Calculators
+### Financial Calculators
 Specialized financial calculators can handle time value of money (TVM) functions, allowing quick computation of bond price or YTM with just a few inputs:  
 • N: number of periods to maturity  
 • I/Y: yield or discount rate per period  
@@ -138,19 +138,19 @@ Specialized financial calculators can handle time value of money (TVM) functions
 • FV: face (par) value  
 • PV: present value (bond’s price)
 
-### 7.2 Spreadsheet Software
+### Spreadsheet Software
 Microsoft Excel, Google Sheets, or LibreOffice Calc offer built-in functions such as:  
 • =PRICE()  
 • =YIELD()  
 
 These formulas automate discounting calculations. Always keep your compounding frequency aligned with the bond’s coupon frequency.
 
-### 7.3 Open-Source Libraries
+### Open-Source Libraries
 QuantLib (https://www.quantlib.org/) is a widely used open-source C++ library for quantitative finance. It supports Python bindings as well, making it a popular option among analysts for complex bond analytics.
 
 ---
 
-## 8. Common Pitfalls and Best Practices
+## Common Pitfalls and Best Practices
 
 1. Neglecting Semi-Annual Payments  
    Canadian bonds often pay coupons semi-annually. Ensure formulas and financial calculator settings match the correct frequency.
@@ -172,13 +172,13 @@ QuantLib (https://www.quantlib.org/) is a widely used open-source C++ library fo
 
 ---
 
-## 9. Real-World Case Study: Canadian Pension Fund
+## Real-World Case Study: Canadian Pension Fund
 
 A Canadian pension fund investing in long-term Government of Canada bonds must carefully manage bond portfolios to align with liabilities. By calculating YTM for various maturities and coupons, the pension fund ensures sufficient cash flow to meet future obligations. The fund might reinvest coupons in shorter-term instruments or additional bonds, aiming to maintain a stable and predictable income stream over decades.
 
 ---
 
-## 10. Regulatory Framework and Additional Resources
+## Regulatory Framework and Additional Resources
 
 • Canadian Investment Regulatory Organization (CIRO): Oversees investment dealers in Canada, requiring proper disclosures and transparency in bond trading.  
 • Canadian Securities Administrators (CSA): Provides collective policy frameworks for provincial and territorial regulators.  
@@ -190,7 +190,7 @@ A Canadian pension fund investing in long-term Government of Canada bonds must c
 
 ---
 
-## 11. Glossary
+## Glossary
 
 • Par Value (Face Value): The amount the bond issuer agrees to pay at maturity. Usually $1,000 in Canada.  
 • Coupon Rate: The annual interest rate the bond pays, expressed as a percentage of the par value.  
@@ -202,7 +202,7 @@ A Canadian pension fund investing in long-term Government of Canada bonds must c
 
 ---
 
-## 12. Summary
+## Summary
 
 Bond pricing and yield calculations form the cornerstone of fixed-income analysis. By applying time value of money principles, accounting for coupon frequencies, and being mindful of Canadian market conventions, investors can accurately evaluate the attractiveness of a bond. YTM captures the overall return if the bond is held to maturity, while current yield and YTC cater to different investment needs and considerations. Whether you are a retail investor or a buy-side manager overseeing billions of dollars in securities, mastering these valuation fundamentals is critical to prudent decision-making in the Canadian fixed-income marketplace.
 

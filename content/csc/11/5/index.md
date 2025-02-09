@@ -16,7 +16,7 @@ This section explores how these contracts are structured, how they are accounted
 
 ---
 
-## 1. Introduction to Forwards and Futures in Corporate Contexts
+## Introduction to Forwards and Futures in Corporate Contexts
 
 Public corporations encounter various forms of risk, including currency fluctuations, changes in interest rates, and commodity price volatility. Forwards and futures can serve as essential tools to hedge—or reduce—these risks. At the same time, some firms may engage in speculative trades to potentially earn additional profits from anticipated market movements.
 
@@ -27,7 +27,7 @@ These differences give rise to variations in liquidity, credit risk, pricing tra
 
 ---
 
-## 2. Key Differences Between Forwards and Futures
+## Key Differences Between Forwards and Futures
 
 Below is a high-level comparison of the two derivatives:
 
@@ -53,37 +53,37 @@ flowchart LR
 
 ---
 
-## 3. Hedging Applications in Canadian Corporations
+## Hedging Applications in Canadian Corporations
 
-### 3.1 Commodity Price Hedges
+### Commodity Price Hedges
 
 Canadian corporations—particularly those in the oil, mining, and agriculture sectors—commonly use forwards or futures to manage raw material costs. For example, a mining corporation expecting to sell copper might enter into a forward or futures contract to lock in a future selling price. This helps stabilize revenue projections and reduces the adverse impact of volatile commodity markets on earnings.
 
-### 3.2 Currency Hedges
+### Currency Hedges
 
 Exporters and importers frequently face currency exposure that arises when doing business in foreign currencies (e.g., USD). A Canadian exporter receiving future US dollar payments may use a forward contract or a currency futures contract to lock in a specific exchange rate. By doing so, the corporation knows in advance what the Canadian-dollar proceeds will be, reducing uncertainty in future cash flows.
 
-### 3.3 Interest Rate Hedges
+### Interest Rate Hedges
 
 Banks and other financial institutions (e.g., RBC, TD) also employ interest rate futures to manage fluctuations in interest rates. For instance, a financial institution anticipating a rise in interest rates might enter into a Futures Contract on Government of Canada bonds to offset potential losses in portfolios sensitive to rising rates.
 
 ---
 
-## 4. Accounting Treatment Under IFRS and Canadian Standards
+## Accounting Treatment Under IFRS and Canadian Standards
 
 Derivatives, such as forwards and futures, are generally subject to IFRS 9 “Financial Instruments.” Under these standards, derivatives must be recognized at fair value on the Statement of Financial Position (balance sheet). Corporations must also update the carrying value of the derivative at each reporting period to reflect changes in its fair value.
 
-### 4.1 Fair Value Measurement
+### Fair Value Measurement
 
 Fair value can be determined using:  
 • Market Quotation: For futures contracts traded on exchange, prices are directly observable.  
 • Valuation Models: For certain forward contracts, especially those involving unique terms (private agreements), valuation models (like discounted cash flow analysis) are often used to estimate fair value.
 
-### 4.2 Gains and Losses in Financial Statements
+### Gains and Losses in Financial Statements
 
 Unless a corporation designates a derivative under hedge accounting, all fair value changes flow through the Income Statement. This can heighten income volatility if the corporation’s objective is risk management but it does not implement formal hedge accounting procedures.
 
-#### 4.2.1 Hedge Accounting
+#### Hedge Accounting
 
 IFRS 9 allows the use of hedge accounting to better match the timing of derivative gains/losses with the offsetting losses/gains on the hedged item. This approach is beneficial for reducing volatility in reported earnings.  
 - Corporations must document the hedging relationship, risk management objectives, and strategies at the outset.  
@@ -92,7 +92,7 @@ IFRS 9 allows the use of hedge accounting to better match the timing of derivati
 
 ---
 
-## 5. Financial Statement Disclosures for Derivatives
+## Financial Statement Disclosures for Derivatives
 
 CPA Canada provides guidance on the disclosures corporations must make regarding derivative instruments. Common requirements include:
 
@@ -102,7 +102,7 @@ CPA Canada provides guidance on the disclosures corporations must make regarding
 • Impact on Profit or Loss: Gains or losses recognized in the Income Statement, if not classified under hedge accounting.  
 • Risk Factors: Counterparty risk, liquidity risk, and any transfer of risk to a clearinghouse.
 
-### 5.1 Notes to the Financial Statements
+### Notes to the Financial Statements
 
 Within the notes, companies disclose:
 
@@ -114,7 +114,7 @@ Within the notes, companies disclose:
 
 ---
 
-## 6. Regulatory Oversight of Derivatives in Canada
+## Regulatory Oversight of Derivatives in Canada
 
 In Canada, derivatives oversight is conducted at both provincial and federal levels:
 
@@ -125,7 +125,7 @@ In Canada, derivatives oversight is conducted at both provincial and federal lev
 
 ---
 
-## 7. Practical Example: Currency Hedge by a Canadian Exporter
+## Practical Example: Currency Hedge by a Canadian Exporter
 
 Consider a Canadian agricultural exporter, Maple Harvest Inc., that anticipates receiving USD 5 million in three months. Maple Harvest Inc. is concerned about potential depreciation in the US dollar relative to the Canadian dollar. The company therefore enters into a three-month forward contract with a bank (over the counter) to sell USD 5 million at an agreed-upon exchange rate of CAD 1.32 per USD.
 
@@ -135,7 +135,7 @@ Consider a Canadian agricultural exporter, Maple Harvest Inc., that anticipates 
 
 ---
 
-## 8. Step-by-Step Implementation of a Hedge
+## Step-by-Step Implementation of a Hedge
 
 Below is a concise guide to implementing a hedging strategy using forwards or futures:
 
@@ -149,7 +149,7 @@ Below is a concise guide to implementing a hedging strategy using forwards or fu
 
 ---
 
-## 9. Best Practices, Common Pitfalls, and Strategies to Overcome Them
+## Best Practices, Common Pitfalls, and Strategies to Overcome Them
 
 • Best Practice: Establish robust internal controls around derivatives trading. This includes setting position limits, requiring separate authorization for speculative trade activities, and implementing frequent reporting to management.  
 • Best Practice: Use recognized valuation techniques (e.g., discounted cash flow models) and external market data when measuring the fair value of forward contracts.  
@@ -159,7 +159,7 @@ Below is a concise guide to implementing a hedging strategy using forwards or fu
 
 ---
 
-## 10. Additional Resources
+## Additional Resources
 
 • [Montreal Exchange](https://www.m-x.ca/) – The main Canadian derivatives exchange, offering valuable insights into futures and options clearing, as well as educational materials on derivatives trading.  
 • [CPA Canada](https://www.cpacanada.ca/) – Provides guidelines, clarifications, and detailed publications on accounting for derivatives and implementing IFRS 9.  

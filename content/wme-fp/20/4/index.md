@@ -14,7 +14,7 @@ Industry analysis is a crucial component of equity research. It provides a struc
 
 ---
 
-### 1. Introduction to Industry Analysis
+### Introduction to Industry Analysis
 
 Before diving into a company’s fundamentals, analysts often start by examining the overall landscape in which the company operates. Industry analysis helps answer questions such as:  
 • How large is the industry, and how quickly is it growing?  
@@ -25,7 +25,7 @@ By understanding these dimensions, financial planners can better estimate the gr
 
 ---
 
-### 2. Industry Classification Systems
+### Industry Classification Systems
 
 Two major classification systems commonly used are:
 
@@ -43,7 +43,7 @@ Financial planners in Canada may rely on GICS for global portfolio comparisons w
 
 ---
 
-### 3. Macroeconomic and Industry-Level Factors
+### Macroeconomic and Industry-Level Factors
 
 Industry performance is frequently influenced by a broad range of macroeconomic variables. Examples include:
 
@@ -56,7 +56,7 @@ Resources such as the **Bank of Canada** (https://www.bankofcanada.ca/) provide 
 
 ---
 
-### 4. Porter’s Five Forces
+### Porter’s Five Forces
 
 To gauge the competitive landscape, analysts often apply **Porter’s Five Forces** framework:
 
@@ -79,7 +79,7 @@ This framework illuminates how an industry’s structure can shape the profitabi
 
 ---
 
-### 5. Regulatory Environment and Policy Shifts
+### Regulatory Environment and Policy Shifts
 
 Because of its relatively smaller market size and significant reliance on natural resources, Canada often exhibits industry-specific regulatory dynamics:
 
@@ -91,7 +91,7 @@ Regulatory frameworks can quickly alter industry attractiveness and growth poten
 
 ---
 
-### 6. Industry Life Cycle
+### Industry Life Cycle
 
 Every industry moves through distinct life cycle stages:
 
@@ -109,7 +109,7 @@ Financial planners should identify the stage of the life cycle before recommendi
 
 ---
 
-### 7. Specialization and Competitive Advantage
+### Specialization and Competitive Advantage
 
 Within each industry, some companies may stand out due to specialization, which can be a strong competitive advantage. Examples include:
 
@@ -121,7 +121,7 @@ For instance, a Canadian fintech firm specializing in blockchain might operate i
 
 ---
 
-### 8. Diversification and Risk Mitigation
+### Diversification and Risk Mitigation
 
 Portfolio diversification is a fundamental principle in wealth management. Industry analysis supports diversification by identifying how industries correlate with the broader economy:
 
@@ -133,7 +133,7 @@ For instance, a mining-focused client might benefit from partial allocation to C
 
 ---
 
-### 9. Practical Steps for Financial Planners
+### Practical Steps for Financial Planners
 
 Below is a suggested step-by-step approach for incorporating industry analysis into client portfolios:
 
@@ -151,7 +151,7 @@ This structured process helps financial planners create well-informed recommenda
 
 ---
 
-### 10. Tools and Additional Resources
+### Tools and Additional Resources
 
 • **Statistics Canada** (https://www.statcan.gc.ca/): Offers in-depth economic and industry data, critical for spotting trends.  
 • **CIRO**: Provides guidance on industry-based risk assessments and regulatory updates.  

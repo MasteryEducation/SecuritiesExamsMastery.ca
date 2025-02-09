@@ -18,7 +18,7 @@ Buying a home in Canada is a sizeable financial commitment that involves a serie
 
 Financial planners play a crucial role in helping clients determine whether a home is truly affordable. Affordability involves far more than just qualifying for a mortgage. Here are key aspects to consider:
 
-### 1. Down Payment Availability
+### Down Payment Availability
 
 • Larger Down Payments and Default Insurance Requirements:  
   - In Canada, if the down payment is below 20% of the purchase price, clients are required to obtain mortgage default insurance (commonly from the Canada Mortgage and Housing Corporation, or CMHC).  
@@ -28,7 +28,7 @@ Financial planners play a crucial role in helping clients determine whether a ho
   - A larger down payment reduces the principal amount borrowed, thereby decreasing monthly mortgage payments.  
   - It can also help clients qualify for lower interest rates and gain better negotiating power with lenders.
 
-### 2. Interest Rate Environment
+### Interest Rate Environment
 
 • Fixed vs. Variable Rates:  
   - A fixed-rate mortgage locks in an interest rate for a specific term (e.g., 5 years), providing stable payments.  
@@ -38,7 +38,7 @@ Financial planners play a crucial role in helping clients determine whether a ho
   - Clients should consider prevailing market conditions and Bank of Canada overnight rate trends.  
   - Rising rates can increase borrowing costs significantly over time, so it is vital to run stress tests (e.g., calculating mortgage payments at 2% or 3% higher than the current rate).
 
-### 3. Closing Costs
+### Closing Costs
 
 Even after securing a mortgage, clients may face significant closing costs that must be factored into the budget:
 
@@ -63,7 +63,7 @@ Even after securing a mortgage, clients may face significant closing costs that 
 
 The monthly mortgage payment is only part of the financial equation. A comprehensive affordability analysis should address recurring costs tied to the property.
 
-### 1. Property Taxes
+### Property Taxes
 
 • Municipality-Dependent:  
   - Property tax rates vary widely by municipality. High-demand cities like Toronto or Vancouver often have different tax structures than smaller towns.  
@@ -73,7 +73,7 @@ The monthly mortgage payment is only part of the financial equation. A comprehen
   - Many lenders offer an option to add property taxes into the monthly mortgage payment.  
   - Some clients prefer to pay taxes separately to maintain flexibility, but they must ensure they set aside sufficient funds regularly.
 
-### 2. Home Insurance
+### Home Insurance
 
 • Mandatory Coverage:  
   - Mortgage lenders almost always require home insurance coverage for fire, theft, and liability.  
@@ -83,7 +83,7 @@ The monthly mortgage payment is only part of the financial equation. A comprehen
   - Typical annual premiums can start as low as CAD 800 and go upward depending on location, building size, age, and coverage level.  
   - Advisors should ensure clients shop around for competitive quotes from reputable Canadian insurers.
 
-### 3. Maintenance and Condo Fees
+### Maintenance and Condo Fees
 
 • Maintenance for Freeholds:  
   - Owners of single-family homes bear the cost of ongoing maintenance, preventative work (e.g., furnace inspections), and repairs (e.g., roof replacements).  
@@ -99,13 +99,13 @@ The monthly mortgage payment is only part of the financial equation. A comprehen
 
 A reliable stream of income is vital for repaying a mortgage comfortably amidst other financial commitments.
 
-### 1. Employment History
+### Employment History
 
 • Preference for Steady Employment:  
   - Lenders evaluate stability of income, typically requiring recent pay stubs, T4 slips, and sometimes notices of assessment from the Canada Revenue Agency (CRA).  
   - Self-employed individuals often need to provide thorough business financial statements, notarized client contracts, and detailed tax returns to satisfy more stringent lending criteria.
 
-### 2. Emergency Fund
+### Emergency Fund
 
 • Contingency Planning:  
   - Encouraging clients to maintain an emergency fund covering at least three to six months’ worth of expenses helps safeguard against sudden unemployment or urgent home repairs.  
@@ -117,7 +117,7 @@ A reliable stream of income is vital for repaying a mortgage comfortably amidst 
 
 Beyond numbers, clients should consider how long-term life and career plans align with their home purchase decision.
 
-### 1. Proximity to Work, Schools, and Amenities
+### Proximity to Work, Schools, and Amenities
 
 • Commute Times:  
   - Long commutes can add to transportation costs, vehicle maintenance, and stress, which indirectly affect overall quality of life.  
@@ -126,7 +126,7 @@ Beyond numbers, clients should consider how long-term life and career plans alig
   - Proximity to good schools can significantly affect property values and future resale potential.  
   - Access to public transit, health care facilities, and recreational centers are also important lifestyle considerations.
 
-### 2. Potential for Family Expansion
+### Potential for Family Expansion
 
 • Family Growth and Property Size:  
   - A young couple planning to have children within a few years may benefit from projecting additional space requirements and planning for future mortgage and maintenance costs.  
@@ -140,7 +140,7 @@ Beyond numbers, clients should consider how long-term life and career plans alig
 
 It is common for lenders to offer mortgages that push clients to the upper limit of their debt-servicing capacity. Financial planners have a duty to help clients see beyond the lender’s approval amount and consider their comfort level and other life goals.
 
-### 1. Lender Limits vs. Personal Comfort
+### Lender Limits vs. Personal Comfort
 
 • Gross Debt Service (GDS) and Total Debt Service (TDS) Ratios:  
   - In Canada, most lenders want GDS (housing costs as a percentage of gross income) to be under 32% and TDS (all debt payments as a percentage of gross income) to be under 40%.  

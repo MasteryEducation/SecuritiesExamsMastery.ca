@@ -16,11 +16,11 @@ Below, we explore the fundamental concepts behind personal financial statements,
 
 ---
 
-## 1. Understanding Personal Financial Statements
+## Understanding Personal Financial Statements
 
 Personal financial statements comprise two main components: the net worth statement and the cash flow statement. When used together, they offer clear insights into a client’s current financial position.
 
-### 1.1 Net Worth Statement
+### Net Worth Statement
 
 A net worth statement provides a snapshot of a client’s financial standing. It is calculated by subtracting total liabilities from total assets.
 
@@ -57,7 +57,7 @@ Imagine a client with the following assets and liabilities:
 Their net worth would be:  
 (15,000 + 50,000 + 400,000 + 10,000) – (250,000 + 5,000) = $220,000
 
-### 1.2 Cash Flow Statement (Income and Expenses)
+### Cash Flow Statement (Income and Expenses)
 
 The cash flow statement identifies the flow of money into and out of a client’s hands, often segmented on a monthly or annual basis. Sources of income might include salaries, bonuses, investment dividends, income from rental properties, and side businesses; expenses would encompass everything from mortgage payments and groceries to discretionary spending such as hobbies and vacations.
 
@@ -66,7 +66,7 @@ By examining a client’s cash flow, advisors can determine whether the individu
 • Surplus: Signifies that income exceeds expenses. This leftover amount may be redirected toward savings, investments, or debt repayment.  
 • Deficit: Indicates that costs surpass income. This suggests a need for immediate solutions, such as spending reductions, re-evaluating budget allocations, or seeking additional sources of revenue.
 
-### 1.3 Budgeting
+### Budgeting
 
 Budgeting is the process of proactively allocating income to cover routine expenses, future savings, and debt repayment. A well-crafted budget:
 
@@ -78,11 +78,11 @@ Budgeting is the process of proactively allocating income to cover routine expen
 
 ---
 
-## 2. Evaluating Savings Plan
+## Evaluating Savings Plan
 
 An essential aspect of analyzing personal financial statements is to evaluate and optimize the client’s savings plan. This involves examining savings capacity, aligning short-term and long-term goals, and establishing an appropriate emergency fund.
 
-### 2.1 Determining Savings Capacity
+### Determining Savings Capacity
 
 After budgeting, advisors and clients can accurately identify the monthly surplus that may be redirected into various savings vehicles. Key considerations include:
 
@@ -90,29 +90,29 @@ After budgeting, advisors and clients can accurately identify the monthly surplu
 2. Systematic savings: Automating deposits into savings or investment accounts ensures that clients "pay themselves first," increasing the likelihood of reaching their targets.  
 3. Practical constraints: Advisors must factor in lifestyle requirements, existing debt obligations, and variable income fluctuations (e.g., if a client is self-employed or works on commission).
 
-### 2.2 Short-Term vs. Long-Term Goals
+### Short-Term vs. Long-Term Goals
 
 Clients typically have multiple objectives that can be categorized as either short-term or long-term:
 
 • Short-Term Goals (under three years): Examples include saving for a vacation, car, or wedding. Due to the limited timeline, it is advisable to hold these funds in lower-volatility instruments—e.g., high-interest savings accounts, money market funds, or short-term Guaranteed Investment Certificates (GICs).  
 • Long-Term Goals (three years or more): Retirement, post-secondary education for children, or a second property purchase all require a more strategic approach. These funds may be invested in growth-oriented assets such as equities, which provide higher return potential alongside elevated risk.
 
-### 2.3 Emergency Fund
+### Emergency Fund
 
 A well-funded emergency account secures three to six months’ worth of living expenses. This liquidity buffer guards against unforeseen expenses like sudden job loss, medical emergencies, or urgent home repairs—preventing clients from having to rely on high-interest debt.
 
 ---
 
-## 3. Debt Management as Part of the Analysis
+## Debt Management as Part of the Analysis
 
 Debt management is inseparable from assessing a client’s overall financial health. By analyzing and addressing different forms of debt, advisors can help free up cash flow and improve net worth.
 
-### 3.1 Good vs. Bad Debt
+### Good vs. Bad Debt
 
 • Good Debt: Typically includes mortgages, student loans, or business loans that can lead to an appreciating asset or increased earning power. For example, paying down a mortgage on a primary residence or an investment property may build equity over time.  
 • Bad Debt: Often high-interest consumer debt (like credit cards) or loans used to purchase items that decline rapidly in value. This type of debt can quickly erode savings if not repaid promptly.
 
-### 3.2 Debt Ratios and Obligations
+### Debt Ratios and Obligations
 
 Common metrics such as debt-to-income (DTI) ratios reveal whether clients are carrying too much debt relative to their cash flow. In Canada, lenders (e.g., RBC, TD, and other major banks) look at two main ratios:
 
@@ -121,7 +121,7 @@ Common metrics such as debt-to-income (DTI) ratios reveal whether clients are ca
 
 These ratios help determine if a client qualifies for new credit and can also signal over-indebtedness.
 
-### 3.3 Restructuring Options
+### Restructuring Options
 
 • Debt Consolidation: Combining high-interest debts into a single, lower-interest solution such as a consolidation loan or a HELOC can reduce monthly payments.  
 • Refinancing: Locking in a lower mortgage rate can reduce  mortgage costs and free up extra cash flow for savings.  
@@ -129,15 +129,15 @@ These ratios help determine if a client qualifies for new credit and can also si
 
 ---
 
-## 4. Aligning Financial Statements with Goals
+## Aligning Financial Statements with Goals
 
 Once the net worth statement, cash flow statement, and savings plan are evaluated, it is essential to connect these components to the client’s broader objectives.
 
-### 4.1 Comprehensive View
+### Comprehensive View
 
 A holistic review of net worth, cash flow, and debt obligations helps advisors propose realistic combinations of investment strategies, insurance coverage, and estate planning measures. For instance, a client heavily invested in real estate with limited liquidity might need to diversify into more liquid assets in alignment with retirement and estate objectives.
 
-### 4.2 KPI Tracking
+### KPI Tracking
 
 Using key performance indicators (KPIs) to systematically evaluate a client’s financial condition over time keeps them accountable and highlights areas requiring adjustment. Common KPIs include:
 
@@ -149,7 +149,7 @@ By establishing benchmarks, advisors and clients can work together on structured
 
 ---
 
-## 5. Practical Resources and Next Steps
+## Practical Resources and Next Steps
 
 • **CIRO guidelines (https://www.ciro.ca):** Advises industry professionals on client suitability and underscores understanding a client’s financial situation.  
 • **Financial Consumer Agency of Canada (https://www.canada.ca/en/financial-consumer-agency.html):** Offers interactive tools (budget planners, debt calculators) to help Canadians manage their finances.  
@@ -159,7 +159,7 @@ By establishing benchmarks, advisors and clients can work together on structured
 
 ---
 
-## 6. Conclusion
+## Conclusion
 
 Analyzing personal financial statements and a client’s savings plan is a critical first step in delivering tailored wealth management solutions. By looking at net worth, cash flow, and debt, advisors in Canada can identify opportunities to reduce high-interest debt, allocate savings strategically, and mitigate risk. Setting priorities early—such as establishing an emergency fund and striking the right balance between short-term liquidity and long-term growth—empowers clients to achieve their financial goals more efficiently.
 

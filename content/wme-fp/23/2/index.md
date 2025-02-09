@@ -14,7 +14,7 @@ Mutual funds are a cornerstone of the Canadian investment landscape, offering in
 
 ---
 
-### 1. Overview and Structure
+### Overview and Structure
 
 Mutual funds enable investors with varying degrees of capital and risk tolerance to participate in professionally managed portfolios. Each fund has a specific mandate (e.g., growth, income, balanced), which guides the fund manager's selection of securities:
 
@@ -43,7 +43,7 @@ flowchart LR
 
 ---
 
-### 2. Active vs. Passive Management
+### Active vs. Passive Management
 
 Mutual funds come in two primary styles of management, each with distinct philosophies:
 
@@ -59,7 +59,7 @@ Mutual funds come in two primary styles of management, each with distinct philos
 
 ---
 
-### 3. The Role of the Fund Manager
+### The Role of the Fund Manager
 
 The fund manager is the driving force behind the fund’s performance. Essential responsibilities include:
 
@@ -70,7 +70,7 @@ The fund manager is the driving force behind the fund’s performance. Essential
 
 ---
 
-### 4. Regulatory Framework and Leverage Limits
+### Regulatory Framework and Leverage Limits
 
 In Canada, mutual funds operate under a robust regulatory environment. This framework is designed to protect investors while maintaining market integrity. Key regulations include:
 
@@ -83,7 +83,7 @@ For more information about these regulations, visit the CSA’s official website
 
 ---
 
-### 5. Fees, Costs, and MER Considerations
+### Fees, Costs, and MER Considerations
 
 One of the principal factors influencing returns is the Management Expense Ratio (MER). The MER typically comprises:
 
@@ -106,7 +106,7 @@ One of the principal factors influencing returns is the Management Expense Ratio
 
 ---
 
-### 6. Tax Implications and Year-End Distributions
+### Tax Implications and Year-End Distributions
 
 Mutual funds may generate various forms of taxable income for unitholders, including:
 
@@ -122,7 +122,7 @@ A crucial consideration is timing. Year-end distributions can result in unexpect
 
 ---
 
-### 7. Fund Facts: Streamlined Disclosure
+### Fund Facts: Streamlined Disclosure
 
 The “Fund Facts” document is a condensed summary of a mutual fund’s key information, enabling investors to evaluate the fund’s objectives, fees, performance, and potential risks quickly. Under National Instrument 81-101, mutual fund companies must provide Fund Facts to prospective investors before purchase. Typical sections include:
 
@@ -135,7 +135,7 @@ These documents help meet crucial compliance standards and promote transparency,
 
 ---
 
-### 8. Practical Applications and Case Studies
+### Practical Applications and Case Studies
 
 #### Example 1: Building a Balanced Portfolio
 
@@ -153,7 +153,7 @@ A client of TD Wealth has a high marginal tax rate and a large non-registered ac
 
 ---
 
-### 9. Challenges and Common Pitfalls
+### Challenges and Common Pitfalls
 
 • **Overlooking Tax Consequences:** Purchasing funds shortly before a significant capital gains distribution may result in unexpected tax liability.  
 • **Excessive Reliance on Past Performance:** A fund with strong historical results may underperform in the future; performance can be cyclical.  
@@ -164,7 +164,7 @@ Advisors should regularly revisit these considerations to uphold fiduciary respo
 
 ---
 
-### 10. Strategies for Success
+### Strategies for Success
 
 1. **Conduct Thorough Research:** Evaluate fund mandates, historical performance consistency, and management team experience.  
 2. **Align Fund Choices with Client Profiles:** Ensure the mutual fund aligns with the client’s financial goals, time horizon, and comfort with risk.  
@@ -175,7 +175,7 @@ Advisors should regularly revisit these considerations to uphold fiduciary respo
 
 ---
 
-### 11. Additional Resources
+### Additional Resources
 
 • **Fund Facts** – Available from each fund provider and mandated by the CSA: [https://www.securities-administrators.ca/](https://www.securities-administrators.ca/)  
 • **CIRO KYC and Suitability Guidelines** – Ensure your recommendations align with regulatory expectations.  

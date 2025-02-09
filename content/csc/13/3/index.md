@@ -16,7 +16,7 @@ Below, we explore the main components of fundamental industry analysis, includin
 
 ---
 
-## 1. Purpose of Industry Analysis
+## Purpose of Industry Analysis
 
 Industry analysis is the process of studying a specific market segment or sector to understand how various dynamics — economic, competitive, technological, and regulatory — interact to influence profitability and growth prospects. This analysis helps you:
 
@@ -29,7 +29,7 @@ Ultimately, industry analysis considers both macro and micro factors. At this po
 
 ---
 
-## 2. The Industry Life Cycle
+## The Industry Life Cycle
 
 An industry’s life cycle significantly influences its growth trajectory, competitive behavior, and investment appeal. The life cycle is typically divided into four distinct stages:
 
@@ -40,7 +40,7 @@ flowchart LR
     C(Mature Industries) --> D(Declining Industries)
 ```
 
-### 2.1 Emerging Industries
+### Emerging Industries
 Emerging industries are often born out of innovation and technological advancement. They are characterized by:
 • Rapid Growth: High growth rates beyond what is seen in more established sectors.  
 • Volatility: Earnings and stock prices can fluctuate significantly due to uncertain demand and evolving consumer preferences.  
@@ -49,7 +49,7 @@ Emerging industries are often born out of innovation and technological advanceme
 Example (Canadian Context):  
 • The Canadian clean technology (cleantech) sector, focusing on renewable energy solutions and sustainable practices, saw rapid growth in its early stages. The federal government and provincial programs provided funding, reflecting strong policy support.  
 
-### 2.2 Growth Industries
+### Growth Industries
 In the growth stage, products or services have gained more recognition and a clear market. These industries typically exhibit:  
 • Above-Average Expansion: Demand grows quickly, often outpacing baseline GDP growth.  
 • Earnings Reinvestment: Companies often reinvest profits for expansion, acquisitions, or product innovation.  
@@ -58,7 +58,7 @@ In the growth stage, products or services have gained more recognition and a cle
 Example (Canadian Context):  
 • Canada’s technology scene, buoyed by a flourishing startup environment in cities like Toronto and Montréal, often transitions from emerging to growth status. Notable examples include financial technology (FinTech) startups that have grown with collaborations from major Canadian banks like RBC and TD.
 
-### 2.3 Mature Industries
+### Mature Industries
 Mature industries tend to have well-established products and a steady customer base, featuring:  
 • Stable or Saturated Markets: Growth is closer to the overall economic growth rate.  
 • Consolidation: Mergers and acquisitions often occur to increase market share or achieve economies of scale.  
@@ -67,7 +67,7 @@ Mature industries tend to have well-established products and a steady customer b
 Example (Canadian Context):  
 • The Canadian banking sector is widely considered mature. The Big Five banks (e.g., RBC, TD, Scotiabank, BMO, CIBC) enjoy stable earnings but face ongoing pressure from new competitors, such as digital-only banks and FinTech players.
 
-### 2.4 Declining Industries
+### Declining Industries
 Industries in decline face negative growth and structural hurdles, often due to:  
 • Technological Obsolescence: Innovations make older technologies outdated.  
 • Shifting Consumer Preferences: Customers move to new alternatives or platforms.  
@@ -78,7 +78,7 @@ Example (Canadian Context):
 
 ---
 
-## 3. Porter’s Five Forces Analysis
+## Porter’s Five Forces Analysis
 
 Harvard Business School Professor Michael E. Porter developed the Five Forces framework to help understand the competitive intensity and profit potential of an industry. Evaluating these forces assists investors in identifying which industries may offer robust, sustainable returns versus those susceptible to margin erosion.
 
@@ -96,35 +96,35 @@ flowchart TB
     C --> E
 ```
 
-### 3.1 Threat of New Entrants
+### Threat of New Entrants
 • Entrants can increase supply and threaten established companies’ market share.  
 • High barriers to entry (e.g., large capital investment, strict regulations, brand loyalty) generally protect incumbents.  
 
 Case in Canada:  
 • Telecommunication companies face high infrastructure costs and strict licensing requirements for spectrum, limiting new entrants and preserving higher profit margins for existing players.
 
-### 3.2 Bargaining Power of Suppliers
+### Bargaining Power of Suppliers
 • Supplier concentration can lead to strong control over input pricing.  
 • Companies dependent on unique materials or specialized technology may be vulnerable to cost fluctuations.  
 
 Case in Canada:  
 • In the Canadian energy sector, specialized drilling companies can wield negotiating power if their technology or rigs are unique and in limited supply.  
 
-### 3.3 Bargaining Power of Buyers
+### Bargaining Power of Buyers
 • Buyers with significant purchasing power or the ability to switch providers can force prices downward.  
 • Bulk purchasers (e.g., large retailers, government agencies) can negotiate more favorable contracts.  
 
 Case in Canada:  
 • Large grocery chains, such as Loblaws or Metro, can exercise tremendous leverage over food suppliers by demanding volume discounts and imposing strict product specifications.
 
-### 3.4 Threat of Substitutes
+### Threat of Substitutes
 • Substitute products meeting the same customer need can reduce demand for an incumbent’s offerings.  
 • The severity of this threat depends on the availability, price, and perceived quality of substitutes.  
 
 Case in Canada:  
 • Ride-sharing platforms pose a substitute threat for traditional taxi services, offering convenient app-based booking and competitive rates in urban centers like Toronto and Vancouver.
 
-### 3.5 Industry Rivalry
+### Industry Rivalry
 • High rivalry leads to pricing pressure and moderate profit margins.  
 • The number of competitors, industry growth rate, and degree of product differentiation drive rivalry.  
 
@@ -133,7 +133,7 @@ Case in Canada:
 
 ---
 
-## 4. Regulatory and Policy Considerations
+## Regulatory and Policy Considerations
 
 The Canadian market is governed by various regulations and is influenced by federal, provincial, and territorial bodies. Complying with these regulations is vital for companies, particularly in heavily regulated sectors such as financial services, energy, and healthcare.
 
@@ -146,7 +146,7 @@ When evaluating an industry, be mindful of pending legislative changes or policy
 
 ---
 
-## 5. Industry Metrics and Ratios
+## Industry Metrics and Ratios
 
 Each industry has unique indicators for assessing performance and momentum. While general metrics (e.g., revenue growth, profitability, debt ratios) apply to most sectors, specialized metrics can offer deeper insights.
 
@@ -170,7 +170,7 @@ Each industry has unique indicators for assessing performance and momentum. Whil
 
 ---
 
-## 6. Competitive Advantages and Moats
+## Competitive Advantages and Moats
 
 In an environment with multiple players, a company’s ability to maintain superior profitability often hinges on its competitive advantage—or moat. Recognizing these moats is crucial for long-term investors:
 
@@ -190,7 +190,7 @@ By identifying moats, you can pinpoint which companies may enjoy more stable ear
 
 ---
 
-## 7. Practical Applications and Best Practices
+## Practical Applications and Best Practices
 
 Below are actionable steps for incorporating industry analysis into your investment decisions:
 
@@ -224,7 +224,7 @@ Below are actionable steps for incorporating industry analysis into your investm
 
 ---
 
-## 8. Glossary
+## Glossary
 
 • Barriers to Entry: Economic, technological, or regulatory factors that make it difficult for new companies to enter an industry.  
 • Market Share: A firm’s total sales or revenues relative to the industry’s cumulative output, reflecting its competitive standing.  
@@ -233,7 +233,7 @@ Below are actionable steps for incorporating industry analysis into your investm
 
 ---
 
-## 9. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 Fundamental industry analysis is an essential component for assessing a company’s long-term potential. By recognizing where an industry lies in its life cycle—emerging, growth, mature, or declining—you can infer investment risks and opportunities. Coupled with Porter’s Five Forces analysis and an awareness of regulatory frameworks, industry-specific metrics, and potential moats, you obtain a holistic view of an industry’s current health and future prospects.
 
@@ -241,7 +241,7 @@ Successful industry analysis involves continuous learning and monitoring. Indust
 
 ---
 
-## 10. References and Additional Resources
+## References and Additional Resources
 
 • CIRO (Canadian Investment Regulatory Organization): ciro.ca  
 • SEDAR+ (System for Electronic Document Analysis and Retrieval): sedar.com  

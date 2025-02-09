@@ -14,7 +14,7 @@ Incorporation can be a powerful strategy to reduce taxes, protect assets, and fa
 
 ---
 
-### 1. When to Incorporate
+### When to Incorporate
 
 One of the first questions many entrepreneurs and professionals ask is, “When should I incorporate?” While there is no universal answer, several factors often signal that the time could be right for incorporating a business:
 
@@ -32,31 +32,31 @@ One of the first questions many entrepreneurs and professionals ask is, “When 
 
 ---
 
-### 2. Tax Advantages of Incorporation
+### Tax Advantages of Incorporation
 
 Minimizing tax liability and maximizing the growth of retained earnings are two leading incentives for many entrepreneurs and professionals to incorporate. Let’s examine some of these key tax advantages in a Canadian context.
 
-#### 2.1 Small Business Deduction (SBD)
+#### Small Business Deduction (SBD)
 
 One of the most notable tax advantages for Canadian-Controlled Private Corporations (CCPCs) is the **Small Business Deduction (SBD)**. Qualifying CCPCs benefit from a reduced corporate tax rate on active business income up to the government-specified business limit (often referred to as the “small business limit”). This deduction means that, for many smaller businesses, a significant portion of their active earnings is taxed at a markedly lower rate than the general corporate rate.
 
 In practical terms, if your client’s corporation qualifies for the SBD, the lower tax load on active business income frees up more funds to reinvest in the company or invest in a portfolio of assets.
 
-#### 2.2 Income Splitting Through Dividends
+#### Income Splitting Through Dividends
 
 When a corporation issues shares to multiple family members (subject to the regulations known as Tax on Split Income, or TOSI), it may be possible to allocate dividends to individuals in lower tax brackets, thereby reducing the overall household tax burden. However, Canada’s revised income-sprinkling rules mean that many family shareholders must meet specific criteria (such as taking on meaningful work or having significant capital contributions) to avoid the high TOSI rates. Financial planners need to help clients navigate these rules carefully to ensure compliance.
 
-#### 2.3 Tax Deferral
+#### Tax Deferral
 
 A further incentive is tax deferral. Income not withdrawn from the company is subject only to the corporate tax rate instead of the higher personal marginal rate. Owners can choose to leave funds in the corporation as retained earnings and delay paying personal income tax until dividends are eventually paid out. While the corporation will eventually pay some additional tax upon distribution, the timing advantage can significantly augment a business owner’s capital available for reinvestment and growth.
 
 ---
 
-### 3. Shareholder Remuneration Strategy
+### Shareholder Remuneration Strategy
 
 A crucial decision for incorporated businesses is how to pay themselves or their shareholders. There are two primary options—wages (or salary) and dividends—and a careful blend of the two can optimize after-tax results.
 
-#### 3.1 Wages vs. Dividends
+#### Wages vs. Dividends
 
 1. **Wages (Salary)**  
    - Deductible by the corporation, thus reducing corporate taxable income.  
@@ -71,7 +71,7 @@ A crucial decision for incorporated businesses is how to pay themselves or their
 
 Determining the ideal balance between salary and dividends hinges on several factors, including the corporation’s profitability, the shareholder’s personal income needs, desired RRSP contribution room, and long-term retirement planning objectives.
 
-#### 3.2 Personal vs. Corporate Tax Integration
+#### Personal vs. Corporate Tax Integration
 
 Canada’s tax system seeks a measure of “integration” between personal and corporate income tax to avoid punitive double-taxation. However, perfect integration rarely exists, and it can vary by province and type of income (e.g., eligible vs. non-eligible dividends). 
 
@@ -79,25 +79,25 @@ Financial planners often create remuneration strategies that sequence corporate 
 
 ---
 
-### 4. Corporate Investments
+### Corporate Investments
 
 Beyond reinvesting in active operations, corporations can use their after-tax earnings to build investment portfolios. While incorporating can create ample capital pools to invest, there are additional rules and taxes to consider when holding passive investments inside a corporation.
 
-#### 4.1 Passive Investment Income
+#### Passive Investment Income
 
 When a CCPC earns passive income—such as interest, rent, or portfolio dividends—it is generally taxed at higher rates. This high tax rate is partly offset by the **Refundable Dividend Tax on Hand (RDTOH)** system, which aims to level taxes when these investment earnings are eventually paid out to shareholders as dividends. Understanding the interplay between corporate passive income taxes, RDTOH balances, and personal taxation is essential to avoid unintended tax burdens.
 
-#### 4.2 Refundable Dividend Tax on Hand (RDTOH)
+#### Refundable Dividend Tax on Hand (RDTOH)
 
 Whenever a corporation realizes investment income, a portion of tax paid on that income is tracked in its RDTOH account. When the corporation pays out dividends (often called “taxable dividends” to shareholders), the corporation may recover some of the taxes previously paid. This mechanism is designed to help reduce double taxation but requires careful tracking and reporting to the Canada Revenue Agency (CRA).
 
 ---
 
-### 5. Professional Corporations (PCs)
+### Professional Corporations (PCs)
 
 Many professions in Canada—such as medicine, law, accounting, architecture, and engineering—allow practitioners to form **professional corporations (PCs)**. Although PCs must abide by specific provincial regulations and ethical guidelines, they often enjoy certain tax deferral benefits similar to standard CCPCs.
 
-#### 5.1 Benefits of Professional Corporations
+#### Benefits of Professional Corporations
 
 1. **Tax Deferral**  
    Professionals can leave excess earnings in the corporation, taxed at the corporate rate, deferring personal taxes until distributions are made.
@@ -108,13 +108,13 @@ Many professions in Canada—such as medicine, law, accounting, architecture, an
 3. **Estate Planning & Succession**  
    Professional corporations facilitate more nuanced estate planning, which may include share transfers, spousal rollovers, or freeze strategies for capital gains deferral.
 
-#### 5.2 Regulatory and Professional Body Requirements
+#### Regulatory and Professional Body Requirements
 
 Each professional body has unique restrictions, such as mandatory naming conventions for PCs (“John Doe Medicine Professional Corporation”) and limitations on share ownership (often limited to licensed professionals). Be sure to confirm these constraints with the relevant college or regulatory body.
 
 ---
 
-### 6. Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 Below are two illustrative case studies that demonstrate how incorporation strategies might play out in real-world scenarios.
 
@@ -126,7 +126,7 @@ Dr. Ahmed is a dentist working in Alberta. He establishes a professional corpora
 
 ---
 
-### 7. Step-by-Step Guidance on the Incorporation Process
+### Step-by-Step Guidance on the Incorporation Process
 
 While specific requirements can vary by province and profession, the following steps outline a general framework:
 
@@ -150,7 +150,7 @@ While specific requirements can vary by province and profession, the following s
 
 ---
 
-### 8. Common Pitfalls and Best Practices
+### Common Pitfalls and Best Practices
 
 1. **Ignoring TOSI Legislation**  
    Many business owners assume they can split income freely among family members, only to find that TOSI rules impose significant taxes on ineligible dividends. Planners should ensure compliance with TOSI before recommending income splitting.
@@ -169,7 +169,7 @@ While specific requirements can vary by province and profession, the following s
 
 ---
 
-### 9. Diagram: Basic Corporate Structure
+### Diagram: Basic Corporate Structure
 
 Below is a simple Mermaid.js diagram illustrating a typical corporate structure and flows of funds:
 
@@ -188,7 +188,7 @@ flowchart LR
 
 ---
 
-### 10. References and Additional Resources
+### References and Additional Resources
 
 • **Canada Revenue Agency (CRA) – Corporations**  
   [https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations.html](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/corporations.html)  

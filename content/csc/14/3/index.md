@@ -14,7 +14,7 @@ Analyzing financial ratios is a powerful way to evaluate a company’s performan
 
 ---
 
-## 1. Introduction
+## Introduction
 
 Financial ratios provide investors, analysts, and stakeholders with concise metrics that simplify complex financial information presented in a company’s financial statements. By converting large data sets (e.g., income statements, balance sheets, and cash flow statements) into interpretable indicators, you can quickly pinpoint strengths, weaknesses, and trends. Ratios play a critical role in both:
 
@@ -25,7 +25,7 @@ In Canada, ratio analysis is particularly useful because publicly traded corpora
 
 ---
 
-## 2. The Role of Ratio Analysis in Company Analysis
+## The Role of Ratio Analysis in Company Analysis
 
 1. Identifying Company Health: A set of healthy ratios can indicate sufficient liquidity to meet short-term obligations, robust profitability, and well-managed debt.  
 2. Detecting Emerging Problems: Unfavourable ratio trends (e.g., declining profitability or increasing debt) can serve as early warning signs of operational or financial distress.  
@@ -36,7 +36,7 @@ Ratio analysis should not operate in a vacuum—you must also account for macroe
 
 ---
 
-## 3. Key Categories of Financial Ratios
+## Key Categories of Financial Ratios
 
 Financial ratios often fall into five main categories: Liquidity, Solvency, Profitability, Efficiency, and Valuation. The flowchart below illustrates how these categories relate to the broader scope of financial ratios:
 
@@ -49,7 +49,7 @@ flowchart LR
     A --> F[Valuation Ratios]
 ```
 
-### 3.1 Liquidity Ratios
+### Liquidity Ratios
 
 Liquidity ratios show a company’s ability to meet short-term financial commitments. They are particularly important for assessing near-term risk.
 
@@ -64,7 +64,7 @@ Liquidity ratios show a company’s ability to meet short-term financial commitm
 
 A Canadian manufacturing company, for instance, might experience brief liquidity tightness if raw material costs rise. If the quick ratio dips below 1.0 over multiple quarters, it could indicate potential cash flow challenges.
 
-### 3.2 Solvency Ratios (Leverage Ratios)
+### Solvency Ratios (Leverage Ratios)
 
 Solvency ratios focus on a company’s long-term financial viability, primarily through the lens of its debt obligations.
 
@@ -78,7 +78,7 @@ Solvency ratios focus on a company’s long-term financial viability, primarily 
   - Measures the company’s ability to service its debt.  
   - A ratio of 5.0 means the firm’s EBIT covers its interest expenses five times over.
 
-### 3.3 Profitability Ratios
+### Profitability Ratios
 
 Profitability ratios measure how well a company deploys its resources to generate earnings.
 
@@ -97,7 +97,7 @@ Profitability ratios measure how well a company deploys its resources to generat
   - Measures how effectively a company utilizes its total asset base to generate profits.  
   - Larger capital-intensive firms (e.g., major Canadian telecom operators) often have lower ROA due to substantial fixed assets.
 
-### 3.4 Efficiency Ratios
+### Efficiency Ratios
 
 Efficiency ratios examine how efficiently a company uses its assets and manages operations.
 
@@ -110,7 +110,7 @@ Efficiency ratios examine how efficiently a company uses its assets and manages 
   - Reveals how quickly a business cycles through inventory.  
   - An inventory turnover of 8.0 implies the company sells and replaces its inventory roughly eight times per year.
 
-### 3.5 Valuation Ratios
+### Valuation Ratios
 
 Valuation ratios are most relevant for assessing the attractiveness of a company’s shares in the stock market.
 
@@ -130,26 +130,26 @@ Valuation ratios are most relevant for assessing the attractiveness of a company
 
 ---
 
-## 4. Interpreting and Benchmarking Ratios
+## Interpreting and Benchmarking Ratios
 
-### 4.1 Trend Analysis
+### Trend Analysis
 
 Comparing ratios over multiple quarters or years reveals whether a company is improving, holding steady, or losing ground. For example:
 
 • A stable increase in net profit margin might highlight pricing power or better cost management.  
 • A sudden drop in ROE might indicate an adverse shift in the business or unusual expenses.
 
-### 4.2 Cross-Sectional Analysis
+### Cross-Sectional Analysis
 
 Comparing a company’s ratios to those of similar organizations highlights competitive positioning. If a technology startup in Toronto posts a D/E ratio significantly higher than industry peers, it might suggest the firm is aggressively leveraging debt — a risk factor that warrants deeper scrutiny.
 
-### 4.3 Industry Norms and Qualitative Factors
+### Industry Norms and Qualitative Factors
 
 Financial ratios vary widely by sector. A high debt load in the utilities or real estate sector may be normal due to stable, recurring cash flows. Meanwhile, a high debt load in a fledgling biotech could be alarming. Qualitative factors also matter strongly. Management credibility, brand strength, and corporate governance can amplify or mitigate concerns raised by raw numbers.
 
 ---
 
-## 5. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
 Consider these real-world scenarios in the Canadian market:
 
@@ -159,7 +159,7 @@ Consider these real-world scenarios in the Canadian market:
 
 ---
 
-## 6. A Step-by-Step Approach to Ratio Analysis
+## A Step-by-Step Approach to Ratio Analysis
 
 1. Gather Financial Statements: Acquire the firm’s latest annual and interim statements (balance sheet, income statement, and cash flow statement) from its investor relations website or SEDAR+ (the Canadian Securities Administrators’ website for filing).  
 2. Calculate Key Ratios: Use consistent formulas. In many cases, software tools or spreadsheet templates can expedite calculations.  
@@ -170,7 +170,7 @@ Consider these real-world scenarios in the Canadian market:
 
 ---
 
-## 7. Common Pitfalls and Best Practices
+## Common Pitfalls and Best Practices
 
 • Focusing Solely on a Single Ratio: Relying on just P/E or the Current Ratio can be misleading. Use a broad set of indicators.  
 • Ignoring Industry Differences: Compare like with like. A robust ratio in one sector might be weak in another.  
@@ -180,7 +180,7 @@ Consider these real-world scenarios in the Canadian market:
 
 ---
 
-## 8. Tools and Resources
+## Tools and Resources
 
 • Financial Databases: Bloomberg, Reuters, Yahoo Finance, Canadian-specific databases like TMX Money, or SEDAR+.  
 • Regulatory Guidelines: CIRO provides best practices regarding leverage, capital requirements, and client disclosures.  
@@ -189,7 +189,7 @@ Consider these real-world scenarios in the Canadian market:
 
 ---
 
-## 9. Summary
+## Summary
 
 Ratio analysis is indispensable for both novice and experienced investors seeking to evaluate a company’s financial health. By examining liquidity, solvency, profitability, efficiency, and valuation metrics, you gain critical insights into short-term stability, long-term viability, and growth prospects. Always contextualize ratios within an industry framework and combine quantitative findings with solid qualitative research. This well-rounded approach helps ensure more confident and informed investment decisions within the Canadian securities marketplace.
 

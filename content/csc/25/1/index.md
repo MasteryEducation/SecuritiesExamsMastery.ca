@@ -14,7 +14,7 @@ Fee-based accounts have gained significant traction in the Canadian investment l
 
 ---
 
-## 1. Defining Fee-Based Accounts
+## Defining Fee-Based Accounts
 
 In a traditional commission-based brokerage arrangement, clients typically pay a fee or commission each time they conduct a trade. By contrast, fee-based accounts aggregate the cost of advisory services and trading into a single or recurring fee. This fee may be calculated in several ways:
 
@@ -22,7 +22,7 @@ In a traditional commission-based brokerage arrangement, clients typically pay a
 2. A flat-fee structure, sometimes termed a retainer.  
 3. A performance-based fee, where the advisor’s fees are tied partly or wholly to achieving certain return benchmarks.
 
-### 1.1 Key Characteristics
+### Key Characteristics
 
 • Predetermined fees that often scale up or down with account size.  
 • Greater focus on ongoing advice, holistic financial planning, and relationship-building.  
@@ -30,32 +30,32 @@ In a traditional commission-based brokerage arrangement, clients typically pay a
 
 ---
 
-## 2. Why Clients Choose Fee-Based Accounts
+## Why Clients Choose Fee-Based Accounts
 
-### 2.1 Cost Transparency
+### Cost Transparency
 
 Unlike commission-based structures, in which the total expense may vary wildly depending on trading activity, fee-based approaches tend to offer greater clarity. Clients see a set fee disclosed upfront, making budgeting simpler. Knowing precisely how much will be paid over a given period can help clients avoid surprises.
 
-### 2.2 Alignment of Advisor Incentives
+### Alignment of Advisor Incentives
 
 Because advisors in a fee-based environment typically earn a proportion of the account’s total assets, they have a vested interest in growing the portfolio over time. Their compensation becomes more closely aligned with client success. This setup can foster a more collaborative and trusting relationship between client and advisor.
 
-### 2.3 Predictable and Reliable Billing
+### Predictable and Reliable Billing
 
 Investors who adopt a fee-based arrangement often appreciate predictable billing cycles. Regular quarterly or annual billing can help incorporate investment management costs into household budgets or corporate planning.
 
 ---
 
-## 3. Reducing Conflicts of Interest
+## Reducing Conflicts of Interest
 
-### 3.1 Potential Risks in Commission-Based Models
+### Potential Risks in Commission-Based Models
 
 In a purely commission-based model, there is a risk (real or perceived) that an advisor might recommend unnecessary trades to boost their commission revenue, leading to:
 
 • Higher transaction costs for the client.  
 • Misalignment of objectives, where product pushing overshadows client suitability.  
 
-### 3.2 How Fee-Based Models Mitigate Conflicts
+### How Fee-Based Models Mitigate Conflicts
 
 Under fee-based models:  
 • Advisors are less inclined to push trades solely for compensation purposes.  
@@ -63,7 +63,7 @@ Under fee-based models:
 
 ---
 
-## 4. Regulatory Guidelines and Client Focused Reforms (CFRs)
+## Regulatory Guidelines and Client Focused Reforms (CFRs)
 
 Since Canadian regulatory bodies such as the Canadian Investment Regulatory Organization (CIRO) and the securities commissions emphasize client protection, fee-based accounts come with specific regulations. Under the Client Focused Reforms (CFRs):
 
@@ -78,7 +78,7 @@ For more detailed guidance, consult the following documents:
 
 ---
 
-## 5. Relevance of Know Your Client (KYC) and Suitability
+## Relevance of Know Your Client (KYC) and Suitability
 
 While fee-based accounts may reduce conflicts, they still must align with a client’s personal circumstances:
 
@@ -91,11 +91,11 @@ Advisors must conduct thorough KYC checks and confirm that a fee-based structure
 
 ---
 
-## 6. Types of Fee-Based Accounts
+## Types of Fee-Based Accounts
 
 Fee-based platforms can be subdivided into several categories, generally aligned with the level and style of service:
 
-### 6.1 Managed Fee-Based Accounts
+### Managed Fee-Based Accounts
 
 In managed fee-based accounts, the advisor or portfolio manager may have discretionary authority to make trades without seeking the client’s approval each time. This often includes:  
 1. Professional management of assets using established investment strategies.  
@@ -104,15 +104,15 @@ In managed fee-based accounts, the advisor or portfolio manager may have discret
 
 Large Canadian financial institutions—like RBC, TD, and others—often offer managed fee-based programs that integrate advanced technology, proprietary research, and a designated wealth management team.
 
-### 6.2 Non-Managed Fee-Based Accounts
+### Non-Managed Fee-Based Accounts
 
 In this scenario, the client retains final decision-making authority. The advisor provides research, recommendations, and guidance, but each trade requires client authorization. Although the account does not charge per-trade commissions, clients still benefit from consolidated fees and consistent advisory support.
 
 ---
 
-## 7. Explaining the Fee Structure to Clients
+## Explaining the Fee Structure to Clients
 
-### 7.1 How Fees Are Calculated
+### How Fees Are Calculated
 
 When introducing clients to a fee-based model, advisors should detail how fees are calculated. For example:
 
@@ -120,11 +120,11 @@ When introducing clients to a fee-based model, advisors should detail how fees a
 • Tiered Pricing: Lower fees for larger portfolios (e.g., 1.2% up to $1 million, 1% over $1 million to $3 million, etc.).  
 • Retainer: A fixed monthly or annual fee.  
 
-### 7.2 Performance-Based Fees
+### Performance-Based Fees
 
 In certain high-net-worth or institutional contexts, advisors adopt performance-based structures. For instance, a hedge fund might charge a 1% management fee plus 10% of all returns earned above a specified benchmark (commonly referred to as “1 and 10”). Essentially, the advisor benefits only if the portfolio outperforms a given yardstick, fostering alignment of goals.
 
-### 7.3 Scope of Services
+### Scope of Services
 
 Advisors must clarify the scope of services covered by the fee. This can include:
 
@@ -135,9 +135,9 @@ Advisors must clarify the scope of services covered by the fee. This can include
 
 ---
 
-## 8. Examples and Case Studies
+## Examples and Case Studies
 
-### 8.1 Case Study: A Mid-Career Professional (Non-Managed Fee-Based)
+### Case Study: A Mid-Career Professional (Non-Managed Fee-Based)
 
 Sandra, a 45-year-old software engineer, has a diversified portfolio of $500,000. She wants ongoing advice but prefers to make the final call on trades. In a fee-based structure at 1% of AUM per year:
 
@@ -145,7 +145,7 @@ Sandra, a 45-year-old software engineer, has a diversified portfolio of $500,000
 • She can consult her advisor anytime without incurring additional trade commissions.  
 • The advisor’s compensation is tied to portfolio performance, encouraging constructive guidance.  
 
-### 8.2 Case Study: A Retiree (Managed Fee-Based)
+### Case Study: A Retiree (Managed Fee-Based)
 
 John, a 67-year-old retiree, receives a defined-benefit pension and invests $1.2 million in a professionally managed fee-based account. His portfolio is allocated primarily to income-generating instruments. If his annual fee is 1% on the first $1 million and 0.8% thereafter, he pays:
 
@@ -157,15 +157,15 @@ In exchange, John gets a dedicated portfolio manager who rebalances his holdings
 
 ---
 
-## 9. Opportunities and Challenges
+## Opportunities and Challenges
 
-### 9.1 Strengths and Advantages
+### Strengths and Advantages
 
 • Transparent Costs: Clients can easily track and budget.  
 • Long-Term Partnership: Encourages a collaborative advisor-client relationship.  
 • Regulatory Support: Aligns with Client Focused Reforms and industry best practices.
 
-### 9.2 Potential Downsides
+### Potential Downsides
 
 • Cost Might Exceed Benefits: Occasional traders might pay more than in a commission-based setup.  
 • Perceived Lack of Control: In some managed accounts, clients may feel less involved in daily decisions.  
@@ -173,7 +173,7 @@ In exchange, John gets a dedicated portfolio manager who rebalances his holdings
 
 ---
 
-## 10. Best Practices for Advisors
+## Best Practices for Advisors
 
 Below is a simple visual workflow illustrating best practices for advisors when setting up or maintaining a fee-based account:
 
@@ -186,24 +186,24 @@ flowchart TD
     E --> F(Ongoing Monitoring & Client Contact)
 ```
 
-### 10.1 Proper Disclosure and Communication
+### Proper Disclosure and Communication
 
 • Use plain language and simple illustrations in fee schedules.  
 • Value proposition should be articulated, explaining how the client benefits from the structure.
 
-### 10.2 Continuous Monitoring of Client Situation
+### Continuous Monitoring of Client Situation
 
 • Conduct regular check-ins to ensure that the fee-based model remains appropriate.  
 • Adapt account features if the client’s financial objectives change.
 
-### 10.3 Maintaining Professional Standards
+### Maintaining Professional Standards
 
 • Stay updated with new regulations and guidelines (e.g., CFR updates).  
 • Offer training to advisory teams on compliance, ethics, and best practices.
 
 ---
 
-## 11. Summary
+## Summary
 
 Fee-based accounts allow investors and advisors in Canada to establish a transparent, collaborative partnership focused on long-term growth. While these structures offer clear fee transparency, alignment of incentives, and regulatory support under the Client Focused Reforms, it remains critical for both parties to ensure suitability. Advisors must disclose fees openly and confirm that the arrangement aligns with each client’s unique goals, risk tolerance, and investment style. Clients, in turn, should carefully evaluate fee-based offerings to see if the holistic services and stability they provide justify the cost relative to other available account types.
 

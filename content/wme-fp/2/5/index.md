@@ -14,11 +14,11 @@ Building and maintaining trust is at the core of any successful advisor-client r
 
 ---
 
-## 1. Understanding Trust in Advisor-Client Relationships
+## Understanding Trust in Advisor-Client Relationships
 
 Trust begins with the confidence that clients place in advisors, believing that their recommendations and strategies align with the clients’ objectives rather than the advisor’s self-interest. Clients entrust financial planners with highly sensitive, personal, and strategic information. Such reliance demands that the advisor consistently exhibits ethical behavior, transparency, and reliability.
 
-### 1.1 Key Aspects of Trust
+### Key Aspects of Trust
 
 1. Consistency:  
    • Clients appreciate advisors who consistently apply their professional judgment and follow through on obligations.  
@@ -38,11 +38,11 @@ Trust begins with the confidence that clients place in advisors, believing that 
 
 ---
 
-## 2. Agency Theory in Financial Services
+## Agency Theory in Financial Services
 
 Agency theory examines the relationship between principals (clients) and agents (advisors). In finance, the agent carries out tasks on behalf of the principal, who might have less information or expertise. It is crucial to minimize information asymmetry and ensure that the agent’s decisions align with the principal’s best interests.
 
-### 2.1 The Principal-Agent Relationship
+### The Principal-Agent Relationship
 
 The diagram below illustrates a simplified version of the principal-agent relationship:
 
@@ -57,7 +57,7 @@ flowchart LR
 1. The client provides the advisor with capital (e.g., investment funds) and the authority to make recommendations or execute transactions.  
 2. The advisor makes decisions or recommendations aimed at fulfilling the client’s objective (e.g., retirement prosperity, tax minimization) while disclosing relevant factors.
 
-### 2.2 Conflict of Interest and Information Asymmetry
+### Conflict of Interest and Information Asymmetry
 
 • Conflict of Interest: Advisors who receive commissions from product providers (e.g., mutual fund companies) may face a conflict between recommending a product that is best for the client versus one that offers higher compensation.  
 • Information Asymmetry: The advisor often knows significantly more about financial instruments than the client, thus carrying a responsibility to disclose, educate, and explain any recommendations.  
@@ -66,11 +66,11 @@ Proper disclosure, fair dealing, and ethics training can mitigate conflicts of i
 
 ---
 
-## 3. Fiduciary Duty: Acting in the Client’s Best Interests
+## Fiduciary Duty: Acting in the Client’s Best Interests
 
 A fiduciary duty is a legal or ethical duty to act in the best interest of the client. In Canada, some financial professionals—such as certain portfolio managers or those holding specific professional designations—are held to a fiduciary standard. Even if an advisor is not legally bound by fiduciary duty, many abide by a best-interest standard that is functionally similar, given market expectations and professional codes of ethics.
 
-### 3.1 Fundamental Obligations Under Fiduciary Duty
+### Fundamental Obligations Under Fiduciary Duty
 
 1. **Duty of Loyalty:**  
    The advisor must be loyal to the client’s objectives and avoid acting in any manner that would compromise the client’s well-being.
@@ -85,7 +85,7 @@ A fiduciary duty is a legal or ethical duty to act in the best interest of the c
 4. **Duty of Confidentiality:**  
    Keeping sensitive financial and personal data secure. Data protection measures and privacy policies should comply with relevant legislation such as the Personal Information Protection and Electronic Documents Act (PIPEDA).
 
-### 3.2 Legal Ramifications of Breach
+### Legal Ramifications of Breach
 
 Failing to fulfill a fiduciary obligation can lead to legal actions or regulatory penalties. Provincial securities commissions, such as the Ontario Securities Commission (OSC) (https://www.osc.ca), detail policy statements surrounding advisor responsibilities. Breaches can involve misappropriation of client funds, lack of informed consent for transactions, or undisclosed conflicts of interest.
 
@@ -96,7 +96,7 @@ A real-world example might involve a portfolio manager taking excessive risk in 
 
 ---
 
-## 4. Best Practices for Advisors in Canada
+## Best Practices for Advisors in Canada
 
 Regardless of formal fiduciary status, embracing fiduciary-like principles strengthens the advisor-client relationship and demonstrates professionalism.
 
@@ -112,7 +112,7 @@ Practically, large institutions like TD or RBC often require compliance training
 
 ---
 
-## 5. Glossary
+## Glossary
 
 • **Trust (Revisited):** The confidence placed in an advisor to act ethically, competently, and reliably, especially when dealing with critical financial matters.  
 • **Agency Theory:** A theoretical framework examining the agent’s obligations to act in the best interests of the principal, mitigating conflicts of interest and information asymmetry.  
@@ -121,7 +121,7 @@ Practically, large institutions like TD or RBC often require compliance training
 
 ---
 
-## 6. Applying Trust, Agency, and Fiduciary Duty in Practice
+## Applying Trust, Agency, and Fiduciary Duty in Practice
 
 1. **Case Study – Tailored Financial Planning:**  
    A mid-career client at RBC Dominion Securities wants an integrated financial plan. Their advisor, bound by a best-interest standard and keen on building trust, discloses:  
@@ -141,7 +141,7 @@ Practically, large institutions like TD or RBC often require compliance training
 
 ---
 
-## 7. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 • **Trust**: The fabric of the advisor-client relationship and the bedrock on which future dealings rest.  
 • **Agency**: Advisors must recognize their role as agents, acting on behalf of principals with transparency to mitigate conflicts of interest.  

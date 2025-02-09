@@ -32,7 +32,7 @@ Over time, different asset classes—even within the same broad category—perfo
 
 The method of rebalancing you recommend depends on client objectives, risk preferences, transaction cost sensitivity, and practical considerations like account type (RRSP, TFSA, non-registered).
 
-#### 1. Calendar-Based Rebalancing
+#### Calendar-Based Rebalancing
 
 Under calendar-based rebalancing, portfolios are adjusted on a set schedule—monthly, quarterly, semi-annually, or annually.
 
@@ -44,7 +44,7 @@ Under calendar-based rebalancing, portfolios are adjusted on a set schedule—mo
   – May miss opportunities or be delayed if markets move significantly between rebalancing dates.  
   – Potentially higher transaction costs if done too frequently without regard for small deviations.
 
-#### 2. Threshold-Based Rebalancing
+#### Threshold-Based Rebalancing
 
 Threshold-based approaches, sometimes referred to as “percentage-of-portfolio” rebalancing, involve setting a predetermined deviation from the target allocations that triggers a realignment.
 
@@ -59,7 +59,7 @@ Threshold-based approaches, sometimes referred to as “percentage-of-portfolio�
   – If markets are particularly volatile, the portfolio might breach thresholds often, leading to frequent rebalancing and higher transaction costs.  
   – Clients may question why actions weren’t taken earlier or treat the threshold as a psychological barrier.
 
-#### 3. Combination (Calendar + Threshold)
+#### Combination (Calendar + Threshold)
 
 Many advisors in Canada choose a combination approach, setting a routine rebalancing schedule (e.g., annually) but also specifying that if an asset class drifts more than a certain percentage from its target, rebalancing occurs immediately.
 

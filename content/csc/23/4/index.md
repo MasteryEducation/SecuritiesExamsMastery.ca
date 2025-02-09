@@ -21,9 +21,9 @@ Below, we explore the mechanics, benefits, risks, and regulatory considerations 
 
 ---
 
-## 1. Introduction to Split Shares
+## Introduction to Split Shares
 
-### 1.1 Basic Concept
+### Basic Concept
 
 A split-share corporation acquires a portfolio of one or more common shares—often of well-known, blue-chip Canadian companies such as RBC, TD, or other large-cap equities. This portfolio’s dividends and capital gains are then “split” into two sets of securities:
 
@@ -37,7 +37,7 @@ A split-share corporation acquires a portfolio of one or more common shares—of
   - Potentially higher volatility and higher risk.  
   - Appeal to growth-oriented investors with higher risk tolerance, especially those seeking leveraged exposure to price changes in the underlying portfolio.
 
-### 1.2 Typical Objectives for Investors
+### Typical Objectives for Investors
 
 • Income-Seeking Investors:  
   Investors looking for steady income, similar to traditional preferred shares, often choose the preferred portion of the split-share structure. These investors benefit from stable dividend payments backed by the underlying portfolio’s dividends.
@@ -47,7 +47,7 @@ A split-share corporation acquires a portfolio of one or more common shares—of
 
 ---
 
-## 2. Structure of a Split-Share Corporation
+## Structure of a Split-Share Corporation
 
 The structural design of a split-share corporation can be visualized as follows:
 
@@ -68,9 +68,9 @@ In effect, the underlying portfolio’s dividends and capital gains are allocate
 
 ---
 
-## 3. Classes of Split Shares
+## Classes of Split Shares
 
-### 3.1 Preferred Shares (Preferred Securities)
+### Preferred Shares (Preferred Securities)
 
 • Fixed Dividend: Preferred shares pay a fixed dividend that is funded by the dividend income from the underlying portfolio.  
 • Priority Claim: If the underlying portfolio’s dividend stream decreases or if the split-share corporation is wound up, preferred shareholders have the first claim on the portfolio assets, up to the redemption value of their shares.  
@@ -78,7 +78,7 @@ In effect, the underlying portfolio’s dividends and capital gains are allocate
 
 A real-world example is RBC’s role as an underlying asset in numerous Canadian split-share corporations. The stable dividend history of RBC can help ensure consistent payments to preferred shareholders, which makes these shares appealing to income-focused investors.
 
-### 3.2 Capital Shares (Class A Shares)
+### Capital Shares (Class A Shares)
 
 • Leverage Effect: Capital shareholders benefit from residual cash flow and capital appreciation once the preferred shareholders' dividend and redemption rights have been satisfied. This structure can magnify profits if the underlying shares' prices rise; however, it also magnifies losses if the prices decline.  
 • Higher Volatility: Because they absorb the first and largest share of downside risk, capital shares are significantly more volatile.  
@@ -86,33 +86,33 @@ A real-world example is RBC’s role as an underlying asset in numerous Canadian
 
 ---
 
-## 4. Key Considerations for Split Shares
+## Key Considerations for Split Shares
 
-### 4.1 Market Risk
+### Market Risk
 
 The most significant risk pertains to the underlying common shares' market performance. A sustained decline in the portfolio’s share prices can rapidly erode the value of capital shares. Preferred shares are somewhat cushioned, but still face the possibility of default on dividend payments or a shortfall in the redemption value if market conditions turn exceptionally poor.
 
-### 4.2 Dividend Policy and Stability
+### Dividend Policy and Stability
 
 • Preferred Share Dividends: Generally predictable, subject to the underlying companies’ continued regular dividend payments. If the underlying companies reduce or eliminate dividends, the ability of the split-share corporation to continue paying fixed dividends to preferred shareholders is compromised.  
 • Capital Share Dividends: Typically only paid if there's surplus income after preferred obligations and expenses are covered. In many cases, capital shares may not receive dividends at all, especially if the portfolio’s dividend income is modest.
 
-### 4.3 Term and Redemption
+### Term and Redemption
 
 Split-share corporations often have a finite lifespan. Common features include:
 
 • Definite Term: Many split-share corporations have a set maturity date, at which time the portfolio is liquidated. The proceeds are distributed to preferred shareholders first (up to their redemption value), and then to capital shareholders.  
 • Possible Term Extensions: Boards of directors can propose a term extension, usually requiring approval by both classes of shareholders. This allows the corporation to continue operating if market conditions are favorable or if shareholders deem the extension beneficial.
 
-### 4.4 The Leverage Effect
+### The Leverage Effect
 
 For capital shares, the leverage effect acts as a double-edged sword. When the underlying portfolio appreciates, capital shareholders can enjoy larger percentage gains relative to direct ownership of the underlying stocks. Conversely, if the portfolio declines, capital shareholders bear most of the loss, potentially even losing their entire capital if the underlying shares dip significantly below the threshold required to maintain preferred share obligations.
 
 ---
 
-## 5. Regulatory and Compliance Aspects
+## Regulatory and Compliance Aspects
 
-### 5.1 Prospectus Requirements
+### Prospectus Requirements
 
 Split-share offerings are typically accompanied by a prospectus that outlines:
 
@@ -125,11 +125,11 @@ Prospective investors should carefully read these documents. In Canada, detailed
 
 • [SEDAR+](https://www.sedarplus.ca/): Provides public access to financial statements, prospectuses, and other disclosures for split-share corporations.  
 
-### 5.2 Applicability of National Instrument 81-101
+### Applicability of National Instrument 81-101
 
 In certain cases, split-share structures may be offered under “National Instrument 81-101 Mutual Fund Prospectus Disclosure” if they meet the criteria of an investment fund. This can impose additional disclosure rules and standards for marketing materials and risk classification based on regulatory guidelines.
 
-### 5.3 CIRO Guidance on Risk Disclosure
+### CIRO Guidance on Risk Disclosure
 
 The Canadian Investment Regulatory Organization (CIRO) underscores the importance of thorough risk disclosure for structured products like split shares. Advisors must ensure clients understand:
 
@@ -139,7 +139,7 @@ The Canadian Investment Regulatory Organization (CIRO) underscores the importanc
 
 ---
 
-## 6. Practical Examples in the Canadian Market
+## Practical Examples in the Canadian Market
 
 When evaluating a split-share corporation, investors often look at large, stable Canadian companies such as:
 
@@ -156,7 +156,7 @@ A hypothetical Canadian pension fund with a moderate risk appetite might choose 
 
 ---
 
-## 7. Valuation Metrics and Analysis
+## Valuation Metrics and Analysis
 
 Both preferred and capital shares in a split-share corporation can trade at prices influenced by:
 
@@ -165,14 +165,14 @@ Both preferred and capital shares in a split-share corporation can trade at pric
 • Interest rate changes (particularly relevant for preferred share valuations).  
 • General market sentiment toward structured products.
 
-### 7.1 NAV Impact
+### NAV Impact
 
 Analysts frequently examine the split-share corporation’s NAV to determine if preferred and capital shares are trading at premiums or discounts. Because of the structural priority, the NAV must first cover the preferred share obligations before any equity is allocated to capital shares. For example:
 
 • If the NAV is barely above the preferred redemption amount, capital shares might have very limited upside or could even be worthless if the NAV falls below preferred obligations.  
 • If the NAV significantly exceeds preferred obligations, capital shares would see greater intrinsic value, reflecting higher upside potential.
 
-### 7.2 Dividend Coverage Ratios
+### Dividend Coverage Ratios
 
 Given that preferred share investors rely on the dividends generated by the underlying portfolio, it’s crucial to evaluate:
 
@@ -183,39 +183,39 @@ A strong coverage ratio indicates a higher likelihood that the preferred dividen
 
 ---
 
-## 8. Common Pitfalls and Best Practices
+## Common Pitfalls and Best Practices
 
-### 8.1 Insufficient Understanding of Leverage
+### Insufficient Understanding of Leverage
 
 • Many investors underestimate the negative impact of leverage on capital shares. Before investing in capital shares, conduct scenario analyses of market downturns to understand the potential losses.  
 
-### 8.2 Overlooking Liquidity
+### Overlooking Liquidity
 
 • Liquidity can be relatively low for split shares compared to the underlying equities. During adverse market conditions, getting in or out of a position may be challenging without disturbing the market price.
 
-### 8.3 Ignoring Term Limits
+### Ignoring Term Limits
 
 • Because most split-share corporations have a finite term, ensure that the maturity date and potential extension terms align with your investment goals and timeline.
 
-### 8.4 Failing to Review Prospectus Disclosures
+### Failing to Review Prospectus Disclosures
 
 • Always read the corporation’s prospectus and continuous disclosure documents (available on [SEDAR+](https://www.sedarplus.ca/)) for details on structure, fees, risks, and historical performance.
 
 ---
 
-## 9. Strategies for Investors
+## Strategies for Investors
 
-### 9.1 Matching Risk Appetite
+### Matching Risk Appetite
 
 • Conservative Investors: May use preferred shares as an alternative to traditional preferred stock or fixed-income instruments.  
 • Aggressive Investors: May use capital shares to speculate on rising stock prices, acknowledging the heightened risk.
 
-### 9.2 Diversification Through Allocation
+### Diversification Through Allocation
 
 • Splitting allocations between preferred and capital shares can create a balanced strategy, though the portfolio’s overall risk profile must be carefully monitored.  
 • Including split shares among other asset classes—like bonds, REITs, or equities—can help optimize portfolio diversification.
 
-### 9.3 Tax Considerations
+### Tax Considerations
 
 • Dividends from preferred shares may benefit from the Canadian dividend tax credit if certain conditions are met.  
 • Capital gains or losses derived from capital shares should be assessed as per general Canadian capital gains taxation rules.  
@@ -223,7 +223,7 @@ A strong coverage ratio indicates a higher likelihood that the preferred dividen
 
 ---
 
-## 10. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 Split shares offer a nuanced way to invest in the Canadian equity market. By dividing the dividend and capital appreciation components into two distinct securities, investors can more precisely target their desired risk and return objectives. However, it’s essential to recognize both the potential for steady income (preferred shares) and the magnified volatility (capital shares). The finite term and structural prioritization of preferred shareholders heavily influence capital share valuations.
 

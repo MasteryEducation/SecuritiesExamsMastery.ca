@@ -14,7 +14,7 @@ Asset allocation is the cornerstone of modern portfolio construction. It involve
 
 ---
 
-### 1. Recognizing Asset Allocation as a Core Element of Portfolio Construction
+### Recognizing Asset Allocation as a Core Element of Portfolio Construction
 
 Asset allocation is more than just selecting a few stocks, bonds, or funds. It is a disciplined framework that helps you decide:
 
@@ -26,7 +26,7 @@ This framework is grounded in the idea that a portfolio’s long-term returns an
 
 ---
 
-### 2. Aligning with Client Objectives and Constraints
+### Aligning with Client Objectives and Constraints
 
 Before making decisions about asset allocation, an advisor must clearly identify the client’s objectives and constraints. This is a critical first step. In Canada, these requirements align with the “Know Your Client” (KYC) regulations under the Canadian Investment Regulatory Organization (CIRO).
 
@@ -52,7 +52,7 @@ Key considerations include:
 
 ---
 
-### 3. Considering Risk Tolerance and Return Expectations
+### Considering Risk Tolerance and Return Expectations
 
 A key function of asset allocation is determining the right balance between risk and return. In practice, clients may express a desire for high returns, but they may not be comfortable with the potential downside risk that comes with more volatile asset classes such as equities.
 
@@ -67,7 +67,7 @@ Balancing risk and return is critical. A relatively young client with stable inc
 
 ---
 
-### 4. Developing an Investment Policy Statement (IPS)
+### Developing an Investment Policy Statement (IPS)
 
 An Investment Policy Statement (IPS) is the foundational document that underpins all asset allocation decisions. It is created in collaboration with the client and outlines:
 
@@ -93,7 +93,7 @@ This process helps ensure transparency and clarity. Once the IPS is finalized, i
 
 ---
 
-### 5. Integrating Capital Market Assumptions
+### Integrating Capital Market Assumptions
 
 Capital market assumptions involve setting expectations for future returns, volatility, and correlations among various asset classes. Advisors typically draw on:
 
@@ -110,7 +110,7 @@ A simple example might compare short-term government bonds, corporate bonds, Can
 
 ---
 
-### 6. The Diversification Principle
+### The Diversification Principle
 
 Diversification is the practice of spreading investments across different asset classes or market sectors with relatively low correlation to each other. The rationale is straightforward: if one asset class faces a downturn, others may remain stable or even perform well, thereby dampening the overall portfolio volatility.
 
@@ -128,7 +128,7 @@ Diversification is the practice of spreading investments across different asset 
 
 ---
 
-### 7. Continuous Monitoring and Revision
+### Continuous Monitoring and Revision
 
 Asset allocation is not a one-time event; it is a dynamic, ongoing process. Market performance, economic conditions, and changes in a client’s personal situation (e.g., marriage, property purchase, major life events) might trigger a reassessment of the portfolio’s asset mix.
 

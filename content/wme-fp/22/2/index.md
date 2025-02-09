@@ -16,7 +16,7 @@ This section examines the core contributors to bond price volatility, including 
 
 ---
 
-## 1. Interest Rate Risk
+## Interest Rate Risk
 
 Interest rate risk is often considered the dominant contributor to bond price movements. The principle is straightforward: bond prices move inversely to changes in market interest rates.
 
@@ -34,16 +34,16 @@ A Canadian example could be comparing a Government of Canada 2-Year bond with a 
 
 ---
 
-## 2. Duration: The Key Measure of Sensitivity
+## Duration: The Key Measure of Sensitivity
 
 Duration is the most commonly used measure to gauge a bond’s sensitivity to changes in interest rates. In Canada, institutions such as RBC or TD often analyze bond portfolios using duration metrics to protect themselves from adverse rate movements.
 
-### 2.1 Macaulay Duration
+### Macaulay Duration
 
 • Macaulay Duration is the weighted average time (in years) an investor must wait to receive all cash flows (coupon payments and principal).  
 • It is called “weighted” because each payment is weighted by its proportion of the bond’s total present value.
 
-### 2.2 Modified Duration
+### Modified Duration
 
 • Modified Duration builds on Macaulay Duration by adjusting for the yield level, providing an estimate of how much a bond’s price will change for a 1% (or 100-basis-point) change in interest rates.  
 • For a bond with a Modified Duration of 5.0, if yields rise by 1%, the bond’s price is estimated to decline by approximately 5%. Conversely, if yields fall by 1%, the bond’s price will rise by roughly 5%, barring any convexity effects.
@@ -70,18 +70,18 @@ If the market yield spikes to 5% (a 1% increase), the bond’s price could be ex
 
 ---
 
-## 3. Convexity: Measuring the Curvature
+## Convexity: Measuring the Curvature
 
 Duration is a linear approximation of price changes in response to yield shifts, but bond price changes follow a curved path. Enter convexity, a measure that refines duration by indicating how duration itself changes as interest rates change.
 
-### 3.1 Positive Convexity
+### Positive Convexity
 
 Most traditional bonds exhibit positive convexity:
 
 • As yields fall, the increase in price accelerates because each incremental drop in yields has a compounding effect.  
 • As yields rise, the decrease in price is somewhat mitigated.
 
-### 3.2 Negative Convexity
+### Negative Convexity
 
 Certain fixed-income instruments, such as callable bonds or mortgage-backed securities, can exhibit negative convexity in certain yield environments:
 
@@ -109,23 +109,23 @@ In this diagram:
 
 ---
 
-## 4. Embedded Options and Volatility
+## Embedded Options and Volatility
 
 Embedded options introduce additional complexity to bond price volatility.
 
-### 4.1 Callable Bonds
+### Callable Bonds
 
 • A callable bond contains a provision allowing the issuer to repay the principal before the stated maturity.  
 • This option is generally exercised when interest rates have declined, so the bond’s price gain is capped.  
 • Callable bonds often sell at higher yields to compensate investors for the issuer’s call privilege.
 
-### 4.2 Putable Bonds
+### Putable Bonds
 
 • A putable bond offers the investor the right to sell the bond back to the issuer at predetermined times and prices.  
 • This right generally benefits investors when interest rates rise, as they can exit the bond at the put price.  
 • Putable bonds often have lower yields due to the additional investor-friendly feature.
 
-### 4.3 Convertible Bonds
+### Convertible Bonds
 
 Convertible bonds can be traded in for a predetermined number of shares of the issuing company. As such, their price movement is driven by both:
 
@@ -136,16 +136,16 @@ This dual exposure can increase or decrease volatility relative to standard bond
 
 ---
 
-## 5. Yield Curve Shifts
+## Yield Curve Shifts
 
 The yield curve depicts the relationship between bond yields and maturities. Shifts in the yield curve can be parallel or non-parallel, each with different implications for bond prices.
 
-### 5.1 Parallel Shifts
+### Parallel Shifts
 
 • All maturities change by the same number of basis points (bps).  
 • The impact on a portfolio is more predictable because durations across maturities tend to consistently adjust.
 
-### 5.2 Non-Parallel Shifts
+### Non-Parallel Shifts
 
 • The short-term, mid-term, or long-term rates change by different amounts.  
 • A “steepening” curve occurs if long-term rates rise more than short-term rates.  
@@ -155,7 +155,7 @@ In Canada, as observed through the Bank of Canada’s yield data, yield curve sh
 
 ---
 
-## 6. Market Liquidity and Volatility
+## Market Liquidity and Volatility
 
 Market liquidity refers to the ease with which a security can be bought or sold without causing a major price movement. In Canada’s corporate bond market, some issues are less liquid than Government of Canada bonds, meaning:
 
@@ -168,7 +168,7 @@ An illiquid bond can demonstrate heightened price volatility because limited buy
 
 ---
 
-## 7. Practical Considerations for Advisors
+## Practical Considerations for Advisors
 
 As a financial planner or wealth manager, your role is to construct diversified portfolios that appropriately manage interest rate and other risks. Below are several practical steps:
 
@@ -196,7 +196,7 @@ As a financial planner or wealth manager, your role is to construct diversified 
 
 ---
 
-## 8. Glossary
+## Glossary
 
 • **Interest Rate Risk:** Sensitivity of a bond’s price to changes in interest rates.  
 • **Duration:** A measure of the weighted average time to receive bond payments, indicating sensitivity to rate changes.  
@@ -206,7 +206,7 @@ As a financial planner or wealth manager, your role is to construct diversified 
 
 ---
 
-## 9. Additional Resources
+## Additional Resources
 
 Below are valuable tools and references that financial advisors in Canada can leverage for deeper insights into bond pricing and volatility:
 

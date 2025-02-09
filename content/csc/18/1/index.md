@@ -40,7 +40,7 @@ This diagram highlights the constant inflow and outflow of capital. The mutual f
 
 The primary characteristic that differentiates one mutual fund from another is the type of securities it invests in and the fund’s investment strategy. As such, mutual funds are typically sorted into several categories, each catering to specific investor goals and risk tolerances.
 
-#### 2.1 Money Market Funds
+#### Money Market Funds
 
 • **Investment Focus**: Short-term debt instruments such as Treasury bills (T-bills) and commercial paper.  
 • **Objective**: Capital preservation and high liquidity, aiming to minimize volatility.  
@@ -49,7 +49,7 @@ The primary characteristic that differentiates one mutual fund from another is t
 
 Money market funds are popular with investors who have short investment horizons or who seek a “cash equivalent” type product. A business or a retiree requiring quick access to funds and stable value might use a money market fund to park idle cash while earning a modest yield.
 
-#### 2.2 Fixed-Income (Bond) Funds
+#### Fixed-Income (Bond) Funds
 
 • **Investment Focus**: Government bonds (e.g., federal, provincial, municipal), corporate bonds, and other debt instruments.  
 • **Objective**: Generate steady interest income, though fund value is sensitive to interest rate changes.  
@@ -60,7 +60,7 @@ Money market funds are popular with investors who have short investment horizons
 
 Bond fund prices typically decrease when interest rates rise, and they usually perform better in lower-rate environments. Institutions such as pension funds may invest in specialized bond funds focusing on secure government bonds to strengthen the fixed-income portion of portfolios.
 
-#### 2.3 Equity Funds
+#### Equity Funds
 
 • **Investment Focus**: Stocks (common shares) of companies, aiming for capital growth over time.  
 • **Risk-Return Profile**: Potential for higher returns over the long term, but with greater exposure to market volatility.  
@@ -72,7 +72,7 @@ Bond fund prices typically decrease when interest rates rise, and they usually p
 
 A well-known example in Canada is the RBC Canadian Equity Fund, which invests predominantly in large, established domestic firms. Another might be a TSX-focused fund that offers exposure to various sectors—financial services, energy, telecommunications—mirroring the Canadian economy.
 
-#### 2.4 Balanced Funds
+#### Balanced Funds
 
 • **Investment Focus**: A mix of equities, fixed-income securities, and sometimes cash equivalents.  
 • **Objective**: Provide growth and income while mitigating volatility through diversification.  
@@ -80,7 +80,7 @@ A well-known example in Canada is the RBC Canadian Equity Fund, which invests pr
 
 Many Canadian investors gravitate toward balanced funds as a one-stop solution for moderate risk and balanced growth. The fund manager can re-allocate assets to respond to market conditions, offering investors a built-in diversification mechanism.
 
-#### 2.5 Target-Date Funds (Lifecycle Funds)
+#### Target-Date Funds (Lifecycle Funds)
 
 • **Investment Focus**: A dynamic asset mix, designed around a specific target date—often a retirement year.  
 • **Objective**: More aggressive exposure in earlier years, gradually moving into conservative assets as the target date nears.  
@@ -88,7 +88,7 @@ Many Canadian investors gravitate toward balanced funds as a one-stop solution f
 
 Target-date funds automatically adjust their equity and bond allocations to reduce risk over time. This approach is useful for investors unsure of how to re-balance their investments or those who prefer automated asset allocation.
 
-#### 2.6 Index Funds
+#### Index Funds
 
 • **Investment Focus**: Replicate a specific market index (e.g., S&P/TSX Composite).  
 • **Management Style**: Passive management; typically lower management fees relative to actively managed funds.  
@@ -99,7 +99,7 @@ Target-date funds automatically adjust their equity and bond allocations to redu
 
 John C. Bogle, founder of The Vanguard Group, championed the virtues of index investing for its simplicity and cost-effectiveness. In Canada, index funds are regulated similarly to other mutual funds but often come with management expense ratios (MERs) that are significantly lower than actively managed counterparts.
 
-#### 2.7 Industry- or Sector-Specific Funds
+#### Industry- or Sector-Specific Funds
 
 • **Investment Focus**: Concentrated in a specific sector such as technology, healthcare, or energy.  
 • **Risk Profile**: Higher potential returns if the sector outperforms, but also greater risk because of limited diversification.  
@@ -107,7 +107,7 @@ John C. Bogle, founder of The Vanguard Group, championed the virtues of index in
 
 For instance, a Canadian technology sector fund might invest in companies such as Shopify, CGI, and other emerging tech start-ups to seek above-average growth. However, if the technology sector experiences a downturn, these funds can underperform broad-market funds.
 
-#### 2.8 Specialty Funds
+#### Specialty Funds
 
 • **Investment Focus**: Non-traditional asset classes or investment approaches (e.g., real estate, commodities, precious metals, ESG-focused).  
 • **Objective**: Offer an avenue for diversifying into assets beyond standard equity and bond markets.  

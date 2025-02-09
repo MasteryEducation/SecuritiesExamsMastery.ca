@@ -14,7 +14,7 @@ Estate planning is a critical component of wealth management, ensuring that an i
 
 ---
 
-### 1. Family Dynamics and Communication
+### Family Dynamics and Communication
 
 Open communication plays a profound role in mitigating conflicts and ensuring the smooth execution of a client’s estate plan:
 
@@ -26,7 +26,7 @@ The careful handling of family dynamics sets the tone for seamless administratio
 
 ---
 
-### 2. Choice of Executor(s) and Trustee(s)
+### Choice of Executor(s) and Trustee(s)
 
 Selecting an executor (or executors) and trustee(s) is among the most critical decisions in estate planning:
 
@@ -37,7 +37,7 @@ Selecting an executor (or executors) and trustee(s) is among the most critical d
 
 ---
 
-### 3. Protecting Vulnerable Beneficiaries
+### Protecting Vulnerable Beneficiaries
 
 Estate planning must accommodate the needs of dependants who may be vulnerable:
 
@@ -48,7 +48,7 @@ Estate planning must accommodate the needs of dependants who may be vulnerable:
 
 ---
 
-### 4. Updating Estate Plans Regularly
+### Updating Estate Plans Regularly
 
 Life events and legal changes can significantly impact estate plans:
 
@@ -58,7 +58,7 @@ Life events and legal changes can significantly impact estate plans:
 
 ---
 
-### 5. International Assets and Cross-Border Issues
+### International Assets and Cross-Border Issues
 
 For clients with global footprints, the complexity of estate planning increases:
 
@@ -68,7 +68,7 @@ For clients with global footprints, the complexity of estate planning increases:
 
 ---
 
-### 6. Philanthropic Objectives
+### Philanthropic Objectives
 
 Many Canadians wish to incorporate charitable giving into their estate strategy:
 
@@ -79,7 +79,7 @@ Many Canadians wish to incorporate charitable giving into their estate strategy:
 
 ---
 
-### 7. Privacy Concerns
+### Privacy Concerns
 
 Public disclosure during probate can be sensitive, particularly for high-net-worth individuals:
 
@@ -89,7 +89,7 @@ Public disclosure during probate can be sensitive, particularly for high-net-wor
 
 ---
 
-### 8. Digital Assets
+### Digital Assets
 
 The scope of digital assets continues to expand, presenting unique challenges in estate administration:
 
@@ -100,7 +100,7 @@ The scope of digital assets continues to expand, presenting unique challenges in
 
 ---
 
-### 9. Powers of Attorney and Advance Healthcare Directives
+### Powers of Attorney and Advance Healthcare Directives
 
 Thoughtful planning for incapacity is crucial:
 

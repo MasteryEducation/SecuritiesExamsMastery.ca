@@ -14,7 +14,7 @@ In Canada’s financial ecosystem, the Bank of Canada (BoC) serves as the centra
 
 ---
 
-### 5.2.1 Role and Mandate of the Bank of Canada
+### Role and Mandate of the Bank of Canada
 
 The Bank of Canada was established in 1935, gaining its independence from the federal government in subsequent years. Its core mandate encompasses several responsibilities:
 
@@ -27,7 +27,7 @@ By managing these responsibilities, the Bank of Canada aims to maintain confiden
 
 ---
 
-### 5.2.2 Monetary Policy and the Policy Interest Rate
+### Monetary Policy and the Policy Interest Rate
 
 A central element of the Bank of Canada’s toolkit is **monetary policy**, which heavily relies on the **policy interest rate**—often referred to simply as the BoC rate or the target for the overnight rate. This rate influences the interest rates that commercial financial institutions, such as RBC and TD Bank, charge on mortgages, personal loans, and business credit lines.
 
@@ -53,7 +53,7 @@ flowchart LR
 
 ---
 
-### 5.2.3 Currency Issuance
+### Currency Issuance
 
 The Bank of Canada is the sole authority for printing and distributing Canadian banknotes. In collaboration with specialized printing facilities, the BoC:
 
@@ -63,7 +63,7 @@ The Bank of Canada is the sole authority for printing and distributing Canadian 
 
 ---
 
-### 5.2.4 Promoting a Sound and Efficient Financial System
+### Promoting a Sound and Efficient Financial System
 
 The BoC plays a major role in ensuring Canada’s financial system is stable and efficient. In collaboration with OSFI, CIRO, the Canada Deposit Insurance Corporation (CDIC), and the Department of Finance, the Bank of Canada helps:
 
@@ -73,7 +73,7 @@ The BoC plays a major role in ensuring Canada’s financial system is stable and
 
 ---
 
-### 5.2.5 Inflation Targeting
+### Inflation Targeting
 
 A primary goal of the Bank of Canada is to keep inflation at around 2% annually, within a target range of 1% to 3%. Through monetary policy decisions and public communications, the BoC aligns expectations and fosters stable pricing. By maintaining a predictable inflation environment, investors and businesses can better plan long-term projects, and households can anticipate pricing trends more reliably.
 
@@ -91,7 +91,7 @@ By adopting a clear and transparent inflation-control target, the Bank of Canada
 
 ---
 
-### 5.2.6 Providing Liquidity in Times of Stress
+### Providing Liquidity in Times of Stress
 
 During periods of financial turbulence or crisis—such as the 2008 global financial crisis or the COVID-19 pandemic—the Bank of Canada can inject liquidity into the financial system to maintain stability and confidence. This may include:
 
@@ -103,7 +103,7 @@ These liquidity measures ensure that credit keeps flowing to businesses and hous
 
 ---
 
-### 5.2.7 Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 1. **Prime Rate Adjustments by Major Banks**: Suppose the BoC reduces its policy interest rate by 50 basis points. RBC and TD Bank typically respond within days by lowering their prime rates. Mortgage holders with variable-rate mortgages immediately see changes in their monthly payments, directly impacting household budgets.
 
@@ -113,7 +113,7 @@ These liquidity measures ensure that credit keeps flowing to businesses and hous
 
 ---
 
-### 5.2.8 Additional Resources
+### Additional Resources
 
 Below are some key resources for deeper exploration of the Bank of Canada’s role and responsibilities:
 
@@ -139,7 +139,7 @@ Below are some key resources for deeper exploration of the Bank of Canada’s ro
 
 ---
 
-### 5.2.9 Summary
+### Summary
 
 The Bank of Canada’s responsibilities span from setting and implementing monetary policy to ensuring a stable, resilient financial system. Its primary tools—such as the policy interest rate, open market operations, and liquidity provisions—contribute significantly to economic stability and the preservation of Canadians’ purchasing power. By staying transparent about its policy decisions and focusing on an inflation-control target, the BoC fosters confidence among investors, institutions, and citizens within the Canadian financial landscape.
 

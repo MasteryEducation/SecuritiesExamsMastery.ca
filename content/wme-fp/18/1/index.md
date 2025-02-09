@@ -35,7 +35,7 @@ This workflow ensures that advisors capture all relevant client information and 
 
 ---
 
-## 1. Setting Investment Objectives
+## Setting Investment Objectives
 
 The first step is to clarify the client’s investment goals, whether they be short-, medium-, or long-term. Common objectives in Canada might include:  
 • Saving for retirement through a Registered Retirement Savings Plan (RRSP).  
@@ -55,9 +55,9 @@ An advisor at RBC Wealth Management works with a 45-year-old client who intends 
 
 ---
 
-## 2. Defining Constraints and Risk Tolerance
+## Defining Constraints and Risk Tolerance
 
-### 2.1 Identifying Constraints
+### Identifying Constraints
 
 Constraints can include factors such as:  
 • Time Horizon: How long can the client remain invested? A 30-year horizon might allow a more aggressive equity allocation than a 5-year horizon.  
@@ -66,7 +66,7 @@ Constraints can include factors such as:
 • Legal and Regulatory Factors: Are there constraints related to spousal property, trust agreements, or regulated industries?  
 • Unique Preferences: Ethical or social responsibility mandates (e.g., excluding tobacco or firearms stocks).
 
-### 2.2 Measuring Risk Tolerance
+### Measuring Risk Tolerance
 
 In addition to discussing qualitative comfort with investment risks, advisors often use quantitative tools (e.g., risk questionnaires, Monte Carlo simulations) that help gauge the client’s willingness to accept volatility or drawdowns.  
 
@@ -75,7 +75,7 @@ A client approaching retirement may exhibit a low risk tolerance, prioritizing c
 
 ---
 
-## 3. Establishing an Investment Policy Statement (IPS)
+## Establishing an Investment Policy Statement (IPS)
 
 The Investment Policy Statement (IPS) is the central document encapsulating the client’s goals, constraints, and risk tolerance. It serves as an agreement between the client and advisor, detailing how the portfolio will be managed.  
 
@@ -93,11 +93,11 @@ Under CIRO (Canadian Investment Regulatory Organization) supervision, advisors i
 
 ---
 
-## 4. Asset Allocation and Security Selection
+## Asset Allocation and Security Selection
 
 Once the IPS is established, advisors choose the portfolio’s structure:
 
-### 4.1 Asset Allocation
+### Asset Allocation
 
 Asset allocation typically involves allocating funds among major asset classes such as equities, fixed income, and cash or equivalents. Some clients may incorporate alternative investments, like real estate investment trusts (REITs), private equity, or hedge funds, subject to their IPS guidelines.  
 
@@ -106,7 +106,7 @@ Factors considered in asset allocation include:
 • Correlations between classes to manage overall portfolio risk.  
 • Diversification across multiple sectors, regions, and industries.
 
-### 4.2 Security Selection
+### Security Selection
 
 After deciding on an asset allocation strategy, advisors select specific instruments like stocks, bonds, ETFs, mutual funds, or structured products. Using analysis models (fundamental analysis, technical analysis) or outsourcing via managed products (mutual funds, robo-advisors, or separately managed accounts) can guide final security selection.
 
@@ -120,15 +120,15 @@ A TD Wealth advisor might propose a 60/40 allocation of equities to bonds for a 
 
 ---
 
-## 5. Implementation
+## Implementation
 
-### 5.1 Executing Trades
+### Executing Trades
 
 Once the asset mix and specific securities are decided, the advisor arranges the purchase. Key considerations include:  
 • Transaction Costs: Commissions on stocks, management expense ratios (MERs) on mutual funds, or trading fees for ETFs.  
 • Execution Efficiency: Placing orders at opportune times to secure good pricing and limit slippage.  
 
-### 5.2 Minimizing Fees and Taxes
+### Minimizing Fees and Taxes
 
 Canadian-specific strategies include:  
 • Using TFSAs for tax-free growth.  
@@ -137,13 +137,13 @@ Canadian-specific strategies include:
 
 ---
 
-## 6. Monitoring and Rebalancing
+## Monitoring and Rebalancing
 
-### 6.1 Ongoing Review
+### Ongoing Review
 
 Portfolio monitoring is crucial to ensure alignment with the IPS. Advisors typically perform monthly or quarterly evaluations and thoroughly review allocations at least annually.  
 
-### 6.2 Rebalancing Strategies
+### Rebalancing Strategies
 
 Rebalancing is done when an asset class weighting drifts beyond defined tolerance bands (e.g., ±5%). For instance, if equities rally and exceed the target weight, the advisor may sell a portion of the equity holdings to maintain the desired risk profile.  
 
@@ -152,7 +152,7 @@ CIRO guidelines underscore the importance of ongoing monitoring to protect clien
 
 ---
 
-## 7. Performance Evaluation and Reporting
+## Performance Evaluation and Reporting
 
 Advisors compare the portfolio’s returns to benchmarks, peers, or the client’s stated goals. Performance reporting often includes:  
 • Absolute Return: The portfolio’s total gains or losses.  
@@ -165,7 +165,7 @@ If a client invests in a portfolio of Canadian dividend-paying stocks yielding 6
 
 ---
 
-## 8. Review and Revision
+## Review and Revision
 
 Finally, the advisor and client revisit the entire process periodically or when significant events occur:  
 • Major market swings.  

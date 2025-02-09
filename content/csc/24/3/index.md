@@ -24,7 +24,7 @@ Below, we outline the purpose, mechanics, benefits, and potential pitfalls of ea
 
 ---
 
-## 1. Overview of Tax-Deferred vs. Tax-Free Growth
+## Overview of Tax-Deferred vs. Tax-Free Growth
 
 Before diving into each plan, it is important to understand the two primary tax-advantaged structures:
 
@@ -50,9 +50,9 @@ flowchart LR
 
 ---
 
-## 2. Registered Retirement Savings Plan (RRSP)
+## Registered Retirement Savings Plan (RRSP)
 
-### 2.1 Purpose and Basic Mechanics
+### Purpose and Basic Mechanics
 An RRSP is a registered plan designed to encourage Canadians to save for retirement by offering immediate tax savings. Individuals can contribute up to a specific annual limit—calculated based on earned income, up to a maximum dollar amount set by the Canada Revenue Agency (CRA). Any unused RRSP contribution room carries forward indefinitely, allowing flexibility in contribution timing.
 
 • Contributions: Deductible from taxable income, lowering income tax for the year of contribution.  
@@ -61,10 +61,10 @@ An RRSP is a registered plan designed to encourage Canadians to save for retirem
 
 Because withdrawals from an RRSP are added to an individual’s taxable income, it is typically more advantageous to withdraw when in a lower tax bracket (often during retirement).
 
-### 2.2 Example
+### Example
 Suppose a 35-year-old professional named Audrey contributes C$10,000 to her RRSP annually. Her marginal tax rate is 40%. By contributing to her RRSP, she might reduce her income taxes by up to C$4,000 in the contribution year. Meanwhile, the C$10,000 has the potential to grow tax-deferred inside her RRSP. Over many years, this can significantly increase her retirement nest egg compared to saving in a non-registered account where yearly taxes on dividends, interest, and capital gains would reduce annual returns.
 
-### 2.3 Best Practices and Pitfalls
+### Best Practices and Pitfalls
 • Best Practices:
   - Maximize annual contributions if cash flow allows, particularly if in a high tax bracket.  
   - Coordinate spousal RRSP contributions to optimize family income-splitting in retirement.  
@@ -78,18 +78,18 @@ For precise annual contribution limits and other RRSP rules, refer to the [CRA�
 
 ---
 
-## 3. Registered Pension Plan (RPP)
+## Registered Pension Plan (RPP)
 
-### 3.1 Role of RPPs
+### Role of RPPs
 An RPP is an employer-sponsored retirement savings plan that aims to ensure employees have a stable income stream in retirement. RPPs can be either defined benefit (DB) plans—where the monthly pension is predetermined—or defined contribution (DC) plans—where the employer and employee contribute a set amount, but the retirement income depends on the investment performance of those contributions.
 
-### 3.2 Tax Deferral Advantages
+### Tax Deferral Advantages
 Like an RRSP, an RPP offers tax deductions on contributions. Employees often see RPP contributions deducted directly from their paycheques. Employer contributions may or may not show on pay stubs but form part of the overall employer compensation package. The growth in an RPP is tax-deferred until retirement. Upon retiring, RPP beneficiaries typically receive either a lump-sum payment or periodic pension payments, which are taxed as income.
 
-### 3.3 Example
+### Example
 TD or RBC employees who participate in a DB or DC pension plan automatically benefit from tax deferral on employer and personal contributions. Their pension grows without annual taxes on investment returns. When they retire, they will pay taxes on monthly pension payments, but likely at a lower rate due to reduced income in retirement.
 
-### 3.4 Best Practices and Pitfalls
+### Best Practices and Pitfalls
 • Best Practices:
   - Verify vesting periods and the type of plan offered (DB vs. DC).  
   - Understand the portability options if you change employers (e.g., transferring to a Locked-In Retirement Account, or LIRA).  
@@ -102,12 +102,12 @@ Further details can be found in corporate human resources documents and on the [
 
 ---
 
-## 4. Tax-Free Savings Account (TFSA)
+## Tax-Free Savings Account (TFSA)
 
-### 4.1 Why TFSAs?
+### Why TFSAs?
 Introduced in 2009, TFSAs were designed to help Canadians save and invest without incurring taxes on investment earnings or withdrawals. Unlike RRSPs, TFSA contributions are not deductible from income taxes. However, all capital gains, interest, dividends, or distributions earned inside a TFSA are tax-free, and withdrawals are also not taxed.
 
-### 4.2 Key Features
+### Key Features
 • Annual Contribution Limits: Set by the federal government every year; unused room accumulates indefinitely.  
 • Contributions: Not tax-deductible.  
 • Growth: Tax-free.  
@@ -115,10 +115,10 @@ Introduced in 2009, TFSAs were designed to help Canadians save and invest withou
 
 This flexibility makes TFSAs ideal not only for long-term savings (e.g., retirement or major purchases) but also for emergency funds or medium-term goals.
 
-### 4.3 Example
+### Example
 Mario, aged 25, wants to start saving for a future home purchase. He contributes C$6,500 to his TFSA every January (assuming that’s the annual limit for the year). Over time, dividends and capital gains earned within his TFSA compound tax-free. If he sells some stocks for a profit and withdraws the gains, he owes no tax. This approach can accelerate savings for a down payment while avoiding tax erosion of his investment returns.
 
-### 4.4 Best Practices and Pitfalls
+### Best Practices and Pitfalls
 • Best Practices:
   - Maintain a regular contribution schedule to maximize annual limits.  
   - Use TFSAs for emergency funds due to the ease and tax-efficiency of withdrawals.  
@@ -132,20 +132,20 @@ For the latest contribution limits and TFSA regulations, consult the [CRA’s TF
 
 ---
 
-## 5. Registered Education Savings Plan (RESP)
+## Registered Education Savings Plan (RESP)
 
-### 5.1 Purpose
+### Purpose
 RESPs encourage families to save for a child’s post-secondary education. While contributions are not tax-deductible, the plan’s growth is tax-deferred. As an added bonus, the government supports education savings through matching grants, such as the Canada Education Savings Grant (CESG), which can significantly boost contributions.
 
-### 5.2 How It Works
+### How It Works
 • Subscriber Contributions: Not tax-deductible, but grow tax-deferred.  
 • Government Grants: CESG matches 20% of contributions up to a specific limit each year, subject to lifetime limits. Low-income families may also be eligible for additional grants.  
 • Withdrawals: The original contributions can be withdrawn tax-free by the subscriber. The growth and government grants are taxed in the hands of the student beneficiary. Because most students have low or no income during their studies, their tax liability is often minimal.
 
-### 5.3 Example
+### Example
 Samantha sets up an RESP for her newborn daughter at RBC. Each year, Samantha contributes C$2,500, which qualifies for the maximum CESG of C$500 (20%). Over 18 years, the combined effect of investments compounding tax-deferred and additional government grants can significantly reduce the burden of post-secondary expenses.
 
-### 5.4 Best Practices and Pitfalls
+### Best Practices and Pitfalls
 • Best Practices:
   - Start early to maximize compounding and annual government grant eligibility.  
   - For multiple children, consider a Family RESP account so any unused grants or growth can be allocated to siblings.  
@@ -158,20 +158,20 @@ Details on contribution limits and grant rules are available on the [CRA’s RES
 
 ---
 
-## 6. Registered Disability Savings Plan (RDSP)
+## Registered Disability Savings Plan (RDSP)
 
-### 6.1 Supporting Canadians with Disabilities
+### Supporting Canadians with Disabilities
 An RDSP is designed specifically for individuals with disabilities, offering them and their families a tax-deferred savings vehicle. Qualifying Canadians with disabilities can benefit from government matching grants and bonds, greatly enhancing their ability to save for long-term needs.
 
-### 6.2 Core Features
+### Core Features
 • Contributions: Not tax-deductible, but grow on a tax-deferred basis.  
 • Grants and Bonds: The federal government may match contributions through Canada Disability Savings Grants. Low-income individuals might also receive Canada Disability Savings Bonds without needing to contribute.  
 • Withdrawals: At withdrawal, only the growth portion and grants/bonds are taxable in the beneficiary’s hands. The original contributions can be withdrawn tax-free.  
 
-### 6.3 Example
+### Example
 Ryan, who has a disability and meets the eligibility criteria, opens an RDSP. His parents contribute C$1,500 annually. In many cases, the federal government will match a portion of this contribution through grants (depending on family income). These grants plus any portfolio gains remain deferred until Ryan withdraws the funds in the future, potentially during retirement.
 
-### 6.4 Best Practices and Pitfalls
+### Best Practices and Pitfalls
 • Best Practices:
   - Maximize contributions early to attract the highest government grant matching.  
   - Maintain updated Disability Tax Credit (DTC) status to ensure RDSP eligibility.  
@@ -184,7 +184,7 @@ Full details can be found at the [CRA’s RDSP section](https://www.canada.ca/en
 
 ---
 
-## 7. Practical Considerations When Choosing a Plan
+## Practical Considerations When Choosing a Plan
 
 Choosing between a tax-deferred or tax-free plan (or combination of both) involves assessing personal financial goals, risk tolerance, and current vs. future income levels. Below are several considerations:
 
@@ -208,7 +208,7 @@ Choosing between a tax-deferred or tax-free plan (or combination of both) involv
 
 ---
 
-## 8. Actionable Insights
+## Actionable Insights
 
 Below are some practical steps and checks that Canadian investors can use to optimize their registered plans:
 
@@ -229,7 +229,7 @@ Below are some practical steps and checks that Canadian investors can use to opt
 
 ---
 
-## 9. Summary
+## Summary
 
 Tax deferral and tax-free plans represent critical opportunities for Canadians to elevate their financial well-being. By allowing contributions, investments, and withdrawals under preferential tax treatment, these registered plans foster robust saving habits and long-term growth. RRSPs and RPPs reduce taxable income up-front, with withdrawals taxed later; TFSAs feature fully tax-free growth and withdrawals; RESPs help parents fund their children’s education with government grants; and RDSPs empower individuals with disabilities to accumulate wealth more effectively and with substantial government support.
 

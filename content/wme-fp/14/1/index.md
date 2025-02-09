@@ -14,7 +14,7 @@ Annuities are powerful investments that can play a vital role in retirement inco
 
 ---
 
-### 1. Overview of Annuities
+### Overview of Annuities
 
 An annuity is a contract between an annuitant (the purchaser) and a life insurance company. In Canada, life insurance companies such as RBC Insurance, TD Insurance, and other insurers offer annuity products designed to provide steady income streams during retirement. Examples of how annuities might be used include:
 
@@ -26,7 +26,7 @@ Under typical arrangements, the annuitant either makes a lump-sum payment (singl
 
 ---
 
-### 2. Key Features and Structure
+### Key Features and Structure
 
 The core value of annuities rests on income guarantees. Some key features include:
 
@@ -53,7 +53,7 @@ This diagram highlights the straightforward flow between the annuitant and the l
 
 ---
 
-### 3. Types of Annuities
+### Types of Annuities
 
 Annuities vary widely, and financial planners should be familiar with the most common types available in Canada:
 
@@ -80,7 +80,7 @@ Annuities vary widely, and financial planners should be familiar with the most c
 
 ---
 
-### 4. Taxation Implications
+### Taxation Implications
 
 Taxation differs depending on whether the annuity is purchased through a registered account (e.g., RRSP, RRIF) or with non-registered funds.
 
@@ -98,7 +98,7 @@ Detailed examples of these calculations can be found through CRA resources or ad
 
 ---
 
-### 5. Regulatory Protections and Claims-Paying Ability
+### Regulatory Protections and Claims-Paying Ability
 
 An annuity’s security ultimately depends on the financial strength and claims-paying ability of the issuing life insurance company. Canadian insurance companies are regulated by federal and provincial authorities, with the Office of the Superintendent of Financial Institutions (OSFI) ( [https://www.osfi-bsif.gc.ca](https://www.osfi-bsif.gc.ca) ) playing a pivotal role in supervising federally regulated insurers.
 
@@ -106,15 +106,15 @@ An annuity’s security ultimately depends on the financial strength and claims-
 
 ---
 
-### 6. Advantages and Disadvantages
+### Advantages and Disadvantages
 
-#### 6.1 Advantages
+#### Advantages
 1. **Steady Income Stream**: Annuities provide peace of mind through predictable and guaranteed payments.  
 2. **Longevity Risk Mitigation**: Life annuities ensure that payments continue for as long as the annuitant is alive.  
 3. **Protection from Market Volatility**: The insurer shoulders investment and longevity risks; payments are not tied to stock market fluctuations.  
 4. **Tax Efficiency (Non-Registered Annuities)**: Only the interest portion is taxed, with the return of capital portion being tax-free.
 
-#### 6.2 Disadvantages
+#### Disadvantages
 1. **Lack of Liquidity**: Once the annuity is purchased, capital is locked in, reducing flexibility for other opportunities or emergencies.  
 2. **Loss of Control**: The lump sum belongs to the insurer, not the annuitant, making modifications or early withdrawals challenging.  
 3. **Inflation Risk (If Not Indexed)**: Without indexing, the purchasing power of payments may erode over time.  
@@ -122,7 +122,7 @@ An annuity’s security ultimately depends on the financial strength and claims-
 
 ---
 
-### 7. Practical Example: Using an Annuity in a Retirement Strategy
+### Practical Example: Using an Annuity in a Retirement Strategy
 
 Consider a 65-year-old client, Lisa, who retires with $600,000 in her RRSP. She decides to invest $200,000 of these funds into a life annuity from a major Canadian insurer like RBC Insurance. She selects:
 
@@ -136,7 +136,7 @@ By supplementing her Canada Pension Plan and Old Age Security benefits with $1,1
 
 ---
 
-### 8. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 1. **Thorough Needs Analysis**: Assess the client’s goals for income, liquidity, and legacy before committing large sums to an annuity.  
 2. **Compare Product Features**: Different insurance companies offer unique riders, insurance components, and indexing options. Shop around and use open-source comparison tools or consult rating agencies.  
@@ -147,7 +147,7 @@ By supplementing her Canada Pension Plan and Old Age Security benefits with $1,1
 
 ---
 
-### 9. Step-by-Step Guidance for Selecting an Annuity
+### Step-by-Step Guidance for Selecting an Annuity
 
 1. **Determine Retirement Income Requirements**  
    - Estimate essential expenses in retirement, desired lifestyle, and any margin of safety.  
@@ -166,7 +166,7 @@ By supplementing her Canada Pension Plan and Old Age Security benefits with $1,1
 
 ---
 
-### 10. Glossary of Key Terms
+### Glossary of Key Terms
 
 - **Annuitant**: The person on whose life the annuity is based and who will receive the annuity payments.  
 - **Longevity Risk**: The possibility that an individual will outlive their retirement savings.  

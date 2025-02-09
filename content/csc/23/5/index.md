@@ -16,7 +16,7 @@ This section provides a comprehensive overview of ABS, the mechanics of how they
 
 ---
 
-## 1. What Are Asset-Backed Securities?
+## What Are Asset-Backed Securities?
 
 An Asset-Backed Security (ABS) is a financial instrument that represents an ownership interest in—or claim on—a pool of underlying assets. Rather than investing directly in thousands of individual loans, investors gain exposure to a diversified pool via a single security. Hence:
 
@@ -28,7 +28,7 @@ ABS can range from simple structures, such as a single class of mortgage pass-th
 
 ---
 
-## 2. Common Types of Asset-Backed Securities
+## Common Types of Asset-Backed Securities
 
 There are numerous types of ABS in the market. Each category has its unique set of characteristics, risk factors, and investor considerations:
 
@@ -54,9 +54,9 @@ There are numerous types of ABS in the market. Each category has its unique set 
 
 ---
 
-## 3. The Securitization Process
+## The Securitization Process
 
-### 3.1 Overview of Securitization
+### Overview of Securitization
 
 Securitization is the process by which illiquid assets are pooled, packaged, and sold as tradable securities. The process typically involves:
 
@@ -65,7 +65,7 @@ Securitization is the process by which illiquid assets are pooled, packaged, and
 3. Underwriters and Credit Rating Agencies: Assess and rate the structure, helping determine yields and tranche designs.  
 4. Investors: Purchase the ABS, earning returns based on the performance of the underlying assets.
 
-### 3.2 Students’ Visualization of Securitization
+### Students’ Visualization of Securitization
 
 Below is a simple Mermaid diagram illustrating the flow of funds and structure in a typical ABS:
 
@@ -85,9 +85,9 @@ Explanation:
 
 ---
 
-## 4. Tranching and Payment Priority
+## Tranching and Payment Priority
 
-### 4.1 Tranches
+### Tranches
 
 One of the primary differentiators of ABS is the concept of tranching. Each tranche is designed with a different risk and return profile:
 
@@ -95,7 +95,7 @@ One of the primary differentiators of ABS is the concept of tranching. Each tran
 • Mezzanine or Subordinated Tranches: Positioned below senior tranches in payment priority but above equity or residual tranches. Offers a higher yield in exchange for greater risk.  
 • Equity or Junior Tranche: Stands last in seniority, absorbing losses if defaults occur in the underlying pool. These tranches have the highest yield potential but face the greatest downside risk.
 
-### 4.2 Credit Enhancements
+### Credit Enhancements
 
 Since default risk is a critical factor in ABS, credit enhancements are typically built into the structure to protect senior tranches:
 
@@ -105,43 +105,43 @@ Since default risk is a critical factor in ABS, credit enhancements are typicall
 
 ---
 
-## 5. Key Risks and Considerations
+## Key Risks and Considerations
 
-### 5.1 Default Risk
+### Default Risk
 
 Borrowers may default on their loans, reducing or interrupting the interest and principal repayments. ABS rely on the aggregate creditworthiness of the underlying pool and any associated credit enhancements.
 
-### 5.2 Prepayment Risk
+### Prepayment Risk
 
 ABS backed by mortgages and other loans often face the risk that borrowers might partially or fully repay their loans ahead of schedule. If interest rates decrease, homeowners may refinance their mortgages, returning principal to investors sooner than expected. This disrupts the anticipated payment schedule and can reduce total returns, especially if reinvestment options are at lower interest rates.
 
-### 5.3 Interest Rate Sensitivity
+### Interest Rate Sensitivity
 
 ABS valuations depend on the interest rate environment. In the case of MBS or other long-term loan pools, rising interest rates can reduce the price of existing securities, as newer issuances may offer higher yields.
 
-### 5.4 Complexity
+### Complexity
 
 Structured products can be highly complex, involving multiple tranches, varying payment schedules, and sophisticated forms of credit enhancement. Junior tranches may be more volatile or have a higher chance of loss if defaults exceed expectations. Consequently, thorough analysis and regulatory disclosures are essential, and the product’s complexity often necessitates additional scrutiny from both issuers and investors.
 
 ---
 
-## 6. Real-World Canadian Examples and Case Studies
+## Real-World Canadian Examples and Case Studies
 
-### 6.1 Mortgage-Backed Securities by CMHC
+### Mortgage-Backed Securities by CMHC
 
 Canada Mortgage and Housing Corporation (CMHC) issues National Housing Act Mortgage-Backed Securities (NHA MBS). The underlying mortgages are guaranteed by CMHC, making them attractive to risk-averse investors. These securities typically carry a lower yield due to the added protection from the Government of Canada.
 
-### 6.2 Large Bank Issuance
+### Large Bank Issuance
 
 Major Canadian banks—such as RBC or TD—regularly package and securitize consumer auto loans, lines of credit, or credit card receivables. Investors, including pension funds and insurance companies, purchase these ABS tranches for stable and diversified income streams.
 
-### 6.3 Pension Fund Strategy
+### Pension Fund Strategy
 
 For yield enhancement, a Canadian pension fund might include a portion of mortgage-backed securities in its fixed-income portfolio. By selecting tranches with high credit ratings and stable cash flows, the fund locks in an attractive yield that can be more compelling than government bonds—in exchange for higher complexity and potential prepayment risk.
 
 ---
 
-## 7. Best Practices for Investing in ABS
+## Best Practices for Investing in ABS
 
 1. Comprehensive Due Diligence  
    • Study the quality and diversification of the asset pool.  
@@ -166,41 +166,41 @@ For yield enhancement, a Canadian pension fund might include a portion of mortga
 
 ---
 
-## 8. Regulatory Environment in Canada
+## Regulatory Environment in Canada
 
-### 8.1 Domestic Oversight
+### Domestic Oversight
 
 In Canada, the Canadian Securities Administrators (CSA), along with the Canadian Investment Regulatory Organization (CIRO), oversee the issuance and distribution of ABS. Key regulations include:
 
 • National Instrument 51-102 Continuous Disclosure Obligations: Imposes disclosure requirements for public companies issuing ABS.  
 • Guidelines from the Office of the Superintendent of Financial Institutions (OSFI): OSFI provides additional oversight for federally regulated financial institutions engaged in securitization.
 
-### 8.2 Suitability and Disclosure
+### Suitability and Disclosure
 
 Banks and other originators must adhere to disclosure requirements, ensuring investors understand the nature of the underlying assets, the payment structure, and the associated risks. For investment advisors, CIRO mandates a thorough “Know Your Client” (KYC) process and a suitability assessment before recommending ABS to clients.
 
-### 8.3 Example: CMHC Guaranteed MBS
+### Example: CMHC Guaranteed MBS
 
 CMHC oversight is critical for government-guaranteed mortgage-backed securities under the National Housing Act. These securities benefit from CMHC’s full guarantee of timely payment of interest and principal, akin to federal government obligations.
 
 ---
 
-## 9. Modeling and Analysis Tools
+## Modeling and Analysis Tools
 
-### 9.1 Open-Source Software and Libraries
+### Open-Source Software and Libraries
 
 Investors and analysts often use open-source financial modeling tools to simulate cash flows, measure prepayment risk, and stress-test different interest rate scenarios:
 
 • Python libraries (e.g., “QuantLib-Python”) specialized in structured finance cash-flow modeling.  
 • R packages for time-series analysis and loan-level modeling.  
 
-### 9.2 Practical Application
+### Practical Application
 
 By leveraging these tools, analysts can forecast how changes in interest rates or default levels would affect each tranche’s yield and principal repayment schedule. This is especially relevant for large institutional investors managing multiple securitized positions.
 
 ---
 
-## 10. Common Challenges and Pitfalls
+## Common Challenges and Pitfalls
 
 1. Overly Complex Structures: Some ABS are so intricate that even sophisticated investors may struggle to fully grasp their risk exposures.  
 2. Insufficient Credit Enhancement: If defaults exceed certain thresholds, subordinate tranches suffer losses, and in extreme cases, even senior tranches can be impaired.  
@@ -209,7 +209,7 @@ By leveraging these tools, analysts can forecast how changes in interest rates o
 
 ---
 
-## 11. Summing It Up
+## Summing It Up
 
 Asset-Backed Securities offer a dynamic way to invest in a diversified pool of debts, ranging from residential mortgages to corporate loans. By segmenting cash flows and layering risk, ABS structures cater to investors with varying risk appetites and yield requirements. However, the complexity, prepayment features, and credit risks make due diligence and continuous monitoring paramount.
 

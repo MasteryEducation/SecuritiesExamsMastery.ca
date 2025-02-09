@@ -14,7 +14,7 @@ Bond market pricing is pivotal to wealth management strategies, particularly for
 
 ---
 
-### 1. Bonds as Debt Instruments
+### Bonds as Debt Instruments
 
 At its simplest, a bond is an IOU. An investor (the bondholder) effectively loans money to an issuer—such as a government, corporation, or other entity—for a set time (the bond’s term). In return, the issuer promises to:
 
@@ -28,7 +28,7 @@ Canadian government bonds often come in nominal increments of $1,000 or $5,000, 
 
 ---
 
-### 2. Price Quotations
+### Price Quotations
 
 Bond prices are conventionally quoted as a percentage of their face (par) value:
 
@@ -39,7 +39,7 @@ Knowing how to interpret these price quotations is critical for precisely valuin
 
 ---
 
-### 3. Clean Price vs. Dirty Price
+### Clean Price vs. Dirty Price
 
 Two pricing conventions are widely used in bond markets:
 
@@ -55,7 +55,7 @@ When evaluating potential purchases or sales on behalf of a client, advisors sho
 
 ---
 
-### 4. Accrued Interest
+### Accrued Interest
 
 Accrued interest represents the portion of interest the bond has earned since its most recent coupon payment. The buyer compensates the seller for this fraction of the upcoming coupon. The standard formula in Canada for accrued interest on a semi-annual coupon is:
 
@@ -75,7 +75,7 @@ Whichever party is buying the bond needs to pay the seller $10 in accrued intere
 
 ---
 
-### 5. Yield Measures
+### Yield Measures
 
 Bond yield can be expressed through several measurements. Each measure provides a slightly different perspective on the return:
 
@@ -99,7 +99,7 @@ Bond yield can be expressed through several measurements. Each measure provides 
 
 ---
 
-### 6. Bond Pricing Formula (Present Value of Future Cash Flows)
+### Bond Pricing Formula (Present Value of Future Cash Flows)
 
 The fundamental principle of bond pricing is **discounting future cash flows** (coupon payments and the redemption value) back to the present at an appropriate **discount rate**—often the prevailing yield or required rate of return for similar bonds.
 
@@ -150,7 +150,7 @@ flowchart LR
 
 ---
 
-### 7. Influencing Factors on Bond Pricing
+### Influencing Factors on Bond Pricing
 
 Bond prices can fluctuate based on several variables:
 
@@ -175,7 +175,7 @@ Each of these features can significantly alter the bond’s risk-return profile,
 
 ---
 
-### 8. Practical Considerations for Advisors
+### Practical Considerations for Advisors
 
 Financial planners evaluating bonds for client portfolios should weigh multiple aspects:
 
@@ -198,7 +198,7 @@ Financial planners evaluating bonds for client portfolios should weigh multiple 
 
 ---
 
-### 9. Glossary
+### Glossary
 
 • **Face Value (Par Value):** The amount repaid at maturity (commonly \$1,000 in Canada).  
 • **Accrued Interest:** Interest earned since the last coupon that is owed to the holder if a bond is sold before the next coupon date.  
@@ -208,7 +208,7 @@ Financial planners evaluating bonds for client portfolios should weigh multiple 
 
 ---
 
-### 10. Useful References and Additional Resources
+### Useful References and Additional Resources
 
 • **Canadian Investment Regulatory Organization (CIRO):**  
   Ensures compliance with know-your-client (KYC) rules and suitability requirements when recommending fixed-income products.  
@@ -232,7 +232,7 @@ Financial planners evaluating bonds for client portfolios should weigh multiple 
 
 ---
 
-### 11. Summary
+### Summary
 
 Bond market pricing is a cornerstone of fixed-income investing—a vital component of many wealth management strategies. By understanding how bond prices, yields, and accrued interest work, financial professionals can help investors balance risk and return, diversify portfolios, and pursue stable income. Market shifts, issuer credit performance, and special bond provisions all play crucial roles in determining prices.
 
@@ -244,7 +244,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 {{< quizdown >}}
 
-### 1. Which statement best describes a bond?  
+### Which statement best describes a bond?  
 - [x] It is a loan from the investor to the issuer.  
 - [ ] It is a trading platform used by financial advisors.  
 - [ ] It represents an ownership stake in a corporation.  
@@ -252,7 +252,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** A bond is essentially a debt instrument in which the investor lends money to the issuer and in return receives coupon payments plus the principal redemption at maturity.
 
-### 2. Why is the “dirty price” usually higher than the “clean price” of a bond?  
+### Why is the “dirty price” usually higher than the “clean price” of a bond?  
 - [x] It includes accrued interest.  
 - [ ] It resets the coupon rate.  
 - [ ] It factors in market speculation.  
@@ -260,7 +260,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** The dirty price includes both the clean price and the accrued interest owed, making it the total price the buyer pays at settlement.
 
-### 3. A Government of Canada bond is quoted at 98.25 with a face value of $1,000. What is its quoted price in dollars?  
+### A Government of Canada bond is quoted at 98.25 with a face value of $1,000. What is its quoted price in dollars?  
 - [x] $982.50  
 - [ ] $98.25  
 - [ ] $825.00  
@@ -268,7 +268,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** A quote of 98.25 means 98.25% of par value, which equals $982.50 per $1,000 face amount.
 
-### 4. Which of the following yield measures provides the most comprehensive view of a bond’s potential return if held to maturity?  
+### Which of the following yield measures provides the most comprehensive view of a bond’s potential return if held to maturity?  
 - [x] Yield to Maturity (YTM)  
 - [ ] Current Yield  
 - [ ] Coupon Rate  
@@ -276,7 +276,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** YTM accounts for coupon payments, reinvestment, and capital gains (or losses) over the life of the bond until maturity.
 
-### 5. What does accrued interest represent with respect to a bond?  
+### What does accrued interest represent with respect to a bond?  
 - [x] The interest accumulated since the last coupon payment date.  
 - [ ] The borrower's penalty for early redemption.  
 - [ ] The difference between yield to call and yield to maturity.  
@@ -284,7 +284,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** Accrued interest is the coupon interest earned by the current bondholder from the last coupon date until the time of sale.
 
-### 6. If interest rates suddenly rise, what is likely to happen to the prices of existing bonds?  
+### If interest rates suddenly rise, what is likely to happen to the prices of existing bonds?  
 - [x] They decrease.  
 - [ ] They increase.  
 - [ ] They remain unchanged.  
@@ -292,7 +292,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** When market interest rates rise, new bonds offer higher coupons, making existing bonds less attractive unless their prices decline.
 
-### 7. A bond with additional features allowing the issuer to redeem it before maturity is known as:  
+### A bond with additional features allowing the issuer to redeem it before maturity is known as:  
 - [x] Callable.  
 - [ ] Putable.  
 - [ ] Convertible.  
@@ -300,7 +300,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** A callable bond includes a provision that permits the issuer to retire the bond before its stated maturity date.
 
-### 8. Which factor generally makes a bond more sensitive to changes in interest rates?  
+### Which factor generally makes a bond more sensitive to changes in interest rates?  
 - [x] Longer term to maturity.  
 - [ ] Higher credit rating.  
 - [ ] Illiquid market conditions.  
@@ -308,7 +308,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** The longer the term to maturity, the greater the bond’s exposure to interest rate risk.
 
-### 9. For a 6% annual coupon bond (paid semi-annually) priced at $950, which yield measure below would be larger than the coupon rate?  
+### For a 6% annual coupon bond (paid semi-annually) priced at $950, which yield measure below would be larger than the coupon rate?  
 - [x] Current Yield  
 - [ ] Yield to Maturity (YTM)  
 - [ ] Yield to Call (YTC)  
@@ -316,7 +316,7 @@ Advisors should consistently monitor market rates and stay informed about regula
 
 > **Explanation:** Current yield (Annual Coupon / Market Price) is $60 / $950 ≈ 6.32%, which is already higher than the 6% coupon rate.
 
-### 10. The sum of a bond’s clean price and accrued interest equals its:  
+### The sum of a bond’s clean price and accrued interest equals its:  
 - [x] Dirty Price  
 - [ ] Face Value  
 - [ ] Current Yield  

@@ -18,59 +18,59 @@ In this section, we will explore the foundations of technical analysis, focusing
 
 ---
 
-### 1. Foundations of Technical Analysis
+### Foundations of Technical Analysis
 
-#### 1.1 Key Principles and Assumptions
+#### Key Principles and Assumptions
 1. Markets Reflect All Available Information: According to the efficient market hypothesis (in its weaker form), price movements are informed by all publicly known data. Technical analysts interpret these movements as reflections of shifting supply-and-demand dynamics.  
 2. Prices Follow Trends: Technical analysis posits that prices commonly move in definable trends (upward, downward, or sideways). Once a trend is established, it usually persists until market forces prompt a clear reversal.  
 3. Market History Tends to Repeat Itself: Historical patterns in price movement often appear repeatedly, suggesting that market participants—shaped by human psychology—react to signals in predictable ways.
 
-#### 1.2 Price, Volume, and Market Psychology
+#### Price, Volume, and Market Psychology
 • Price Action: The most basic element of technical analysis is the price itself, which represents a real-time consensus on a security’s value.  
 • Volume: Volume indicates intensity or conviction behind a price move. If a price change is accompanied by high volume, technical analysts consider it more significant.  
 • Market Sentiment: Indicators such as the VIX (Volatility Index) or put-call ratios gauge how investors feel about future market volatility.
 
 ---
 
-### 2. Common Tools and Indicators
+### Common Tools and Indicators
 
 There is a broad array of technical tools and indicators. Although much of the underlying data is the same (price and volume), each indicator addresses different facets, such as trend direction, momentum, and market psychology.
 
-#### 2.1 Trendlines
+#### Trendlines
 A trendline is a line that connects at least two points on a chart:
 • Uptrend Line: Drawn by connecting successive higher lows, indicating an ascending trend.  
 • Downtrend Line: Drawn by connecting successive lower highs, indicating a descending trend.  
 
 Trendlines help identify whether an equity is primarily moving upward, downward, or sideways. Violations of trendlines (i.e., a significant price break above a downtrend or below an uptrend) are typically interpreted as potential shifts in market direction.
 
-#### 2.2 Support and Resistance
+#### Support and Resistance
 • Support Level: A price floor where buying pressure tends to emerge, preventing further price declines. If price approaches support, some traders anticipate a price rebound.  
 • Resistance Level: A price ceiling where selling pressure intensifies, halting upward momentum. When price approaches resistance, it often stalls or reverses.  
 
 Once a resistance level is broken, it can become a new support level, and vice versa. These support and resistance lines help traders plan their stop-loss levels and profit targets.
 
-#### 2.3 Moving Averages
+#### Moving Averages
 Moving averages smooth out price fluctuations:
 • Simple Moving Average (SMA): Calculated by summing a series of closing prices and dividing by the number of periods.  
 • Exponential Moving Average (EMA): Assigns more weight to recent price data, making it more responsive to current market conditions.  
 
 Moving averages help identify trend direction and turning points. For example, a shorter-term EMA crossing above a longer-term EMA can be interpreted as a bullish (positive) signal, while the opposite crossing is often seen as bearish (negative).
 
-#### 2.4 MACD (Moving Average Convergence Divergence)
+#### MACD (Moving Average Convergence Divergence)
 MACD is a popular momentum indicator showing the difference between two moving averages:
 • MACD Line: The difference between two EMAs (commonly the 12-day and 26-day EMAs).  
 • Signal Line: An EMA (commonly a 9-day) of the MACD Line.
 
 When the MACD Line crosses above the Signal Line, it could suggest upward momentum; a cross below may suggest downward momentum. Divergences between MACD and price can also flag potential reversals.
 
-#### 2.5 RSI (Relative Strength Index)
+#### RSI (Relative Strength Index)
 RSI is a momentum oscillator measuring the speed of price changes on a scale from 0 to 100:
 • Overbought Condition: RSI above 70 may indicate an overextended price, possibly due for a pullback.  
 • Oversold Condition: RSI below 30 suggests prices may have fallen too far, too fast, and could be due for a rebound.
 
 ---
 
-### 3. Chart Patterns and Market Psychology
+### Chart Patterns and Market Psychology
 
 Chart patterns offer insights into potential future price movements. They are visually identifiable shapes that emerge on price charts:
 
@@ -82,7 +82,7 @@ Market psychology plays a central role in forming these patterns. Human emotions
 
 ---
 
-### 4. Chart Example (Using Mermaid Diagram)
+### Chart Example (Using Mermaid Diagram)
 
 Below is a simplified depiction of how a price chart might manifest a breakout above a resistance line after a period of consolidation. The breakout often indicates heightened momentum and can trigger buying entries for technical traders.
 
@@ -97,7 +97,7 @@ In this diagram, “Price Consolidation” signifies a sideways movement. Once t
 
 ---
 
-### 5. Market Sentiment Indicators
+### Market Sentiment Indicators
 
 Beyond price patterns, technical analysts often consider market psychology through sentiment indicators:
 
@@ -106,7 +106,7 @@ Beyond price patterns, technical analysts often consider market psychology throu
 
 ---
 
-### 6. Price Gaps
+### Price Gaps
 
 A price gap occurs when a security opens at a different price than its previous close, leaving a visible space on the chart:
 
@@ -119,7 +119,7 @@ Technical traders monitor these gaps closely to gauge momentum shifts and to pla
 
 ---
 
-### 7. Risk Management in Technical Trading
+### Risk Management in Technical Trading
 
 Because technical trading can be fast-paced and prone to sudden trend shifts, risk management is crucial:
 
@@ -129,7 +129,7 @@ Because technical trading can be fast-paced and prone to sudden trend shifts, ri
 
 ---
 
-### 8. Combining Technical and Fundamental Analysis
+### Combining Technical and Fundamental Analysis
 
 Some investors dismiss technical analysis for not incorporating fundamentals such as revenue growth, earnings, or macroeconomic conditions. However, many portfolio managers in Canadian institutions—like RBC or TD Asset Management—blend both strategies to gain a comprehensive viewpoint:
 • **Fundaments as Screening, Technicals for Timing**: An investor might pick a fundamentally strong stock based on earnings and business outlook, then use technical analysis to determine an ideal entry price or set a protective stop.  
@@ -137,13 +137,13 @@ Some investors dismiss technical analysis for not incorporating fundamentals suc
 
 ---
 
-### 9. Regulatory Considerations in Canada
+### Regulatory Considerations in Canada
 
 Technical analysts operating within Canada must abide by regulations and guidelines set forth by CIRO (Canadian Investment Regulatory Organization), which cover best execution, fair dealing, and the use of client assets. Professionals may also need to follow provincial securities commissions, such as the Ontario Securities Commission (OSC), Autorité des marchés financiers (AMF) in Quebec, or the British Columbia Securities Commission (BCSC). In all instances, ethical guidelines and fair market practices must be adhered to when placing trades informed by technical signals.
 
 ---
 
-### 10. Practical Example and Case Study
+### Practical Example and Case Study
 
 Consider a scenario where a Canadian pension fund has identified a Toronto Stock Exchange (TSX)-listed energy company with fundamentally sound balance sheets. The pension fund’s equity traders notice a symmetrical triangle pattern forming on the company’s daily chart. The price consistently bounces between two converging trendlines. As soon as the price breaks above the upper trendline with strong volume, the fund’s technical trading desk interprets it as a bullish continuation signal.
 
@@ -154,7 +154,7 @@ This case underscores the importance of combining chart pattern recognition with
 
 ---
 
-### 11. Implementing Technical Analysis: A Step-by-Step Guide
+### Implementing Technical Analysis: A Step-by-Step Guide
 
 Below is a visual workflow to illustrate how technical traders often proceed:
 
@@ -178,7 +178,7 @@ flowchart TB
 
 ---
 
-### 12. Additional Resources
+### Additional Resources
 
 • **Canadian Investment Regulatory Organization (CIRO):** [https://www.ciro.ca/](https://www.ciro.ca/) – Guidelines on best execution and fair dealing.  
 • **Free Charting Platforms:**  

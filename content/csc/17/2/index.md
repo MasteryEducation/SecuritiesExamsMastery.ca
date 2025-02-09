@@ -16,7 +16,7 @@ This section explores the core principles behind mutual funds, their structural 
 
 ---
 
-## 1. Defining Mutual Funds
+## Defining Mutual Funds
 
 A mutual fund is typically an open-ended fund, meaning that it continually issues new units (or shares) to incoming investors and redeems existing units at the current net asset value per share (NAVPS). The NAVPS is calculated daily by dividing the market value of all fund assets (minus liabilities) by the total number of units outstanding.
 
@@ -28,7 +28,7 @@ $$
 
 When you invest in a mutual fund, you become a unitholder (or shareholder), generally acquiring proportional ownership of the fund’s total assets.
 
-### 1.1 Trust vs. Corporate Structure
+### Trust vs. Corporate Structure
 
 Most Canadian mutual funds use a trust structure, meaning:
 
@@ -40,7 +40,7 @@ Though less common, there are also corporate-class mutual funds. These are struc
 
 ---
 
-## 2. Key Features of Mutual Funds
+## Key Features of Mutual Funds
 
 Mutual funds offer several distinct features that have cemented their popularity among Canadian investors:
 
@@ -56,42 +56,42 @@ Mutual funds offer several distinct features that have cemented their popularity
 
 ---
 
-## 3. Advantages of Mutual Funds
+## Advantages of Mutual Funds
 
-### 3.1 Professional Management
+### Professional Management
 
 Investors benefit from the expertise of professional portfolio managers who perform research, execute trades, and continuously monitor economic and market conditions. Rather than make individual stock or bond selections, mutual fund investors delegate these decisions to experts.
 
-### 3.2 Diversification
+### Diversification
 
 By pooling the funds of many investors, mutual funds can buy a wide range of securities—stocks, bonds, money market instruments, etc. This extensive reach may reduce the risk of significant losses if one particular holding underperforms. For instance, a broad-based Canadian equity fund could hold shares of multiple sectors (e.g., financials, energy, and technology), thereby spreading risk.
 
-### 3.3 Liquidity and Flexibility
+### Liquidity and Flexibility
 
 Open-ended mutual funds allow daily redemptions, meaning you can typically convert your investment to cash at the end of any trading day at the calculated NAVPS. This flexibility is particularly useful for investors who anticipate short-term liquidity needs or prefer to adjust their portfolios frequently.
 
 ---
 
-## 4. Potential Disadvantages
+## Potential Disadvantages
 
-### 4.1 Fees and Expenses
+### Fees and Expenses
 
 Management fees, operating expenses, and distribution costs can erode returns. The Management Expense Ratio (MER) reflects the total annual cost of portfolio management, administrative fees, and other fund expenses, expressed as a percentage of the fund’s average net assets.
 
 • A high MER can significantly reduce the net return to investors.  
 • Front-end loads, deferred sales charges, or redemption fees may also apply, depending on the fund’s fee structure.
 
-### 4.2 Lack of Control Over Investment Decisions
+### Lack of Control Over Investment Decisions
 
 When investing in a mutual fund, you give up direct control over specific holdings and the timing of trades. While professional management can be beneficial, it also means the portfolio manager’s strategy may not always align with your personal market view.
 
-### 4.3 Potential for Over-Diversification
+### Potential for Over-Diversification
 
 Although diversification can reduce risk, some critics argue that mutual funds can become “over-diversified,” diluting returns if they hold too many different securities. The performance of a single high-performing stock may not significantly impact the overall portfolio if it is just one of hundreds of holdings.
 
 ---
 
-## 5. Mutual Fund Distribution Channels
+## Mutual Fund Distribution Channels
 
 Mutual funds in Canada can be sold through various channels:
 
@@ -101,7 +101,7 @@ Mutual funds in Canada can be sold through various channels:
 
 ---
 
-## 6. Structural Walkthrough with Mermaid Diagram
+## Structural Walkthrough with Mermaid Diagram
 
 Below is a mermaid diagram showing the general structure and flow of a Canadian mutual fund set up as a trust. This diagram illustrates the roles of the management company, custodian, unitholders, and the flow of cash and securities.
 
@@ -124,7 +124,7 @@ flowchart LR
 
 ---
 
-## 7. Regulatory Environment
+## Regulatory Environment
 
 Mutual funds in Canada operate under a framework designed to protect investors and ensure transparency:
 
@@ -135,7 +135,7 @@ Mutual funds in Canada operate under a framework designed to protect investors a
 
 ---
 
-## 8. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
 ### Example 1: RBC Canadian Dividend Fund
 
@@ -153,7 +153,7 @@ TD Canadian Bond Fund targets fixed-income instruments such as Government of Can
 
 ---
 
-## 9. Step-by-Step Guidance for Evaluating Mutual Funds
+## Step-by-Step Guidance for Evaluating Mutual Funds
 
 1. **Define Your Goals:** Clarify whether you seek growth, income, or capital preservation.  
 2. **Assess Risk Tolerance:** Ensure the fund’s volatility matches your comfort level.  
@@ -166,7 +166,7 @@ TD Canadian Bond Fund targets fixed-income instruments such as Government of Can
 
 ---
 
-## 10. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 • **Regularly Review Your Investments:** Monitor any changes in the fund’s objectives, MER, or portfolio management team.  
 • **Avoid Chasing Performance:** Strong recent returns can be misleading; always consider the fund’s long-term track record and consistency.  
@@ -176,7 +176,7 @@ TD Canadian Bond Fund targets fixed-income instruments such as Government of Can
 
 ---
 
-## 11. Summary
+## Summary
 
 Mutual funds provide Canadian investors with professionally managed portfolios, diversification, and daily liquidity. Their trust-based structure offers transparent oversight, while regulatory frameworks like National Instrument 81-101 ensure clarity in fund disclosures. Although they come with management fees and a degree of performance uncertainty, mutual funds remain a flexible and accessible vehicle for a variety of investment objectives.
 

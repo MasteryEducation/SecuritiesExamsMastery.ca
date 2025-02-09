@@ -30,7 +30,7 @@ flowchart LR
     A --> G[Private Banking & Bundled Services]
 ```
 
-### 1. Financial and Retirement Planning
+### Financial and Retirement Planning
 
 Financial planning is often the starting point of the wealth management process. This area focuses on understanding clients’ short-term and long-term goals, analyzing their current financial position, and designing strategies to achieve those goals. Advisors typically:
 
@@ -51,7 +51,7 @@ Financial planning is often the starting point of the wealth management process.
    • Coordinate RRSP, TFSA, and non-registered assets to minimize taxes both before and after retirement.  
    • Consider income-splitting opportunities for retired couples (e.g., pension income splitting).  
 
-### 2. Investment Management
+### Investment Management
 
 Investment management involves constructing and managing a client’s investment portfolio to meet specific objectives, such as growth, capital preservation, or income generation. Key activities include:
 
@@ -63,7 +63,7 @@ Investment management involves constructing and managing a client’s investment
 • Ongoing Portfolio Monitoring: Reviewing performance regularly and rebalancing to maintain a desired risk profile.  
 • Responsible Investing: Incorporating environmental, social, and governance (ESG) factors in the investment selection process.
 
-### 3. Tax Planning
+### Tax Planning
 
 In Canada, tax planning plays a critical role in wealth management. By effectively structuring one’s income and investments, clients can reduce their overall tax burden and enhance net returns. Strategies may include:
 
@@ -75,7 +75,7 @@ In Canada, tax planning plays a critical role in wealth management. By effective
 Professional advisors often work closely with tax accountants or specialized tax lawyers to ensure compliance with Canada Revenue Agency (CRA) regulations and to implement strategies effectively.  
 Official CRA resource: [https://www.canada.ca/en/revenue-agency.html](https://www.canada.ca/en/revenue-agency.html)
 
-### 4. Risk Management
+### Risk Management
 
 Wealth management also involves protecting clients from unforeseen events that can derail their financial plans. Risk management solutions typically include:
 
@@ -85,7 +85,7 @@ Wealth management also involves protecting clients from unforeseen events that c
 • Liability Insurance: Covers personal or professional liability to protect assets from lawsuits.  
 • Insurance Gap Analysis: Identification of coverage gaps or overlaps through thorough policy reviews.
 
-### 5. Estate Planning
+### Estate Planning
 
 Estate planning is a forward-looking strategy that addresses how assets will be preserved, managed, and distributed. Coordinating wills, trusts, and beneficiary designations ensures a smooth transition of wealth while minimizing taxes and fulfilling the client’s wishes.
 
@@ -96,7 +96,7 @@ Key areas include:
 • Powers of Attorney (POA): Assigning decision-making responsibilities for financial and health care matters should a client become incapacitated.  
 • Estate Freezes: Locking in the value of assets (often within a corporation) to defer or minimize potential future tax liabilities.  
 
-### 6. Philanthropy
+### Philanthropy
 
 Wealth management often encompasses charitable planning to align clients’ personal values and philanthropic goals:
 

@@ -20,7 +20,7 @@ By the end of this section, you will be able to:
 
 ---
 
-### 1. Interest Rate Risk
+### Interest Rate Risk
 
 Interest rate risk is one of the most significant risks affecting bond values. When interest rates rise, the price (or market value) of existing bonds typically falls, because newly issued bonds will offer higher coupons or yields to attract investors. Conversely, when interest rates decline, the value of existing bonds generally increases.
 
@@ -47,7 +47,7 @@ flowchart LR
 
 ---
 
-### 2. Credit (Default) Risk
+### Credit (Default) Risk
 
 Credit risk is the possibility that a bond issuer will be unable to make scheduled interest or principal payments. This risk varies widely depending on the issuer’s financial stability:
 
@@ -66,7 +66,7 @@ Ratings agencies such as **DBRS Morningstar, Moody’s, S&P, and Fitch** provide
 
 ---
 
-### 3. Liquidity Risk
+### Liquidity Risk
 
 Liquidity risk arises when investors need to sell a bond but encounter difficulty finding a buyer at a fair market price. While **Government of Canada bonds** are highly liquid, many corporate bonds (especially lower-rated or smaller issues) can trade infrequently.
 
@@ -83,7 +83,7 @@ Liquidity risk arises when investors need to sell a bond but encounter difficult
 
 ---
 
-### 4. Inflation Risk
+### Inflation Risk
 
 Inflation erodes the real purchasing power of a bond’s fixed interest payments and principal repayments. If inflation rises above the coupon rate, the investor’s real return may become negative.
 
@@ -100,7 +100,7 @@ Inflation erodes the real purchasing power of a bond’s fixed interest payments
 
 ---
 
-### 5. Call or Prepayment Risk
+### Call or Prepayment Risk
 
 Call or prepayment risk involves the possibility that the issuer or borrowers will repay the debt earlier than its scheduled maturity. Callable corporate bonds, as well as mortgage-backed securities, often come with call or prepayment features.
 
@@ -117,7 +117,7 @@ Call or prepayment risk involves the possibility that the issuer or borrowers wi
 
 ---
 
-### 6. Reinvestment Risk
+### Reinvestment Risk
 
 Reinvestment risk occurs when interest or principal payments are received at a time when interest rates are lower than the original bond’s yield, forcing you to reinvest at a reduced rate.
 
@@ -134,7 +134,7 @@ Reinvestment risk occurs when interest or principal payments are received at a t
 
 ---
 
-### 7. Foreign Exchange Risk
+### Foreign Exchange Risk
 
 Foreign exchange risk arises when Canadian investors purchase bonds denominated in a foreign currency or when foreign investors hold Canadian dollar bonds. Currency fluctuations can significantly impact returns.
 

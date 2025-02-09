@@ -16,9 +16,9 @@ This section explores the most common portfolio management styles seen in the Ca
 
 
 --------------------------------------------------------------------------------
-## 1. Active vs. Passive Management
+## Active vs. Passive Management
 
-### 1.1 Active Management
+### Active Management
 
 Active management is a strategy in which a portfolio manager makes specific investments with the goal of outperforming a market index or benchmark. This approach often involves:
 
@@ -29,7 +29,7 @@ Active management is a strategy in which a portfolio manager makes specific inve
 
 As an example, an active portfolio manager at RBC Dominion Securities might utilize both top-down and bottom-up research to pinpoint Canadian equities that seem undervalued due to temporary sector downturns. By periodically adjusting positions based on market signals and economic forecasts, the manager aims for returns exceeding the S&P/TSX Composite Index.
 
-### 1.2 Passive Management (Indexing)
+### Passive Management (Indexing)
 
 Passive management, often referred to as indexing, focuses on mirroring (or replicating) the performance of a specific market index rather than aiming to outperform it:
 
@@ -58,9 +58,9 @@ flowchart LR
 ```
 
 --------------------------------------------------------------------------------
-## 2. Growth vs. Value Investing
+## Growth vs. Value Investing
 
-### 2.1 Growth Investing
+### Growth Investing
 
 Growth investing targets companies that are expected to experience above-average growth in revenues, earnings, or cash flow. Key characteristics of growth stocks include:
 
@@ -70,7 +70,7 @@ Growth investing targets companies that are expected to experience above-average
 
 In Canada, technology companies or biotech firms—often small- to mid-cap—might attract growth investors if they show promising product pipelines or unique competitive advantages. A practical example could be a Canadian pension fund investing in emerging technology firms listed on the TSX Venture Exchange, anticipating a surge in earnings tied to new innovations.
 
-### 2.2 Value Investing
+### Value Investing
 
 Value investing concentrates on finding companies that appear undervalued relative to their intrinsic fundamentals. These undervalued aspects could include:
 
@@ -81,9 +81,9 @@ Value investing concentrates on finding companies that appear undervalued relati
 Iconic Canadian value investors might focus on securities in cyclical industries such as natural resources (e.g., mining, forestry) when global market sentiments temporarily undervalue them. The assumption is that once the market recognizes the intrinsic worth, the stock price will move upward, generating capital gains.
 
 --------------------------------------------------------------------------------
-## 3. Top-Down vs. Bottom-Up Approaches
+## Top-Down vs. Bottom-Up Approaches
 
-### 3.1 Top-Down Strategy
+### Top-Down Strategy
 
 In a top-down investment strategy, portfolio managers first analyze macro-level economic parameters:
 
@@ -94,7 +94,7 @@ In a top-down investment strategy, portfolio managers first analyze macro-level 
 
 After narrowing down attractive sectors or regions, managers select individual securities that best capture the anticipated market trend. For example, a manager might overweight Canadian banks during periods of low-interest rates, expecting strong mortgage growth and stable profit margins.
 
-### 3.2 Bottom-Up Strategy
+### Bottom-Up Strategy
 
 Bottom-up investors start by examining individual companies, largely ignoring broader economic indicators. Key factors include:
 
@@ -105,9 +105,9 @@ Bottom-up investors start by examining individual companies, largely ignoring br
 Once they identify promising firms, bottom-up managers then assemble a portfolio, confident that the inherent strength of these entities will prevail despite market fluctuations. A Canadian example could be discovering a small-cap manufacturer in Alberta with a robust niche product and undervalued shares relative to its fundamentals.
 
 --------------------------------------------------------------------------------
-## 4. Quantitative vs. Qualitative Methods
+## Quantitative vs. Qualitative Methods
 
-### 4.1 Quantitative Methods
+### Quantitative Methods
 
 Quantitative strategies employ mathematical models and statistical tools to identify investment opportunities:
 
@@ -117,7 +117,7 @@ Quantitative strategies employ mathematical models and statistical tools to iden
 
 For example, a quantitative hedge fund in Toronto might rely on a model analyzing thousands of stock-specific factors (e.g., momentum, earnings revisions) to create a basket of Canadian equities with a favorable risk-adjusted return. These strategies frequently use open-source libraries like Python’s “pyfolio” or R’s “PerformanceAnalytics” to track performance and risk metrics.
 
-### 4.2 Qualitative Methods
+### Qualitative Methods
 
 Qualitative methods revolve around non-numerical analyses:
 
@@ -128,9 +128,9 @@ Qualitative methods revolve around non-numerical analyses:
 A fund manager might scrutinize a Canadian mining company’s environmental stewardship and Indigenous community relations—factors that can profoundly impact the firm’s license to operate and long-term sustainability in Canada’s resource-driven sectors.
 
 --------------------------------------------------------------------------------
-## 5. Style Attribution and Performance
+## Style Attribution and Performance
 
-### 5.1 Dissecting Portfolio Returns
+### Dissecting Portfolio Returns
 
 Style attribution is the process of breaking down a portfolio’s performance to understand which factors contributed the most. It typically distinguishes between:
 
@@ -141,12 +141,12 @@ Style attribution is the process of breaking down a portfolio’s performance to
 
 The goal is clear: if a manager claims to be a “value” manager, we can use style attribution to verify how much of the outperformance truly comes from a value tilt, as opposed to mere market movements.
 
-### 5.2 Monitoring Style Drift
+### Monitoring Style Drift
 
 Style drift occurs when a manager systematically deviates from the original declared strategy. For instance, a manager advertising a “value” methodology may gradually allocate more of the portfolio to high-P/E or growth stocks. Canadian securities regulators and CIRO guidelines emphasize the importance of truth in marketing: if a fund is sold as a value fund, it should remain predominantly invested in value strategies unless clearly disclosed otherwise.
 
 --------------------------------------------------------------------------------
-## 6. Regulatory and Ethical Considerations
+## Regulatory and Ethical Considerations
 
 Canadian regulators, including the CSA and CIRO, set forth frameworks to ensure that portfolio managers maintain consistency between their marketed style and actual investments. Key ethical considerations include:
 
@@ -161,7 +161,7 @@ Supporting frameworks:
 - GIPS standards set by the CFA Institute, focusing on transparent, consistent performance measurement and presentation.
 
 --------------------------------------------------------------------------------
-## 7. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
 Below are a few real-world scenarios to illustrate how different styles function in practice:
 
@@ -176,7 +176,7 @@ Below are a few real-world scenarios to illustrate how different styles function
 5. **Quantitative Trading Strategy**: A hedge fund in Montreal uses proprietary machine learning models to sift through large-volume stock transaction data. Their algorithms search for patterns or anomalies, executing trades at high speed to exploit short-lived market inefficiencies.
 
 --------------------------------------------------------------------------------
-## 8. Summary and Best Practices
+## Summary and Best Practices
 
 Portfolio manager styles each have unique merits and drawbacks, and no single style guarantees success in every market environment. Key points to remember:
 
@@ -190,7 +190,7 @@ Portfolio manager styles each have unique merits and drawbacks, and no single st
 Ultimately, the best approach often combines elements from various styles, tailored to the specific objectives, risk profile, and constraints of the portfolio in question. Embrace continuous learning, leverage open-source tools for performance analysis, and maintain alignment with Canadian regulations to succeed in professional practice.
 
 --------------------------------------------------------------------------------
-## 9. Glossary
+## Glossary
 
 • **Active Management**: A strategy aiming to outperform a benchmark by actively selecting securities and timing the market.  
 • **Passive Management (Indexing)**: Replicates an index to match its returns, often at lower cost.  
@@ -200,7 +200,7 @@ Ultimately, the best approach often combines elements from various styles, tailo
 • **Style Attribution**: Analytical process to separate the sources of returns by style, sector weighting, and security selection.  
 
 --------------------------------------------------------------------------------
-## 10. References and Additional Resources
+## References and Additional Resources
 
 • **CIRO:** https://www.ciro.ca – Regulatory guidelines on accurate representation of investment strategies.  
 • **CSA:** Canadian Securities Administrators – Coordinates securities regulation across provincial bodies; administers investor protection frameworks.  

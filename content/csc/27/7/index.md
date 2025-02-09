@@ -16,11 +16,11 @@ This section takes a deep dive into the key investment styles employed by instit
 
 ---
 
-## 1. Overview of Institutional Investment Styles
+## Overview of Institutional Investment Styles
 
 An institution’s investment style reflects its mandate, risk tolerance, and performance objectives. The style dictates the selection of securities and the expected or targeted risk-return profile. Below are some prominent styles in the Canadian investing landscape:
 
-### 1.1 Value Investing
+### Value Investing
 
 • Core Principle: Focus on companies perceived to be undervalued relative to their intrinsic worth.  
 • Common Metrics: Price-to-Earnings (P/E), Price-to-Book (P/B), or dividend yield.  
@@ -28,7 +28,7 @@ An institution’s investment style reflects its mandate, risk tolerance, and pe
 
 Value investors often reference “Security Analysis” by Benjamin Graham and David L. Dodd for rigorous frameworks on identifying undervalued securities. While value investing can carry lower downside risk, it may lag in growth-focused markets.
 
-### 1.2 Growth Investing
+### Growth Investing
 
 • Core Principle: Target companies expected to grow revenues and earnings faster than the overall market.  
 • Common Metrics: High future earnings growth, strong return on equity (ROE), and profit margin expansion.  
@@ -36,13 +36,13 @@ Value investors often reference “Security Analysis” by Benjamin Graham and D
 
 Growth investors face higher volatility due to premium valuations. During bull markets, growth stocks may outperform; however, in market downturns, they may decline more dramatically than “value” counterparts.
 
-### 1.3 Momentum Investing
+### Momentum Investing
 
 • Core Principle: Capitalize on market trends by buying securities that have shown recent upward price movement and selling those with downward trends.  
 • Application in Canada: A hedge fund may focus on resource stocks demonstrating strong price momentum, especially in rising commodity environments.  
 • Key Consideration: Momentum strategies can be susceptible to sudden reversals if market sentiment changes.
 
-### 1.4 Index-Based (Passive) Investing
+### Index-Based (Passive) Investing
 
 • Core Principle: Aim to match the performance of a broad market index (e.g., S&P/TSX Composite) rather than outperform it.  
 • Implementation: Use Exchange-Traded Funds (ETFs) or index-tracking mutual funds.  
@@ -52,7 +52,7 @@ Passive strategies generally have lower management fees and transaction costs, r
 
 ---
 
-## 2. Portfolio Guidelines and Mandates
+## Portfolio Guidelines and Mandates
 
 Institutional portfolios are driven by a mandate, specifying their scope and goals. A mandate outlines:
 
@@ -63,7 +63,7 @@ Institutional portfolios are driven by a mandate, specifying their scope and goa
 
 The mandate also includes specific guidelines to ensure alignment with regulatory constraints, fiduciary duties, and institutional policy.
 
-### 2.1 Regulatory Constraints in Canada
+### Regulatory Constraints in Canada
 
 Institutional guidelines are often shaped by regulations such as:
 
@@ -73,7 +73,7 @@ Institutional guidelines are often shaped by regulations such as:
 
 For further research, consider visiting the Investment Funds Institute of Canada (IFIC) at <https://www.ific.ca/> and reviewing CSA websites for additional insights into regulatory frameworks.
 
-### 2.2 Risk Tolerance and Time Horizon
+### Risk Tolerance and Time Horizon
 
 Different institutional investors possess varying risk profiles:
 
@@ -82,7 +82,7 @@ Different institutional investors possess varying risk profiles:
 
 The overarching goal is to ensure that the chosen investment style and asset mix align with the clients’ or beneficiaries’ best interests.
 
-### 2.3 Ethical Standards and Internal Policies
+### Ethical Standards and Internal Policies
 
 Ethical standards guide investment decision-making processes, seeking to:
 
@@ -94,29 +94,29 @@ Internal policies may go beyond regulations by prohibiting certain transactions,
 
 ---
 
-## 3. Investment Restrictions
+## Investment Restrictions
 
 Investment restrictions are specific limitations placed on a portfolio to mitigate excessive risk or ensure regulatory compliance. Common restrictions include:
 
-### 3.1 Leverage Limits
+### Leverage Limits
 
 • Leverage is the practice of using borrowed capital to amplify returns (and risk).  
 • Many Canadian mutual fund mandates limit or prohibit leverage per NI 81-102.  
 • Pension funds often have little or no leverage due to strict prudential guidelines, whereas hedge funds may employ higher leverage ratios.
 
-### 3.2 Derivative Usage
+### Derivative Usage
 
 • Some mandates restrict usage of derivatives (e.g., futures, options, swaps) to hedging only.  
 • Others permit derivatives for speculation or leverage, but with careful monitoring to ensure exposure does not exceed set thresholds.  
 • Example: A pension fund may buy equity index futures to adjust its exposure without directly trading underlying stocks, but must keep the notional exposure within permissible risk levels.
 
-### 3.3 Sector or Asset Class Exposure
+### Sector or Asset Class Exposure
 
 • Institutions may set minimum and maximum exposures to particular sectors (e.g., no more than 20% in technology or energy).  
 • Regulatory rules can also require maximum single security exposure (e.g., mutual funds may not invest more than 10% of net assets in a single issuer).  
 • Example: Canadian pension plans often restrict large concentrations in volatile commodity sectors, ensuring diversification.
 
-### 3.4 Geographic Restrictions
+### Geographic Restrictions
 
 • Some institutional mandates cap foreign holdings to manage currency risk.  
 • For example, a domestic pension fund could have a mandate stating at least 70% of the portfolio must be in Canadian securities.  
@@ -124,7 +124,7 @@ Investment restrictions are specific limitations placed on a portfolio to mitiga
 
 ---
 
-## 4. Monitoring and Revising Guidelines
+## Monitoring and Revising Guidelines
 
 Market conditions, regulatory changes, and shifts in client objectives can prompt revisions to guidelines. Continuous review helps:
 
@@ -136,9 +136,9 @@ Portfolio managers must document and justify any changes, ensuring proper disclo
 
 ---
 
-## 5. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 5.1 Canadian Pension Fund Case Study
+### Canadian Pension Fund Case Study
 
 A major Canadian pension fund (e.g., one from a large public sector entity) might have:
 
@@ -149,7 +149,7 @@ A major Canadian pension fund (e.g., one from a large public sector entity) migh
 
 When the markets shift—say, interest rates rise—the pension fund can revise its guidelines to allow for more interest-rate hedging using derivatives, as long as it stays within the 5% leverage cap.
 
-### 5.2 Canadian Hedge Fund Example
+### Canadian Hedge Fund Example
 
 In contrast, a hedge fund with fewer prudential restrictions and a higher appetite for risk might:
 
@@ -162,7 +162,7 @@ This difference in guidelines and restrictions exemplifies the variability in in
 
 ---
 
-## 6. Step-by-Step Implementation for Portfolio Managers
+## Step-by-Step Implementation for Portfolio Managers
 
 1. **Establish Mandate and Style**  
    Identify the institution’s targeted style—value, growth, momentum, or index-based—and define the goals, risk tolerance, and performance objectives.
@@ -184,7 +184,7 @@ This difference in guidelines and restrictions exemplifies the variability in in
 
 ---
 
-## 7. Diagram: Mandate, Style, and Restrictions Flow
+## Diagram: Mandate, Style, and Restrictions Flow
 
 Below is a simplified flowchart illustrating the cyclical nature of setting an institutional investment mandate, choosing an investment style, and applying guidelines and restrictions:
 
@@ -201,7 +201,7 @@ Each step feeds back into the mandate, aligning the investment approach with evo
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 • **Best Practices**  
   - Regularly review guidelines for relevance and effectiveness.  
@@ -217,7 +217,7 @@ Each step feeds back into the mandate, aligning the investment approach with evo
 
 ---
 
-## 9. Glossary of Key Terms
+## Glossary of Key Terms
 
 • **Value Investing:** An investment style focusing on undervalued companies with strong fundamentals and low price-to-earnings ratios.  
 • **Growth Investing:** Targets companies expected to grow at above-average rates, often trading at premium valuations.  
@@ -228,7 +228,7 @@ Each step feeds back into the mandate, aligning the investment approach with evo
 
 ---
 
-## 10. References and Additional Resources
+## References and Additional Resources
 
 • Investment Funds Institute of Canada (IFIC): <https://www.ific.ca/>  
 • National Instrument 81-102 (Mutual Funds) and other CSA rules: <https://www.securities-administrators.ca/>  

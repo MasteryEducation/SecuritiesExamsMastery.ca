@@ -14,7 +14,7 @@ When meeting a new client, Canadian financial advisors must collect and verify s
 
 ---
 
-### 3.1.1 Understanding KYC Requirements
+### Understanding KYC Requirements
 
 #### The Purpose of KYC
 
@@ -42,7 +42,7 @@ This data collection process is not only a regulatory expectation but also a bes
 
 ---
 
-### 3.1.2 AML Regulations and FINTRAC Obligations
+### AML Regulations and FINTRAC Obligations
 
 #### Purpose of AML Rules
 
@@ -64,7 +64,7 @@ RBC (Royal Bank of Canada) incorporates automated transaction monitoring systems
 
 ---
 
-### 3.1.3 Privacy Legislation (PIPEDA)
+### Privacy Legislation (PIPEDA)
 
 #### Protecting Client Information
 
@@ -84,7 +84,7 @@ Key points under PIPEDA include:
 
 ---
 
-### 3.1.4 Additional Legal and Tax Obligations
+### Additional Legal and Tax Obligations
 
 Beyond KYC and AML, advisors must address several other regulatory demands, including:
 
@@ -94,7 +94,7 @@ Beyond KYC and AML, advisors must address several other regulatory demands, incl
 
 ---
 
-### 3.1.5 Case Study: Introducing a New Client with Complex Needs
+### Case Study: Introducing a New Client with Complex Needs
 
 Consider a scenario involving a new client at TD Bank Wealth Services:
 
@@ -114,7 +114,7 @@ This example underscores the multifaceted nature of KYC and AML obligations, alo
 
 ---
 
-### 3.1.6 Visualizing the KYC-AML-Privacy Process
+### Visualizing the KYC-AML-Privacy Process
 
 Below is a simplified diagram illustrating the typical flow of client information collection and assessment in a Canadian wealth management setting:
 
@@ -138,7 +138,7 @@ flowchart LR
 
 ---
 
-### 3.1.7 Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 #### Best Practices
 
@@ -157,7 +157,7 @@ flowchart LR
 
 ---
 
-### 3.1.8 Putting It All Together
+### Putting It All Together
 
 Canadian financial advisors must navigate a network of regulations requiring thorough client information collection, vigilant monitoring, and strict privacy protections. In practice, these regulations reinforce best practices—helping advisors tailor recommendations, minimize misconduct, and protect the financial system’s integrity.
 

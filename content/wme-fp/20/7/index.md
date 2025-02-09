@@ -14,7 +14,7 @@ Equity strategies serve as the blueprint for how investors and wealth managers s
 
 ---
 
-### 1. Overview of Equity Strategy
+### Overview of Equity Strategy
 
 Equity strategy is about aligning investment approaches with the investor’s objectives—be it maximizing capital appreciation, securing a steady income, managing volatility, or adhering to an ethical or responsible investment mandate. Canadian financial advisors operate under the guidance of the Canadian Investment Regulatory Organization (CIRO) and the guidelines set out by the Canadian Securities Administrators’ National Instruments (such as NI 31-103) to fulfill Know Your Client (KYC), suitability, and disclosure requirements when proposing or implementing equity strategies.
 
@@ -35,7 +35,7 @@ Each strategy aims to achieve different objectives. A balanced equity approach m
 
 ---
 
-### 2. Growth Investing
+### Growth Investing
 
 Growth investing targets companies expected to experience above-average revenue or earnings growth. These companies often reinvest their profits into expansion, marketing, and research and development (R&D), instead of paying dividends. As a result, growth stocks—particularly in technology, healthcare innovation, or emerging industries—may trade at comparatively higher valuations.
 
@@ -57,7 +57,7 @@ Growth investing targets companies expected to experience above-average revenue 
 
 ---
 
-### 3. Value Investing
+### Value Investing
 
 Value investing looks for stocks that appear to be trading below their intrinsic value. Such undervaluation could stem from negative short-term sentiment, temporary market inefficiencies, or cyclical business downturns. The value investor anticipates that, over time, the market will correct this mispricing, leading to capital appreciation.
 
@@ -79,7 +79,7 @@ Value investing looks for stocks that appear to be trading below their intrinsic
 
 ---
 
-### 4. Dividend Investing
+### Dividend Investing
 
 Dividend investing focuses on finding companies with stable or growing dividend distributions. For income seekers—such as retirees or those approaching retirement—dividend-paying equities can offer a regular income stream and some degree of downside protection.
 
@@ -101,7 +101,7 @@ Dividend investing focuses on finding companies with stable or growing dividend 
 
 ---
 
-### 5. Sector Rotation
+### Sector Rotation
 
 Sector rotation involves allocating investment capital to sectors poised to outperform during a particular phase of the economic cycle. The Canadian economy, like other developed economies, experiences economic cycles—expansion, peak, contraction, and trough. Different sectors tend to shine during different phases:
 
@@ -128,7 +128,7 @@ Sector rotation involves allocating investment capital to sectors poised to outp
 
 ---
 
-### 6. Global Diversification
+### Global Diversification
 
 Depending solely on Canadian equity markets may expose investors to concentrated sector risks (e.g., heavy weighting in financials, materials, and energy). Global diversification can mitigate such risks by holdings in foreign markets that may be on different economic cycles. This can reduce overall portfolio volatility and potentially enhance returns.
 
@@ -149,7 +149,7 @@ Depending solely on Canadian equity markets may expose investors to concentrated
 
 ---
 
-### 7. Risk Management in Equity Strategies
+### Risk Management in Equity Strategies
 
 Regardless of the preferred equity strategy—growth, value, dividend, or otherwise—risk management remains critical. Advisors and investors must balance performance goals with downside protection measures.
 
@@ -168,7 +168,7 @@ Regardless of the preferred equity strategy—growth, value, dividend, or otherw
 
 ---
 
-### 8. ESG and Responsible Investing
+### ESG and Responsible Investing
 
 ESG (Environmental, Social, and Governance) investing integrates ethical, sustainability, and social impact considerations into investment decisions. For some investors, ESG is not just about aligning with personal values but also about reducing the risk of investing in companies with poor governance or potential environmental liabilities.
 
@@ -190,7 +190,7 @@ ESG (Environmental, Social, and Governance) investing integrates ethical, sustai
 
 ---
 
-### 9. Applying Equity Strategies in the Canadian Context
+### Applying Equity Strategies in the Canadian Context
 
 When implementing these equity strategies in Canada, advisors must adhere to various regulatory and professional guidelines:
 
@@ -211,7 +211,7 @@ When implementing these equity strategies in Canada, advisors must adhere to var
 
 ---
 
-### 10. Best Practices and Pitfalls
+### Best Practices and Pitfalls
 
 • **Best Practices**  
   – Regularly reassess market and economic data to adjust strategies.  
@@ -225,7 +225,7 @@ When implementing these equity strategies in Canada, advisors must adhere to var
 
 ---
 
-### 11. Conclusion and Key Takeaways
+### Conclusion and Key Takeaways
 
 Crafting an equity strategy requires a thorough understanding of multiple investment approaches—growth, value, dividend, sector rotation, global diversification, and ESG integration. Advisors must apply a risk-aware mindset, employing tools like stop-loss orders, asset allocation models, and optional hedging to protect client portfolios. Aligning with Canadian regulations ensures that the advisor’s recommendations serve the client’s best interests, maintain transparency, and position portfolios for a variety of market conditions.
 

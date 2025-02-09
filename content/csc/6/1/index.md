@@ -65,7 +65,7 @@ The distinction between money market and capital market securities is critical f
 
 ### Structure of the Canadian Fixed-Income Market
 
-#### 3.1 Primary vs. Secondary Markets
+#### Primary vs. Secondary Markets
 
 The Canadian fixed-income market consists of two main market segments:
 
@@ -87,7 +87,7 @@ flowchart LR
     D -->|Liquidity & Price Discovery| C
 ```
 
-#### 3.2 Over-the-Counter (OTC) vs. Exchange-Traded
+#### Over-the-Counter (OTC) vs. Exchange-Traded
 
 The bulk of Canadian fixed-income trading occurs over-the-counter (OTC). OTC markets connect buyers and sellers directly or through dealers, rather than through a centralized exchange. Dealers quote prices to clients, facilitating trades and earning a spread. While common shares trade predominantly on recognized exchanges (e.g., the Toronto Stock Exchange, TSX), fixed-income instruments rely heavily on dealer networks.
 

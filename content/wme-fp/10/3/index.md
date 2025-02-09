@@ -14,7 +14,7 @@ Registered Retirement Savings Plans (RRSPs) are a cornerstone of retirement plan
 
 ---
 
-### 1. Contribution Limits and Annual Maximums
+### Contribution Limits and Annual Maximums
 
 Every year, Canadians can contribute up to 18% of their previous year’s earned income to their RRSP, subject to an annual maximum limit set by the Canada Revenue Agency (CRA). This annual dollar limit is indexed to inflation and updated periodically. Here are some examples of historical limits for an RRSP (for illustration only):
 
@@ -33,7 +33,7 @@ Clients may not always be in a financial position to contribute the maximum amou
 
 ---
 
-### 2. Deduction Limits and Notices of Assessment (NOA)
+### Deduction Limits and Notices of Assessment (NOA)
 
 Although you can calculate the maximum theoretical contribution yourself, the most reliable source for determining the precise amount you can deduct in any given year is your Notice of Assessment (NOA). The NOA:
 
@@ -50,7 +50,7 @@ Adding these two figures (if both are present) yields the grand total the indivi
 
 ---
 
-### 3. Over-Contribution Penalties
+### Over-Contribution Penalties
 
 The CRA imposes strict rules around over-contributions, which occur when an individual exceeds their allowable deduction limit. Over-contributions beyond $2,000 above your allowable limit are subject to a penalty tax of 1% per month on the excess amount. 
 
@@ -62,7 +62,7 @@ While the $2,000 buffer can help in minor calculation errors, it can diminish th
 
 ---
 
-### 4. Spousal RRSP Contributions
+### Spousal RRSP Contributions
 
 Spousal RRSPs are a strategic tool that allows higher-income earners to contribute part of their RRSP funds in their spouse’s name. The contributors receive the tax deduction, while the funds belong to the spouse. This approach can facilitate flexible income splitting in retirement when the spouse potentially withdraws funds at a lower marginal tax rate.
 
@@ -77,7 +77,7 @@ This strategy can be especially effective for couples facing large income dispar
 
 ---
 
-### 5. Contribution Timing
+### Contribution Timing
 
 Contributions to an RRSP are eligible for deduction in the calendar year they are made, or within the first 60 days of the following year. This “first 60 days rule” provides a flexible window for tax planning:
 
@@ -91,7 +91,7 @@ Contributions to an RRSP are eligible for deduction in the calendar year they ar
 
 ---
 
-### 6. Withdrawal Restrictions and Exceptions
+### Withdrawal Restrictions and Exceptions
 
 The main purpose of RRSPs is retirement savings. However, the CRA permits tax-free withdrawals for specific programs:
 
@@ -102,7 +102,7 @@ Keep in mind that if the repayment requirements are not met, the withdrawn amoun
 
 ---
 
-### 7. Practical Example: Combining Strategies for Tax Efficiency
+### Practical Example: Combining Strategies for Tax Efficiency
 
 Consider David, an RBC employee with a yearly income of $120,000. According to his NOA, his RRSP contribution limit is $21,600 for 2023. David’s spouse, Emily, works part-time and earns $30,000 per year. To optimize family tax, David decides to:
 
@@ -114,7 +114,7 @@ By splitting contributions, David secures an immediate tax deduction for both po
 
 ---
 
-### 8. Understanding RRSP Contribution Calculations: A Visual Overview
+### Understanding RRSP Contribution Calculations: A Visual Overview
 
 Below is a simple Mermaid diagram illustrating the flow of how one determines their RRSP contribution room and uses it effectively.
 
@@ -137,7 +137,7 @@ Explanation of the diagram:
 
 ---
 
-### 9. Glossary of Key Terms
+### Glossary of Key Terms
 
 • **Contribution Room:** The maximum amount an individual can contribute to their RRSP during a given year, consisting of 18% of earned income (up to the annual limit) plus any carry-forward from previous years.  
 • **NOA (Notice of Assessment):** A summary the CRA issues after assessing your tax return, detailing any corrections and your updated RRSP contribution limit.  
@@ -147,7 +147,7 @@ Explanation of the diagram:
 
 ---
 
-### 10. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 1. **Verify NOA Annually:** Encourage clients to read their NOA thoroughly each year, as it reflects the most up-to-date RRSP deduction limit.  
 2. **Avoid Over-Contributions:** Even a small oversight can trigger penalties. Track total deposits across all registered plans.  
@@ -157,7 +157,7 @@ Explanation of the diagram:
 
 ---
 
-### 11. Additional Resources and References
+### Additional Resources and References
 
 • [CRA: RRSP Contributions](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/rrsp-contributions.html)  
   Learn about contribution limit details, forms, and official updates on RRSP rules.  

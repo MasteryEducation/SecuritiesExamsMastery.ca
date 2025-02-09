@@ -14,9 +14,9 @@ Alternative investments—ranging from hedge funds and private equity to real es
 
 ---
 
-## 1. Overview of Common Legal Structures
+## Overview of Common Legal Structures
 
-### 1.1 Limited Partnerships
+### Limited Partnerships
 
 A limited partnership (LP) is a prevalent structure used by hedge funds, private equity managers, and real estate investment partnerships due to its flexibility. The LP typically consists of:
 
@@ -43,7 +43,7 @@ flowchart LR
 
 In this structure, the GP typically receives a management fee and a portion of the profits (often referred to as the “carried interest” in private equity contexts). Because the GP is directly exposed to the risk of unlimited liability, general partners often form a separate corporation or limited liability entity that acts as the GP to further shield individual managers from personal liability.
 
-### 1.2 Corporations and Trusts
+### Corporations and Trusts
 
 Many alternative mutual funds in Canada—commonly referred to as liquid alternatives—structure themselves as corporations or trusts. This approach is primarily used to meet the regulatory standards set out by the Canadian Securities Administrators (CSA) for public distribution (e.g., NI 81-101 and NI 81-102). Under these rules, funds available to retail investors must publish simplified or detailed prospectuses, follow prescribed investment restrictions, and comply with continuous disclosure obligations.
 
@@ -57,7 +57,7 @@ Many alternative mutual funds in Canada—commonly referred to as liquid alterna
   – The trustee manages the assets on behalf of the unitholders, often delegating day-to-day operations to an external manager.  
   – Income in the trust is generally flowed through to investors, which can yield tax efficiencies but also make the tax treatment more complex.
 
-### 1.3 Offshore Structures
+### Offshore Structures
 
 Some alternative investment managers—particularly hedge funds with global client bases—opt for offshore domiciles (e.g., Cayman Islands, Bermuda, or the British Virgin Islands). Offshore structures may offer:
 
@@ -69,11 +69,11 @@ However, investing in offshore funds can result in unique tax implications for C
 
 ---
 
-## 2. Fee Structures in Alternative Investments
+## Fee Structures in Alternative Investments
 
 Fees are a critical consideration in alternative investments, as they can significantly erode returns if not carefully understood and managed. Common fee components include:
 
-### 2.1 Management Fee
+### Management Fee
 
 The management fee is typically an annual charge based on a percentage of the fund’s net asset value (NAV). For instance, a hedge fund might charge a 2% management fee on total assets.
 
@@ -81,7 +81,7 @@ The management fee is typically an annual charge based on a percentage of the fu
 • Calculation: Generally applied monthly or quarterly based on the stated NAV.  
 • Variation: Fee percentages vary considerably based on the fund’s strategy, size, and performance track record (some charge as low as 1%; others 3% or more).
 
-### 2.2 Performance or Incentive Fee
+### Performance or Incentive Fee
 
 Many hedge funds and private equity funds charge a performance-based fee once returns exceed a benchmark or hurdle rate. The classic model is referred to as “2 and 20”: a 2% management fee and a 20% share of the investment gains above the hurdle.
 
@@ -89,7 +89,7 @@ Many hedge funds and private equity funds charge a performance-based fee once re
 • Crystallization: The frequency (often annually) at which performance fees are calculated.  
 • Optional Clauses: Some funds offer “clawback” features, returning performance fees if future performance dips below prior levels.
 
-### 2.3 High-Water Mark
+### High-Water Mark
 
 A high-water mark ensures that investors do not pay performance fees twice on the same gains. If a fund dips below its previous high-water mark, management must recover those losses before charging performance fees again.
 
@@ -100,11 +100,11 @@ A high-water mark ensures that investors do not pay performance fees twice on th
 
 ---
 
-## 3. Regulation and Offering Documents
+## Regulation and Offering Documents
 
 Alternative investments in Canada may be sold either as prospectus-offered funds (e.g., alternative mutual funds) or as exempt market products (e.g., hedge funds offered by Offering Memorandum). The chosen distribution method heavily influences disclosure, compliance, and ongoing reporting obligations.
 
-### 3.1 Offering Memorandum (OM)
+### Offering Memorandum (OM)
 
 For privately placed funds (e.g., hedge funds targeting accredited investors), an Offering Memorandum (OM) often takes the place of a prospectus. The OM outlines:
 
@@ -115,14 +115,14 @@ For privately placed funds (e.g., hedge funds targeting accredited investors), a
 
 Accredited investors must acknowledge receipt and understanding of the OM before subscribing. Each province has distinct rules under CSA’s National Instrument 45-106 specifying who qualifies for OM distributions.
 
-### 3.2 Prospectus
+### Prospectus
 
 Alternative mutual funds distributed broadly to retail investors must file a simplified or long-form prospectus in compliance with National Instrument 81-101 and 81-102.
 
 • Objective: Ensure full, true, and plain disclosure of all material facts to protect retail investors.  
 • Key Sections: Contains fund name, manager details, investment strategies, risk disclosure, fees, redemption rights, distribution policy, and historical performance data.
 
-### 3.3 Continuous Disclosure Obligations
+### Continuous Disclosure Obligations
 
 Funds are generally subject to “continuous disclosure” requirements, which include:
 
@@ -134,11 +134,11 @@ CIRO (Canadian Investment Regulatory Organization) guidelines also govern intera
 
 ---
 
-## 4. Typical Strategies within Different Structures
+## Typical Strategies within Different Structures
 
 The choice of structure often corresponds directly to the investment strategy, leverage usage, and target investor base.
 
-### 4.1 Hedge Fund Structures
+### Hedge Fund Structures
 
 Hedge funds frequently utilize LP or offshore structures to perform strategies that may not be feasible under regular mutual fund constraints, such as:
 
@@ -149,7 +149,7 @@ Hedge funds frequently utilize LP or offshore structures to perform strategies t
 
 Because hedge fund strategies can involve greater leverage and short selling, these structures must incorporate risk controls and meet certain investor qualification thresholds.
 
-### 4.2 Private Equity Structures
+### Private Equity Structures
 
 Private equity managers typically employ limited partnerships funded by sophisticated or institutional investors such as pension funds, endowments, and high-net-worth individuals. They invest in privately held companies, aiming to improve operational efficiency, governance, and market positioning before exiting through an initial public offering (IPO) or sale.
 
@@ -157,7 +157,7 @@ Private equity managers typically employ limited partnerships funded by sophisti
 • Value Creation: Focuses on active management, restructuring, or strategic acquisitions to boost company value.  
 • Distribution of Proceeds: Profits from exits are allocated among limited partners according to predetermined waterfall structures.
 
-### 4.3 Real Estate Investment Structures
+### Real Estate Investment Structures
 
 Real estate offers the potential for stable income and capital appreciation. Common structures include:
 
@@ -169,16 +169,16 @@ Groups such as the Real Property Association of Canada (REALPAC) provide guideli
 
 ---
 
-## 5. Tax Implications
+## Tax Implications
 
-### 5.1 Flow-Through Entities
+### Flow-Through Entities
 
 A significant advantage of certain alternative structures (e.g., limited partnerships, trusts) is their nature as “flow-through” entities. This means profits and losses are passed on directly to the investor without incurring taxes at the partnership or trust level—though some exceptions apply.
 
 • Capital Gains and Losses: Investors may receive allocations of capital gains or losses, which can affect their personal tax return.  
 • Depreciation and Deductions: Depending on the nature of the underlying assets (e.g., real estate properties), flow-through deductions can reduce taxable income.
 
-### 5.2 Withholding Taxes and Cross-Border Investments
+### Withholding Taxes and Cross-Border Investments
 
 Investors participating in offshore funds or investing in cross-border opportunities must be aware of potential withholding taxes. For example:
 
@@ -190,7 +190,7 @@ Prior consultation with tax professionals and reference to Canada Revenue Agency
 
 ---
 
-## 6. Glossary
+## Glossary
 
 Below is a quick reference for some of the key terms in alternative investment structures:
 
@@ -203,7 +203,7 @@ Below is a quick reference for some of the key terms in alternative investment s
 
 ---
 
-## 7. Best Practices and Challenges
+## Best Practices and Challenges
 
 • Diversification: Evaluate how an alternative structure might complement an existing portfolio.  
 • Thorough Due Diligence: Assess fund strategy, GP experience, fees, liquidity, and regulatory compliance.  
@@ -214,7 +214,7 @@ Below is a quick reference for some of the key terms in alternative investment s
 
 ---
 
-## 8. Conclusion
+## Conclusion
 
 Alternative investment structures offer sophisticated investors diverse opportunities to meet enhanced return objectives, reduce correlation, and leverage active investment strategies within and outside Canada. With an array of legal frameworks—limited partnerships, corporations, and trusts—fund managers tailor structures to optimize tax efficiency, risk management, and regulatory compliance. For investors, navigating the complexities of fees, disclosure obligations, tax implications, and strategic alignment is critical. By combining thorough due diligence with clear investment objectives, Canadian individuals and institutions can incorporate alternative investments into a well-rounded portfolio.
 

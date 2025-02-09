@@ -22,7 +22,7 @@ We also provide references to official Canadian regulations and other resources 
 
 ---
 
-### 6.1.1 Financial Planning Within Varied Family Structures
+### Financial Planning Within Varied Family Structures
 
 Canadian families come in all forms, each having its own set of financial considerations. Understanding the nuances of these distinct structures and how provinces handle such relationships is critical for sound financial planning.
 
@@ -58,7 +58,7 @@ In Alberta, the Family Property Act may extend certain rights to “adult interd
 
 ---
 
-### 6.1.2 Cultural and Religious Factors
+### Cultural and Religious Factors
 
 Cultural and religious practices can shape financial decisions involving marriage, inheritance, and charitable giving. Advisors should remain respectful and open-minded:  
 
@@ -68,7 +68,7 @@ Cultural and religious practices can shape financial decisions involving marriag
 
 ---
 
-### 6.1.3 Responsibilities to Minor Children or Dependents
+### Responsibilities to Minor Children or Dependents
 
 Financial professionals can help families fulfill legal obligations and personal goals relating to children’s well-being and education.
 
@@ -91,7 +91,7 @@ Suppose parents contribute $2,500 annually to an RESP. The Canada Education Savi
 
 ---
 
-### 6.1.4 Caregiving Roles and Responsibilities
+### Caregiving Roles and Responsibilities
 
 As Canada’s population ages, many families face eldercare responsibilities. Financial advisors should consider:
 
@@ -119,7 +119,7 @@ flowchart TB
 
 ---
 
-### 6.1.5 Glossary
+### Glossary
 
 • **Blended Family:**  
   A family unit where one or both partners have children from previous relationships, merging into the new household.  

@@ -42,7 +42,7 @@ flowchart TB
     E --> F[Forward-Looking Statements]
 ```
 
-#### 2.1 Letter to Shareholders
+#### Letter to Shareholders
 
 The annual report customarily begins with a letter from the Chief Executive Officer (CEO) or the Chair of the Board of Directors. This letter offers a narrative tone and aims to:
 
@@ -52,7 +52,7 @@ The annual report customarily begins with a letter from the Chief Executive Offi
 
 While not typically heavy on granular detail, the letter provides a theme that readers can keep in mind as they review subsequent sections.
 
-#### 2.2 Management’s Discussion and Analysis (MD&A)
+#### Management’s Discussion and Analysis (MD&A)
 
 Immediately following the introductory letter, the MD&A section presents an essential explanatory narrative of the company’s performance. In Canada, the CSA provides guidance on how public companies must present the MD&A. This section often includes:
 
@@ -64,7 +64,7 @@ Immediately following the introductory letter, the MD&A section presents an esse
 
 The CSA Staff Notice on MD&A best practices (available at https://www.securities-administrators.ca/) provides a comprehensive framework to help issuers present clear, relevant, and balanced information. This MD&A section acts as a road map, helping current and potential investors interpret the numbers and anticipate where the company might go next.
 
-#### 2.3 Audited Financial Statements and Notes
+#### Audited Financial Statements and Notes
 
 At the heart of the annual report are the audited financial statements, typically including:
 
@@ -82,7 +82,7 @@ Accompanying the primary statements are the notes to the financial statements. T
 
 With open-source accounting software and financial tools (such as GnuCash or similar open platforms), investors and analysts can import these statements and perform ratio analyses, trend evaluations, and peer comparisons.
 
-#### 2.4 Auditor’s Report
+#### Auditor’s Report
 
 Before readers can assess the numbers, they typically turn to the auditor’s report for reassurance that the company’s financial statements are presented fairly and in accordance with the required accounting standards (IFRS in Canada for most public companies). The external auditor’s primary responsibilities include:
 
@@ -92,7 +92,7 @@ Before readers can assess the numbers, they typically turn to the auditor’s re
 
 An unqualified (“clean”) opinion from the auditor typically indicates that the investor can rely on the statements. However, if the auditor issues a qualified opinion, adverse opinion, or highlights a “going concern” issue, these warnings warrant further investigation by stakeholders.
 
-#### 2.5 Corporate Social Responsibility (CSR) or Environmental, Social, and Governance (ESG) Disclosures
+#### Corporate Social Responsibility (CSR) or Environmental, Social, and Governance (ESG) Disclosures
 
 Many annual reports now include a section devoted to corporate social responsibility (CSR) or broader Environment, Social, and Governance (ESG) factors, reflecting modern expectations from shareholders, customers, and the public. ESG guidelines and voluntary reporting frameworks (such as the Global Reporting Initiative — GRI) have gained traction because they:
 
@@ -102,7 +102,7 @@ Many annual reports now include a section devoted to corporate social responsibi
 
 Canadian pension funds, for example, increasingly consider ESG factors in their investment strategies. Their rationale is that strong ESG performance can signal effective risk management and potentially lead to more sustainable long-term returns.
 
-#### 2.6 Forward-Looking Statements Disclaimers
+#### Forward-Looking Statements Disclaimers
 
 Publicly traded companies are encouraged—and often required—to provide an outlook on future projects or profitability. However, Canadian regulators, including the CSA and CIRO, mandate that companies include cautionary disclaimers around forward-looking statements to remind investors that such projections:
 

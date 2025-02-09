@@ -16,7 +16,7 @@ This section provides an in-depth look at the core features, structures, and con
 
 ---
 
-## 1. Principal (Face Value or Par Value)
+## Principal (Face Value or Par Value)
 
 At the foundation of every debt security lies its principal (also called face value or par value). This is the amount the issuer borrows and agrees to repay in full on the bond’s maturity date. In Canada, many bonds have a standard principale of $1,000 or $5,000. The principal is also the basis on which interest payments are generally calculated.
 
@@ -26,7 +26,7 @@ At the foundation of every debt security lies its principal (also called face va
 
 ---
 
-## 2. Coupon Rate
+## Coupon Rate
 
 The coupon rate is the nominal, or stated, annual interest rate that determines the interest payments a bondholder receives. This percentage is based on the bond’s face value, not on its market price. While most bonds have a fixed coupon, some issues offer a floating or adjustable rate.
 
@@ -38,7 +38,7 @@ A floating-rate corporate bond might pay a coupon tied to the 3-month CDOR plus 
 
 ---
 
-## 3. Maturity Date
+## Maturity Date
 
 Debt securities come with a defined maturity date—the point in time when the issuer repays the principal to the investor. Maturities can range from very short-term (e.g., 30-day commercial paper) to long-term (e.g., 30-year bonds issued by the Government of Canada or major corporations).
 
@@ -51,7 +51,7 @@ Bonds with longer maturities typically offer higher coupon rates to compensate f
 
 ---
 
-## 4. Interest Payment Structure
+## Interest Payment Structure
 
 Depending on the bond’s structure, interest payments can be made annually, semi-annually, quarterly, or even monthly. In Canada, it is very common for government bonds and many corporate bonds to pay interest semi-annually—effectively splitting the annual coupon rate into two equal payments each year.
 
@@ -61,7 +61,7 @@ Depending on the bond’s structure, interest payments can be made annually, sem
 
 ---
 
-## 5. Yield
+## Yield
 
 Yield is the reward (or return) an investor receives for holding a debt security. It is influenced by multiple factors, including the coupon rate, the bond’s price (relative to its par value), time to maturity, and the creditworthiness of the issuer. Common yield measures include:
 
@@ -83,7 +83,7 @@ In this diagram, the yield to maturity (E) represents the combination of the cou
 
 ---
 
-## 6. Market Price
+## Market Price
 
 The market price of a bond is the price investors are willing to pay (or accept) in the secondary market. This price varies based on:
 
@@ -97,7 +97,7 @@ The market price of a bond is the price investors are willing to pay (or accept)
 
 ---
 
-## 7. Indentures, Covenants, and Legal Protections
+## Indentures, Covenants, and Legal Protections
 
 An indenture is the formal contract that outlines the terms of the bond, including the rights and obligations of both the issuer and the bondholders. Within indentures, you may find covenants—legal promises or restrictions designed to protect investors.
 
@@ -110,7 +110,7 @@ Some bonds have additional protective features, such as a sinking fund. A sinkin
 
 ---
 
-## 8. Risk Profile of Debt Securities
+## Risk Profile of Debt Securities
 
 While debt securities often provide more stability than equity investments, they still expose investors to several risks, including:
 
@@ -123,7 +123,7 @@ While debt securities often provide more stability than equity investments, they
 
 ---
 
-## 9. Canadian Debt Securities Landscape
+## Canadian Debt Securities Landscape
 
 In Canada, debt securities are issued by various levels of government and corporations:
 
@@ -137,7 +137,7 @@ Major Canadian banks like RBC or TD often issue bonds to raise capital for their
 
 ---
 
-## 10. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
 1. Case Study – Canadian Pension Fund  
    • A major Canadian pension fund invests in long-term Government of Canada bonds to match its long-dated liabilities. The stable coupon income helps meet pension payments, and the high credit quality aligns with the fund’s low-risk tolerance.
@@ -147,7 +147,7 @@ Major Canadian banks like RBC or TD often issue bonds to raise capital for their
 
 ---
 
-## 11. Recommended Resources and References
+## Recommended Resources and References
 
 • Regulatory Bodies:  
   – Canadian Investment Regulatory Organization (CIRO): Offers guidance on managing and distributing fixed-income products.  

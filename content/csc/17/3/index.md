@@ -42,7 +42,7 @@ Where:
 
 NavPs is normally computed at the close of each trading day.
 
-#### 2.1 Factors Affecting Total Assets
+#### Factors Affecting Total Assets
 
 1. **Market Value of Securities**  
    The value of each equity or fixed-income security in the portfolio changes throughout the trading day. At market close, each security’s final price is determined, thus affecting the total assets of the fund.
@@ -55,7 +55,7 @@ NavPs is normally computed at the close of each trading day.
    • Unrealized gains are paper profits from securities that are still held.  
    Although realized capital gains add to the fund’s total assets, they can also result in taxable distributions to unitholders at year’s end.
 
-#### 2.2 Factors Affecting Total Liabilities
+#### Factors Affecting Total Liabilities
 
 Liabilities primarily encompass any fees or expenses that the fund owes but has not yet paid. This often includes:  
 1. **Management and Operating Fees**: Charges for managing the fund, marketing expenses, and overhead.  

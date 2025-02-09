@@ -19,7 +19,7 @@ Though the two approaches differ in their methods and underlying assumptions, th
 
 ---
 
-## 1. Introduction to Equity Analysis
+## Introduction to Equity Analysis
 
 Investing in equities involves balancing expected returns against inherent market risks. The Canadian Securities Course (CSC®) introduces two large domains of equity analysis—fundamental and technical—that cater to the varying strategies, time horizons, and risk appetites of market participants.
 
@@ -37,13 +37,13 @@ Investing in equities involves balancing expected returns against inherent marke
 
 ---
 
-## 2. Fundamental Analysis
+## Fundamental Analysis
 
-### 2.1 Definition and Purpose
+### Definition and Purpose
 
 Fundamental analysis seeks to determine a stock’s “intrinsic value” by examining economic, industry-specific, and company-level factors. The goal is to estimate a fair value for the shares and compare this with the current market price, which may be above or below that fair value.
 
-### 2.2 Macro-Level Considerations
+### Macro-Level Considerations
 
 1. **Economic Indicators**  
    Analysts start by assessing broader economic data—GDP growth, inflation rates, and employment levels—to gauge overall market conditions. In Canada, crucial economic releases come from agencies like Statistics Canada and the Bank of Canada. For example, when analyzing a Canadian bank’s stock—such as RBC (Royal Bank of Canada) or TD (Toronto-Dominion Bank)—analysts pay particular attention to interest rate trends, housing market indicators, and consumer debt levels.
@@ -53,7 +53,7 @@ Fundamental analysis seeks to determine a stock’s “intrinsic value” by exa
    • **Energy Sector**: Fluctuations in oil prices, environmental regulations, and geopolitical events can significantly impact energy companies.  
    • **Financial Sector**: Regulations from the Office of the Superintendent of Financial Institutions (OSFI) and market conditions shape the profitability of banks and insurance firms.
 
-### 2.3 Company-Specific Analysis
+### Company-Specific Analysis
 
 1. **Financial Statements**  
    Investors review a company’s balance sheet, income statement, and cash flow statement to assess its financial health. Key metrics include:  
@@ -88,7 +88,7 @@ Here, each step feeds into the next, building a holistic picture and culminating
 
 ---
 
-### 2.4 Practical Case Study: RBC
+### Practical Case Study: RBC
 
 Consider Royal Bank of Canada (RBC), one of Canada’s largest financial institutions:
 
@@ -101,19 +101,19 @@ If RBC’s intrinsic value (based on the analyst’s model) exceeds its current 
 
 ---
 
-## 3. Technical Analysis
+## Technical Analysis
 
-### 3.1 Definition and Purpose
+### Definition and Purpose
 
 Technical analysis focuses on price trends, trading volume, and other statistical indicators to predict future market behavior. The underlying premise is that all relevant information is eventually reflected in price and volume data, and that patterns repeat over time.
 
-### 3.2 Chart Types and Tools
+### Chart Types and Tools
 
 1. **Line Charts**: Show closing prices over time and help identify general trends.  
 2. **Bar and Candlestick Charts**: Provide more detail, including opening, closing, high, and low prices for each session.  
 3. **Support and Resistance Levels**: These horizontal price ranges often indicate where buying or selling pressure meets momentum, halting a trend.
 
-### 3.3 Technical Indicators
+### Technical Indicators
 
 1. **Moving Averages (MA)**  
    • Simple Moving Average (SMA) and Exponential Moving Average (EMA) smooth out short-term fluctuations, highlighting overall trends.  
@@ -138,7 +138,7 @@ flowchart TB
     E --> F[Execute and Manage Trades]
 ```
 
-### 3.4 Example: Momentum Trading on TSX
+### Example: Momentum Trading on TSX
 
 An investor analyzing a mid-cap technology stock listed on the Toronto Stock Exchange (TSX) might observe:  
 - A consistent upward trend developing in the price chart.  
@@ -149,7 +149,7 @@ If these technical signals align with the investor’s risk profile and near-ter
 
 ---
 
-## 4. Integrating Fundamental and Technical Analysis
+## Integrating Fundamental and Technical Analysis
 
 Although the two methodologies appear distinct, they often complement each other:
 
@@ -159,23 +159,23 @@ Although the two methodologies appear distinct, they often complement each other
 
 ---
 
-## 5. Regulatory and Compliance Considerations in Canada
+## Regulatory and Compliance Considerations in Canada
 
-### 5.1 Standards of Conduct and Suitability (CIRO)
+### Standards of Conduct and Suitability (CIRO)
 
 The Canadian Investment Regulatory Organization (CIRO) sets standards for advisors and analysts, including know-your-client (KYC) and know-your-product (KYP) guidelines. These ensure that recommendations derived from any analytical approach—fundamental or technical—are suitable for clients’ objectives, risk tolerance, and overall profiles.
 
-### 5.2 Provincial Regulations and the CSA
+### Provincial Regulations and the CSA
 
 The Canadian Securities Administrators (CSA) coordinates provincial and territorial regulators to promote harmonized securities regulation across Canada. Analysts consulting publicly available financial data must adhere to disclosure rules and insider trading restrictions.
 
-### 5.3 Transparency and Investor Protection
+### Transparency and Investor Protection
 
 When advisors provide clients with research reports or investment recommendations based on fundamental or technical analysis, transparency is paramount. Regulatory bodies encourage clear explanations of methodologies, potential conflicts of interest, and relevant disclosures.
 
 ---
 
-## 6. Practical Guidelines and Best Practices
+## Practical Guidelines and Best Practices
 
 1. **Maintain Objectivity**: Avoid confirmation bias by regularly challenging your assumptions and cross-checking your analysis with independent sources.  
 2. **Use Reliable Data**: Ensure data accuracy by cross-referencing multiple providers. Open-source tools like Python’s “pandas” and “matplotlib” can help clean data and generate analytical charts.  
@@ -184,7 +184,7 @@ When advisors provide clients with research reports or investment recommendation
 
 ---
 
-## 7. Actionable Insights and Next Steps
+## Actionable Insights and Next Steps
 
 - **Practice**: Use real-world data from the TSX or from major Canadian companies (e.g., RBC, TD) to test valuation models and technical indicators.  
 - **Compare**: Evaluate differences in outcomes when using pure fundamental, pure technical, and a hybrid method.  

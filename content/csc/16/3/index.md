@@ -16,7 +16,7 @@ In this section, we delve into each core component of an IPS and explore how it 
 
 ---
 
-## 1. Purpose and Importance of an Investment Policy Statement
+## Purpose and Importance of an Investment Policy Statement
 
 A properly constructed IPS serves multiple objectives:
 
@@ -31,11 +31,11 @@ By doing so, the IPS reduces miscommunication and the potential for emotional or
 
 ---
 
-## 2. Key Components of an IPS
+## Key Components of an IPS
 
 Below are the primary elements typically included in an IPS:
 
-### 2.1 Client Profile
+### Client Profile
 
 The client profile section establishes the foundation for all subsequent decisions:
 
@@ -50,7 +50,7 @@ The client profile section establishes the foundation for all subsequent decisio
 
 By documenting these in the IPS, both client and advisor can reference them to avoid deviating from clearly stated goals.
 
-### 2.2 Asset Allocation Guidelines
+### Asset Allocation Guidelines
 
 An asset allocation plan provides target mixes for various asset classes (e.g., equities, fixed income, cash equivalents, and alternative investments). Typically, the IPS will specify:
 
@@ -65,7 +65,7 @@ An asset allocation plan provides target mixes for various asset classes (e.g., 
 
 For example, a Canadian investor seeking moderate growth might allocate 60% to equities, 35% to bonds (with a focus on Government of Canada securities or provincial bonds), and 5% to cash. These targets keep the portfolio aligned with medium risk tolerance.
 
-### 2.3 Rebalancing Protocols
+### Rebalancing Protocols
 
 One of the most critical aspects of maintaining a disciplined investment strategy is rebalancing. This section of the IPS details:
 
@@ -80,7 +80,7 @@ One of the most critical aspects of maintaining a disciplined investment strateg
 
 For instance, RBC or TD pension fund managers might systematically rebalance once a quarter if equity holdings deviate more than 3% from the target, ensuring consistent exposure to desired asset class weightings.
 
-### 2.4 Performance Benchmarks
+### Performance Benchmarks
 
 A performance benchmark is a touchstone for evaluating a portfolio’s success relative to the market. This section clarifies which benchmark(s) will be used:
 
@@ -94,7 +94,7 @@ A performance benchmark is a touchstone for evaluating a portfolio’s success r
 
 This approach allows ongoing performance tracking, ensuring the portfolio meets or exceeds targets within acceptable risk parameters.
 
-### 2.5 Risk Tolerance and Liquidity Requirements
+### Risk Tolerance and Liquidity Requirements
 
 These guidelines help shape the portfolio’s overall construction and management:
 
@@ -108,7 +108,7 @@ These guidelines help shape the portfolio’s overall construction and managemen
 
 Clients approaching retirement, for example, may require lower volatility and higher liquidity. In that case, the IPS might tilt more heavily toward fixed-income securities, cash, or short-term instruments to ensure sufficient liquidity.
 
-### 2.6 Ethical, Social, and Governance (ESG) Mandates
+### Ethical, Social, and Governance (ESG) Mandates
 
 Canada’s investment landscape increasingly incorporates ESG factors. If a client has ESG preferences, the IPS should outline:
 
@@ -125,7 +125,7 @@ For example, a foundation focused on sustainable development might exclude coal 
 
 ---
 
-## 3. Building Flexibility into the IPS
+## Building Flexibility into the IPS
 
 Though the IPS is a guiding document, it must remain adaptable over time:
 
@@ -141,7 +141,7 @@ Reviewing and revising the IPS ensures that it reflects both current market real
 
 ---
 
-## 4. Canadian Regulatory Insights and Best Practices
+## Canadian Regulatory Insights and Best Practices
 
 A strong IPS aligns with Canadian regulatory frameworks for investor protection:
 
@@ -158,7 +158,7 @@ By adhering to these guidelines, advisors can better fulfill their fiduciary res
 
 ---
 
-## 5. Practical Example: A Canadian Pension Fund
+## Practical Example: A Canadian Pension Fund
 
 Consider a simplified case study of a medium-sized Canadian pension fund managed by an investment team at RBC:
 
@@ -174,7 +174,7 @@ When inflation spikes or bond yields change, the investment team can adjust the 
 
 ---
 
-## 6. Flowchart of the IPS Process
+## Flowchart of the IPS Process
 
 Below is a Mermaid diagram illustrating how the IPS fits into the broader portfolio management process:
 
@@ -197,7 +197,7 @@ flowchart TB
 
 ---
 
-## 7. Step-by-Step Guidance to Creating an IPS
+## Step-by-Step Guidance to Creating an IPS
 
 1. Conduct a Comprehensive Client Profile Interview  
    – Gather essential data: age, occupation, income, financial plans, and risk appetite.  
@@ -238,7 +238,7 @@ flowchart TB
 
 ---
 
-## 8. Common Pitfalls and Challenges
+## Common Pitfalls and Challenges
 
 • Drafting an IPS That Is Too Rigid:  
   – May hamper the advisor’s ability to respond to new opportunities or changing market conditions.
@@ -257,7 +257,7 @@ flowchart TB
 
 ---
 
-## 9. Recommended Resources
+## Recommended Resources
 
 • CIRO Website (www.ciro.ca) – Provides regulatory updates and guidance on client-advisor relationship models.  
 • CFA Institute (cfainstitute.org) – Offers rigorous materials and publications on drafting Investment Policy Statements.  

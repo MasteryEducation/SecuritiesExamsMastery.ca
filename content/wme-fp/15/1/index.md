@@ -16,27 +16,27 @@ In this section, we explore the key steps of estate settlement, highlight variou
 
 ---
 
-### 1. Key Elements in Passing on the Estate
+### Key Elements in Passing on the Estate
 
-#### 1.1 Estate Definition
+#### Estate Definition
 
 The term “estate” encompasses both the assets and liabilities a person leaves behind at the time of death. Typical assets include real estate holdings, registered plans (like RRSPs, RRIFs, TFSAs, and pension plans), non-registered investments, bank accounts, insurance proceeds, and personal items (e.g., art collections). Liabilities might include mortgages, unpaid bills, taxes, or credit card balances. Because estates vary greatly in size and complexity, thorough documentation and strategic planning are essential.
 
-#### 1.2 Executor (Estate Trustee)
+#### Executor (Estate Trustee)
 
 An executor (also referred to as an “estate trustee” in some jurisdictions) is the legal representative responsible for gathering and protecting estate assets, paying off liabilities and taxes, and distributing the remainder of the estate following the instructions in the will or, in cases of intestacy, according to provincial/territorial law. The executor role can be assigned to an individual (e.g., a spouse, adult child, or close friend) or a corporate entity (e.g., a trust company).
 
 Because acting as an executor involves a broad range of financial and legal responsibilities, it is wise for testators (the creators of the will) to select someone who has the time, organizational skills, and relevant knowledge. Executors often seek professional assistance from accountants, lawyers, and financial advisors to simplify tasks and ensure accuracy.
 
-#### 1.3 Beneficiaries
+#### Beneficiaries
 
 Beneficiaries are those who stand to gain from the estate’s assets—individual persons, organizations, or charities. The will typically identifies beneficiaries and indicates how the estate should be shared. However, certain kinds of property, such as registered accounts (RRSPs, RRIFs, TFSAs) or insurance policies, often bypass the will altogether and fall directly to named beneficiaries. This direct transfer can reduce probate fees and delays.
 
 ---
 
-### 2. Ensuring a Smooth Estate Transfer
+### Ensuring a Smooth Estate Transfer
 
-#### 2.1 Organizing Financial Affairs
+#### Organizing Financial Affairs
 
 Clients should keep accurate, up-to-date records of their entire financial picture. Key items include:
 
@@ -50,13 +50,13 @@ Clients should keep accurate, up-to-date records of their entire financial pictu
 
 In practice, maintaining a secure binder or electronic folder containing all vital documents is a powerful strategy. Clients often rely on password manager applications or encrypted digital vaults to store account passwords and instructions for electronic assets. For smaller estates, open-source spreadsheet tools (available from provincial legal clinic websites or consumer advocacy organizations) can be a helpful starting point for creating a comprehensive asset summary.
 
-#### 2.2 Importance of a Valid Will
+#### Importance of a Valid Will
 
 A valid and up-to-date will is the cornerstone of estate planning. Each province and territory in Canada has specific rules that govern the preparation and execution of a will. While it is possible to draft a will without professional help, the legal complexity usually justifies, and in more complicated cases all but demands, the involvement of an estate lawyer (or a notary in Quebec).
 
 In the absence of a valid will, “intestacy” rules dictate how assets are distributed. These rules aim to approximate what most would consider a fair outcome—largely prioritizing spouses, common-law partners, and children—but they rarely mirror your client’s personal preferences precisely. Consequently, you should urge clients to have a formal will to direct assets in line with their unique wishes.
 
-#### 2.3 Joint Ownership Structures
+#### Joint Ownership Structures
 
 Joint ownership can avoid probate and expedite asset transfers, but it also introduces estate planning issues if not utilized carefully. The two principal property ownership structures are:
 
@@ -65,7 +65,7 @@ Joint ownership can avoid probate and expedite asset transfers, but it also intr
 
 Balancing potential probate savings against potential disputes or unintended consequences (e.g., property claims from extended family members) is crucial. Clients should also weigh exposure to creditors or legal claims against the benefits of joint ownership.
 
-#### 2.4 Beneficiary Designations
+#### Beneficiary Designations
 
 Registered investments (RRSPs, RRIFs, TFSAs, pension plans) and insurance policies can bypass the estate via named beneficiaries. This arrangement can lead to faster payouts and fewer probate fees. When advising clients, emphasize:
 
@@ -74,7 +74,7 @@ Registered investments (RRSPs, RRIFs, TFSAs, pension plans) and insurance polici
 • Confirming that designations remain valid in each province/territory.  
 • Understanding that naming “Estate” as a beneficiary funnels the asset into the estate, potentially subjecting it to probate and creditor claims.
 
-#### 2.5 Settling Outstanding Debts and Funeral Costs
+#### Settling Outstanding Debts and Funeral Costs
 
 Debts must be satisfied before distributions occur. Executors need to:
 
@@ -86,23 +86,23 @@ Discussing funeral preferences ahead of time—whether to hold a simple memorial
 
 ---
 
-### 3. The Advisor’s Role in Passing on the Estate
+### The Advisor’s Role in Passing on the Estate
 
-#### 3.1 Education and Facilitation
+#### Education and Facilitation
 
 Financial planners play a pivotal role in explaining the intricacies of estate settlement. By reminding clients to update their wills, beneficiary designations, and plan structures regularly, you help minimize later disputes and delays. You may propose specialized estate structures—such as testamentary trusts—that can streamline administration and provide important benefits like income splitting and protection for minors or dependents.
 
-#### 3.2 Collaborating with Estate Lawyers or Notaries
+#### Collaborating with Estate Lawyers or Notaries
 
 Canadian estate laws differ by province, and complex estates typically require specialized legal advice. Encourage clients to consult a licensed estate lawyer or a notary (in Quebec) to review wills, establish trusts, and resolve any estate-related complexities. By maintaining a network of reputable legal experts, you can provide referrals to address advanced estate planning scenarios effectively.
 
-#### 3.3 Canadian Context for Estate Administration
+#### Canadian Context for Estate Administration
 
 Each province has its own legislation governing wills, estate administration, and probate. For example, Ontario’s Ministry of the Attorney General oversees the probate process known as the “Certificate of Appointment of Estate Trustee,” while British Columbia follows the Wills, Estates and Succession Act (WESA). Professionals must be cognizant of each province’s unique rules. Staying informed about regulatory changes can help you offer sound, up-to-date advice.
 
 ---
 
-### 4. Practical Example: Smooth Estate Transition
+### Practical Example: Smooth Estate Transition
 
 Consider a client named Sandra, who has the following structure:
 
@@ -115,7 +115,7 @@ Upon her passing, the RRSP and TFSA transfer directly to her daughter, bypassing
 
 ---
 
-### 5. Diagram: Estate Settlement Process Overview
+### Diagram: Estate Settlement Process Overview
 
 Below is a simplified illustration of how assets and liabilities flow during the estate settlement process:
 
@@ -137,7 +137,7 @@ Explanation of Diagram:
 
 ---
 
-### 6. Best Practices and Potential Pitfalls
+### Best Practices and Potential Pitfalls
 
 • **Regular Updates:** Wills and beneficiary designations can become outdated quickly, particularly after marriages, divorces, births, or deaths in the family. Recommend that clients review these documents every few years or whenever they experience major life changes.  
 • **Executor Preparedness:** Encourage clients to discuss estate administration details with their chosen executor. Surprises, such as hidden assets, unrecorded debts, or unfamiliar digital accounts, can stall estate settlement.  
@@ -147,7 +147,7 @@ Explanation of Diagram:
 
 ---
 
-### 7. Canadian Financial Regulations and Resources
+### Canadian Financial Regulations and Resources
 
 • **Government of Canada – Wills and Estate Planning**  
   https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-info-share.html  
@@ -170,7 +170,7 @@ Explanation of Diagram:
 
 ---
 
-### 8. Summary and Action Points
+### Summary and Action Points
 
 Passing on the estate involves prudent planning and clear communication. By encouraging clients to:
 

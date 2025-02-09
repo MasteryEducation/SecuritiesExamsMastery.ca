@@ -14,11 +14,11 @@ Exchange-Traded Funds (ETFs) have revolutionized how both institutional and reta
 
 ---
 
-## 1. Introduction to ETFs
+## Introduction to ETFs
 
 ETFs are investment vehicles that allow investors to buy shares representing a basket of stocks, bonds, commodities, or other assets. Unlike mutual funds, which are typically priced once per day at Net Asset Value (NAV), ETFs trade on exchanges (e.g., the Toronto Stock Exchange, TSX) throughout the trading day. This intraday liquidity grants investors the ability to buy or sell shares at prevailing market prices whenever the exchange is open.
 
-### 1.1 Key Similarities and Differences with Mutual Funds
+### Key Similarities and Differences with Mutual Funds
 
 • Similarities  
   – Pooled Investment Vehicle: Both ETFs and mutual funds pool money from many investors.  
@@ -33,9 +33,9 @@ ETFs are investment vehicles that allow investors to buy shares representing a b
 
 ---
 
-## 2. How ETFs Work
+## How ETFs Work
 
-### 2.1 Creation and Redemption Mechanism
+### Creation and Redemption Mechanism
 
 One of the most significant features of ETFs is the creation/redemption mechanism. This process helps keep an ETF’s market price aligned with the net asset value of its underlying holdings. Authorized participants—typically large institutional entities such as major banks or brokerage firms—can create or redeem ETF shares in large blocks (often called “creation units”).
 
@@ -61,7 +61,7 @@ This process helps to minimize large discrepancies between the ETF’s market pr
 
 ---
 
-## 3. ETF Types and Strategies
+## ETF Types and Strategies
 
 ETFs have been launched to track virtually every market segment. Common categories include:
 
@@ -91,13 +91,13 @@ ETFs have been launched to track virtually every market segment. Common categori
 
 ---
 
-## 4. Cost Structure of ETFs
+## Cost Structure of ETFs
 
-### 4.1 Management Expense Ratio (MER)
+### Management Expense Ratio (MER)
 
 MER covers costs associated with operating the fund, including management fees, administrative expenses, and other overhead. In Canada, ETFs generally charge lower MERs compared to mutual funds, reflecting their index-tracking or rules-based nature. For example, a broad-based index ETF may charge an MER as low as 0.05% to 0.30%, while an actively managed ETF might be 0.50% or higher.
 
-### 4.2 Trading Costs and Bid-Ask Spreads
+### Trading Costs and Bid-Ask Spreads
 
 Investors pay commissions whenever they buy or sell an ETF. Depending on the brokerage, a commission might be a flat rate or a per-share charge. Over time, frequent trading can add up, especially for smaller positions.
 
@@ -105,7 +105,7 @@ Additionally, each ETF has a bid-ask spread—the difference between the highest
 
 ---
 
-## 5. Tax Efficiency
+## Tax Efficiency
 
 ETFs generally exhibit tax efficiency, especially passive index ETFs, by minimizing portfolio turnover. Fewer trades mean fewer taxable capital gains distributions passed to unitholders. This is especially relevant for non-registered accounts (i.e., those not sheltered under Registered Retirement Savings Plans (RRSPs) or Tax-Free Savings Accounts (TFSAs)).
 
@@ -113,13 +113,13 @@ Further, creation/redemption in-kind processes often result in minimal capital g
 
 ---
 
-## 6. Regulatory Landscape in Canada
+## Regulatory Landscape in Canada
 
-### 6.1 ETF Facts
+### ETF Facts
 
 Under National Instrument 41-101, all ETF providers in Canada must issue an “ETF Facts” document. Comparable to the “Fund Facts” required for mutual funds, this document outlines crucial information such as fees, portfolio holdings, past performance, and key risks. 
 
-### 6.2 CIRO Guidelines for Advisors
+### CIRO Guidelines for Advisors
 
 The Canadian Investment Regulatory Organization (CIRO) enforces rules ensuring advisors follow best practices when recommending investments, including ETFs. Financial planners should perform due diligence on ETF suitability for specific clients’ risk tolerances, objectives, and investment horizons. This includes:
 
@@ -132,9 +132,9 @@ Advisors are also encouraged to document their recommendations thoroughly, highl
 
 ---
 
-## 7. Constructing Portfolios with ETFs
+## Constructing Portfolios with ETFs
 
-### 7.1 Core-Satellite Strategy
+### Core-Satellite Strategy
 
 One popular approach to building ETF-centric portfolios is the “core-satellite” model:
 
@@ -143,7 +143,7 @@ One popular approach to building ETF-centric portfolios is the “core-satellite
 
 This approach can be efficient, balancing diversification with tactical allocations based on market outlook or individual client preferences.
 
-### 7.2 Case Study: Canadian Equity & Bond Allocation
+### Case Study: Canadian Equity & Bond Allocation
 
 Consider a client wanting a simple 60/40 stock-bond portfolio. The advisor might select:  
 1. 60% in an S&P/TSX Composite Index ETF (e.g., trading under RBC iShares or BMO).  
@@ -153,7 +153,7 @@ This classic allocation provides stability through bond holdings and growth pote
 
 ---
 
-## 8. Liquidity Considerations
+## Liquidity Considerations
 
 ETFs trade throughout market hours, but not all ETFs are equally liquid. A large ETF tracking a widely followed index typically has tight bid-ask spreads and high trading volumes—ideal for most investors. In contrast, niche or thinly traded ETFs (e.g., certain sector-specific offerings) may exhibit:
 
@@ -164,9 +164,9 @@ Advisors often check an ETF’s average daily volume and the presence of market 
 
 ---
 
-## 9. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 9.1 Best Practices
+### Best Practices
 
 1. **Understand the Underlying Index:** Know what securities the ETF holds or which index it tracks.  
 2. **Evaluate Total Costs:** Assess MER, tracking error, trading commissions, and bid-ask spread.  
@@ -174,7 +174,7 @@ Advisors often check an ETF’s average daily volume and the presence of market 
 4. **Monitor ETFs Regularly:** Keep an eye on performance, changes to the underlying index, and expense ratio adjustments.  
 5. **Be Aware of Leverage and Inverse ETFs:** These products are more complex and can lead to unexpected results if held long-term.
 
-### 9.2 Common Pitfalls
+### Common Pitfalls
 
 • **Over-Trading:** High-frequency ETF trades can erode returns due to transaction costs.  
 • **Misjudging Liquidity:** Low liquidity can widen spreads and reduce the ease of entering/exiting positions.  
@@ -183,7 +183,7 @@ Advisors often check an ETF’s average daily volume and the presence of market 
 
 ---
 
-## 10. Step-by-Step ETF Selection Guide
+## Step-by-Step ETF Selection Guide
 
 Below is a concise step-by-step process for choosing the right ETF:
 
@@ -198,7 +198,7 @@ Below is a concise step-by-step process for choosing the right ETF:
 
 ---
 
-## 11. Additional Resources
+## Additional Resources
 
 - **Regulations and Guidelines**  
    – Canadian Securities Administrators (CSA): Details on “ETF Facts” under National Instrument 41-101.  
@@ -216,7 +216,7 @@ Below is a concise step-by-step process for choosing the right ETF:
 
 ---
 
-## 12. Summary
+## Summary
 
 ETFs provide an accessible, cost-efficient avenue to gain exposure to a variety of asset classes. Their real-time trading, generally low MERs, tax efficiency, and transparent structure have made them a staple in modern Canadian wealth management. Whether building core holdings or exploring niche market themes, advisors and investors alike benefit from understanding how ETFs function, the factors that influence ETF pricing, and the regulatory requirements that guide these investments in Canada.
 

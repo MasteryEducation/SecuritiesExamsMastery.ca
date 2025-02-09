@@ -24,12 +24,12 @@ Structured products are essentially pre-packaged investment strategies designed 
 
 Investment dealers regulated by the Canadian Investment Regulatory Organization (CIRO) often distribute these products. The structure typically involves combining conventional underlying securities (e.g., stocks, bonds) with derivatives (e.g., options or swaps) to achieve specific objectives.
 
-#### 1.1 Key Benefits and Potential Uses
+#### Key Benefits and Potential Uses
 • Risk Management and Capital Protection: Investors seeking protection of principal can benefit from structured products that guarantee a portion or all of the initial investment at maturity.  
 • Yield Enhancement: Certain structures will aim to deliver higher coupon rates or additional yield relative to a straightforward fixed-income or equity investment.  
 • Diversification: Structured products can provide exposure to unusual or complex assets (e.g., a mix of currencies and commodities) that would otherwise be difficult to replicate in a traditional portfolio.  
 
-#### 1.2 Practical Canadian Examples
+#### Practical Canadian Examples
 A Canadian investor at RBC Dominion Securities wanting exposure to emerging market equities but concerned about volatility might purchase a structured note that combines an equity index option (linked to an emerging market index) with Government of Canada bonds. The bond component seeks to protect principal, while the option offers market exposure. If the index increases in value, the investor may receive a percentage of that growth. If it declines, the guaranteed portion helps minimize losses at maturity.
 
 ---
@@ -38,7 +38,7 @@ A Canadian investor at RBC Dominion Securities wanting exposure to emerging mark
 
 When analyzing a structured product, it is helpful to break it down into its core components.
 
-#### 2.1 Underlying Assets
+#### Underlying Assets
 Underlying assets are the securities or indexes on which the derivative components are based. Common examples include:  
 • Equity Indexes: For instance, the S&P/TSX Composite Index for Canadian equities.  
 • Baskets of Equities: A curated selection of technology or healthcare stocks.  
@@ -46,13 +46,13 @@ Underlying assets are the securities or indexes on which the derivative componen
 • Commodities: Such as gold, oil, or a broad commodity index.  
 • Currencies: Single currency exchange rates or a currency basket (CAD/USD/EUR).
 
-#### 2.2 Derivative Instruments
+#### Derivative Instruments
 Derivatives are used to customize the final return profile. Examples include:  
 • Options: Calls or puts to participate in upside or hedge downside.  
 • Futures or Forwards: To lock in specific exposure or handle currency hedging.  
 • Swaps: Often used to exchange fixed for floating interest rates or to gain leverage on an underlying index.
 
-#### 2.3 Payoff Structures
+#### Payoff Structures
 
 Payoff structures determine how the investor’s return is calculated.  
 • Participation Rate: The percentage of the underlying asset’s gains passed through to the investor.  
@@ -69,7 +69,7 @@ One of the hallmarks of many structured products is partial or full capital prot
 • Liquidity can be limited, leading to wide bid-ask spreads.  
 • Early redemption fees may diminish returns.
 
-#### 3.1 Types of Principal Protection
+#### Types of Principal Protection
 
 Structured products typically offer one of two main categories of principal protection:  
 1. 100% Principal Protection: Ensures that if held to maturity, the investor will get the entire principal back, regardless of market performance.  
@@ -90,18 +90,18 @@ Careful consideration of holding periods and redemption features is crucial. Inv
 
 ### Regulatory Framework in Canada
 
-#### 5.1 Role of CIRO
+#### Role of CIRO
 The Canadian Investment Regulatory Organization (CIRO) oversees investment dealers, enforcing suitability and disclosure requirements. CIRO wants to ensure advisors thoroughly understand structured products before recommending them. Important considerations include:  
 • Assessing client risk tolerance and matching it to product complexities.  
 • Conducting due diligence on the underlying instruments.  
 • Delivering clear, plain-language product disclosures to investors.
 
-#### 5.2 Prospectus Requirements: CSA
+#### Prospectus Requirements: CSA
 The Canadian Securities Administrators (CSA) set forth rules on prospectus exemptions, short-form prospectus usage, and shelf prospectus availability. Depending on the product’s structure and scope, issuers might use the short-form prospectus system to expedite market entry.  
 • National Instrument 81-102 (Investment Funds) outlines key rules for publicly offered investment funds, some of which share structural similarities to certain packaged products.  
 • National Instrument 91-102 (Prohibition of Binary Options) and National Instrument 94-101 (Mandatory Central Counterparty Clearing of Derivatives) provide broader frameworks on derivatives usage in Canada.
 
-#### 5.3 Transparent Disclosure
+#### Transparent Disclosure
 Canadian securities laws require that structured products have comprehensive offering documents, which may include a short-form prospectus or a supplement that clearly describes:  
 • Terms and Conditions (e.g., maturity, underlying index, call/put features).  
 • Pricing Details (e.g., how the derivative is valued, internal costs).  
@@ -115,13 +115,13 @@ A product’s Information Statement and term sheet should highlight the costs an
 
 ### Common Structures in the Canadian Marketplace
 
-#### 6.1 Market-Linked GICs
+#### Market-Linked GICs
 Often issued by Canadian banks (e.g., TD or RBC), market-linked GICs combine a guaranteed principal with an equity index option. The investor benefits if the index rises but may have limited upside potential due to caps or participation rates.
 
-#### 6.2 Principal-Protected Notes (PPNs)
+#### Principal-Protected Notes (PPNs)
 PPNs are a form of structured product that often offer 100% principal protection, with returns tied to underlying assets such as a stock basket or a commodities index. These notes are usually held until maturity to realize the protection feature.
 
-#### 6.3 Split Shares
+#### Split Shares
 Split share corporations divide an underlying portfolio’s returns into separate share classes—one focusing on dividends (preferred shares), and the other on capital appreciation (capital shares). Though not always marketed as a “structured product,” they share many structural traits: combining a fixed-return element with a growth-oriented share class.
 
 ---

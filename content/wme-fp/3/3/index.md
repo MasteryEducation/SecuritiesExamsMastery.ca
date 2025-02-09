@@ -14,7 +14,7 @@ The foundation of any successful wealth management relationship rests on underst
 
 ---
 
-### 1. The Importance of a Thorough Discovery
+### The Importance of a Thorough Discovery
 
 Wealth management goes beyond merely collecting numbers and completing forms. A well-rounded discovery process should capture:
 
@@ -25,7 +25,7 @@ By bridging the gap between these mandatory requirements and personal context, a
 
 ---
 
-### 2. Preparation: Checklist and Preliminary Research
+### Preparation: Checklist and Preliminary Research
 
 **Key Goal:** Gather relevant documents and structure the conversation so you can focus on what matters to the client.
 
@@ -44,9 +44,9 @@ By bridging the gap between these mandatory requirements and personal context, a
 
 ---
 
-### 3. Active Listening and Questioning Techniques
+### Active Listening and Questioning Techniques
 
-#### 3.1 Open-Ended Questions
+#### Open-Ended Questions
 Rather than asking, “Do you want to retire at age 65?” (which usually yields a yes/no response), open-ended questions invite broader insights:
 
 • “What does a fulfilling retirement look like for you?”  
@@ -54,29 +54,29 @@ Rather than asking, “Do you want to retire at age 65?” (which usually yields
 
 These questions encourage clients to reflect on their values. They also help uncover personal aspirations that might otherwise remain hidden, such as a desire to start a charitable foundation or fund a grandchild’s education.
 
-#### 3.2 Reflective Listening
+#### Reflective Listening
 Reflective listening involves summarizing a client’s statements to verify your understanding:
 • “If I understand correctly, you’d like to prioritize traveling in retirement, focusing on experiences rather than leaving a large estate. Is that right?”  
 • “It sounds like ensuring a stable education fund for your kids is more important to you than an early retirement. Would you say that’s accurate?”  
 
 By employing reflective listening, you confirm the main points, reduce miscommunication, and demonstrate empathy.
 
-#### 3.3 Observing Non-Verbal Cues
+#### Observing Non-Verbal Cues
 Non-verbal cues—such as facial expressions, body posture, or tone of voice—can signal comfort or unease with certain topics. If a client frowns when discussing risk tolerance, they may be more conservative than initially indicated. This is especially relevant in cases like mortgage refinancing or investment decisions involving more complex products.
 
 ---
 
-### 4. Structured Yet Flexible Approach
+### Structured Yet Flexible Approach
 
-#### 4.1 Using a Discovery Framework
+#### Using a Discovery Framework
 Financial advisors commonly use a fact-finding questionnaire that itemizes everything from basic demographics and financial specifics to intangible goals and risk preferences. While this framework ensures key areas aren’t missed, rigidly moving from question to question can sometimes stifle deeper exploration.
 
-#### 4.2 Embracing Tangential Conversations
+#### Embracing Tangential Conversations
 Allowing clients to explore related but seemingly tangential topics can be revealing. For instance, if a client starts discussing their family’s real estate investments, it might signal an opportunity to consider advanced tax planning or the use of trusts in estate planning. Being flexible ensures a robust collection of information.
 
 ---
 
-### 5. Documenting and Summarizing Immediately
+### Documenting and Summarizing Immediately
 
 Timely documentation is critical to ensure details are not forgotten or misinterpreted:
 
@@ -90,7 +90,7 @@ Timely documentation is critical to ensure details are not forgotten or misinter
 
 ---
 
-### 6. Client Education: Explaining Jargon and Products
+### Client Education: Explaining Jargon and Products
 
 The discovery phase is also an ideal time for educating clients about:
 
@@ -110,7 +110,7 @@ By explaining these elements in easily understandable terms, you create a knowle
 
 ---
 
-### 7. Establishing Trust and Rapport
+### Establishing Trust and Rapport
 
 A thorough and empathetic discovery process reassures clients that they are more than just a portfolio or a series of forms to fill out. Key elements of trust-building include:
 
@@ -122,7 +122,7 @@ When clients trust their advisor, they are more transparent about their financia
 
 ---
 
-### 8. Practical Flowchart of Client Discovery
+### Practical Flowchart of Client Discovery
 
 Below is a simple visual representation of the client discovery process using Mermaid.js:
 
@@ -140,7 +140,7 @@ Use this framework as a reference to ensure you’re covering every necessary el
 
 ---
 
-### 9. Best Practices, Common Pitfalls, and Strategies to Overcome
+### Best Practices, Common Pitfalls, and Strategies to Overcome
 
 Below is a reference table outlining best practices, possible pitfalls, and strategies to optimize the client discovery process:
 
@@ -155,7 +155,7 @@ Below is a reference table outlining best practices, possible pitfalls, and stra
 
 ---
 
-### 10. Regulatory and Industry References
+### Regulatory and Industry References
 
 • **CIRO Guidelines**  
   Advisors in Canada must follow CIRO’s guidelines for understanding a client’s circumstances and maintaining transparent communication. See official resources (https://www.ciro.ca) for know-your-client (KYC) obligations, disclosure best practices, and complaint handling procedures.
@@ -170,7 +170,7 @@ Below is a reference table outlining best practices, possible pitfalls, and stra
 
 ---
 
-### 11. Summary of Key Insights
+### Summary of Key Insights
 
 1. **Be Thorough yet Personable**: A combination of efficient checklists and personal empathy helps gather a complete picture of the client’s financial and personal landscape.  
 2. **Active Listening is Essential**: Skillful question phrasing and reflective listening techniques bring clarity to the client’s objectives and allow them to feel heard.  

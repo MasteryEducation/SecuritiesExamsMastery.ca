@@ -18,7 +18,7 @@ Equity transactions in the Canadian marketplace involve a variety of account typ
 
 A cash account is a brokerage account in which you, as the investor, must pay the full cost of the securities you purchase by the settlement date. No borrowing is involved, which typically simplifies the investment process.
 
-#### 1.1 Key Features of Cash Accounts
+#### Key Features of Cash Accounts
 
 • Full Payment Required:  
 Unlike other forms of financing, all transactions in a cash account must be fully funded using your own money. As a result, you do not owe any interest because there is no borrowing.
@@ -29,7 +29,7 @@ Cash accounts generally entail lower risk relative to margin accounts because th
 • Ideal for Conservative or Beginning Investors:  
 Investors who want to avoid complicated borrowing structures often choose cash accounts. In Canada, many new investors open a Registered Retirement Savings Plan (RRSP) or Tax-Free Savings Account (TFSA) in the form of a cash account when starting out.
 
-#### 1.2 Practical Example
+#### Practical Example
 
 Suppose you have a cash account with a large Canadian financial institution, such as RBC or TD. You decide to purchase 100 shares of a Canadian blue-chip stock trading at $50 per share:  
 • Total cost of purchase = 100 shares × \$50 = \$5,000.  
@@ -42,7 +42,7 @@ Suppose you have a cash account with a large Canadian financial institution, suc
 
 A margin account allows you to borrow money from your investment dealer to finance part of your securities purchase. By depositing a “margin”—a percentage of the total trade value—you increase your potential liquidity, but also face higher risk.
 
-#### 2.1 Key Features of Margin Accounts
+#### Key Features of Margin Accounts
 
 • Use of Leverage:  
 Leverage amplifies both gains and losses. By borrowing to invest, you can buy more securities than you could in a cash account.
@@ -58,7 +58,7 @@ After the initial trade, your account must maintain a certain level of equity, k
 • Margin Call:  
 A margin call is a request from your dealer for additional funds or securities to restore the margin to the required level. Failing to meet the margin call can result in the forced sale of your securities to bring your account back in line.
 
-#### 2.2 Practical Example
+#### Practical Example
 
 Imagine you open a margin account at a dealer such as TD Direct Investing. You wish to purchase a total of \$10,000 worth of shares in a Canadian technology firm. The dealer sets an initial margin requirement at 50%.  
 • Your deposit = \$5,000 (50% of \$10,000).  
@@ -126,7 +126,7 @@ Missing or ignoring a margin call can result in forced liquidation of positions 
 
 ### Best Practices and Pitfalls
 
-#### 6.1 Best Practices
+#### Best Practices
 
 1. **Monitor Your Positions Regularly**  
    – Whether you use a cash or margin account, keep an eye on price movements and review your holdings.  
@@ -141,7 +141,7 @@ Missing or ignoring a margin call can result in forced liquidation of positions 
 4. **Stay Educated**  
    – Make use of resources like CIRO’s website (<https://www.ciro.ca>) for margin rules, or Bank of Canada (<https://www.bankofcanada.ca>) for interest rate announcements.
 
-#### 6.2 Common Pitfalls
+#### Common Pitfalls
 
 1. **Over-Leveraging**  
    – Borrowing too much can deplete your equity in a down market.  

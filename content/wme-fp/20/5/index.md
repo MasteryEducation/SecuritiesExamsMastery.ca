@@ -14,7 +14,7 @@ Company analysis and equity valuation are critical components of a wealth adviso
 
 --------------------------------------------------------------------------------
 
-### 1. Introduction to Company Analysis
+### Introduction to Company Analysis
 
 Company analysis entails a systematic review of a corporation’s operations, financials, market position, and management strategy. Canadian financial planners routinely perform or review such analyses to guide clients in selecting equity investments that align with their risk profiles and return objectives.
 
@@ -27,7 +27,7 @@ When analyzing a business like RBC (Royal Bank of Canada) or TD Bank—two of Ca
 
 --------------------------------------------------------------------------------
 
-### 2. Reading Financial Statements
+### Reading Financial Statements
 
 Financial statements are the bedrock of company analysis. Four key statements typically guide the assessment:
 
@@ -43,7 +43,7 @@ By extracting key figures from each statement, you can develop a holistic view o
 
 --------------------------------------------------------------------------------
 
-### 3. Ratio Analysis
+### Ratio Analysis
 
 To evaluate and compare companies more precisely, ratio analysis provides a snapshot of trends and fundamentals. Ratios typically fall into four categories:
 
@@ -70,11 +70,11 @@ Comparisons over time (trend analysis) and across peers (benchmarking) will high
 
 --------------------------------------------------------------------------------
 
-### 4. Equity Valuation Methods
+### Equity Valuation Methods
 
 Accurate valuation can help identify attractive investment opportunities. While no single valuation method suits every company, multiple robust techniques can improve overall assessment.
 
-#### 4.1 Discounted Cash Flow (DCF)
+#### Discounted Cash Flow (DCF)
 DCF models estimate the firm’s future cash flows and discount them back to present value using a required rate of return. The formula for a simplified DCF is:
 
 {{< katex >}}
@@ -88,7 +88,7 @@ Where:
 
 In Canada, professional advisors might factor in the impacts of corporate tax changes, capital expenditure requirements, or the company’s historical cost of equity. Each free cash flow forecast must be anchored in credible assumptions for revenue growth, capex, and working capital requirements.
 
-#### 4.2 Dividend Discount Model (DDM)
+#### Dividend Discount Model (DDM)
 For dividend-paying stocks, especially prominent banks like RBC or TD Bank, the Dividend Discount Model focuses on expected future dividend payments:
 
 {{< katex >}}
@@ -112,7 +112,7 @@ Where:
 
 Financial statements and management guidance can inform assumptions about the dividend growth rate.
 
-#### 4.3 Relative Valuation (Comparables)
+#### Relative Valuation (Comparables)
 Relative valuation uses market multiples to compare a target company’s value against industry benchmarks. Common multiples include:
 • **Price-to-Earnings (P/E)** = Price per Share / Earnings per Share  
 • **Price-to-Book (P/B)** = Market Capitalization / Book Value of Equity  
@@ -122,7 +122,7 @@ For instance, if RBC’s P/E is significantly lower than the average Canadian ba
 
 --------------------------------------------------------------------------------
 
-### 5. Qualitative Factors
+### Qualitative Factors
 
 Financial statements only tell part of the story. Qualitative aspects can be critical value drivers:
 
@@ -135,7 +135,7 @@ Building insights from these qualitative elements alongside quantitative metrics
 
 --------------------------------------------------------------------------------
 
-### 6. Scenario and Sensitivity Analysis
+### Scenario and Sensitivity Analysis
 
 Assumption-driven models like DCF or DDM can be highly sensitive to inputs (discount rates, growth rates, future business cycles). Scenario analysis explores multiple “what if” situations—for example, how a 1% increase in Canadian interest rates could influence mortgage revenues for banks or how changes to corporate tax policies might affect net income.
 
@@ -151,7 +151,7 @@ Comparing these outcomes shows best- and worst-case valuation ranges, improving 
 
 --------------------------------------------------------------------------------
 
-### 7. ESG Considerations
+### ESG Considerations
 
 Environmental, Social, and Governance (ESG) factors are becoming essential to company analysis. Firms with robust ESG practices may attract socially conscious investors and reduce reputational or regulatory risks. Examples include:
 • Adherence to sustainable lending practices.  
@@ -162,13 +162,13 @@ Canadian institutions often publish ESG reports, making it simpler for advisors 
 
 --------------------------------------------------------------------------------
 
-### 8. Caution with Pro Forma Numbers
+### Caution with Pro Forma Numbers
 
 Companies occasionally report “adjusted earnings” to exclude extraordinary or one-time items. While these can clarify recurring performance, advisors must keep an eye on what is being excluded. Repeated use of “one-time” exclusions might signal deeper structural issues. Always compare adjusted and GAAP/IFRS-compliant figures.
 
 --------------------------------------------------------------------------------
 
-### 9. Communicating Results to Clients
+### Communicating Results to Clients
 
 When sharing valuation analyses with clients, emphasize both strengths and areas of concern:
 • Highlight the rationale for your assumptions.  
@@ -179,7 +179,7 @@ Advisors must adhere to CIRO (Canadian Investment Regulatory Organization) guide
 
 --------------------------------------------------------------------------------
 
-### 10. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 **Best Practices**  
 • **Use Multiple Valuation Methods**: Validate results via DCF, DDM, and comparables.  
@@ -193,7 +193,7 @@ Advisors must adhere to CIRO (Canadian Investment Regulatory Organization) guide
 
 --------------------------------------------------------------------------------
 
-### 11. Visual Overview of the Company Analysis & Equity Valuation Process
+### Visual Overview of the Company Analysis & Equity Valuation Process
 
 Below is a simple Mermaid diagram depicting the key steps in a systematic approach to company analysis and valuation:
 
@@ -210,7 +210,7 @@ flowchart TB
 
 --------------------------------------------------------------------------------
 
-### 12. Summary
+### Summary
 
 Company analysis and equity valuation integrate both quantitative and qualitative assessments to gauge intrinsic worth. By examining financial statements, assessing ratios, selecting appropriate valuation methods, and accounting for scenario variability, advisors can form well-reasoned opinions on a stock’s fair value. ESG practices, regulatory oversight, and effective client communication further refine these analyses.
 

@@ -14,9 +14,9 @@ In addition to the simplified prospectus and Fund Facts, mutual funds in Canada 
 
 ---
 
-## 1. Annual Information Form (AIF)
+## Annual Information Form (AIF)
 
-### 1.1 Purpose and Contents
+### Purpose and Contents
 An Annual Information Form (AIF) provides detailed background information on a mutual fund, going beyond what is typically disclosed in the simplified prospectus. While not all funds are required to file an AIF, many choose to do so to meet regulatory best practices and enhance transparency. The contents of an AIF typically include:
 
 • A detailed description of the fund’s business practices and operations  
@@ -27,7 +27,7 @@ An Annual Information Form (AIF) provides detailed background information on a m
 
 AIFs are filed on the System for Electronic Document Analysis and Retrieval (SEDAR+), the public filing system now used by Canadian reporting issuers. Investors or analysts can visit <https://www.sedarplus.ca/> to review the AIF of a specific mutual fund they are researching.
 
-### 1.2 How the AIF Supports Decision Making
+### How the AIF Supports Decision Making
 Because the AIF is more technical and forward-looking than other disclosures, it enables more sophisticated investors and analysts to:
 
 • Evaluate the fund’s operational risks  
@@ -39,9 +39,9 @@ This deeper analysis often appeals to institutional investors such as pension fu
 
 ---
 
-## 2. Management Report of Fund Performance (MRFP)
+## Management Report of Fund Performance (MRFP)
 
-### 2.1 Importance of the MRFP
+### Importance of the MRFP
 The Management Report of Fund Performance (MRFP) is the primary vehicle for communicating the fund’s performance and portfolio changes over a specific period—usually semi-annually (interim report) and annually (annual report). It complements the financial statements by explaining any significant changes the fund has undergone, including new investment strategies or sector shifts. 
 
 Under National Instrument 81-106 (Investment Fund Continuous Disclosure), fund managers must provide MRFPs to keep unitholders informed. The objective of MRFPs is to highlight:
@@ -51,7 +51,7 @@ Under National Instrument 81-106 (Investment Fund Continuous Disclosure), fund m
 • Any major developments affecting the fund’s fees, expenses, or management  
 • Commentary on market conditions that impacted the fund’s strategy  
 
-### 2.2 Key Components of the MRFP
+### Key Components of the MRFP
 A typical MRFP includes:
 
 1. Management Discussion of Fund Performance:  
@@ -70,20 +70,20 @@ A typical MRFP includes:
    – Key holdings and sectors.  
    – Largest positions that materially affect performance.
 
-### 2.3 Using MRFPs for Informed Investing  
+### Using MRFPs for Informed Investing  
 Investors should carefully review MRFPs to check whether a fund’s strategy remains aligned with their personal investment goals. For instance, an investor initially drawn to a low-volatility dividend strategy may want to confirm that recent portfolio changes have not increased the fund’s risk profile. By comparing MRFP data across reporting periods, investors can confirm whether performance is consistent with market conditions or if unexpected volatility is creeping into the fund.
 
 ---
 
-## 3. Financial Statements Requirements
+## Financial Statements Requirements
 
-### 3.1 Interim and Annual Financial Statements
+### Interim and Annual Financial Statements
 Beyond the prospectus, simplified or otherwise, Canadian mutual funds are obligated to produce both interim (semi-annual) and annual financial statements. These statements must be published in accordance with International Financial Reporting Standards (IFRS) and filed on SEDAR+.
 
 • Interim Financial Statements (Semi-Annual): Provide an unaudited snapshot of the fund’s assets, liabilities, and net asset value (NAV) at the midpoint of the fiscal year.  
 • Annual Financial Statements: Typically audited, offering a comprehensive look at the fund’s financial health, performance, and cash flows over the entire fiscal year.
 
-### 3.2 Key Sections of Mutual Fund Financial Statements
+### Key Sections of Mutual Fund Financial Statements
 1. Statement of Financial Position: Shows the fund’s assets, liabilities, and net assets.  
 2. Statement of Comprehensive Income: Details revenues, expenses, and overall returns during the reporting period.  
 3. Statement of Changes in Financial Position (or Changes in Net Assets): Outlines how the fund’s financial position evolved, capturing distributions, contributions, or redemptions.  
@@ -93,9 +93,9 @@ Financial statements ensure transparency about the fund’s operational costs (i
 
 ---
 
-## 4. Unitholder Approvals for Major Changes
+## Unitholder Approvals for Major Changes
 
-### 4.1 Situations Requiring Unitholder Approval
+### Situations Requiring Unitholder Approval
 Under Canadian securities regulations, mutual funds often require direct unitholder approval for certain pivotal changes. These votes are usually undertaken during unitholder meetings and cover:
 
 • Changes to the fund’s fundamental investment objectives  
@@ -105,19 +105,19 @@ Under Canadian securities regulations, mutual funds often require direct unithol
 
 Seeking unitholder approval ensures that the fund’s governance structure remains democratic, reflecting the investors’ best interests. If a fund, for instance, aims to change its objectives from long-term capital growth to monthly income, investors have the right to vote on how this affects their investment strategy.
 
-### 4.2 Best Practices for Voting and Communication
+### Best Practices for Voting and Communication
 • Provide thorough documentation well in advance of the meeting.  
 • Maintain an easily accessible communication channel—e.g., email notifications, official letters, and SEDAR+ postings—to ensure that all unitholders are aware of proposed changes.  
 • Disclose anticipated benefits, risks, and costs associated with these changes, allowing investors to vote knowledgeably.
 
 ---
 
-## 5. Continuous Disclosure Obligations
+## Continuous Disclosure Obligations
 
-### 5.1 Definition and Rationale
+### Definition and Rationale
 Continuous disclosure is an ongoing requirement imposed by Canadian securities regulators to ensure that material information about a fund is disclosed promptly to investors. “Material information” refers to any fact that could reasonably be expected to have a significant impact on a fund's NAV, operations, or unitholder decisions.
 
-### 5.2 Types of Material Changes
+### Types of Material Changes
 A “material change” might relate to:
 
 • A significant shift in the fund’s portfolio composition, such as moving from predominantly Canadian equities to global equities.  
@@ -127,7 +127,7 @@ A “material change” might relate to:
 
 Prompt disclosure allows investors to decide whether the fund still aligns with their investment objectives and risk tolerance.
 
-### 5.3 Ensuring Compliance with Regulators
+### Ensuring Compliance with Regulators
 Fund managers must maintain robust internal processes to identify and disclose material changes quickly. The Compliance Department within a fund management company typically oversees this, following guidelines set by the Canadian Investor Protection Fund (CIPF) and the Canadian Investment Regulatory Organization (CIRO). Additionally:
 
 • Regular compliance training helps staff spot and report potential material changes.  
@@ -136,7 +136,7 @@ Fund managers must maintain robust internal processes to identify and disclose m
 
 ---
 
-## 6. Practical Example: A Hypothetical RBC Balanced Fund
+## Practical Example: A Hypothetical RBC Balanced Fund
 
 Let’s consider a hypothetical RBC Balanced Fund that invests in a combination of Canadian equities and fixed-income securities. Over time:
 
@@ -149,7 +149,7 @@ This scenario underscores how additional documents (MRFPs, updated prospectus, a
 
 ---
 
-## 7. Compliance Flow Diagram
+## Compliance Flow Diagram
 
 Below is a basic Mermaid.js diagram illustrating the compliance flow for a mutual fund’s continuous disclosure and reporting processes:
 
@@ -174,21 +174,21 @@ Explanation of the Diagram:
 
 ---
 
-## 8. Common Pitfalls and Best Practices
+## Common Pitfalls and Best Practices
 
-### 8.1 Common Pitfalls
+### Common Pitfalls
 1. Delayed Disclosure: Some funds fail to file material changes within the required timelines. This can erode investor trust and lead to regulatory sanctions.  
 2. Overly Technical Language: Presenting overly complex documents can discourage investors from reading vital information.  
 3. Inadequate Unitholder Communication: Failing to hold unitholder meetings or distributing incomplete documentation undermines transparency.
 
-### 8.2 Best Practices
+### Best Practices
 1. Timely Filings: Ensure all disclosures and financial reports are filed on or ahead of deadlines set by National Instrument 81-106.  
 2. Clear, Concise Language: Use plain language to encourage investor engagement and comprehension.  
 3. Inclusive Governance: Invite unitholders to question and understand any major proposed changes before voting.
 
 ---
 
-## 9. Regulatory and Resource References
+## Regulatory and Resource References
 
 1. **National Instrument 81-106 (Investment Fund Continuous Disclosure)**  
    – Primary regulation dictating the content, frequency, and format of mutual fund reporting, including MRFPs and financial statements.  
@@ -204,7 +204,7 @@ Explanation of the Diagram:
 
 ---
 
-## 10. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 The Annual Information Form (AIF), Management Reports of Fund Performance (MRFP), interim/annual financial statements, and unitholder-approval processes form the backbone of Canada’s rigorous mutual fund disclosure structure. Together, these documents and procedures:
 

@@ -14,34 +14,34 @@ A Registered Retirement Savings Plan (RRSP) is a central pillar of retirement pl
 
 ---
 
-### 1. Introduction to RRSPs
+### Introduction to RRSPs
 
 An RRSP is a government-approved investment account designed to help Canadians accumulate retirement funds. One of its major advantages is that contribution amounts are typically tax-deductible, resulting in reduced taxable income for the contributor in the year of deposit. Over time, these tax-deductible contributions and subsequent tax-deferred growth can significantly accelerate the accumulation of retirement savings.
 
-#### 1.1 Tax-Deferred Growth
+#### Tax-Deferred Growth
 “Tax-deferred” means that any income or capital gains earned inside the plan are not taxed in the year earned; they are deferred until funds are withdrawn from the plan. This allows investments to grow more quickly compared to those held in a non-registered account where gains can be taxed annually.
 
-#### 1.2 CRA Contribution Limits
+#### CRA Contribution Limits
 The Canada Revenue Agency (CRA) sets annual contribution limits for RRSPs based on the previous year’s earned income (18% of the previous year’s earned income, up to an annual maximum). In addition, unused contribution room can be carried forward to future years, creating flexibility for clients who might want to catch up on contributions later.
 
 ---
 
-### 2. Types of RRSPs
+### Types of RRSPs
 
 RRSPs come in multiple forms, each suited to different investor profiles and retirement goals. Understanding these variations allows financial planners to recommend the most appropriate structure to meet each client’s unique circumstances.
 
-#### 2.1 Individual RRSP
+#### Individual RRSP
 An individual RRSP is registered in the name of one person who makes contributions to their plan. This type of account offers full control over how the funds are invested and withdrawn. It is the most straightforward form of RRSP, typically used by individuals with stable income who want direct management of their retirement savings.
 
-#### 2.2 Spousal RRSP
+#### Spousal RRSP
 A spousal RRSP allows one spouse (the contributing spouse) to contribute to an RRSP in the other spouse’s name (the annuitant spouse). This strategy can be advantageous for income splitting in retirement. If one spouse earns significantly more than the other, future withdrawals may be taxed at a lower rate if the funds are contributed to the lower-income spouse’s RRSP. The contributing spouse receives the tax deduction for the contribution, but the withdrawals, when made, are taxed in the annuitant spouse’s hands (subject to specific attribution rules if withdrawals occur soon after contributions).
 
-#### 2.3 Group RRSP
+#### Group RRSP
 A group RRSP is an employer-sponsored program where employees often contribute through payroll deductions. In many cases, employers may match a percentage of those contributions, further enhancing an employee’s retirement savings. Although these accounts typically have fewer investment options than an individual RRSP, the convenience of automatic payroll deductions and employer matches can boost long-term savings.
 
 ---
 
-### 3. Eligible Investments and Compliance
+### Eligible Investments and Compliance
 
 RRSPs can hold a wide range of eligible investments, such as:
 
@@ -55,7 +55,7 @@ However, to maintain their registered status, RRSPs must abide by the CRA’s gu
 
 ---
 
-### 4. The Power of Compounding Inside an RRSP
+### The Power of Compounding Inside an RRSP
 
 One of the most compelling features of RRSPs is the compounding effect. Because all interest, dividends, and capital gains are shielded from immediate taxation, the full amount of any returns can be reinvested continuously. Over time, this compounding can create exponential growth in the portfolio.
 
@@ -74,7 +74,7 @@ In a non-registered account, taxes on dividends and capital gains would reduce t
 
 ---
 
-### 5. Integrating an RRSP into Comprehensive Retirement Planning
+### Integrating an RRSP into Comprehensive Retirement Planning
 
 Advisors often position RRSPs as one of several pillars underpinning a client’s retirement plan. Other sources may include:
 
@@ -88,13 +88,13 @@ Careful analysis of how all these elements interplay—especially from a tax per
 
 ---
 
-### 6. RRSP Case Study: Using Tax Deductions Wisely
+### RRSP Case Study: Using Tax Deductions Wisely
 
 Consider a 45-year-old executive working at a major Canadian bank like RBC or TD. They earn an annual income of CAD 120,000. By contributing CAD 15,000 to an RRSP, they can possibly reduce their taxable income to CAD 105,000 for the year. This not only generates an immediate tax benefit (by placing them in a lower marginal tax bracket if thresholds are crossed) but also enables the contributed funds to grow on a tax-deferred basis. Over 20 years, repeatedly making contributions of CAD 15,000 (plus any increases to align with RRSP room) can create a substantial retirement nest egg, possibly worth multiples of the cumulative sum contributed.
 
 ---
 
-### 7. Best Practices and Actionable Insights
+### Best Practices and Actionable Insights
 
 1. **Maximize Annual Contributions**: Where feasible, encourage clients to contribute up to their annual limit to fully capitalize on the power of tax-deferred growth.  
 2. **Early and Regular Contributions**: Dollar-cost averaging (contributing at regular intervals) helps to smooth out market volatility and feeds continuous growth.  
@@ -106,7 +106,7 @@ Consider a 45-year-old executive working at a major Canadian bank like RBC or TD
 
 ---
 
-### 8. Common Pitfalls
+### Common Pitfalls
 
 1. **Overlooked Contribution Deadlines**: RRSP contributions typically must be made by the first 60 days of the following calendar year to be deductible for the previous tax year.  
 2. **Early Withdrawals**: Early withdrawals are taxed as income and subject to withholding tax, reducing the power of compounding and undermining long-term objectives.  
@@ -116,7 +116,7 @@ Consider a 45-year-old executive working at a major Canadian bank like RBC or TD
 
 ---
 
-### 9. Regulatory Framework and Resources
+### Regulatory Framework and Resources
 
 Financial planners must ensure that their recommendations regarding RRSPs comply with Canadian tax laws and industry regulations. Here are some key resources:
 
@@ -128,7 +128,7 @@ Open-source retirement planning calculators can also help clients model how vary
 
 ---
 
-### 10. Summary
+### Summary
 
 RRSPs remain a cornerstone in many Canadians’ retirement planning strategies thanks to their tax advantages, flexibility, and potential for long-term compounding. By knowing the various RRSP types, monitoring contribution limits, and properly structuring withdrawals, financial planners can help their clients optimize their retirement income strategies. Coupled with other savings vehicles like TFSAs, pension plans, and government benefits, RRSPs can form part of a comprehensive approach to building and safeguarding retirement wealth.
 

@@ -14,11 +14,11 @@ As part of delivering comprehensive advice to clients, financial planners need t
 
 ---
 
-### 1. Mortgage Life Insurance vs. Personal Life Insurance
+### Mortgage Life Insurance vs. Personal Life Insurance
 
 Mortgage life insurance and personal life insurance may both be used to protect clients against the financial risk of a mortgage liability. Despite their apparent similarities—both products pay a benefit upon the insured’s death—there are important distinctions.
 
-#### 1.1 Comparing Costs and Coverage
+#### Comparing Costs and Coverage
 
 • Mortgage Life Insurance Coverage:  
   - Coverage decreases as the mortgage balance declines. For example, if your client has a $400,000 mortgage balance, the insurance’s payout amount shrinks as they pay down the principal.  
@@ -38,7 +38,7 @@ Below is a simplified comparison chart:
 | Portability                    | Tied to a specific mortgage lender  | Follows the insured, not tied to a single mortgage    |
 | Underwriting                   | May be done at application or claim | Usually fully underwritten at application             |
 
-#### 1.2 Portability and Underwriting
+#### Portability and Underwriting
 
 • Mortgage Life Insurance:  
   - Usually not portable if the client switches lenders or refinances. They might need to reapply for a new policy under different conditions or rates.  
@@ -48,7 +48,7 @@ Below is a simplified comparison chart:
   - Portability: Not tied to any specific lender. Clients keep the same coverage even if they move their mortgage to another financial institution (e.g., RBC, TD, BMO).  
   - Underwriting is completed upfront, providing certainty about coverage and premiums for the policy term.
 
-#### 1.3 Advisor’s Role
+#### Advisor’s Role
 
 Advisors should examine a client’s total financial picture rather than isolating the mortgage debt. Key considerations include:  
 • Additional liabilities (e.g., lines of credit, car loans)  
@@ -59,15 +59,15 @@ Advisors should examine a client’s total financial picture rather than isolati
 
 ---
 
-### 2. Reverse Mortgages for Retirees
+### Reverse Mortgages for Retirees
 
 A reverse mortgage allows Canadian homeowners aged 55+ to convert their home equity into cash flow without selling the property. This can be particularly appealing to retirees seeking to supplement their income.
 
-#### 2.1 Income Supplement
+#### Income Supplement
 
 Rather than making monthly payments, homeowners receive funds—either as a lump sum or through regular payouts. The goal is to help older adults manage living expenses such as medical costs, home renovations, or travel in retirement.
 
-#### 2.2 Interest Accumulation
+#### Interest Accumulation
 
 • Deferred Payments: Reverse mortgage borrowers are not required to make regular payments toward principal or interest as long as they continue living in the home.  
 • Compound Interest: The principal owed grows over time with accrued interest. Upon sale of the property, the accumulated balance must be paid off.  
@@ -83,7 +83,7 @@ flowchart LR
     D --> E(Eventual Repayment upon Sale or Death)
 ```
 
-#### 2.3 Suitability Factors
+#### Suitability Factors
 
 • Home Equity: The property must have sufficient equity, and reverse mortgage lenders (e.g., HomeEquity Bank) generally limit the loan-to-value ratio.  
 • Retirement Income Sources: Weigh other retirement income streams (e.g., Canada Pension Plan, RRSP withdrawals) before opting for a reverse mortgage.  
@@ -91,16 +91,16 @@ flowchart LR
 
 ---
 
-### 3. Second Property or Rental Properties
+### Second Property or Rental Properties
 
 Clients acquiring a second property—whether for vacation use, rental income, or both—must often fulfill different lender requirements than they did for their primary residence.
 
-#### 3.1 Financing Structure
+#### Financing Structure
 
 • Down Payment: Mortgage insurers (CMHC, Sagen, or Canada Guaranty) typically do not provide coverage for investment properties, requiring down payments of at least 20%.  
 • Interest Rates: Depending on lending policies, rates for non-owner-occupied properties can be higher than those for principal residences to offset additional risk.
 
-#### 3.2 Cash Flow Analysis
+#### Cash Flow Analysis
 
 Cash flow analysis for a rental property entails:  
 • Gross Rental Income: Monthly rent and any ancillary income (e.g., parking fees)  
@@ -116,7 +116,7 @@ Cash flow analysis for a rental property entails:
 >  
 > This negative cash flow indicates the client might need other resources to support the property until rent or conditions improve.
 
-#### 3.3 Tax Implications
+#### Tax Implications
 
 • Rental Income: Taxable as income. Clients must maintain detailed records of expenses, repairs, and depreciation (Capital Cost Allowance) where applicable.  
 • Capital Gains: When a rental property is sold for a profit, 50% of the gain is taxable. If the property is never used as a principal residence, there is no capital gains exemption.  
@@ -124,16 +124,16 @@ Cash flow analysis for a rental property entails:
 
 ---
 
-### 4. Debt Strategies for Clients Facing Financial Hardship
+### Debt Strategies for Clients Facing Financial Hardship
 
 Even the most carefully constructed financial plan can be disrupted by unforeseen events such as job loss, illness, or divorce. Advisors should help clients explore solutions that can alleviate cash flow pressures while protecting their credit and assets where possible.
 
-#### 4.1 Mortgage Deferrals
+#### Mortgage Deferrals
 
 • Temporary Payment Relief: Many Canadian lenders (e.g., RBC, TD) offer hardship programs. Clients can pause or reduce payments temporarily, although interest typically continues to accrue.  
 • Impact on Total Balance: The deferred interest is added to the outstanding principal, leading to higher overall debt once the deferral period ends.
 
-#### 4.2 Debt Counseling
+#### Debt Counseling
 
 • Credit Counseling Canada: Offers programs and resources for clients struggling with multiple debts, exploring consolidation or debt management plans.  
 • Licensed Insolvency Trustees (LITs): Provide formal options such as consumer proposals or bankruptcy filings. While these are last-resort measures, some clients benefit from an early consultation to understand all potential consequences.
@@ -142,16 +142,16 @@ Even the most carefully constructed financial plan can be disrupted by unforesee
 
 ---
 
-### 5. Integration with Overall Financial Plan
+### Integration with Overall Financial Plan
 
 Comprehensive financial planning seamlessly weaves mortgage considerations into a broader strategy that includes retirement readiness, estate planning, and tax optimization.
 
-#### 5.1 Retirement Goals
+#### Retirement Goals
 
 • Balancing Mortgage Payments and RRSP Contributions: Higher monthly mortgage payments might delay building adequate retirement savings. Encourage clients to model different scenarios (e.g., paying down mortgage faster vs. investing in an RRSP or TFSA).  
 • Downsizing: Some clients may opt to sell their primary residence to free up equity for retirement living expenses.
 
-#### 5.2 Estate Considerations
+#### Estate Considerations
 
 • Will and Beneficiary Designations: Ensure the client’s will properly addresses how mortgage payments or outstanding property loans are to be managed if the client passes away.  
 • Joint Ownership Structures: Consider designating a property as “joint tenants with right of survivorship” (JTWROS) to potentially bypass probate, although tax implications vary.

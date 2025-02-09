@@ -25,16 +25,16 @@ Each transition brings unique challenges—such as altered cash flow patterns, c
 
 ---
 
-## 1. Early Career / Single
+## Early Career / Single
 
 In the early career or single stage, individuals often juggle new financial responsibilities such as student loan payments, rent, or the down payment for a first home. They may rely heavily on a single source of income, making the financial impact of job loss or disability significant.
 
-### 1.1 Primary Risks
+### Primary Risks
 
 • Loss of income: With limited savings and a single salary, unexpected job loss or a market downturn can lead to immediate hardship.  
 • Inability to meet debt payments: Student loans, car payments, and credit card balances can quickly become overwhelming without stable cash flow.
 
-### 1.2 Considerations and Strategies
+### Considerations and Strategies
 
 1. Basic Insurance Setup  
    • Life Insurance: Even without dependents, a small life insurance policy can protect co-signed debts (e.g., student loans with a parent) in case of an untimely death.  
@@ -54,18 +54,18 @@ In the early career or single stage, individuals often juggle new financial resp
 
 ---
 
-## 2. Growing Family / Accumulation Phase
+## Growing Family / Accumulation Phase
 
 During the accumulation phase, professionals often start families, purchase homes, or expand existing ones. Expenses multiply quickly as they balance mortgage payments, childcare, and other obligations.
 
-### 2.1 Primary Risks
+### Primary Risks
 
 • Child-related expenses: Daycare, extracurricular activities, and clothing can significantly reduce disposable income.  
 • Mortgage obligations: Housing costs may represent a significant portion of monthly outflows, especially in high-demand real estate markets like Vancouver or Toronto.  
 • Education funding: Increasing post-secondary education costs raise concerns about Registered Education Savings Plans (RESPs) or other funds.  
 • Increased insurance needs: With dependents relying on an income earner, sufficient life and health insurance coverage becomes critical.
 
-### 2.2 Considerations and Strategies
+### Considerations and Strategies
 
 1. Balancing Debt Reduction with Savings  
    • Employ a systematic approach: Automate recurring transfers into both mortgage payments (accelerated options) and investment accounts.  
@@ -85,17 +85,17 @@ During the accumulation phase, professionals often start families, purchase home
 
 ---
 
-## 3. Peak Earning Years / Pre-Retirement
+## Peak Earning Years / Pre-Retirement
 
 Often in their 40s to 50s, individuals entering their peak earning years may face complex financial questions ranging from college funding for their children, care for aging parents, to ensuring that retirement plans are sufficiently on track.
 
-### 3.1 Primary Risks
+### Primary Risks
 
 • Inadequate retirement savings if unexpected events arise: A career interruption, market downturn, or major health issue can derail savings.  
 • Caring for aging parents: Potential long-term care or assisted living expenses may create a financial burden.  
 • Personal health issues: Increased incidence of chronic or critical illnesses requires robust personal risk management plans.
 
-### 3.2 Considerations and Strategies
+### Considerations and Strategies
 
 1. Reviewing Asset Allocation  
    • Gradually reduce exposure to highly volatile assets if nearing retirement. Ensure asset allocation remains aligned with timelines and risk tolerance.  
@@ -115,17 +115,17 @@ Often in their 40s to 50s, individuals entering their peak earning years may fac
 
 ---
 
-## 4. Retirement and Elderly Stage
+## Retirement and Elderly Stage
 
 Once clients transition into retirement, the primary focus shifts to preserving wealth, generating stable income, and ensuring sustainable living arrangements. Advisors play a crucial role in safeguarding clients from longevity and healthcare risks.
 
-### 4.1 Primary Risks
+### Primary Risks
 
 • Longevity risk: The possibility of outliving accumulated assets due to increased life expectancy.  
 • High healthcare costs: Assisted living, home-care services, or long-term care facilities can create a significant financial burden.  
 • Cognitive decline: Diminished capacity can lead to harmful financial decisions or exposure to fraudulent schemes.
 
-### 4.2 Considerations and Strategies
+### Considerations and Strategies
 
 1. Income Sustainability  
    • Combination of pension income, RRIFs (Registered Retirement Income Funds), and annuities helps mitigate outliving one’s resources.  

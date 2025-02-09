@@ -100,7 +100,7 @@ flowchart LR
 
 ### Advantages and Disadvantages of Listing
 
-#### 4.1 Advantages
+#### Advantages
 
 1. **Greater Access to Capital**  
    • Public companies can tap a wider pool of investors for both primary and secondary offerings, offering flexibility in raising funds for growth, expansion, or acquisitions.
@@ -113,7 +113,7 @@ flowchart LR
    • Going public provides an official market valuation, allowing insiders and early investors to monetize part of their holdings.  
    • Liquidity makes it easier for existing shareholders to sell shares over time, fostering broader ownership.
 
-#### 4.2 Disadvantages
+#### Disadvantages
 
 1. **Increased Costs**  
    • Listing fees, regulatory compliance, investor relations efforts, and ongoing reporting can significantly raise operational expenses.  

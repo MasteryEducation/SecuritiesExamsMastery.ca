@@ -14,7 +14,7 @@ Retirement is one of the most significant life goals for many Canadians. As a fi
 
 ---
 
-### 1. The Importance of Retirement Planning
+### The Importance of Retirement Planning
 
 Retirement planning in Canada is unique due to the interplay of personal savings, employer-sponsored pension plans, Registered Retirement Savings Plans (RRSPs), and government-sponsored benefits such as the Canada Pension Plan (CPP), Quebec Pension Plan (QPP), and Old Age Security (OAS). By identifying the client’s current assets, income streams, and liabilities, you can help them pinpoint the gap between their retirement objectives and their current trajectory. This gap highlights how much needs to be set aside or reallocated to achieve their ideal retirement lifestyle.
 
@@ -26,7 +26,7 @@ Key reasons retirement planning is essential:
 
 ---
 
-### 2. Establishing Retirement Objectives
+### Establishing Retirement Objectives
 
 Retirement objectives are the specific financial and lifestyle goals a client aims to achieve after completing their working years. To clarify these objectives, encourage your client to:
 - Envision their retirement lifestyle: Will they travel frequently, pursue hobbies, or downsize their home?  
@@ -37,7 +37,7 @@ By defining these objectives early, you can devise a strategy to meet them syste
 
 ---
 
-### 3. Estimating Annual Expenses in Retirement
+### Estimating Annual Expenses in Retirement
 
 A cornerstone of retirement readiness is identifying a target income that will sustain desired expenses. Guide clients to consider:
 
@@ -59,7 +59,7 @@ Use online calculators from the [Financial Consumer Agency of Canada (FCAC)](htt
 
 ---
 
-### 4. Understanding Life Expectancy and Longevity Risk
+### Understanding Life Expectancy and Longevity Risk
 
 Longevity risk is the risk of outliving one’s retirement savings. As medical advancements extend average lifespans, it’s feasible your client could spend 20 to 30 years or more in retirement. Proper planning must incorporate:
 1. Actuarial assumptions based on age, gender, and familial health history.  
@@ -68,7 +68,7 @@ Longevity risk is the risk of outliving one’s retirement savings. As medical a
 
 ---
 
-### 5. Budgeting and Debt Management
+### Budgeting and Debt Management
 
 Before building a robust retirement savings plan, focus on budgeting and managing high-interest debt:
 - **Budgeting**: Allocate monthly income toward necessities, discretionary expenses, and savings. This reduces financial stress and frees resources for investing in retirement accounts.  
@@ -78,7 +78,7 @@ The [Financial Consumer Agency of Canada (FCAC)](https://www.canada.ca/en/financ
 
 ---
 
-### 6. Government Retirement Income Sources
+### Government Retirement Income Sources
 
 Government pension programs like the Canada Pension Plan (CPP) or Quebec Pension Plan (QPP), along with Old Age Security (OAS), can form part of an individual’s retirement income. However, it is essential to emphasize that these benefits alone may not be sufficient to maintain the client’s desired standard of living. Approximate benefits are typically less than what is needed to replace employment income fully.
 
@@ -91,7 +91,7 @@ Encourage clients to create a “My Service Canada” account to view their pers
 
 ---
 
-### 7. The Power of Starting Early
+### The Power of Starting Early
 
 Time is a critical component of retirement planning. Even modest regular deposits made early in a career can grow exponentially due to compound interest. Consider the difference between starting to save at age 25 versus 35:
 
@@ -104,7 +104,7 @@ Encourage your clients to develop a schedule of automatic contributions (e.g., p
 
 ---
 
-### 8. Determining Nest Egg Adequacy
+### Determining Nest Egg Adequacy
 
 Crucial to retirement planning is evaluating the adequacy of the retirement nest egg. This often involves three main assessments:
 
@@ -127,7 +127,7 @@ Budgeting, prudent asset allocation, and considering longevity ensure that retir
 
 ---
 
-### 9. Putting It All Together: A Step-by-Step Process
+### Putting It All Together: A Step-by-Step Process
 
 Below is a sample high-level process for guiding clients through funding their retirement:
 
@@ -151,7 +151,7 @@ flowchart LR
 
 ---
 
-### 10. Glossary
+### Glossary
 
 • **Retirement Objectives**: The specific financial and lifestyle goals a client aims to achieve after finishing their working years.  
 • **Longevity Risk**: The risk of outliving one’s retirement savings due to a longer-than-expected lifespan.  
@@ -160,7 +160,7 @@ flowchart LR
 
 ---
 
-### 11. Additional Resources and References
+### Additional Resources and References
 
 • [Canadian Investment Regulatory Organization (CIRO)](https://www.ciro.ca) – Stay updated on evolving regulatory requirements for advisors.  
 • [Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans.html) – Official guidance on RRSP rules, contribution limits, and additional planning tools.  
@@ -169,7 +169,7 @@ flowchart LR
 
 ---
 
-### 12. Conclusion
+### Conclusion
 
 Preparing to fund retirement is a collaborative and ongoing process. It starts with understanding your client’s unique circumstances and aspirations, modeling out future needs, addressing immediate financial priorities (like high-interest debt), and taking advantage of available programs and compounding returns. By maintaining a disciplined savings plan, leveraging tax-advantaged vehicles like RRSPs, and continually revisiting objectives and assumptions, you can help clients establish a robust and adaptable roadmap to secure their golden years.  
 

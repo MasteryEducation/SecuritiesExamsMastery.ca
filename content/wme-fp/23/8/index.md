@@ -18,7 +18,7 @@ Outcome-based investments share many of the same foundational components as trad
 
 ---
 
-### 1. Defining Outcome-Based Investments
+### Defining Outcome-Based Investments
 
 An outcome-based investment is a product or strategy built with the primary objective of meeting a specific goal rather than outperforming a particular benchmark. For example:
 
@@ -30,16 +30,16 @@ Because the focus is on “achieving a goal” rather than “beating the market
 
 ---
 
-### 2. Core Principles of Outcome-Based Investing
+### Core Principles of Outcome-Based Investing
 
-#### 2.1 Client-Centric Goals
+#### Client-Centric Goals
 
 In traditional model portfolios, allocation decisions often start by looking at historical market returns or risk metrics across asset classes. Outcome-based strategies approach the problem from the opposite direction:  
 1. Start by clarifying the client’s specific objective (e.g., “I need $50,000 per year for retirement expenses for the next 20 years”).  
 2. Use financial planning tools to identify the rate of return, risk tolerance, and time horizon required to achieve or exceed that objective.  
 3. Construct a solution that explicitly maps to that objective, selecting from a wide range of instruments—principal protection, derivatives, or alternative investments as needed.
 
-#### 2.2 Multi-Asset Class Approach
+#### Multi-Asset Class Approach
 
 Outcome-based portfolios often seek diversification on a deeper level than just mixing equities and bonds. They may incorporate:
 
@@ -50,7 +50,7 @@ Outcome-based portfolios often seek diversification on a deeper level than just 
 
 By combining these instruments in service of a defined outcome, the portfolio can be more resilient to market fluctuations while still targeting the client’s required end goal.
 
-#### 2.3 Structured or Insured Products
+#### Structured or Insured Products
 
 Outcome-based offerings frequently integrate structured or insured products that promise a certain level of protection. Common examples include:
 
@@ -60,9 +60,9 @@ Outcome-based offerings frequently integrate structured or insured products that
 
 ---
 
-### 3. Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
-#### 3.1 Education Funding with Structured Notes
+#### Education Funding with Structured Notes
 
 Consider a client looking to fund a child’s post-secondary education in 15 years. They want to ensure that no matter how the markets perform leading up to the start of the child’s schooling, they will have at least $100,000 available. Through an outcome-based approach:
 
@@ -72,7 +72,7 @@ Consider a client looking to fund a child’s post-secondary education in 15 yea
 
 This blend of safeguarding the principal and benefiting from possible market growth results in an outcome-based solution precisely aligned with the stated goal.
 
-#### 3.2 Retirement Income with GMWB
+#### Retirement Income with GMWB
 
 Another scenario involves a retiree who requires a minimum consistent income stream of $40,000 per year. GMWB products available through Canadian insurers can offer:
 
@@ -82,13 +82,13 @@ Another scenario involves a retiree who requires a minimum consistent income str
 
 This approach directly supports a retiree’s objective to have stable, predetermined cash flow.
 
-#### 3.3 Goal-Focused Offering by Canadian Banks
+#### Goal-Focused Offering by Canadian Banks
 
 Major Canadian banks such as RBC and TD have specialized outcome-based offerings, including structured GICs and private pools tailored to retirement or estate objectives. For instance, RBC may provide RBC Upside GICs linking returns to a basket of equities while ensuring full principal protection, or TD might offer a structured product that locks in partial market gains while capping the downside. These real-world examples illustrate the robust variety of outcome-based options available to Canadian consumers.
 
 ---
 
-### 4. The Outcome-Based Investment Process
+### The Outcome-Based Investment Process
 
 Below is a simplified visual flow of how advisors typically structure outcome-based investments to address client’s goals.
 
@@ -114,7 +114,7 @@ Explanation of each step:
 
 ---
 
-### 5. Risk Assessment and Common Pitfalls
+### Risk Assessment and Common Pitfalls
 
 A crucial aspect of outcome-based investments is recognizing that protective structures alone do not eliminate risk entirely. For instance:
 
@@ -127,9 +127,9 @@ Advisors should document these risks clearly, following all relevant disclosure 
 
 ---
 
-### 6. Regulatory Considerations
+### Regulatory Considerations
 
-#### 6.1 Disclosure and Suitability
+#### Disclosure and Suitability
 
 Outcome-based products often include derivatives or leverage, bringing them within CIRO guidelines to ensure suitability. Advisors must:
 
@@ -137,17 +137,17 @@ Outcome-based products often include derivatives or leverage, bringing them with
 • Describe the structure of insurance contracts (e.g., GMWB fees and provisions) accurately.  
 • Provide transparent fee disclosure for embedded management expenses, guarantee fees, or performance-based fees.
 
-#### 6.2 Insurance Oversight
+#### Insurance Oversight
 
 Products incorporating insurance guarantees (such as GMWBs) are generally subject to provincial insurance regulators and OSFI. Advisors selling these solutions in Canada must hold the appropriate insurance licenses.
 
-#### 6.3 CSA Perspective on Structured Products
+#### CSA Perspective on Structured Products
 
 The Canadian Securities Administrators (CSA) have published guidelines that focus on the complexity and transparency of structured products sold to retail investors. Advisors should consult resources like the “Structured Products & Retail Investor” page on the CSA website to remain current with best practices.
 
 ---
 
-### 7. Benefits of Outcome-Based Investments
+### Benefits of Outcome-Based Investments
 
 1. **Clarity for Clients**: Tying success metrics directly to personal goals can help eliminate the confusion of benchmark-based performance discussions.  
 2. **Behavioral Benefits**: Emphasizing progress toward life goals can reduce emotional reactions to short-term market volatility.  
@@ -156,7 +156,7 @@ The Canadian Securities Administrators (CSA) have published guidelines that focu
 
 ---
 
-### 8. Best Practices for Implementation
+### Best Practices for Implementation
 
 1. **Deep Discovery Process**: Conduct thorough discussion to identify critical life or business events that require reliable funding.  
 2. **Transparent Communication**: Explain fees, lock-in periods, and payout scenarios in plain language.  
@@ -166,7 +166,7 @@ The Canadian Securities Administrators (CSA) have published guidelines that focu
 
 ---
 
-### 9. Potential Challenges and How to Overcome Them
+### Potential Challenges and How to Overcome Them
 
 • **Overreliance on Guarantees**: Clients may assume absolute safety. Advisors should clarify that guarantees depend on the solvency of the issuing entity.  
 • **Complexity of Derivatives**: Educate clients about the use of options or swaps, keeping the conversation accessible and relevant to overall goals.  
@@ -175,7 +175,7 @@ The Canadian Securities Administrators (CSA) have published guidelines that focu
 
 ---
 
-### 10. Summary and Actionable Insights
+### Summary and Actionable Insights
 
 Outcome-based investments can significantly enhance a financial planner’s toolkit to meet client objectives in a direct and measurable way. By structuring solutions around specific milestones—such as retirement income, capital needs for future education costs, or principal preservation—clients gain clarity and confidence in their pathways to success. However, the complexity inherent in derivatives, various guarantee structures, and multi-layered fee models underscores the importance of thorough risk analysis and transparent communication.
 

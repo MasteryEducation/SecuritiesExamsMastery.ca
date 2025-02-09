@@ -16,9 +16,9 @@ In this section, we will examine how the Canadian labour market operates, highli
 
 ---
 
-## 1. Understanding the Labour Market in Canada
+## Understanding the Labour Market in Canada
 
-### 1.1 Supply and Demand in the Labour Market
+### Supply and Demand in the Labour Market
 
 The labour market follows the same fundamental principle of supply and demand that underpins many economic models:
 
@@ -46,28 +46,28 @@ In this diagram:
 
 ---
 
-## 2. Key Labour Market Indicators
+## Key Labour Market Indicators
 
 Sound investment decisions and policy measures rely on accurate assessments of the labour market. The most commonly referenced metrics include:
 
-### 2.1 Unemployment Rate
+### Unemployment Rate
 
 The unemployment rate is the percentage of the total labour force that is not employed but is actively seeking work. In Canada, the labour force generally includes all individuals aged 15 years and older who are either employed or actively looking for employment.
 
 • A rising unemployment rate often signals reduced economic activity or a potential recession.  
 • When unemployment is low, the economy may be expanding; however, policymakers must also monitor wage pressures that can stoke inflation.
 
-### 2.2 Labour Force Participation Rate
+### Labour Force Participation Rate
 
 The labour force participation rate measures the proportion of the working-age population (usually defined as those aged 15 to 64 in Canada) who are either employed or actively seeking employment.  
 • A declining participation rate can indicate a structural shift, as people might be retiring early, pursuing further education, or discouraged from seeking work.  
 • An increasing participation rate may suggest stronger confidence in the availability of jobs, or demographic shifts with more individuals wanting or needing to work.
 
-### 2.3 Employment Growth
+### Employment Growth
 
 Employment growth captures the net change in the number of employed individuals over a given period. Accelerating job growth often coincides with economic expansion and rising corporate profits, which can encourage investment and boost consumer spending. Conversely, job losses frequently indicate economic headwinds and signals of potential contraction.
 
-### 2.4 Job Vacancy Statistics
+### Job Vacancy Statistics
 
 Job vacancy rates reflect the unmet labour demand in the market. They indicate the number of opened positions that remain unfilled.  
 • High vacancies may imply a mismatch between the skills of available workers and employer requirements or strong economic conditions where demand for labour outpaces supply.  
@@ -77,7 +77,7 @@ Government agencies, banks, and research institutions use these indicators to tr
 
 ---
 
-## 3. Types of Unemployment
+## Types of Unemployment
 
 Understanding the different categories of unemployment helps investors and policymakers diagnose the causes behind joblessness and craft appropriate solutions. In Canada, and internationally, economists generally reference three key types:
 
@@ -100,16 +100,16 @@ Below is a table summarizing the key attributes of each type of unemployment.
 
 ---
 
-## 4. Government and Central Bank Influence on Employment
+## Government and Central Bank Influence on Employment
 
-### 4.1 Fiscal Policy
+### Fiscal Policy
 
 Federal and provincial governments in Canada can influence the labour market through spending and taxation policies:  
 • Stimulus spending on infrastructure projects may create jobs in construction and related industries.  
 • Tax incentives for businesses can encourage expansion, prompting new hires.  
 • Training programs run by Employment and Social Development Canada (ESDC) can reduce structural unemployment by teaching workers in-demand skills.
 
-### 4.2 Monetary Policy
+### Monetary Policy
 
 The Bank of Canada also contributes to shaping employment levels, primarily by adjusting interest rates.  
 • When the Bank lowers interest rates, borrowing becomes more affordable, which may spur business investment and consumer spending, potentially raising employment.  
@@ -117,7 +117,7 @@ The Bank of Canada also contributes to shaping employment levels, primarily by a
 
 ---
 
-## 5. Practical Case Studies in the Finnish Context
+## Practical Case Studies in the Finnish Context
 
 While labour market mechanisms are universal, let’s consider a brief example illustrating how these forces can interact in Canada:
 
@@ -129,7 +129,7 @@ While labour market mechanisms are universal, let’s consider a brief example i
 
 ---
 
-## 6. Reading and Interpreting Labour Market Data from Statistics Canada
+## Reading and Interpreting Labour Market Data from Statistics Canada
 
 When analyzing labour market reports from Statistics Canada (often released monthly), focus on these steps:
 
@@ -141,7 +141,7 @@ When analyzing labour market reports from Statistics Canada (often released mont
 
 ---
 
-## 7. The Intersection of the Labour Market and Investment Decisions
+## The Intersection of the Labour Market and Investment Decisions
 
 Financial professionals, including portfolio managers and investment advisors, regularly integrate labour market insights into their models. Here are common reasons:
 
@@ -152,7 +152,7 @@ Financial professionals, including portfolio managers and investment advisors, r
 
 ---
 
-## 8. Conclusion and Key Takeaways
+## Conclusion and Key Takeaways
 
 The labour market is a vital economic barometer, showcasing the balance between employers’ needs and workers’ availability. By understanding labour market data—unemployment rates, participation rates, job vacancies, and wage trends—professionals gain insights into broader economic conditions and potential investment opportunities. Differentiating among structural, frictional, and cyclical unemployment clarifies the root causes of joblessness and highlights targeted solutions. Fiscal and monetary policies in Canada, administered by both federal authorities and the Bank of Canada, play significant roles in shaping employment levels, consumer confidence, and overall economic health.
 

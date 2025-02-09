@@ -16,7 +16,7 @@ This section examines the T1 General form, the most important tax slips used to 
 
 ---
 
-### 1. Overview of the T1 General Form
+### Overview of the T1 General Form
 
 The T1 General is the cornerstone of Canadian personal income tax. This form collects detailed information about an individual’s total income, deductions, credits, and tax payable. Advisors should be familiar with how each line interacts with the client’s broader financial plan. Common sections include:
 
@@ -45,7 +45,7 @@ Each phase requires attention to detail, with potential tax advantages (e.g., de
 
 ---
 
-### 2. Identifying Major Tax Slips
+### Identifying Major Tax Slips
 
 Canadian taxpayers typically receive one or more official tax slips documenting various sources of income. These slips are crucial for accurate reporting on the T1 General and ensuring compliance:
 
@@ -59,7 +59,7 @@ Ensuring clients provide all relevant slips helps prevent omissions or underrepo
 
 ---
 
-### 3. Common Deductions
+### Common Deductions
 
 Deductions reduce total income to calculate net income and can significantly impact tax payable. Below are some well-known deductions:
 
@@ -81,7 +81,7 @@ Wealth advisors often provide guidance on optimizing deductions to reduce taxabl
 
 ---
 
-### 4. Common Credits
+### Common Credits
 
 Tax credits directly reduce the amount of tax payable. Some credits are non-refundable, meaning they lower tax but do not generate a refund once the tax reaches zero; others are refundable, potentially leading to a payment from the government after tax is fully reduced.
 
@@ -101,7 +101,7 @@ Tax credits directly reduce the amount of tax payable. Some credits are non-refu
 
 ---
 
-### 5. Tax Filing Periods and Deadlines
+### Tax Filing Periods and Deadlines
 
 Staying mindful of CRA filing deadlines is essential to avoid potential penalties and interest charges.
 

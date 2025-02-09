@@ -23,78 +23,78 @@ Below, we explore how each group utilizes derivatives, providing examples, diagr
 
 ---
 
-## 1. Hedgers
+## Hedgers
 
-### 1.1 Overview  
+### Overview  
 Hedgers use derivatives to manage the price risk associated with their business or investment holdings. In essence, hedgers seek to offset potential losses in the cash or spot market by taking an opposing position in derivative contracts. 
 
 For a simple example, consider a Canadian wheat farmer who expects to harvest a crop in six months. The farmer can enter into a futures contract to lock in a specific price for the wheat today to protect against falling prices in the future. Conversely, a food-processing company that needs to purchase wheat may use futures contracts to hedge the risk of rising prices.
 
-### 1.2 Common Hedging Instruments  
+### Common Hedging Instruments  
 • Futures Contracts: Standardized agreements to buy or sell an underlying asset at a set date and price.  
 • Options Contracts: Grants the right (but not the obligation) to buy (call option) or sell (put option) an asset at a predetermined strike price.  
 • Swaps: Commonly used to hedge interest rate or currency exchange risk.  
 
-### 1.3 Hedging Example: Pension Fund Interest Rate Risk  
+### Hedging Example: Pension Fund Interest Rate Risk  
 A Canadian pension fund might hold a large portfolio of fixed-income securities. To safeguard against rising interest rates—which would lower the market value of their bond holdings—fund managers could employ an interest rate swap. In this arrangement, the pension fund might swap a fixed-rate obligation for a floating-rate payment, thus offsetting the risk of rising rates.  
 
-### 1.4 Canadian Regulatory Context  
+### Canadian Regulatory Context  
 • The Canadian Investment Regulatory Organization (CIRO) enforces proficiency and suitability standards. Advisors must ensure clients understand all relevant risks before using derivatives to hedge.  
 • Provincial securities commissions, such as the Ontario Securities Commission (OSC) and the Alberta Securities Commission (ASC), oversee derivatives trading and set disclosure requirements.  
 
 ---
 
-## 2. Speculators
+## Speculators
 
-### 2.1 Overview  
+### Overview  
 While hedgers aim to reduce or eliminate risk, speculators actively seek risk in pursuit of larger profits. Speculators attempt to profit from anticipated price movements of underlying assets. They do not typically hold the underlying assets and, instead, rely on leverage inherent in derivatives to magnify potential gains (and losses).  
 
-### 2.2 Motivations and Strategies  
+### Motivations and Strategies  
 • **Leverage**: Speculators can open a derivatives position at a fraction of the cost of directly buying the underlying asset.  
 • **Directional Betting**: They forecast whether prices will go up or down and place trades accordingly.  
 • **Profit from Volatility**: Speculators who expect large price swings can use options strategies (e.g., straddles) to gain from volatility.
 
-### 2.3 Real-World Canadian Example: Active Traders  
+### Real-World Canadian Example: Active Traders  
 Some active traders at major banking institutions (such as RBC or TD Securities) engage in proprietary trading, speculating on short-term market fluctuations. These traders use sophisticated models to predict price movements. Although such trading may generate significant gains, it also carries substantial risk.  
 
-### 2.4 Regulatory Considerations  
+### Regulatory Considerations  
 • CIRO guidelines require that speculative derivative trading is undertaken only by those with suitable risk tolerance and market knowledge.  
 • Margin requirements: Speculators must maintain certain margin levels, as set by Canadian exchanges and regulators, to cover potential losses.  
 
 ---
 
-## 3. Arbitrageurs
+## Arbitrageurs
 
-### 3.1 Overview  
+### Overview  
 Arbitrageurs look for price discrepancies between similar or identical instruments in different markets. By buying low and selling high (often simultaneously), they aim to earn riskless or near-riskless profits.  
 
-### 3.2 Types of Arbitrage  
+### Types of Arbitrage  
 • **Between Markets**: Buying an asset on one exchange while simultaneously shorting it on another exchange if there is a price difference.  
 • **Cash-and-Carry Arbitrage**: Exploiting the mispricing between the futures market and the spot market.  
 • **Inter-Commodity Arbitrage**: Identifying consistent price movements between correlated or substitutable commodities.  
 
-### 3.3 Example: Stock Index Futures Vs. ETFs  
+### Example: Stock Index Futures Vs. ETFs  
 If a stock index futures contract on the S&P/TSX 60 is mispriced compared to the underlying exchange-traded fund (ETF), an arbitrageur might buy one while shorting the other. When prices converge, the arbitrageur closes both positions, realizing a profit.  
 
-### 3.4 Impact on Markets  
+### Impact on Markets  
 Arbitrage serves a valuable role by helping prices converge to fair value. In Canada, arbitrageurs play a part in ensuring that derivatives markets, such as the Montreal Exchange (MX) for options and futures, remain efficient.  
 
 ---
 
-## 4. Portfolio Managers
+## Portfolio Managers
 
-### 4.1 Overview  
+### Overview  
 Portfolio managers, whether operating on behalf of retail clients or large institutional investors like pension funds, use derivatives to shape portfolio exposure in a cost-effective manner. This might include quickly hedging certain segments of a portfolio or taking strategic positions to capture additional returns.
 
-### 4.2 Practical Uses for Portfolio Managers  
+### Practical Uses for Portfolio Managers  
 1. **Hedging Market Risk**: If a portfolio manager fears a market downturn, they may buy put options on relevant indices to protect the portfolio’s value.  
 2. **Desire for Quick Exposure**: Instead of buying multiple equities to gain exposure to a market sector, a manager can purchase a single futures contract on a related index or sector ETF.  
 3. **Overlay Strategies**: Managers might use derivatives overlays to adjust a portfolio’s market exposure without selling the underlying assets.  
 
-### 4.3 Canadian Example: Adjusting Equity Exposure  
+### Canadian Example: Adjusting Equity Exposure  
 A Canadian balanced fund manager might be underweight equity but wants to increase the fund’s equity exposure rapidly if economic indicators turn favorable. Instead of buying dozens of individual stocks, the manager could purchase index futures (e.g., S&P/TSX 60 futures) to promptly adjust asset allocation.  
 
-### 4.4 Regulatory Oversight and Best Practices  
+### Regulatory Oversight and Best Practices  
 • Discretionary Portfolio Managers must be registered with the relevant provincial securities commission and comply with CIRO rules regarding derivatives usage.  
 • Suitability, complexity, and risk disclosure are essential. Clients must be informed of the strategy’s rationale and potential risks.  
 

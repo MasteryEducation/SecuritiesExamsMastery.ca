@@ -14,7 +14,7 @@ A Registered Retirement Savings Plan (RRSP) is a cornerstone of retirement plann
 
 ---
 
-### 1. Tax Implications of Contributions and Withdrawals
+### Tax Implications of Contributions and Withdrawals
 
 One of the fundamental features of an RRSP is its tax-deferred structure.  
 • When clients contribute to their RRSP, they can generally deduct those contributions from their taxable income, effectively reducing their current tax burden.  
@@ -26,7 +26,7 @@ However, once they retire, they will pay tax on any withdrawals at their margina
 
 ---
 
-### 2. Deadline for Contributions
+### Deadline for Contributions
 
 An important annual date for RRSP investors is the contribution deadline:
 
@@ -37,7 +37,7 @@ Failing to make contributions on time means missing out on potential tax deducti
 
 ---
 
-### 3. Record Keeping and Statements
+### Record Keeping and Statements
 
 Proper documentation is vital to managing RRSPs effectively. Advise clients to:
 
@@ -48,7 +48,7 @@ In addition to simplifying annual tax filing, good record keeping enables client
 
 ---
 
-### 4. Future Conversion to Retirement Income
+### Future Conversion to Retirement Income
 
 By law, once a plan holder reaches the end of the year in which they turn 71, they must:
 
@@ -74,7 +74,7 @@ flowchart LR
 
 ---
 
-### 5. Potential Consequences of Early Withdrawals
+### Potential Consequences of Early Withdrawals
 
 While RRSP funds can be withdrawn at any time, early withdrawals before retirement come with drawbacks:
 
@@ -86,7 +86,7 @@ Consider the real-world example of Mary, who withdrew C$15,000 from her RRSP at 
 
 ---
 
-### 6. Integration with Other Financial Plans
+### Integration with Other Financial Plans
 
 The RRSP should not be viewed in isolation but rather as part of a broader wealth management strategy. Key pillars often include:
 
@@ -99,7 +99,7 @@ Advisors at many Canadian banks—like RBC or TD—often encourage clients to re
 
 ---
 
-### 7. Glossary
+### Glossary
 
 • **Marginal Tax Rate:** The rate of tax paid on an additional dollar of income. If a client’s marginal rate is 35%, a C$1 increase in income (or withdrawal) results in 35 cents of tax.  
 • **Withholding Tax:** The portion of a withdrawal immediately sent by the financial institution to the CRA. Actual tax liability may differ from the withholding amount due to overall income levels.  
@@ -108,7 +108,7 @@ Advisors at many Canadian banks—like RBC or TD—often encourage clients to re
 
 ---
 
-### 8. References and Additional Resources
+### References and Additional Resources
 
 1. **Canada Revenue Agency (CRA) Guidance on RRSP Withdrawals:**  
    [CRA T4040: RRSPs and Other Registered Plans for Retirement](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040.html)  
@@ -123,7 +123,7 @@ Advisors at many Canadian banks—like RBC or TD—often encourage clients to re
 
 ---
 
-### 9. Summary
+### Summary
 
 An RRSP is a highly effective, tax-deferred savings vehicle that can help Canadians accumulate funds for retirement. Contributions immediately lower taxable income, and investment growth remains tax-sheltered until withdrawal. Meeting annual contribution deadlines, maintaining meticulous records, and establishing a clear plan for converting an RRSP into a retirement income stream are pivotal. Watch out for early withdrawals due to potential withholding taxes and the lasting hit to long-term growth.
 

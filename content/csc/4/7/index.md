@@ -14,9 +14,9 @@ International finance and trade lie at the heart of today’s interconnected glo
 
 ---
 
-## 1. Overview of Global Integration
+## Overview of Global Integration
 
-### 1.1 The Impact of Cross-Border Economic Activities
+### The Impact of Cross-Border Economic Activities
 Before diving into the specifics of how international trade takes place, it is essential to understand the role of globalization. The world’s economies are increasingly interconnected through:
 • Exports and imports of goods and services.  
 • Movement of capital via Foreign Direct Investment (FDI) and portfolio investment.  
@@ -24,17 +24,17 @@ Before diving into the specifics of how international trade takes place, it is e
 
 This seamlessly integrated global environment affects employment, consumer choice, and corporate profitability in Canada and beyond. From the availability of imported electronics to Canadian pension funds investing in overseas equities, global economic activities deeply shape the domestic landscape.
 
-### 1.2 Relevance to the Canadian Market
+### Relevance to the Canadian Market
 Canada’s economy is heavily influenced by external factors due to its robust trade relationships, particularly with the United States. Canadian financial institutions like RBC and TD have expanded internationally, reflecting the importance of global markets in creating diversified shareholder value. Consequently, Canadian investors — from individual retail investors to large pension funds such as the Canada Pension Plan Investment Board (CPPIB) — regularly allocate capital across global asset classes.
 
 ---
 
-## 2. Trade Agreements and Their Influence
+## Trade Agreements and Their Influence
 
-### 2.1 Importance of Trade Agreements
+### Importance of Trade Agreements
 Trade agreements govern the rules and parameters that countries follow when exchanging goods and services. These treaties reduce or eliminate various trade barriers (tariffs, quotas, and regulations), enabling the free flow of products and promoting healthy competition.
 
-### 2.2 The Canada-United States-Mexico Agreement (CUSMA)
+### The Canada-United States-Mexico Agreement (CUSMA)
 Formerly known as the North American Free Trade Agreement (NAFTA), the Canada-United States-Mexico Agreement (CUSMA) modernizes and reaffirms the commercial bond among the three countries. Key features include:
 • Reduced tariffs on automotive parts, agricultural products, and services.  
 • Clearer intellectual property protections.  
@@ -42,7 +42,7 @@ Formerly known as the North American Free Trade Agreement (NAFTA), the Canada-Un
 
 For Canada, CUSMA ensures continued integration with its largest trading partner, the U.S. It also provides a platform for Canadian enterprises to expand into the Mexican market.
 
-### 2.3 Broader Trade Negotiations and Frameworks
+### Broader Trade Negotiations and Frameworks
 Beyond North America, Canada actively pursues other free trade agreements to diversify export markets and mitigate dependence on a single partner. Examples include:  
 • The Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP).  
 • Canada-European Union Comprehensive Economic and Trade Agreement (CETA).  
@@ -51,23 +51,23 @@ These agreements influence consumer prices, domestic production, and labor marke
 
 ---
 
-## 3. Exchange Rates and Currency Markets
+## Exchange Rates and Currency Markets
 
-### 3.1 Defining Exchange Rates
+### Defining Exchange Rates
 An exchange rate specifies the price of one currency relative to another. For instance, if 1 CAD (Canadian dollar) exchanges for 0.75 USD (U.S. dollars), Canada’s currency is considered weaker than the U.S. dollar in this context.
 
 Exchange rates significantly influence international trade:  
 • A stronger CAD makes imports cheaper and exports less competitive.  
 • A weaker CAD makes exports cheaper abroad but raises the cost of imports.
 
-### 3.2 Factors Affecting Exchange Rates
+### Factors Affecting Exchange Rates
 Currency values respond to a variety of economic indicators, including:  
 • Interest rate differentials: Higher interest rates typically attract foreign capital, strengthening the domestic currency.  
 • Inflation rates: Persistent high inflation can erode a currency’s purchasing power, causing depreciation.  
 • Political and economic stability: Stable environments attract investment, which can appreciate a currency.  
 • Commodity prices: As a leading natural resource exporter, Canada’s currency often correlates with global commodity price swings.
 
-### 3.3 Managing Currency Risk  
+### Managing Currency Risk  
 Canadian investors participating in international markets face currency risk — the potential for adverse movements in exchange rates. Common hedging tools include:  
 • Forward contracts or futures to lock in exchange rates.  
 • Currency options to mitigate downside risk while allowing upside gains.  
@@ -75,9 +75,9 @@ Canadian investors participating in international markets face currency risk —
 
 ---
 
-## 4. Balance of Payments (BOP)
+## Balance of Payments (BOP)
 
-### 4.1 Components of the BOP
+### Components of the BOP
 The Balance of Payments (BOP) is a comprehensive record of a country’s economic transactions with the rest of the world over a specific period. It is divided into three broad categories:
 
 • Current Account:  
@@ -93,10 +93,10 @@ The Balance of Payments (BOP) is a comprehensive record of a country’s economi
   – Foreign Direct Investments (FDI).  
   – Official reserves (central bank transactions in foreign currencies or gold).
 
-### 4.2 Why the BOP Matters for Canada
+### Why the BOP Matters for Canada
 A persistent trade deficit in goods and services (imports > exports) can place downward pressure on a country’s currency and potentially require financing through capital inflows. Conversely, a robust export sector often contributes to a strong currency. Canada’s resource-rich economy frequently runs a trade surplus in commodities — like oil, minerals, and agricultural products — but may see deficits in other sectors, influencing government policy on tariffs, interest rates, and fiscal measures.
 
-### 4.3 Visualizing the Balance of Payments
+### Visualizing the Balance of Payments
 
 Below is a simplified Mermaid diagram illustrating how different components contribute to Canada’s overall Balance of Payments.
 
@@ -120,26 +120,26 @@ In practice, sums of all three accounts must balance over the long term, reflect
 
 ---
 
-## 5. Foreign Direct Investment (FDI) and Portfolio Flows
+## Foreign Direct Investment (FDI) and Portfolio Flows
 
-### 5.1 Understanding FDI
+### Understanding FDI
 Foreign Direct Investment (FDI) occurs when an investor from one country obtains a lasting interest—generally 10% or more of voting shares—or exercises control in a company incorporated in another country. Examples include:
 • A Canadian energy firm purchasing a controlling stake in a U.S.-based oil refinery.  
 • A Japanese automotive manufacturer building a large production facility in Ontario.
 
-### 5.2 Comparing FDI and Portfolio Investment
+### Comparing FDI and Portfolio Investment
 In contrast to FDI, portfolio investment refers to ownership of foreign assets below the threshold of controlling interest. For Canadian investors, portfolio investments might include:  
 • Buying shares of a German car manufacturer on a European stock exchange.  
 • Investing in U.S. Treasury bonds or Chinese corporate bonds.
 
 These flows offer diversification benefits and growth opportunities but also carry risks linked to exchange rate volatility, regulatory complexities, and geo-political instability.
 
-### 5.3 Real-World Example: Canadian Pension Funds
+### Real-World Example: Canadian Pension Funds
 Canadian pension funds, such as the CPPIB and Ontario Teachers’ Pension Plan, strategically invest in diversified global assets. By balancing domestic equity holdings with international securities and infrastructure projects, these funds aim to manage risk while pursuing stable long-term returns.
 
 ---
 
-## 6. Risks in Global Finance
+## Risks in Global Finance
 
 Operating or investing internationally exposes Canadians to several potential challenges:
 
@@ -151,17 +151,17 @@ Best practices to address these risks include careful due diligence, hedging str
 
 ---
 
-## 7. Practical Canadian Examples and Case Studies
+## Practical Canadian Examples and Case Studies
 
-### 7.1 A Large Canadian Bank Expands Abroad
+### A Large Canadian Bank Expands Abroad
 Royal Bank of Canada (RBC) has a substantial presence in the United States, operating local branches and building investment banking infrastructure. By doing so, RBC seeks to capitalize on a larger client base and earn revenue in U.S. dollars. While this expansion diversifies its revenue, RBC must manage currency risk, comply with U.S. banking regulations, and maintain strategic capital ratios mandated by both Canadian and U.S. regulators.
 
-### 7.2 Hedge Strategy at a Canadian Exporter
+### Hedge Strategy at a Canadian Exporter
 A hypothetical small manufacturer in Ontario exporting machinery to Europe might use forward contracts to lock in the CAD–EUR exchange rate. By doing so, it minimizes the unpredictability of currency swings, stabilizing the company’s cash flows and profit margins.
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 • **Conduct Thorough Research:** Understand the political and economic climate of target investment regions.  
 • **Stay Updated on Regulations:** Cross-check regulatory requirements enforced by the Canadian Investment Regulatory Organization (CIRO), local authorities, and central banks (e.g., Bank of Canada, Federal Reserve).  
@@ -173,7 +173,7 @@ A disciplined approach helps mitigate the pitfalls of global investing, safeguar
 
 ---
 
-## 9. Practical Tools and Resources
+## Practical Tools and Resources
 
 Take advantage of several open-source financial tools and institutional resources to stay informed:
 
@@ -194,7 +194,7 @@ Using these references and databases can clarify shifting macroeconomic trends, 
 
 ---
 
-## 10. Key Takeaways
+## Key Takeaways
 1. **Importance of Trade Agreements:** CUSMA and other trade pacts shape market access, consumer prices, and industrial competitiveness.  
 2. **Exchange Rate Dynamics:** Currency fluctuations can make or break export profitability and affect import costs.  
 3. **Balance of Payments (BOP):** Encompasses trade in goods and services, capital flows, and foreign investments, painting a picture of a country’s global standing.  

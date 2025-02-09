@@ -14,7 +14,7 @@ In the Canadian capital market, rights and warrants serve as equity-linked deriv
 
 ---
 
-## 1. Overview of Rights and Warrants
+## Overview of Rights and Warrants
 
 Rights and warrants share a common goal: allowing investors to participate in future growth by purchasing shares at a specified—or sometimes discounted—price. However, they differ significantly in their time horizon, attached conditions, and typical use cases:
 
@@ -25,13 +25,13 @@ Both instruments can lead to share dilution because they involve issuing new sha
 
 ---
 
-## 2. Rights: Short-Term Options for Shareholders
+## Rights: Short-Term Options for Shareholders
 
-### 2.1 Defining Rights
+### Defining Rights
 
 Rights are privileges granted to existing shareholders, typically when a company wishes to raise capital through a rights offering. The rights offering allows each shareholder to buy additional shares in proportion to their current holdings. The company usually issues these shares at a price below the current market price, providing an attractive incentive for participation.
 
-### 2.2 Key Features of Rights
+### Key Features of Rights
 
 1. Short-Term Duration  
    Rights usually expire within 30 to 60 days (though specific timelines may vary by issuer). During this window, shareholders must decide whether to exercise their rights, sell them on the market (if the rights are tradable), or let them expire.
@@ -47,7 +47,7 @@ Rights are privileges granted to existing shareholders, typically when a company
 4. Dilution  
    If shareholders choose not to exercise their rights, a larger portion of the newly issued shares could be taken up by other investors. Consequently, the original shareholders’ ownership percentage and share of future earnings may be diluted.
 
-### 2.3 Example: Rights Offering from a Canadian Perspective
+### Example: Rights Offering from a Canadian Perspective
 
 Suppose RBC (Royal Bank of Canada) announces a rights offering granting each existing shareholder one right per share owned. If an investor holds 1,000 RBC shares and the offering ratio is one new share for every four rights held, then the investor will be eligible to purchase up to 250 additional shares (since 1,000 ÷ 4 = 250) at the subscription price of $80 per share — hypothetically lower than the current market price of $85.  
 
@@ -55,7 +55,7 @@ Suppose RBC (Royal Bank of Canada) announces a rights offering granting each exi
 • If the investor does not have the funds to purchase additional shares, they can sell their rights on the open market before expiration.  
 • If they do nothing by the deadline, their rights expire worthless.
 
-### 2.4 Process Flow of a Rights Offering
+### Process Flow of a Rights Offering
 
 Below is a simple flow diagram illustrating the typical sequence of a rights offering from announcement to expiration:
 
@@ -76,13 +76,13 @@ flowchart LR
 
 ---
 
-## 3. Warrants: Long-Term Call Options on a Company’s Shares
+## Warrants: Long-Term Call Options on a Company’s Shares
 
-### 3.1 Defining Warrants
+### Defining Warrants
 
 Warrants grant investors the right (but not the obligation) to buy the underlying shares at a specific exercise price on or before a set expiration date. The price at which an investor can purchase the shares is known as the strike (or exercise) price. Unlike rights, which are typically offered directly to existing shareholders, warrants are often issued as part of a larger financing deal—for instance, in conjunction with bonds, preferred shares, or in a private placement.
 
-### 3.2 Key Features of Warrants
+### Key Features of Warrants
 
 1. Longer-Term Duration  
    Warrants can span years before expiry, making them appealing to investors who anticipate significant long-term growth in the share price.
@@ -96,7 +96,7 @@ Warrants grant investors the right (but not the obligation) to buy the underlyin
 4. Dilution  
    If many warrant holders exercise their warrants, significant new shares will flood the market. Consequently, existing shareholders’ percentage ownership may be diluted.
 
-### 3.3 Example: Warrant Sweetener in Canada
+### Example: Warrant Sweetener in Canada
 
 A Canadian mining company issues convertible bonds with attached warrants to improve the appeal of its financing. The warrants have a 5-year term and a strike price slightly above the current share price. If the company’s share price rises above the strike price, warrant holders may exercise these warrants, purchasing the shares at the specified strike. This scenario can be beneficial for:
 • The investor: They receive capital gains if the share price exceeds the warrant strike price.  
@@ -104,13 +104,13 @@ A Canadian mining company issues convertible bonds with attached warrants to imp
 
 ---
 
-## 4. Regulatory Considerations and Disclosures
+## Regulatory Considerations and Disclosures
 
-### 4.1 Canadian Investment Regulatory Organization (CIRO) Rules
+### Canadian Investment Regulatory Organization (CIRO) Rules
 
 CIRO supervises investment dealers in Canada and sets requirements regarding disclosure, client suitability, and business conduct. When public companies or investment dealers market rights or warrants, they must provide adequate disclosure of risks, timeline, pricing, and dilution effects to ensure investors can make informed decisions. Advisors must also confirm these securities or offerings align with each client’s risk profile, investment objectives, and overall portfolio strategy.
 
-### 4.2 Canadian Securities Administrators (CSA) and Prospectus Requirements
+### Canadian Securities Administrators (CSA) and Prospectus Requirements
 
 A company issuing rights or warrants to the public in Canada often needs to file a prospectus or prospectus-exempt offering document with the CSA. This document provides detailed information on the offer terms, business description, use of proceeds, and potential risks. For public offerings, the filing can be accessed through SEDAR+ (the electronic system for filing securities documents), helping investors analyze and compare:
 • Rights offering circulars  
@@ -118,16 +118,16 @@ A company issuing rights or warrants to the public in Canada often needs to file
 • Historical financial statements  
 • Other regulatory disclosures  
 
-### 4.3 Suitability and Disclosure
+### Suitability and Disclosure
 
 • Suitability: Investment advisors must assess whether rights or warrants fit the investor’s age, financial objectives, risk tolerance, and investment horizon.   
 • Disclosure: Offering documents must explain potential share dilution, the purpose of the rights or warrants, short-term vs. long-term dynamics, and the consequences of non-exercise.
 
 ---
 
-## 5. Potential Benefits and Risks
+## Potential Benefits and Risks
 
-### 5.1 Benefits
+### Benefits
 
 1. Discounted or Fixed Purchase Price  
    Rights can be bought at a discount, while warrants allow purchasing shares at a predetermined strike price. Both mechanisms can yield significant upside if the underlying share price increases.
@@ -138,7 +138,7 @@ A company issuing rights or warrants to the public in Canada often needs to file
 3. Enhanced Capital Raising  
    From a corporate perspective, rights and warrant offerings allow companies to raise capital more efficiently. The issuance of warrants can also sweeten deals for investors, thus lowering borrowing costs or attracting more subscribers.
 
-### 5.2 Risks and Challenges
+### Risks and Challenges
 
 1. Dilution  
    A significant influx of newly issued shares can drive down the stock price, particularly if not all shareholders participate or if investor sentiment is weak.
@@ -154,7 +154,7 @@ A company issuing rights or warrants to the public in Canada often needs to file
 
 ---
 
-## 6. Comparison: Rights vs. Warrants
+## Comparison: Rights vs. Warrants
 
 While both instruments provide a route to acquire shares, key distinctions exist:
 
@@ -169,20 +169,20 @@ While both instruments provide a route to acquire shares, key distinctions exist
 
 ---
 
-## 7. Practical Financial Examples and Strategies
+## Practical Financial Examples and Strategies
 
-### 7.1 Case Study: TD Bank Rights Issue
+### Case Study: TD Bank Rights Issue
 
 Toronto-Dominion Bank (TD) hypothetically decides to raise capital to finance acquisition plans. Each existing shareholder receives rights enabling them to purchase additional TD common shares at a discounted price of, say, $65 for every five rights. This allows TD to swiftly raise capital. Shareholders either buy more TD shares at a discount or realize some value by selling their rights if they choose not to invest additional funds.
 
-### 7.2 Portfolio Application
+### Portfolio Application
 
 An investor holding a diversified portfolio with exposure to common shares and corporate bonds might acquire warrants as part of a convertible bond package. A portfolio manager at a Canadian pension fund, looking for capital appreciation with downside protection, may lock in a fixed coupon from the bond and gain additional equity upside from the attached warrants.  
 
 • If the share price surpasses the warrant’s strike price prior to expiration, the pension fund can convert its warrants, boost equity holdings, and potentially realize capital gains.  
 • If the share price remains below the strike, the warrants simply expire, and the fund still has the bond’s coupon income.
 
-### 7.3 Calculating the Theoretical Value of Rights
+### Calculating the Theoretical Value of Rights
 
 Mathematically, the theoretical value of a right before it trades can be approximated by:
 
@@ -198,16 +198,16 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 8.1 Best Practices
+### Best Practices
 
 • Thoroughly Review Offering Documents: Investors should read the rights offering circular or the prospectus for warrants to understand the terms, timelines, and any special conditions.  
 • Portfolio Fit Analysis: Consider the risk-return relationship. Ensure that rights or warrants align with the investor’s overall objectives and liquidity requirements.  
 • Monitor Expiration Dates: These instruments become worthless beyond expiration if left unexercised. Make timely decisions.  
 • Use Open-Source Tools: Platforms like Python, R, and various financial libraries can help model the potential outcomes of exercising versus selling rights or warrants.
 
-### 8.2 Common Pitfalls
+### Common Pitfalls
 
 • Ignoring Dilution Risk: Failing to consider the implications of newly issued shares on the company’s capital structure can lead to misguided assumptions about potential share price performance.  
 • Overlooking Deadlines: Investors who wait too long or forget to exercise or sell their rights/warrants can lose their entire value.  
@@ -215,7 +215,7 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 
 ---
 
-## 9. References and Additional Resources
+## References and Additional Resources
 
 • CIRO Website (formerly IIROC) – https://www.iiroc.ca/  
 • Canadian Securities Administrators (CSA) – https://www.securities-administrators.ca/  
@@ -225,7 +225,7 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 
 ---
 
-## 10. Key Takeaways
+## Key Takeaways
 
 1. Rights and warrants are equity-linked derivatives that allow investors to purchase company shares at a predetermined or discounted price.  
 2. Rights are short-term privileges for existing shareholders, while warrants are longer-term call options typically used to attract investors in various financing deals.  

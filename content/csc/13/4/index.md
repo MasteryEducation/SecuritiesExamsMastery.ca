@@ -47,7 +47,7 @@ There are three core assumptions central to technical analysis:
 
 Charts provide a visual representation of price and volume data. Understanding their construction helps technical analysts identify key levels and evaluate future price movements.
 
-#### 3.1 Types of Charts
+#### Types of Charts
 
 • **Line Chart:** Depicts price changes over time using a single continuous line (often closing prices). It offers a simple overview but omits intraday volatility.  
 
@@ -57,14 +57,14 @@ Charts provide a visual representation of price and volume data. Understanding t
 
 • **Point-and-Figure Chart:** Focuses solely on price changes (not time). Price moves are represented by column Xs (rising prices) and Os (falling prices). Point-and-figure charts help eliminate minor price fluctuations, emphasizing major price reversals.
 
-#### 3.2 Support and Resistance
+#### Support and Resistance
 
 • **Support Level:** A price threshold below which a stock or index has historically not fallen. Buyers often step in here, creating a “floor.”  
 • **Resistance Level:** The level at which selling pressure is strong enough to halt a price rise. It acts as a “ceiling.”
 
 When a price breaks through a strong support or resistance, it may signal a change in sentiment. For example, surpassing resistance with high volume could indicate a bullish breakout.
 
-#### 3.3 Trend Lines
+#### Trend Lines
 
 Trend lines connect successive higher lows in an uptrend or lower highs in a downtrend. They help illustrate the market’s directional bias. An uptrend line is drawn by connecting at least two low points, while a downtrend line links at least two high points. A breached trend line, confirmed by higher or lower closes, can be an early warning signal of trend reversal.
 
@@ -83,7 +83,7 @@ graph LR
     end
 ```
 
-#### 3.4 Chart Patterns
+#### Chart Patterns
 
 Chart patterns typically fall into two broad categories: continuation and reversal.  
 
@@ -101,7 +101,7 @@ Chart patterns typically fall into two broad categories: continuation and revers
 
 Technical indicators are quantitative tools that complement chart pattern analysis. They help measure momentum, volatility, and sentiment.
 
-#### 4.1 Moving Averages
+#### Moving Averages
 
 Moving averages smooth out price fluctuations, making it easier to identify trends and confirm support/resistance levels.  
 
@@ -110,14 +110,14 @@ Moving averages smooth out price fluctuations, making it easier to identify tren
 
 One common strategy is to watch for a “golden cross,” where a short-term moving average crosses above a longer-term moving average, signaling potential bullish momentum.
 
-#### 4.2 Momentum Oscillators
+#### Momentum Oscillators
 
 Oscillators gauge the speed and magnitude of price changes, often helping traders identify overbought or oversold conditions.
 
 • **Relative Strength Index (RSI):** A scale from 0 to 100; readings above 70 suggest overbought conditions, while readings below 30 suggest oversold conditions.  
 • **Moving Average Convergence Divergence (MACD):** Tracks the difference between two EMAs and includes a signal line. Crossovers above or below the signal line can trigger buy or sell signals.
 
-#### 4.3 Volume Analysis
+#### Volume Analysis
 
 Volume can validate the significance of price moves. For instance, an upward price breakout accompanied by a surge in volume suggests robust buying interest. Conversely, a breakout on low volume may be a “false” or weak signal.
 

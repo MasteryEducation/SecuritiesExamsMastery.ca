@@ -14,94 +14,94 @@ Effective credit planning is a cornerstone of wealth management for Canadian cli
 
 ---
 
-### 1. Types of Consumer Credit
+### Types of Consumer Credit
 
 Consumer credit can take various forms in Canada, each with its own features, costs, and potential benefits. Understanding these vehicles will help advisors choose the right solutions for clients’ unique financial situations.
 
-#### 1.1 Credit Cards
+#### Credit Cards
 • Description and Use: Credit cards are common tools for daily expenditures, offering convenience, reward programs, and purchase protection.  
 • Interest Rates: Typically higher than secured lending products (often ranging from 19.99% to 29.99% APR, or even higher for store cards).  
 • Minimum Payments vs. Overall Costs: If a client only pays the minimum amount due, interest accumulates quickly, increasing total repayment costs.  
 • Tip: Encourage clients to pay statements in full whenever possible to avoid interest charges.
 
-#### 1.2 Lines of Credit
+#### Lines of Credit
 • Secured vs. Unsecured:  
   – Secured lines of credit (such as a home equity line of credit [HELOC]) require collateral and offer lower interest rates.  
   – Unsecured lines of credit do not require collateral but generally charge higher rates.  
 • Flexible Repayment: Clients can choose to pay only the interest or more substantial amounts to reduce principal.  
 • Best Use: Large purchases or ongoing liquidity needs; some clients use secured lines of credit to fund renovations or investments.
 
-#### 1.3 Personal Loans
+#### Personal Loans
 • Structure: Typically installment loans with a fixed term and fixed repayment schedule.  
 • Uses: Debt consolidation, car purchases, emergencies, or home improvements without leveraging home equity.  
 • Interest Rates: Generally stable and may be lower than credit cards, but often higher than secured lines of credit.
 
-#### 1.4 Overdraft Protection
+#### Overdraft Protection
 • Description: A credit facility linked to a chequing account that covers shortfalls up to a specified limit.  
 • Interest Rates and Fees: Often have higher interest rates and may involve additional fees if the overdraft is utilized for an extended period.  
 • Avoiding NSF Fees: Can save money by preventing non-sufficient fund (NSF) charges on bounced cheques or pre-authorized payments.
 
 ---
 
-### 2. Credit Score and Creditworthiness
+### Credit Score and Creditworthiness
 
 A strong credit profile broadens access to more favorable interest rates, higher credit limits, and broader financial opportunities. In Canada, two primary credit reporting agencies are Equifax and TransUnion. Understanding credit fundamentals empowers clients to maintain strong financial reputations.
 
-#### 2.1 Components of a Credit Score
+#### Components of a Credit Score
 1. Payment History (35%): Late or missed payments negatively impact credit scores.  
 2. Credit Utilization (30%): The ratio of outstanding credit balances to total available credit. Staying under 30% utilization is typically advisable.  
 3. Length of Credit History (15%): A longer history of responsible credit use improves credit scores.  
 4. New Credit Inquiries (10%): Frequent requests for new credit can lower credit scores.  
 5. Credit Mix (10%): A healthy blend of credit types (e.g., credit cards, lines of credit, mortgages) can improve scores.
 
-#### 2.2 Improving Credit Health
+#### Improving Credit Health
 • Consistent, On-Time Payments: Late payments can remain on a credit report for years.  
 • Keeping Credit Utilization Low: Aim for a utilization ratio under 30% of available credit.  
 • Limiting New Credit Applications: Too many inquiries in a short period can reduce a score.  
 • Checking Credit Reports Annually: Review for accuracy and potential fraudulent accounts.
 
-#### 2.3 Credit Reports
+#### Credit Reports
 • Equifax: https://www.consumer.equifax.ca  
 • TransUnion: https://www.transunion.ca  
 • Tip: Encourage clients to request free reports annually and ensure all details, including addresses and employment data, are correct.
 
 ---
 
-### 3. Strategic Use of Credit
+### Strategic Use of Credit
 
 Credit, when managed well, can be a powerful tool in a client’s financial arsenal. Advisors can help clients use credit strategically to reduce costs, improve liquidity, and support long-term objectives.
 
-#### 3.1 Avoiding High-Interest Debt
+#### Avoiding High-Interest Debt
 • Prioritizing High-Rate Balances: Paying down credit card debt or high-interest unsecured loans first frees up cash flow.  
 • Snowball vs. Avalanche Methods: Advocate for repayment strategies that either tackle the smallest balance first (snowball) or the highest interest rate first (avalanche).  
 • Impact on Net Worth: Reducing high-interest debt can significantly enhance net worth over time.
 
-#### 3.2 Leveraging Low-Interest Options
+#### Leveraging Low-Interest Options
 • Secured Loans: Home equity lines of credit (HELOCs) often provide lower rates.  
 • Investment Opportunities: Clients with solid net worth may utilize low-interest lines of credit to invest, but must be cautious about market risk.  
 • Emergency Buffer: A low-rate line of credit can serve as an emergency fund alternative, but must be used prudently to avoid excessive debt.
 
-#### 3.3 Debt Consolidation
+#### Debt Consolidation
 • Benefits: Streamlines multiple debt payments into one, often at a lower interest rate.  
 • Credit Impact: Can reduce credit utilization and improve credit score if managed responsibly.  
 • Potential Pitfalls: Closing old accounts may unintentionally reduce credit history length, impacting scores. Advisors should carefully evaluate all trade-offs.
 
 ---
 
-### 4. Role of the Advisor
+### Role of the Advisor
 
 Financial advisors add value by helping clients navigate complex credit landscapes. They can identify risks, optimize credit strategies, and monitor debt loads within the larger wealth management plan.
 
-#### 4.1 Assessment of Debt Ratios
+#### Assessment of Debt Ratios
 • Debt-to-Income Ratio: Tracks monthly debt payments relative to income.  
 • Total Debt Service (TDS) and Gross Debt Service (GDS) Ratios: Often used by lenders to assess mortgage affordability.  
 • Early Warning: Identifying unsustainable ratios early allows for timely restructuring or refinancing.
 
-#### 4.2 Budget Integration
+#### Budget Integration
 • Aligning Repayment: Ensure that monthly debt payments fit into the broader budgeting process without compromising savings or investment goals.  
 • Cash Flow Management: Emphasize the importance of maintaining an emergency fund, even during debt repayment.
 
-#### 4.3 Ongoing Monitoring
+#### Ongoing Monitoring
 • Regular Credit Check: Annual or semi-annual reviews of credit reports.  
 • Refinancing Opportunities: Track interest rates and credit changes to identify beneficial refinancing or consolidation moments.  
 • Cost-Benefit Analyses: Evaluate if paying off debt faster is more advantageous than investing surplus funds.
@@ -144,7 +144,7 @@ flowchart TD
 
 ---
 
-### 5. Glossary
+### Glossary
 
 • **Collateral**: An asset pledged to secure a loan (e.g., property, vehicle) that can be seized if the borrower defaults.  
 • **Credit Utilization Ratio**: The amount of credit used compared to total available credit.  

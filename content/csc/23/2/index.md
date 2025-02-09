@@ -14,7 +14,7 @@ Principal-Protected Notes (PPNs) are structured investment products designed to 
 
 ---
 
-## 1. Introduction to Principal-Protected Notes (PPNs)
+## Introduction to Principal-Protected Notes (PPNs)
 
 A PPN typically guarantees repayment of the invested principal at maturity (subject to the creditworthiness of the issuer) while offering exposure to an underlying asset. If the underlying asset performs well, investors can receive a portion (known as the participation rate) of the gains; if the underlying performance is poor, the structure aims to return the original principal at maturity.
 
@@ -27,12 +27,12 @@ Key points:
 
 ---
 
-## 2. Underlying Structure of PPNs
+## Underlying Structure of PPNs
 
-### 2.1 Zero-Coupon Bond Component  
+### Zero-Coupon Bond Component  
 The foundation of a PPN is commonly a zero-coupon bond or an equivalent structure (such as a strip bond) that matures at the same time as the note. By investing a portion of the capital in a zero-coupon bond, the issuer can ensure the value grows to equal the original principal at maturity. This portion provides the essential “principal protection.”
 
-### 2.2 Derivatives or Options Component  
+### Derivatives or Options Component  
 The remaining capital, after purchasing the zero-coupon bond, is used to buy an option or a derivatives contract linked to the performance of an underlying asset or index. This could be an equity index, commodity index, foreign exchange rate, or a basket of assets.  
 • If the underlying asset increases in value, the option generates gains that flow to the investor.  
 • If the underlying performs poorly, the investor still receives the maturity value of the zero-coupon bond (i.e., the principal).
@@ -50,24 +50,24 @@ flowchart LR
 
 ---
 
-## 3. Key Features and Terminology
+## Key Features and Terminology
 
-### 3.1 Guaranteed Principal
+### Guaranteed Principal
 By design, the investor’s principal is promised to be repaid at maturity, necessarily “protected” so long as the issuer remains solvent. It is important to note that the principal guarantee does not protect investors against early redemption losses or any fees.
 
-### 3.2 Participation Rate
+### Participation Rate
 The participation rate refers to the percentage of the underlying asset’s gains to which the investor is entitled. For example, if an equity index rises by 20% and the PPN’s participation rate is 80%, the investor’s return (tied to index performance) is 16% (80% of 20%).
 
-### 3.3 Caps and Floors
+### Caps and Floors
 • A cap limits the maximum return the investor can receive. For example, a cap of 30% means that even if the underlying asset grows by 50%, the maximum realized gain is 30%.  
 • A floor ensures a minimum performance level in addition to the protected principal, such as a guaranteed 2% return even if the underlying loses value.
 
-### 3.4 Creditworthiness
+### Creditworthiness
 Since the protection of principal is only as solid as the institution offering it, the issuer’s credit rating is critical. In Canada, major banks like RBC, TD, Scotiabank, and others maintain high credit ratings. However, it remains the investor’s responsibility to evaluate the issuer’s financial stability.
 
 ---
 
-## 4. How PPNs Operate in Practice
+## How PPNs Operate in Practice
 
 Let’s consider a simplified example. Assume you invest CAD 10,000 in a PPN with a five-year term:
 
@@ -80,7 +80,7 @@ This structure explains why PPNs often underperform direct equity investments du
 
 ---
 
-## 5. Liquidity and Secondary Market
+## Liquidity and Secondary Market
 
 PPNs are designed to be held to maturity. Exiting early may be challenging because:  
 • Secondary markets for PPNs are often illiquid or non-existent.  
@@ -91,9 +91,9 @@ In some cases, the issuing financial institution may offer to buy back the note 
 
 ---
 
-## 6. Fees and Overall Cost Structure
+## Fees and Overall Cost Structure
 
-### 6.1 Embedded Costs  
+### Embedded Costs  
 PPNs often hide fees within their structure. Brokers or issuers may levy:  
 • Arrangement fees for structuring the zero-coupon bond and the derivatives.  
 • Commission or distribution fees.  
@@ -101,12 +101,12 @@ PPNs often hide fees within their structure. Brokers or issuers may levy:
 
 These expenses can lower the effective yield. A PPN might display an attractive headline rate or payoff formula, but the embedded costs can limit actual returns.
 
-### 6.2 Examples of Fee Impact  
+### Examples of Fee Impact  
 To illustrate, assume a PPN states a potential 50% cap on returns over five years. However, the structuring fees and other costs might reduce the practical upside to only 35–40%. Some banks publish historical examples of PPN performance (or “market-linked GICs”)—review them to see how fees have historically affected returns.
 
 ---
 
-## 7. Credit Risk
+## Credit Risk
 
 While the principal is generally protected, the note is only as secure as the issuer behind it. In the event of issuer default or bankruptcy, investors could lose some or all of their principal. Before investing:  
 • Check the issuer’s credit ratings, such as DBRS, Moody’s, or S&P Global.  
@@ -115,7 +115,7 @@ While the principal is generally protected, the note is only as secure as the is
 
 ---
 
-## 8. Taxation Considerations
+## Taxation Considerations
 
 Tax treatment of PPN returns depends on the nature of payouts. Possibilities include:  
 • Interest income (if a coupon structure is involved).  
@@ -128,50 +128,50 @@ Canadian investors should consult the product’s prospectus and related Canada 
 
 ---
 
-## 9. Suitability and Regulatory Framework
+## Suitability and Regulatory Framework
 
-### 9.1 Suitability Requirements  
+### Suitability Requirements  
 Regulatory bodies like the Canadian Investment Regulatory Organization (CIRO) require firms to follow “Know Your Client” (KYC) and “Know Your Product” (KYP) guidelines. Investment advisors must ensure PPNs align with an investor’s financial goals, risk tolerance, liquidity needs, and time horizon. This is further detailed in National Instrument 31-103 (Registration Requirements, Exemptions and Ongoing Registrant Obligations).
 
-### 9.2 Sales and Disclosure  
+### Sales and Disclosure  
 PPNs in Canada often come with a simplified prospectus or a comprehensive term sheet that outlines how the payoff is calculated, any caps/floors, the participation rate, and credit risk disclaimers.  
 • Watch for disclaimers: “This note is guaranteed by the credit of [XYZ Bank].”  
 • Review the “Principal Protected Notes: Know What You Are Investing In,” an educational resource from the Canadian Securities Administrators (CSA).
 
-### 9.3 Compliance and Documentation  
+### Compliance and Documentation  
 Advisors promoting PPNs must maintain thorough documentation to prove they have complied with CIRO standards for product due diligence, sales practices, and suitability. Detailed performance back-testing, credit analysis, and alignment with client objectives are essential to demonstrate compliance.
 
 ---
 
-## 10. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 10.1 Canadian Bank-Issued PPN  
+### Canadian Bank-Issued PPN  
 A leading Canadian bank (e.g., RBC) issues Market-Linked GICs, which are essentially PPNs. The structure might reference the performance of the S&P/TSX 60 index, with a participation rate of 70–100%, depending on the product and term:  
 • Investors deposit a lump sum, typically locked in for 3 to 5 years.  
 • The maximum potential return is capped at a certain percentage over the term.  
 • Principal is guaranteed at maturity, so if the index plummets, the investor is still paid back their initial deposit.
 
-### 10.2 Pension Fund Weighting  
+### Pension Fund Weighting  
 A conservative institutional investor—such as a small Canadian pension fund—may use PPNs in portions of its fixed-income allocation for enhanced returns. The notes preserve capital while allowing a measure of equity-linked growth, improving the overall risk/return profile compared to traditional bonds, albeit with limited upside.
 
 ---
 
-## 11. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 11.1 Best Practices  
+### Best Practices  
 • Perform credit due diligence: Evaluate the issuer’s credit rating and overall financial health.  
 • Read all documentation: Understand potential caps, fees, and the exact participation rate.  
 • Align with your objectives: Ensure the structured payoff suits your investment horizon and liquidity needs.  
 • Diversify: Avoid placing all investable assets in one issuer or type of product.
 
-### 11.2 Pitfalls  
+### Pitfalls  
 • Limited upside: High fees or caps can restrict gains compared to direct equity investment.  
 • Liquidity constraints: PPNs can be difficult to sell before maturity.  
 • Over-reliance on the issuer’s credit: If the issuer’s solvency falters, so does the “guarantee” on principal.
 
 ---
 
-## 12. Step-by-Step Considerations (Checklist)
+## Step-by-Step Considerations (Checklist)
 
 1. Determine Your Investment Horizon: Since PPNs typically require a multi-year commitment, confirm you can hold until maturity.  
 2. Assess Credit Risk: Check the issuer’s rating from reputable agencies (S&P, DBRS, or Moody’s).  
@@ -183,7 +183,7 @@ A conservative institutional investor—such as a small Canadian pension fund—
 
 ---
 
-## 13. Summary
+## Summary
 
 Principal-Protected Notes (PPNs) can be valuable for investors who want exposure to market growth while preserving their principal—provided they are comfortable with caps on returns, a lack of liquidity, embedded fees, and the credit risk of the issuer. Careful due diligence is essential, including reading the product documentation, assessing the track record and creditworthiness of the issuing bank, and considering how PPNs fit into an overall asset allocation strategy.
 

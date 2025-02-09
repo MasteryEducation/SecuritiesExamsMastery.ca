@@ -14,9 +14,9 @@ Building on the foundation of the portfolio approach, an investor’s primary ch
 
 ---
 
-## 1. Diversification and Correlation
+## Diversification and Correlation
 
-### 1.1 Fundamentals of Diversification
+### Fundamentals of Diversification
 Diversification is among the most reliable mechanisms investors use to mitigate risk. The idea is straightforward: By investing across a variety of asset classes, sectors, and geographies, you reduce the impact that any single underperforming asset can have on an overall portfolio. Instead of placing all funds into one stock (e.g., a high-growth Canadian technology firm), you might hold a mix of:
 • Government of Canada bonds.  
 • Blue-chip stocks from Canadian banks such as RBC or TD.  
@@ -25,7 +25,7 @@ Diversification is among the most reliable mechanisms investors use to mitigate 
 
 When different assets respond in different ways to market events, portfolio volatility decreases. This concept is the crux of Modern Portfolio Theory (MPT), applied frequently by professional money managers in Canada and worldwide.
 
-### 1.2 The Role of Correlation
+### The Role of Correlation
 Correlation measures the degree to which two assets move in tandem. The correlation coefficient ranges from -1 to +1:
 • +1: Perfect positive correlation (two assets move in the same direction to the same degree).  
 • 0: No correlation (assets move independently of each other).  
@@ -49,12 +49,12 @@ In Canadian markets, portfolio managers pay keen attention to correlation coeffi
 
 ---
 
-## 2. The Efficient Frontier
+## The Efficient Frontier
 
-### 2.1 Definition and Concept
+### Definition and Concept
 The efficient frontier is a cornerstone of Harry Markowitz’s Modern Portfolio Theory. It represents the set of optimal portfolios that deliver the highest expected return for each level of risk (or the lowest risk for a targeted return). Portfolios located below the efficient frontier are considered suboptimal—they either incur too much risk for their level of return or deliver too little return for their assumed risk.
 
-### 2.2 Plotting the Efficient Frontier
+### Plotting the Efficient Frontier
 
 Typically, the efficient frontier is depicted on a graph with risk (standard deviation of returns) on the x-axis and expected return on the y-axis:
 
@@ -70,22 +70,22 @@ graph LR
 
 In a real-world scenario, a Canadian retirement portfolio might include a range of investment types—like Government of Canada bonds, provincial bonds, corporate bonds, domestic and international equities, and possibly alternative investments like venture capital funds. By combining these assets carefully, the portfolio can reach a position on the efficient frontier that balances the investor’s return objectives with their risk tolerance.
 
-### 2.3 Moving Along the Frontier
+### Moving Along the Frontier
 • Moving up the frontier: Achieving higher returns often involves taking on additional risk, perhaps by increasing exposure to equities or alternative assets.  
 • Moving down the frontier: Reducing risk typically means shifting toward more conservative or fixed-income investments.  
 
 ---
 
-## 3. Systematic vs. Unsystematic Risk in a Portfolio
+## Systematic vs. Unsystematic Risk in a Portfolio
 
-### 3.1 Systematic Risk (Market Risk)
+### Systematic Risk (Market Risk)
 Systematic risk affects broad market segments and cannot be fully diversified away. It arises from factors such as geopolitical events, economic recessions, pandemics, or central bank policies (e.g., Bank of Canada’s monetary policy changes).
 
 Examples:  
 • A global economic downturn triggered by widespread trade disputes.  
 • A significant hike in interest rates by the Bank of Canada aimed at taming inflation.  
 
-### 3.2 Unsystematic Risk (Idiosyncratic Risk)
+### Unsystematic Risk (Idiosyncratic Risk)
 Unsystematic risk is specific to a company, sector, or industry, such as a management scandal, a patent failure, or labor disputes in a particular factory. This form of risk can be mitigated—often almost eliminated—through diversification. Holding assets across multiple industries lowers the likelihood that any single event (e.g., a mining strike) severely impacts your entire portfolio.
 
 #### Practical Illustration
@@ -100,14 +100,14 @@ While one sector might underperform for company-specific reasons, strong perform
 
 ---
 
-## 4. Portfolio Beta and Alpha
+## Portfolio Beta and Alpha
 
-### 4.1 Beta
+### Beta
 Beta measures an asset’s (or portfolio’s) sensitivity to market movements. A beta of 1 implies that the portfolio tends to move lockstep with the benchmark (often the S&P/TSX Composite Index in Canada). A portfolio with a beta of 0.8 is expected to move 20% less than the market’s returns, while a higher beta—say 1.2—would imply larger swings in response to market moves.  
 
 When constructing a portfolio for a risk-averse client, a portfolio manager might target a lower beta; for an aggressive-growth strategy, they may accept a higher beta.
 
-### 4.2 Alpha
+### Alpha
 Alpha represents the excess return (positive or negative) of a portfolio relative to its expected return, given its beta. Specifically:
 • Positive alpha suggests the asset or portfolio outperformed relative to risk level.  
 • Negative alpha indicates underperformance relative to the risk taken.
@@ -116,9 +116,9 @@ For instance, if your portfolio earns 10% when, given its level of market risk (
 
 ---
 
-## 5. Capital Asset Pricing Model (CAPM)
+## Capital Asset Pricing Model (CAPM)
 
-### 5.1 CAPM Basics
+### CAPM Basics
 CAPM provides a theoretical framework for determining the required rate of return of an asset based on systematic risk. The model’s formula is:
 
 {{< katex >}}
@@ -130,7 +130,7 @@ Where:
 • \\(\beta\\) = Beta of the asset or portfolio.  
 • \\(R_m\\) = Expected return of the market.
 
-### 5.2 Real-World Considerations
+### Real-World Considerations
 While CAPM offers a straightforward approach, real markets are never perfectly efficient. Behavioral biases, market anomalies, and macroeconomic events (like oil price shocks in Alberta’s energy sector) can cause short-term divergences from the CAPM assumptions. Canadian Portfolio Managers must also consider:
 • Liquidity constraints of smaller-cap Canadian stocks or thinly traded government bonds.  
 • Regulatory impacts from National Instruments or CIRO guidelines on securities selection.  
@@ -138,9 +138,9 @@ While CAPM offers a straightforward approach, real markets are never perfectly e
 
 ---
 
-## 6. Risk-Adjusted Performance Measures
+## Risk-Adjusted Performance Measures
 
-### 6.1 Sharpe Ratio
+### Sharpe Ratio
 The Sharpe Ratio measures the excess return (above the risk-free rate) per unit of total portfolio risk (standard deviation):
 
 {{< katex >}}
@@ -154,7 +154,7 @@ Where:
 
 A higher Sharpe Ratio indicates that the portfolio achieves more return per unit of overall risk.
 
-### 6.2 Treynor Ratio
+### Treynor Ratio
 Like the Sharpe Ratio, the Treynor Ratio focuses on excess returns but uses beta instead of standard deviation. It isolates the return per unit of systematic risk:
 
 {{< katex >}}
@@ -163,17 +163,17 @@ Like the Sharpe Ratio, the Treynor Ratio focuses on excess returns but uses beta
 
 For portfolios that seek to manage primarily market risk (and where unsystematic risk is adequately diversified), the Treynor Ratio can be particularly helpful.
 
-### 6.3 Information Ratio
+### Information Ratio
 The Information Ratio measures a manager’s ability to generate excess returns over a benchmark, relative to the volatility of those returns (tracked as tracking error). A high Information Ratio indicates consistent outperformance over the benchmark.
 
 ---
 
-## 7. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 7.1 Canadian Pension Fund Example
+### Canadian Pension Fund Example
 A Canadian pension fund, such as the Canada Pension Plan Investment Board (CPPIB), might maintain a globally diversified portfolio. By allocating funds to Canadian equities, foreign equities, fixed income, and alternative investments, CPPIB reduces unsystematic risk. Its overall performance is then measured using risk-adjusted metrics like the Sharpe Ratio and Information Ratio.
 
-### 7.2 Canadian Bank Example: RBC Balanced Fund
+### Canadian Bank Example: RBC Balanced Fund
 A balanced mutual fund managed by RBC might hold:
 • 40% in Canadian government and corporate bonds  
 • 40% in Canadian and U.S. equities  
@@ -181,32 +181,32 @@ A balanced mutual fund managed by RBC might hold:
 
 Through strategic asset allocation, the fund attempts to maintain a relatively stable beta. Performance is tracked to assess alpha relative to a composite benchmark, which could be a blend of the FTSE Canada Universe Bond Index and S&P/TSX Composite Index.
 
-### 7.3 Sector-Specific Diversification
+### Sector-Specific Diversification
 A TD asset manager looking to reduce risk for a client in the energy sector might add renewable energy companies and utility stocks to offset oil price volatility. This approach exploits lower correlation between traditional energy and renewables while still remaining within a broader energy theme.
 
 ---
 
-## 8. Best Practices, Challenges, and Strategies
+## Best Practices, Challenges, and Strategies
 
-### 8.1 Best Practices in Canadian Portfolio Construction
+### Best Practices in Canadian Portfolio Construction
 • Maintain a mix of assets: Incorporate equity, debt, and alternative assets for risk diversification.  
 • Monitor portfolio beta: Ensure the portfolio’s sensitivity to broad market movements aligns with client objectives.  
 • Focus on correlation: Seek combinations of securities with low or negative correlations.  
 • Rebalance regularly: Realign to the targeted asset mix to maintain the desired risk-return profile.
 
-### 8.2 Common Pitfalls
+### Common Pitfalls
 • Overconcentration: Investing too heavily in a single sector or stock (common with employee stock programs).  
 • Ignoring liquidity: In Canada, thinly traded small-cap stocks or corporate bonds can increase both transaction costs and volatility.  
 • Chasing high returns without managing risks: For instance, overly aggressive strategies might backfire if interest rates rise sharply or if commodity prices plummet.
 
-### 8.3 Mitigating Challenges
+### Mitigating Challenges
 • Portfolio Monitoring: Continuous oversight, potentially using open-source financial tools like Python libraries (NumPy, pandas) to evaluate correlations, betas, and Sharpe Ratios.  
 • Scenario Analysis: Stress testing portfolios against events like an interest rate hike by the Bank of Canada or a sudden recessions.  
 • Regulatory Alignment: Adhering to guidelines laid out by the Canadian Securities Administrators (CSA) under National Instruments (e.g., NI 31-103 for registration and compliance) and CIRO requirements for investor suitability.
 
 ---
 
-## 9. Additional Resources
+## Additional Resources
 
 • **Canadian Investment Regulatory Organization (CIRO):**  
   (https://www.ciro.ca) — Provides ongoing updates on best practices, investor protection, and registration.  
@@ -224,7 +224,7 @@ A TD asset manager looking to reduce risk for a client in the energy sector migh
 
 ---
 
-## 10. Glossary of Key Terms
+## Glossary of Key Terms
 
 • **Correlation:** A measure (ranging from -1 to +1) of how two securities move in relation to each other.  
 • **Diversification:** An investment approach that distributes capital across multiple assets to limit exposure to any single security’s risk.  

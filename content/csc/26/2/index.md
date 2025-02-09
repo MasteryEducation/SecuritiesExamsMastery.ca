@@ -14,7 +14,7 @@ The Life Cycle Hypothesis (LCH) is a powerful framework for understanding how Ca
 
 ---
 
-## 1. Overview of the Life Cycle Hypothesis
+## Overview of the Life Cycle Hypothesis
 
 The Life Cycle Hypothesis posits that individuals tend to borrow (or spend more than they earn) in their early years, accumulate savings and investments during their peak earning period, and then spend down those savings in retirement. At a high level:
 
@@ -36,9 +36,9 @@ flowchart LR
 
 ---
 
-## 2. Early Career (Accumulation Phase)
+## Early Career (Accumulation Phase)
 
-### 2.1 Characteristics of Early Career Investors
+### Characteristics of Early Career Investors
 
 • Typical Age Range: Early to mid-20s through early 30s  
 • Financial Priorities: Paying off student debt, establishing an emergency fund, saving for major purchases (e.g., first home)  
@@ -46,7 +46,7 @@ flowchart LR
 
 Because these investors have decades of earnings ahead, they can recover from short-term market fluctuations and consider higher-risk allocations, focusing on equities or equity-focused mutual funds and ETFs.
 
-### 2.2 Key Strategies
+### Key Strategies
 
 1. Build an Emergency Fund: Aim for 3–6 months’ worth of expenses in a high-interest savings account or Tax-Free Savings Account (TFSA) for emergencies.  
 2. Aggressive Growth Portfolio: Consider a predominantly equity allocation (e.g., 70%–90% equities) to maximize long-term capital appreciation.  
@@ -55,15 +55,15 @@ Because these investors have decades of earnings ahead, they can recover from sh
    • RRSP contributions offer immediate tax advantages and potential employer matching (via group RRSPs, if available).  
 4. Insurance Coverage: Basic life insurance and disability insurance can protect against unforeseen events, though the coverage level is typically lower than in later stages.  
 
-### 2.3 Case Study
+### Case Study
 
 Consider a 25-year-old software developer in Toronto with $15,000 in student debt and aspirations of homeownership within five years. An advisor might recommend prioritizing debt repayment while simultaneously contributing to a TFSA for an emergency fund. Any leftover funds could be directed into a growth-oriented portfolio featuring Canadian and global equities, such as RBC or TD e-series index funds, to capture broader market gains.
 
 ---
 
-## 3. Mid-Career (Consolidation Phase)
+## Mid-Career (Consolidation Phase)
 
-### 3.1 Characteristics of Mid-Career Investors
+### Characteristics of Mid-Career Investors
 
 • Typical Age Range: Mid-30s to 50s  
 • Financial Priorities: Family responsibilities, mortgage payments, increasing earnings, saving for children’s education (RESP), and insurance coverage  
@@ -71,7 +71,7 @@ Consider a 25-year-old software developer in Toronto with $15,000 in student deb
 
 Many investors in this phase have higher incomes and have begun accumulating meaningful assets. However, they also face greater expenses, such as mortgage payments and childcare costs.
 
-### 3.2 Key Strategies
+### Key Strategies
 
 1. Maximize Registered Accounts:  
    • RRSP: Use contribution room to benefit from tax-deferred growth.  
@@ -83,15 +83,15 @@ Many investors in this phase have higher incomes and have begun accumulating mea
    • Disability and critical illness insurance can prevent financial collapse if health issues arise.  
 4. Debt Reduction: Paying down high-interest debt, including credit cards or unsecured lines of credit, can free up more funds for investment.  
 
-### 3.3 Practical Example
+### Practical Example
 
 A couple in Vancouver, both in their early 40s, has a household income of $150,000 and two children under age 10. They still owe $300,000 on their mortgage. They might choose to allocate new capital to a mix of equity and fixed-income funds—perhaps 60% equities, 40% fixed income—while simultaneously contributing to their children’s RESP and making extra mortgage payments if interest rates are high.
 
 ---
 
-## 4. Peak Earning Years & Pre-Retirement
+## Peak Earning Years & Pre-Retirement
 
-### 4.1 Characteristics of Pre-Retirement Investors
+### Characteristics of Pre-Retirement Investors
 
 • Typical Age Range: 50s to early 60s  
 • Financial Priorities: Continued retirement savings, mortgage repayment, estate planning considerations  
@@ -99,7 +99,7 @@ A couple in Vancouver, both in their early 40s, has a household income of $150,0
 
 During this stage, Canadians often reach their highest earning potential. However, they must begin planning carefully for retirement, ensuring asset allocation aligns with reduced time horizons.
 
-### 4.2 Key Strategies
+### Key Strategies
 
 1. Shifting Asset Allocation:  
    • Transition toward a more balanced or conservative mix (e.g., 50%–60% equities, 40%–50% fixed income).  
@@ -108,15 +108,15 @@ During this stage, Canadians often reach their highest earning potential. Howeve
 3. Catch-Up Contributions: Leverage any unused RRSP contribution room. Those 55+ might also maximize their TFSA for additional tax advantages.  
 4. Tax-Efficient Planning: Consult the Canada Revenue Agency (CRA) guidelines on RRSP and TFSA contribution limits and consider spousal RRSPs or pension income-splitting techniques.  
 
-### 4.3 Real-World Application
+### Real-World Application
 
 A 55-year-old financial manager in Calgary earning $120,000 a year might shift from a tech-heavy equity portfolio to a balanced approach featuring Canadian dividend stocks (e.g., major banks such as RBC, TD, or Scotiabank) and government bonds. She might also consider topping up her RRSP and TFSA contributions to maximize tax savings before retirement.
 
 ---
 
-## 5. Retirement Phase
+## Retirement Phase
 
-### 5.1 Characteristics of Retirees
+### Characteristics of Retirees
 
 • Typical Age Range: 60s and beyond  
 • Financial Priorities: Generating steady income, minimizing portfolio volatility, managing mandatory withdrawals (e.g., converting RRSPs to RRIFs by age 71)  
@@ -124,7 +124,7 @@ A 55-year-old financial manager in Calgary earning $120,000 a year might shift f
 
 Upon entering retirement, clients must carefully manage withdrawals from registered and non-registered accounts to sustain income while preserving capital. The objective shifts from accumulation to decumulation.
 
-### 5.2 Key Strategies
+### Key Strategies
 
 1. Sustainable Withdrawal Rates: Many retirees aim for a 3%–4% annual withdrawal rate to balance income needs and long-term sustainability.  
 2. Income-Producing Assets:  
@@ -136,15 +136,15 @@ Upon entering retirement, clients must carefully manage withdrawals from registe
    • Consult the CRA for required minimum withdrawals, which increase with age.  
 4. Tax Minimization: Employ strategies such as pension income-splitting with a spouse and making strategic withdrawals from TFSAs or non-registered accounts to optimize overall tax liability.
 
-### 5.3 Illustrative Scenario
+### Illustrative Scenario
 
 A retired couple in Ottawa with a combined $800,000 in RRSPs must develop a withdrawal plan. By converting RRSPs to RRIFs, they systematically draw monthly income while leaving the remainder invested in a portfolio consisting of 40% equities, 30% bonds, and 30% GICs. They also use their TFSAs to reduce taxable income and maintain a cash reserve for unexpected expenses.
 
 ---
 
-## 6. Legacy/Wealth Transfer
+## Legacy/Wealth Transfer
 
-### 6.1 Characteristics of the Wealth Transfer Phase
+### Characteristics of the Wealth Transfer Phase
 
 • Typical Age Range: Late retirement (70s and beyond)  
 • Financial Priorities: Estate planning, maintaining assets’ tax efficiency, philanthropic goals  
@@ -152,7 +152,7 @@ A retired couple in Ottawa with a combined $800,000 in RRSPs must develop a with
 
 For many Canadians, preserving wealth for the next generation or charitable giving becomes a top priority. Estate planning tools, such as trusts or joint ownership, can help ensure smooth wealth transfer without unnecessary tax burdens.
 
-### 6.2 Key Strategies
+### Key Strategies
 
 1. Estate Planning:  
    • Wills, trusts, and powers of attorney are core documents for organizing and transferring assets.  
@@ -166,13 +166,13 @@ For many Canadians, preserving wealth for the next generation or charitable givi
 4. Succession Planning:  
    • Small business owners should address succession planning early, working with professionals to organize tax-efficient transfers of a business or shares.  
 
-### 6.3 Example: Estate Transfer to Adult Children
+### Example: Estate Transfer to Adult Children
 
 A 78-year-old widow in Halifax wants to ensure minimal estate taxes for her two adult children. She might place her condo and non-registered investments in a trust and continue receiving income. She could also hold a life insurance policy that covers potential tax liabilities on her passing, allowing her heirs to take ownership of assets with fewer complications.
 
 ---
 
-## 7. Illustrative Comparison Across Life Stages
+## Illustrative Comparison Across Life Stages
 
 A simplified table below compares key considerations and strategies for each stage:
 
@@ -186,23 +186,23 @@ A simplified table below compares key considerations and strategies for each sta
 
 ---
 
-## 8. Best Practices, Challenges, and Advisor Insights
+## Best Practices, Challenges, and Advisor Insights
 
-### 8.1 Best Practices
+### Best Practices
 
 • Engage Early: Begin discussions with clients about future life stages as early as possible.  
 • Holistic Advice: Incorporate tax, insurance, estate planning, and investment recommendations.  
 • Education: Continuously educate clients about market cycles, basic financial concepts, and regulatory changes.  
 • Regular Reviews: Schedule annual or semi-annual reviews to track progress and adjust strategies based on changes in the client’s life.
 
-### 8.2 Common Pitfalls
+### Common Pitfalls
 
 • Over-Reliance on a Single Asset Class: Younger clients may be too aggressive with equities, whereas older clients may be overly conservative, thus limiting growth.  
 • Inadequate Insurance Coverage: Failing to properly insure a family’s primary earner or key assets can jeopardize long-term goals.  
 • Delayed Retirement Planning: Waiting too long to ramp up retirement savings can leave clients short of their goals.  
 • Neglecting Estate Documents: Without explicit estate planning, assets may be distributed in a way that does not align with the client’s wishes.
 
-### 8.3 Real-World Advisory Tips
+### Real-World Advisory Tips
 
 • Adapting Communication: Younger clients may prefer app-based interactions (e.g., RBC MyAdvisor, TD GoalAssist), while older clients often appreciate face-to-face meetings.  
 • Personalized Asset Allocation: Use open-source tools or proprietary calculators to illustrate how changing market conditions affect portfolios.  
@@ -211,7 +211,7 @@ A simplified table below compares key considerations and strategies for each sta
 
 ---
 
-## 9. Supplemental Resources
+## Supplemental Resources
 
 • [CIRO Guidelines](https://www.ciro.ca/) – For regulatory requirements around suitability and KYC (Know Your Client).  
 • [Canada Revenue Agency (CRA)](https://www.canada.ca/en/revenue-agency.html) – For contribution limits and tax rules affecting RRSPs, TFSAs, RRIFs, and more.  

@@ -24,7 +24,7 @@ Each of these dilemmas has the potential to compromise client interests, expose 
 
 ---
 
-### 1. Conflict of Interest Dilemmas
+### Conflict of Interest Dilemmas
 
 A conflict of interest arises when personal or institutional incentives may tempt an advisor to place personal gain above the client’s needs. In many cases, conflicts of interest can be subtle, making them difficult to detect or disclose.
 
@@ -52,7 +52,7 @@ flowchart LR
 
 ---
 
-### 2. Confidentiality Dilemmas
+### Confidentiality Dilemmas
 
 Confidentiality dilemmas occur when an advisor’s responsibility to maintain client privacy conflicts with legal or regulatory obligations. Advisors handle highly sensitive client information such as net worth, sources of income, asset holdings, and personal financial goals. Privacy is paramount, yet Canadian regulations also require vigilant monitoring to detect illegal activities like money laundering or terrorist financing.
 
@@ -71,7 +71,7 @@ Consider an advisor who suspects a client’s transaction might be tied to money
 
 ---
 
-### 3. Suitability Concerns
+### Suitability Concerns
 
 Suitability is a central tenet of the financial advisory relationship, requiring advisors to ensure recommendations align with the client’s financial situation, objectives, and risk tolerance. A suitable recommendation must be based on:
 • The client’s current net worth and cash flow  
@@ -92,7 +92,7 @@ A leading Canadian pension fund invests in diversified assets (bonds, equities, 
 
 ---
 
-### 4. Duty of Care vs. Sales Pressure
+### Duty of Care vs. Sales Pressure
 
 Financial institutions and product manufacturers often set ambitious sales targets or expectations. When these targets clash with an advisor’s obligation to prioritize a client’s well-being, ethical dilemmas arise. Duty of care demands that advisors exercise reasonable skill, diligence, and good faith in serving clients.
 
@@ -111,7 +111,7 @@ To mitigate these risks, advisors can:
 
 ---
 
-### 5. Inadvertent Biases
+### Inadvertent Biases
 
 Even the most ethical advisors can be affected by implicit or unconscious biases. Behavioral finance, pioneered by Daniel Kahneman and Richard Thaler, reveals ways in which human beings make decisions that deviate from rational economic predictions.
 

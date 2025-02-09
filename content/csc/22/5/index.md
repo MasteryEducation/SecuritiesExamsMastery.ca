@@ -52,7 +52,7 @@ Listed private equity can manifest in different structures, each with its own ri
 
 ### Investment Process and Valuation Challenges
 
-#### 4.1 Investment Process
+#### Investment Process
 Fund managers or corporate managers typically:
 • Identify private companies with high potential for growth, restructuring, or buyouts.  
 • Conduct detailed due diligence, including financial statements, business models, and management teams.  
@@ -74,7 +74,7 @@ flowchart LR
 • In return, the private equity company (B) owns a stake in or entire control over these private businesses (C).  
 • As the private businesses grow or become more profitable, the listed entity’s share value may rise, delivering returns to investors.
 
-#### 4.2 Valuation Challenges
+#### Valuation Challenges
 While shares trade daily on a public exchange, the private equity portfolio’s real value may be updated less frequently. This can create a pricing mismatch, particularly during times of market stress. The public market price of the listed vehicle could diverge significantly from the underlying value of the private companies.
 
 Examples of factors influencing valuation mismatches:  
@@ -113,12 +113,12 @@ While listed private equity can make private equity accessible, it is not approp
 
 ### Best Practices and Pitfalls
 
-#### 8.1 Best Practices
+#### Best Practices
 • Thorough Research: Scrutinize the track record, fees, and governance structure of the listed entity.  
 • Watch Leverage Levels: Examine how leverage is deployed in underlying investments and evaluate its impact on overall risk.  
 • Continuous Monitoring: Like any public equity, listed private equity needs regular monitoring to assess changes in portfolio composition and market sentiment.
 
-#### 8.2 Common Pitfalls
+#### Common Pitfalls
 • Over-Estimation of Liquidity: Public listing does not guarantee robust daily trading volume; large positions could be hard to liquidate.  
 • Misinterpretation of Valuation: Market price may reflect overall investor sentiment rather than the actual worth of underlying private holdings.  
 • Blind Reliance on Management: A high level of trust is placed in the management team’s ability to identify compelling opportunities and enforce value creation strategies.

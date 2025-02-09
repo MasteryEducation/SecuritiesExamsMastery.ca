@@ -14,7 +14,7 @@ Effective management of Registered Retirement Savings Plan (RRSP) accounts is cr
 
 ---
 
-### 1. Investment Selection and Asset Allocation
+### Investment Selection and Asset Allocation
 
 Selecting appropriate investments within an RRSP involves balancing risk tolerance, investment horizon, and expected returns. Asset allocation is often the initial step in determining how much to invest in equities, fixed-income securities (such as bonds), and cash or cash equivalents. By customizing asset allocation, advisors can tailor the portfolio to achieve a client’s long-term objectives while managing downside risk.
 
@@ -46,7 +46,7 @@ Advisors often use strategic asset allocations to balance risk and returns accor
 
 ---
 
-### 2. Monitoring and Rebalancing
+### Monitoring and Rebalancing
 
 Once an RRSP portfolio is constructed, market movements can push allocations away from their targets over time. Monitoring and rebalancing ensure the portfolio remains aligned with the client’s objectives and risk tolerance.
 
@@ -70,7 +70,7 @@ flowchart LR
 
 ---
 
-### 3. Fee Structures and Cost Considerations
+### Fee Structures and Cost Considerations
 
 Investors should be aware of the costs associated with managing RRSPs, as high fees can significantly erode long-term returns. Common fees include:
 
@@ -89,7 +89,7 @@ Investors should be aware of the costs associated with managing RRSPs, as high f
 
 ---
 
-### 4. Consolidating Multiple RRSPs
+### Consolidating Multiple RRSPs
 
 Canadians often accumulate multiple RRSPs due to job changes, opening accounts at different financial institutions, or participating in group RRSPs. Consolidation offers a number of potential benefits:
 
@@ -103,7 +103,7 @@ Certain pension funds transferred into an RRSP become “locked in” (LIRAs). U
 
 ---
 
-### 5. Withdrawal Strategies and Timing
+### Withdrawal Strategies and Timing
 
 RRSP withdrawals must be carefully planned to optimize tax efficiency and prevent undue erosion of retirement savings. Premature withdrawals can incur withholding taxes and negatively affect long-term growth. Key considerations include:
 
@@ -125,7 +125,7 @@ For official Government of Canada guidance on converting RRSPs to RRIFs, consult
 
 ---
 
-### 6. Bankruptcy Protections
+### Bankruptcy Protections
 
 One often-overlooked feature of RRSPs is the potential creditor protection they offer. While rules vary by province, and certain conditions must be met, RRSPs may be protected from creditors in the event of bankruptcy or legal judgments. For example:
 
@@ -135,7 +135,7 @@ One often-overlooked feature of RRSPs is the potential creditor protection they 
 
 ---
 
-### 7. Best Practices in RRSP Management
+### Best Practices in RRSP Management
 
 Successful RRSP management extends beyond simple contributions. Advisors and investors should adopt best practices to maximize outcomes:
 
@@ -161,7 +161,7 @@ Successful RRSP management extends beyond simple contributions. Advisors and inv
 
 ---
 
-### 8. Glossary of Key Terms
+### Glossary of Key Terms
 
 • **Rebalancing**: Adjusting a portfolio’s components to target allocation after market fluctuations.  
 • **MER (Management Expense Ratio)**: The annual cost charged by a mutual fund or ETF provider, expressed as a percentage of a fund’s average assets under management.  
@@ -170,7 +170,7 @@ Successful RRSP management extends beyond simple contributions. Advisors and inv
 
 ---
 
-### 9. Summary
+### Summary
 
 Managing RRSP accounts effectively requires balancing growth objectives, risk considerations, and tax implications. Strategic asset allocation, regular monitoring and rebalancing, prudent fee management, and timely withdrawal planning are critical elements. Additionally, understanding creditor protections, consolidating accounts when appropriate, and staying abreast of regulatory changes ensure that investors maximize the benefits of RRSPs. By leveraging both industry-standard tools and open-source solutions like QuantLib, advisors can simulate various scenarios to guide clients toward optimal outcomes.  
 

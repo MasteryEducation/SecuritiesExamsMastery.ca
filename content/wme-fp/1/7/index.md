@@ -247,7 +247,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 {{< quizdown >}}
 
-### 1. Why is forming a team of specialists crucial in Canadian wealth management?  
+### Why is forming a team of specialists crucial in Canadian wealth management?  
 - [x] Because it ensures comprehensive advice across legal, tax, insurance, and investment domains.  
 - [ ] Because it is mandatory under all provincial regulations.  
 - [ ] Because it allows advisors to avoid continuing education requirements.  
@@ -257,7 +257,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 2. Which of the following best describes the role of estate lawyers in wealth management?  
+### Which of the following best describes the role of estate lawyers in wealth management?  
 - [ ] Supervise all of a client’s investments.  
 - [x] Draft wills and trusts and advise on provincial inheritance laws.  
 - [ ] Administer government pension programs.  
@@ -267,7 +267,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 3. What is a primary function of CPAs within a wealth management team?  
+### What is a primary function of CPAs within a wealth management team?  
 - [x] Optimize tax strategies and ensure compliance with CRA regulations.  
 - [ ] Oversee real estate transactions and valuations.  
 - [ ] Determine the best ESG funds for a client’s portfolio.  
@@ -277,7 +277,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 4. How can insurance specialists support holistic wealth planning?  
+### How can insurance specialists support holistic wealth planning?  
 - [x] By proposing and structuring policies that manage key life, disability, and critical illness risks.  
 - [ ] By replacing legal counsel in estate planning matters.  
 - [ ] By guaranteeing the highest investment returns.  
@@ -287,7 +287,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 5. Which statement accurately describes a portfolio manager’s duties?  
+### Which statement accurately describes a portfolio manager’s duties?  
 - [x] A portfolio manager manages investments on a discretionary basis and aligns strategies with client goals.  
 - [ ] A portfolio manager strictly handles all estate planning matters.  
 - [x] A portfolio manager collaborates with research analysts to select suitable securities.  
@@ -297,7 +297,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 6. When might an advisor choose to outsource to external consultants?  
+### When might an advisor choose to outsource to external consultants?  
 - [x] When a client requires specialized ESG solutions or complex cross-border tax guidance.  
 - [ ] When the advisor wants to bypass regulatory examinations.  
 - [ ] When the advisor’s practice is too small to offer basic financial planning services.  
@@ -307,7 +307,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 7. What is a key characteristic of strong collaboration among specialists?  
+### What is a key characteristic of strong collaboration among specialists?  
 - [x] Clear communication protocols and well-defined responsibilities.  
 - [ ] Complete reliance on verbal agreements without documentation.  
 - [x] Periodic team reviews to ensure alignment with client goals.  
@@ -317,7 +317,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 8. Which of the following is a common pitfall when building a team of specialists?  
+### Which of the following is a common pitfall when building a team of specialists?  
 - [x] Waiting too long to bring in an expert for complex client issues.  
 - [ ] Documenting every single step of the planning process.  
 - [ ] Conducting regular team meetings to review client cases.  
@@ -327,7 +327,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 9. Why is it important for advisors to keep updated documentation of all specialists’ input?  
+### Why is it important for advisors to keep updated documentation of all specialists’ input?  
 - [x] To maintain clear records for regulatory compliance and to ensure consistent service quality.  
 - [ ] To avoid having to pay taxes on behalf of clients.  
 - [ ] To ensure that no professional can disagree with the advisor.  
@@ -337,7 +337,7 @@ By proactively assembling a team of estate lawyers, tax professionals, insurance
 
 
 
-### 10. A single specialist can cover all of a client’s needs effectively.  
+### A single specialist can cover all of a client’s needs effectively.  
 - [x] True  
 - [ ] False  
 

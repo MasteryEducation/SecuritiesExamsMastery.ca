@@ -51,7 +51,7 @@ flowchart TB
 
 Preferred shares can come in different forms, each offering unique benefits and risks. The primary categories include:
 
-#### 2.1 Cumulative and Non-Cumulative Preferred Shares
+#### Cumulative and Non-Cumulative Preferred Shares
 
 • Cumulative Preferred Shares:  
   These shares ensure that any missed or “skipped” dividends accumulate. The company must pay all past unpaid dividends (called dividend arrears) to cumulative preferred shareholders before any dividends can be paid on common shares.  
@@ -59,15 +59,15 @@ Preferred shares can come in different forms, each offering unique benefits and 
 • Non-Cumulative Preferred Shares:  
   In contrast, non-cumulative preferred shares do not accumulate unpaid dividends. If a company omits or reduces a dividend payment in a given period, holders of non-cumulative preferred shares cannot claim those forgone dividends in the future.
 
-#### 2.2 Callable (Redeemable) Preferred Shares
+#### Callable (Redeemable) Preferred Shares
 
 Callable preferred shares permit the issuing company to repurchase (or “call”) them at a predetermined price after a specified date. These shares provide the issuer with flexibility to reduce financing costs if interest rates decline or improve its capital structure if market conditions become favorable. Callable features, however, limit the investor’s upside potential because the company can redeem the shares if their market value rises significantly above the call price.
 
-#### 2.3 Convertible Preferred Shares
+#### Convertible Preferred Shares
 
 Convertible preferred shares offer investors the option to convert their shares into a predetermined number of common shares, typically at a defined conversion ratio (e.g., 1:1, 1:2, etc.). This mechanism enables investors to participate in potential equity price appreciation. However, convertibility comes at a cost: often, the fixed dividend rate of convertible preferred shares is lower than that of similar non-convertible issues due to the embedded conversion feature.
 
-#### 2.4 Variable-Rate (Floating-Rate) Preferred Shares
+#### Variable-Rate (Floating-Rate) Preferred Shares
 
 Variable-rate or floating-rate preferred shares link their dividend payments to an underlying index or benchmark interest rate (e.g., prime rate, three-month Treasury Bill yield). Dividend amounts adjust periodically to reflect changes in that reference rate. The advantage is reduced interest rate risk compared to fixed-rate preferreds, but the variability in dividend income can affect an investor’s cash flow planning.
 
@@ -108,11 +108,11 @@ While preferred shares are often considered less volatile than common shares, th
 
 Preferred shares are used extensively by Canadian financial institutions—large banks such as RBC, TD, and Bank of Montreal often issue preferred stock to bolster their Tier 1 capital under regulations overseen by the Office of the Superintendent of Financial Institutions (OSFI). Let’s look at two simplified case scenarios:
 
-#### 5.1 RBC Preferred Shares with a Fixed Dividend
+#### RBC Preferred Shares with a Fixed Dividend
 
 RBC (Royal Bank of Canada) issues a series of preferred shares that pay a fixed quarterly dividend at an annual rate of 5%. Investors seeking stable income find these attractive. If the Bank of Canada raises interest rates significantly, however, the market price of these fixed-rate preferred shares may drop as new securities could offer higher returns.
 
-#### 5.2 TD’s Convertible Preferred Shares
+#### TD’s Convertible Preferred Shares
 
 TD Bank issues convertible preferred shares with a 4% annual dividend rate that can be exchanged for common shares after five years at a 1:1 ratio. If TD’s common share price soars, the convertible feature offers additional upside to preferred shareholders. However, if the share price lags and interest rates climb, the fixed dividend becomes less attractive relative to newly issued fixed-income instruments.
 

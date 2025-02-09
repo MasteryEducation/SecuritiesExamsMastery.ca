@@ -14,16 +14,16 @@ The Canada Pension Plan (CPP) and the Quebec Pension Plan (QPP) are cornerstone 
 
 ---
 
-### 1. Overview of the CPP and QPP
+### Overview of the CPP and QPP
 
-#### 1.1 Background and Purpose
+#### Background and Purpose
 
 • The Canada Pension Plan (CPP) was established in 1965, covering Canada outside Quebec.  
 • The Quebec Pension Plan (QPP) started in 1966, covering Quebec residents.  
 • Both plans serve the same primary goal: to provide retirement income replacement to contributors, easing financial uncertainty for Canadians during retirement.  
 • Beyond retirement benefits, the plans also offer disability and survivor benefits, supporting Canadians in case of severe and prolonged disability or the death of a contributor.  
 
-#### 1.2 Key Similarities and Differences
+#### Key Similarities and Differences
 
 Although CPP and QPP are closely aligned, a few operational characteristics may differ:
 
@@ -47,14 +47,14 @@ flowchart LR
 
 ---
 
-### 2. Eligibility and Coverage
+### Eligibility and Coverage
 
-#### 2.1 Who Must Contribute?
+#### Who Must Contribute?
 
 • Canadians age 18 or older, with annual earnings above a specified minimum threshold, typically must contribute to CPP/QPP.  
 • Workers outside Quebec contribute to the CPP, while workers in Quebec contribute to the QPP.  
 
-#### 2.2 Employer and Employee Contributions
+#### Employer and Employee Contributions
 
 • Employees pay half of the contribution; the employer matches the other half.  
 • Self-employed individuals pay both the employee and employer shares.  
@@ -62,9 +62,9 @@ flowchart LR
 
 ---
 
-### 3. Contributions and Benefit Calculation
+### Contributions and Benefit Calculation
 
-#### 3.1 Contribution Thresholds
+#### Contribution Thresholds
 
 Both CPP and QPP contributions are based on:
 
@@ -73,7 +73,7 @@ Both CPP and QPP contributions are based on:
 
 These thresholds are revised periodically by the federal government (CPP) or the Québec government (QPP).
 
-#### 3.2 Calculating Retirement Benefits
+#### Calculating Retirement Benefits
 
 Retirement benefits are determined primarily by an individual’s:
 
@@ -81,7 +81,7 @@ Retirement benefits are determined primarily by an individual’s:
 • Contribution history (i.e., the duration and consistency of contributions).  
 • Age when benefits begin (ranging from age 60 to 70).  
 
-#### 3.3 Dropout Provisions
+#### Dropout Provisions
 
 To preserve fairness and account for life circumstances, certain provisions allow for the exclusion of specific periods of lower or no earnings from the benefit calculation base:
 
@@ -92,18 +92,18 @@ For instance, consider Jane, who spent five years out of the workforce starting 
 
 ---
 
-### 4. Retirement Benefits
+### Retirement Benefits
 
-#### 4.1 Standard Retirement at Age 65
+#### Standard Retirement at Age 65
 
 • The standard age to draw CPP/QPP retirement benefits is 65, with no permanent penalty or bonus applied to the benefit amount.
 
-#### 4.2 Early Retirement (As Early as Age 60)
+#### Early Retirement (As Early as Age 60)
 
 • Individuals may elect to begin receiving reduced benefits as early as age 60.  
 • The reduction factor is a permanent monthly rate, currently 0.6% per month for CPP (and a proportional rate for QPP), lowering the lifetime benefit to account for the longer payout period.
 
-#### 4.3 Delayed Retirement (Up to Age 70)
+#### Delayed Retirement (Up to Age 70)
 
 • Individuals who defer starting their pension beyond 65 enjoy a permanent monthly increase in their benefits.  
 • The enhancement rate is 0.7% per month up to a maximum of five years (for CPP). This incentivizes Canadians who can afford to wait to receive a larger monthly benefit.  
@@ -122,7 +122,7 @@ flowchart LR
 
 ---
 
-### 5. Disability Benefits
+### Disability Benefits
 
 For those who become severely and persistently disabled:
 
@@ -132,14 +132,14 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 6. Survivor Benefits
+### Survivor Benefits
 
-#### 6.1 Lump-Sum Death Benefit
+#### Lump-Sum Death Benefit
 
 • A one-time payment to the estate of a deceased contributor, capped at a maximum (often around $2,500 for CPP).  
 • For QPP, the rate may differ slightly, but the principle is similar.
 
-#### 6.2 Survivor’s Pension
+#### Survivor’s Pension
 
 • A monthly pension for the deceased’s spouse or common-law partner.  
 • The amount depends largely on the deceased’s contribution history and the survivor’s age.  
@@ -147,14 +147,14 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 7. Pension Sharing and Credit Splitting
+### Pension Sharing and Credit Splitting
 
-#### 7.1 Pension Sharing
+#### Pension Sharing
 
 • Married or common-law couples receiving CPP/QPP can share pension benefits to optimize tax and household cash flow.  
 • This strategy is often used to minimize overall taxable income and may help reduce the couple’s combined tax burden.
 
-#### 7.2 Credit Splitting
+#### Credit Splitting
 
 • If a marriage or common-law relationship ends, pension credits accumulated by either partner during the relationship can be split.  
 • This ensures that both individuals fairly benefit from the contributions made during their time together.  
@@ -162,7 +162,7 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 8. Special Considerations and Strategies
+### Special Considerations and Strategies
 
 1. **Working Beneficiaries:**  
    • Individuals who continue to work while receiving CPP/QPP may choose to keep contributing until age 70, boosting their post-retirement benefit.  
@@ -179,7 +179,7 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 9. Glossary
+### Glossary
 
 • **Dropout Provisions:** Rules that exclude periods of low/no earnings from the pensionable earnings calculation, increasing the final pension.  
 • **Child Rearing Provision (CPP):** Allows low- or zero-earnings years when caring for children under age seven to be excluded from benefit calculations.  
@@ -188,7 +188,7 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 10. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 1. **Timely and Accurate Contributions:**  
    - Ensure clients and their employers remit the correct contributions on time, since any missed or inaccurate data can reduce future benefits.  
@@ -204,7 +204,7 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 11. References and Further Resources
+### References and Further Resources
 
 • **Official Government of Canada – Canada Pension Plan:**  
   [https://www.canada.ca/en/services/benefits/publicpensions/cpp.html](https://www.canada.ca/en/services/benefits/publicpensions/cpp.html)
@@ -224,7 +224,7 @@ For those who become severely and persistently disabled:
 
 ---
 
-### 12. Summary
+### Summary
 
 The Canada Pension Plan (CPP) and Quebec Pension Plan (QPP) are vital components of Canada’s public pension ecosystem. They serve as fundamental building blocks for retirement planning, disability coverage, and survivor benefits. Through mandatory contributions shared between employees and employers (or fully paid by the self-employed), these plans help Canadians build a reliable source of income later in life.
 

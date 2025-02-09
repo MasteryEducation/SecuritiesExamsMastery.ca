@@ -111,24 +111,24 @@ flowchart LR
 
 ## 14.4.5 Best Practices
 
-### 1. Comprehensive Fee Analysis
+### Comprehensive Fee Analysis
 
 Before recommending or purchasing a GMWB:
 
 • Compare costs with simpler alternatives (e.g., traditional annuities, balanced portfolios, or risk-reduction strategies like partial annuitization).  
 • Evaluate how much scale of guarantee is needed, as the cost must align with the client’s risk tolerance and longevity concerns.
 
-### 2. Aligning Withdrawals with the Guarantee Level
+### Aligning Withdrawals with the Guarantee Level
 
 • Encourage policyholders to adhere to the stated annual withdrawal limits.  
 • Exceeding these limits can undermine the lifetime guarantee and significantly reduce future income potential.
 
-### 3. Careful Timing of Resets
+### Careful Timing of Resets
 
 • If the product allows for resets, monitor sub-account performance and global equity conditions.  
 • Although resets can lock in higher benefit bases, they may simultaneously increase fees if the rider cost is calculated on the updated base.
 
-### 4. Transparent Communication
+### Transparent Communication
 
 • Thoroughly disclose and discuss product complexity, including fee implications and penalty clauses.  
 • Provide scenario-based illustrations, clarifying how the contract would perform in both bull and bear markets.
@@ -196,7 +196,7 @@ Key Takeaways:
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes a GMWB contract?  
+### Which of the following best describes a GMWB contract?  
 - [x] An annuity-like product that guarantees a minimum withdrawal rate for life while allowing market participation.  
 - [ ] A short-term investment with no fees and no withdrawal limitations.  
 - [ ] A retirement plan offered by the federal government with no minimum withdrawal.  
@@ -204,7 +204,7 @@ Key Takeaways:
 
 > **Explanation:** GMWB contracts blend annuity-type guarantees with sub-account market participation and guarantee a minimum withdrawal for life.
 
-### 2. What is the benefit base in a GMWB contract?  
+### What is the benefit base in a GMWB contract?  
 - [ ] The market value of the underlying sub-accounts on a specific date.  
 - [x] The reference amount on which guaranteed withdrawals are calculated.  
 - [ ] The total cost of rider fees added to management expenses.  
@@ -212,7 +212,7 @@ Key Takeaways:
 
 > **Explanation:** The benefit base, or “base value,” serves as the yardstick for calculating guaranteed withdrawals and is generally set at the policy’s inception or adjusted via resets or bonuses.
 
-### 3. A key advantage of GMWB contracts is:  
+### A key advantage of GMWB contracts is:  
 - [x] Protection from outliving retirement funds via guaranteed withdrawals for life.  
 - [ ] Completely eliminating all market risk exposure.  
 - [ ] Having no additional fees beyond the standard management expense ratio.  
@@ -220,7 +220,7 @@ Key Takeaways:
 
 > **Explanation:** GMWBs safeguard the retiree from longevity risk by offering a guaranteed lifetime withdrawal, although they do not remove all market risk and can carry higher fees and higher surrender charges.
 
-### 4. Why might GMWB contracts have higher expense ratios than typical mutual funds?  
+### Why might GMWB contracts have higher expense ratios than typical mutual funds?  
 - [x] Because of additional rider fees for the insurance guarantees and resets.  
 - [ ] Because they are only available when markets are at all-time highs.  
 - [ ] Because they do not involve sub-accounts.  
@@ -228,7 +228,7 @@ Key Takeaways:
 
 > **Explanation:** GMWBs layer insurance guarantees (rider fees) on top of typical management fees, increasing overall costs.
 
-### 5. Excess withdrawals beyond the guaranteed rate in a GMWB contract tend to:  
+### Excess withdrawals beyond the guaranteed rate in a GMWB contract tend to:  
 - [x] Reduce or nullify the lifetime withdrawal guarantee.  
 - [ ] Automate a reset, leading to a higher guaranteed payout.  
 - [x] Lower the future payment base for the life of the contract.  
@@ -236,7 +236,7 @@ Key Takeaways:
 
 > **Explanation:** Withdrawing more than the contract’s stated limit may cut into the guaranteed protected value or even negate the guarantee, thus endangering future retirement income.
 
-### 6. What regulatory body can advisors refer to for product suitability guidelines in Canada?  
+### What regulatory body can advisors refer to for product suitability guidelines in Canada?  
 - [x] CIRO  
 - [ ] Bank of Canada  
 - [ ] Canada Revenue Agency  
@@ -244,7 +244,7 @@ Key Takeaways:
 
 > **Explanation:** Advisors can consult the Canadian Investment Regulatory Organization (CIRO) for compliance standards and suitability rules for investment products.
 
-### 7. Which item would most likely help increase the benefit base of a GMWB contract over time?  
+### Which item would most likely help increase the benefit base of a GMWB contract over time?  
 - [x] Market resets capturing sub-account gains  
 - [ ] Lowering the rider fee  
 - [x] Roll-up features if withdrawals are deferred  
@@ -252,7 +252,7 @@ Key Takeaways:
 
 > **Explanation:** Resets based on market gains and contractual roll-up features can increase the benefit base, thus raising the guaranteed withdrawal amounts.
 
-### 8. Which primary risk is mitigated by GMWB contracts?  
+### Which primary risk is mitigated by GMWB contracts?  
 - [x] Longevity risk, the risk of outliving one’s retirement assets.  
 - [ ] Credit risk, the risk of insurer default.  
 - [ ] Liquidity risk, the risk of not being able to access any of your capital.  
@@ -260,7 +260,7 @@ Key Takeaways:
 
 > **Explanation:** GMWBs primarily address longevity risk by providing a guaranteed income stream for life.
 
-### 9. What is one major drawback of GMWB contracts typically noted by financial advisors?  
+### What is one major drawback of GMWB contracts typically noted by financial advisors?  
 - [x] High fees that could erode investment returns over time.  
 - [ ] Full insulation from any kind of market fluctuation.  
 - [ ] Penalties for withdrawing the guaranteed annual percentage.  
@@ -268,7 +268,7 @@ Key Takeaways:
 
 > **Explanation:** While GMWBs provide guaranteed income, the extra rider fees and management expenses can significantly reduce net investment returns in the long run.
 
-### 10. GMWB products are considered hybrid products because:  
+### GMWB products are considered hybrid products because:  
 - [x] They combine annuity-like guarantees with the potential of market-based returns.  
 - [ ] They are issued by both the federal and provincial governments.  
 - [ ] They guarantee double the annual withdrawal of any standard annuity.  

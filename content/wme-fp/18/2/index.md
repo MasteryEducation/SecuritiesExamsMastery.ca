@@ -14,7 +14,7 @@ Deciding whether to invest in individual securities (e.g., stocks, bonds) or to 
 
 ---
 
-## 1. Introduction
+## Introduction
 
 When building an investment portfolio for clients, financial planners typically weigh two main strategies:
 
@@ -25,9 +25,9 @@ Each approach offers unique advantages and disadvantages in terms of control, co
 
 ---
 
-## 2. Investing in Individual Securities
+## Investing in Individual Securities
 
-### 2.1 Direct Ownership and Control
+### Direct Ownership and Control
 
 Many investors prefer holding individual securities because of direct control. Rather than allocating capital to a pooled investment vehicle governed by a fund manager, the investor (or advisor on behalf of the investor) decides which stocks, bonds, or other instruments to buy, hold, or sell. For clients who desire a hands-on approach or have specific sector or ethical preferences, this can be very appealing.
 
@@ -51,18 +51,18 @@ Many investors prefer holding individual securities because of direct control. R
 
 ---
 
-## 3. Managed Products
+## Managed Products
 
 Managed products, such as mutual funds, ETFs, hedge funds, and segregated funds, pool investor capital and invest it under the guidance of portfolio managers or investment teams. This approach facilitates diversification across multiple holdings, regions, and asset classes and leverages professional management expertise.
 
-### 3.1 Types of Managed Products
+### Types of Managed Products
 
 1. **Mutual Funds**: Pooled investment funds managed by professionals, often with a particular strategy (e.g., growth or value) or focus on a specific sector (e.g., Canadian equity, global technology).  
 2. **Exchange-Traded Funds (ETFs)**: Funds that trade like stocks on an exchange, often tracking a specific index (e.g., S&P/TSX Composite Index). They typically have lower management expense ratios (MERs) than mutual funds, although this may vary by product.  
 3. **Segregated Funds**: Insurance-based investment products offered by insurance companies. They typically include certain guarantees (e.g., guaranteed death benefit), and in some cases, creditor protection advantages.  
 4. **Hedge Funds and Private Markets**: These products often require an Accredited Investor status under Canadian rules, meaning individuals must meet certain asset or income thresholds to invest.
 
-### 3.2 Advantages of Managed Products
+### Advantages of Managed Products
 
 1. • Professional Management:  
    A dedicated investment team researches securities, executes trades, and adjusts the portfolio as market conditions shift. Investors benefit from specialized expertise without having to devote personal time to security analysis.  
@@ -73,7 +73,7 @@ Managed products, such as mutual funds, ETFs, hedge funds, and segregated funds,
 4. • Ongoing Monitoring:  
    The fund’s management team continually reassesses portfolio positions and market conditions, saving individual investors the responsibility of frequent fine-tuning.
 
-### 3.3 Disadvantages of Managed Products
+### Disadvantages of Managed Products
 
 1. • Management Fees and Expense Ratios:  
    Investors pay for professional management. The Management Expense Ratio (MER) can eat into returns, especially if the investor holds the fund(s) for a long period.  
@@ -84,11 +84,11 @@ Managed products, such as mutual funds, ETFs, hedge funds, and segregated funds,
 
 ---
 
-## 4. Key Considerations in Choosing the Right Approach
+## Key Considerations in Choosing the Right Approach
 
 Whether you opt for individual securities or managed products, due diligence is essential. Advisors should carefully dissect cost structures, evaluate management quality, and examine regulatory constraints.  
 
-### 4.1 Cost Structure
+### Cost Structure
 
 Both individual securities and managed products carry costs. It’s important to distinguish between explicit and implicit fees:
 
@@ -96,21 +96,21 @@ Both individual securities and managed products carry costs. It’s important to
 - **Management Fees (MERs/TERs)**: For funds, the Management Expense Ratio (MER) covers operating expenses, management fees, and certain administrative costs. Some mutual funds or ETFs also have a trading expense ratio (TER) that further affects net returns.  
 - **Expense Ratio Transparency**: In Canada, the mandatory Fund Facts disclosures—mandated by the CSA—provide specific information about MERs, other costs, and performance track records.  
 
-### 4.2 Management Quality
+### Management Quality
 
 When evaluating managed products, it is critical to assess the fund manager’s track record, investment philosophy, and competitive advantage. For individual securities, the investor or advisor must assume the research and ongoing monitoring role:
 
 - **Professional Fund Managers**: Evaluate the consistency of their performance versus relevant benchmarks.  
 - **Advisor Expertise**: Advisors recommending individual securities must ensure that they hold the appropriate licenses under CIRO or the securities commissions, particularly for advanced strategies like derivatives.
 
-### 4.3 Transparency and Liquidity
+### Transparency and Liquidity
 
 - **Transparency**:  
   Individual security holdings are straightforward—investors know exactly what they own. Managed products typically provide periodic holdings reports, but daily transparency varies. ETFs often disclose holdings daily, while some open-ended funds disclose quarterly or semi-annually.  
 - **Liquidity**:  
   Stocks and ETFs trade on an exchange and are generally liquid throughout the trading day. Mutual funds can be redeemed at net asset value (NAV) end-of-day pricing. Segregated funds may have redemption schedules, and hedge funds can have lock-up periods.
 
-### 4.4 Regulatory Framework
+### Regulatory Framework
 
 In Canada, product distribution and licensing are overseen by multiple agencies:
 
@@ -120,7 +120,7 @@ In Canada, product distribution and licensing are overseen by multiple agencies:
 
 ---
 
-## 5. Selecting the Right Approach: A Decision Framework
+## Selecting the Right Approach: A Decision Framework
 
 Choosing between individual securities and managed products depends on multiple client-specific factors:
 
@@ -144,9 +144,9 @@ flowchart TB
 
 ---
 
-## 6. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 6.1 Example: High-Net-Worth Client Seeking Targeted Exposure
+### Example: High-Net-Worth Client Seeking Targeted Exposure
 
 A Canadian client with a substantial net worth wants to invest in the booming technology sector. They could:
 
@@ -155,7 +155,7 @@ A Canadian client with a substantial net worth wants to invest in the booming te
 
 The second option may be more cost-effective and diversified, while the first provides direct control but demands higher research commitment.
 
-### 6.2 Example: Canadian Pension Funds
+### Example: Canadian Pension Funds
 
 Major Canadian pension plans, like the Canada Pension Plan Investment Board (CPPIB), often apply a hybrid approach:
 
@@ -164,13 +164,13 @@ Major Canadian pension plans, like the Canada Pension Plan Investment Board (CPP
 
 This approach underscores that even professional institutions blend individual asset ownership with managed mandates to optimize performance and diversification.
 
-### 6.3 Example: RBC or TD Mutual Funds
+### Example: RBC or TD Mutual Funds
 
 For retail investors seeking broad participation in Canadian equity markets, RBC or TD mutual funds provide professional management and simplified diversification. Individuals looking for cost savings may gravitate toward RBC or TD’s suite of index ETFs, often with lower MERs than actively managed funds.
 
 ---
 
-## 7. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 - **Best Practices**:  
   1. Evaluate the client’s risk tolerance and time horizon before suggesting individual securities.  
@@ -186,7 +186,7 @@ For retail investors seeking broad participation in Canadian equity markets, RBC
 
 ---
 
-## 8. Recommended Tools and Resources
+## Recommended Tools and Resources
 
 • **CIRO Guidelines**:  
   Learn about the regulatory standards governing the sale of managed products → [https://www.ciro.ca/](https://www.ciro.ca/)  
@@ -205,7 +205,7 @@ For retail investors seeking broad participation in Canadian equity markets, RBC
 
 ---
 
-## 9. Summary
+## Summary
 
 The choice between individual securities and managed products hinges on a clear assessment of client goals, time commitment, cost, regulatory requirements, and the level of control desired. Individual securities offer autonomy and flexibility but require intensive research and can expose investors to concentrated risks if not carefully managed. Managed products provide professional oversight, diversification, and convenience, albeit at the cost of management fees and reduced control over specific assets.
 

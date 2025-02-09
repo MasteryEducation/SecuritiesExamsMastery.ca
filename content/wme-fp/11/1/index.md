@@ -14,7 +14,7 @@ Employer-sponsored pension plans are critical components of Canada’s retiremen
 
 ---
 
-### 1. Introduction to Employer-Sponsored Pension Plans
+### Introduction to Employer-Sponsored Pension Plans
 
 Employer-sponsored pension plans (often called “registered pension plans”) are arrangements in which employers contribute funds to provide retirement income to their employees. Depending on the plan design, the employee may also contribute. These plans are governed by:
 
@@ -25,7 +25,7 @@ The primary goal of an employer-sponsored pension plan is to provide employees w
 
 ---
 
-### 2. Major Types of Employer-Sponsored Pension Plans
+### Major Types of Employer-Sponsored Pension Plans
 
 Three main types of employer-sponsored pension plans are prevalent in Canada:
 
@@ -35,7 +35,7 @@ Three main types of employer-sponsored pension plans are prevalent in Canada:
 
 Each plan type offers unique features, risks, and opportunities.
 
-#### 2.1 Defined Benefit (DB) Plans
+#### Defined Benefit (DB) Plans
 
 A Defined Benefit plan promises a specific retirement payout, often based on a formula that considers factors such as an employee’s final (or average) earnings, years of service, and a benefit multiplier. A typical example might be:
 
@@ -51,7 +51,7 @@ A Defined Benefit plan promises a specific retirement payout, often based on a f
   - Final Average Plans: Benefits are typically based on the final (or best) average earnings over a specific period (e.g., last five years).  
   - Combination Formulas: Blend features of multiple approaches.
 
-#### 2.2 Defined Contribution (DC) Plans
+#### Defined Contribution (DC) Plans
 
 In a Defined Contribution plan, contributions made by the employer (and often the employee) are allocated to an individual account in the employee’s name. The final retirement benefit depends on the amount contributed and the investment performance over time.
 
@@ -59,7 +59,7 @@ In a Defined Contribution plan, contributions made by the employer (and often th
 • **Funding**: Funding is more straightforward in a DC plan because contributions are fixed (e.g., a percentage of salary or a defined dollar amount).  
 • **Investment Options**: Employers often offer multiple funds (e.g., target-date funds, balanced funds, equity-only funds) to cater to different risk tolerances. Some large employers partner with major Canadian financial institutions like RBC or TD to manage plan assets, providing employees with professionally managed portfolios.
 
-#### 2.3 Hybrid or Combination Plans
+#### Hybrid or Combination Plans
 
 Hybrid plans integrate attributes of both DB and DC structures. Typical examples include:
 
@@ -70,30 +70,30 @@ These plans aim to offer employees the predictable benefit of a DB arrangement a
 
 ---
 
-### 3. Key Concepts and Terminology
+### Key Concepts and Terminology
 
 In addition to understanding basic plan structures, it’s important to grasp several key concepts in employer-sponsored pension plans:
 
-#### 3.1 Vesting
+#### Vesting
 
 Vesting refers to the point at which an employee’s accrued pension benefits cannot be lost—even if they leave the employer. Canadian jurisdictions typically require a short vesting period or immediate vesting. For instance, some provinces mandate full vesting after just two years of plan membership.
 
-#### 3.2 Locking-In
+#### Locking-In
 
 Most vested pension funds in a registered pension plan are locked in, meaning they cannot be withdrawn as a lump sum (except under specific circumstances, like certain financial hardships or shortened life expectancy, and subject to provincial regulations). Locking-in safeguards retirement savings by ensuring they are used for their intended purpose—generating retirement income.
 
-#### 3.3 Portability
+#### Portability
 
 When employees change jobs, they can often transfer their vested benefits to a new employer’s plan (if allowed) or to a locked-in retirement account (LIRA). Portability rules vary by jurisdiction, but the general aim is to preserve accrued savings and give employees the flexibility to continue building pension benefits with new employers or in personal locked-in vehicles.
 
-#### 3.4 Pension Plan Funding
+#### Pension Plan Funding
 
 • **DB Plans**: Employers typically engage with actuaries who determine required contributions to keep the plan solvent. These calculations factor in mortality rates, investment returns, interest rates, and other assumptions.  
 • **DC Plans**: The funding obligation is transparent—employers (and employees, if applicable) contribute at defined rates, usually tied to salary.  
 
 In Canada, regulators require regular funding valuations. If the plan is underfunded, employers may need to make special payments to address shortfalls.
 
-#### 3.5 Surpluses and Deficits
+#### Surpluses and Deficits
 
 Like any investment pool, pension plans can experience surpluses (when assets exceed liabilities) or deficits (when liabilities exceed assets).
 
@@ -102,7 +102,7 @@ Like any investment pool, pension plans can experience surpluses (when assets ex
 
 ---
 
-### 4. Diagram: Comparing DB and DC Pension Flows
+### Diagram: Comparing DB and DC Pension Flows
 
 Below is a simplified diagram illustrating the flows of contributions, investment returns, and retirement payouts in DB versus DC plans.
 
@@ -122,7 +122,7 @@ flowchart LR
 
 ---
 
-### 5. Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 #### Example A: Large Canadian Bank Defined Benefit Plan
 
@@ -138,7 +138,7 @@ A manufacturing group offers a hybrid plan: a base DB guarantee based on flat be
 
 ---
 
-### 6. Best Practices, Pitfalls, and Challenges
+### Best Practices, Pitfalls, and Challenges
 
 • **Employee Education**: Many employees fail to fully understand their pension plan. Holding education sessions and providing online tools (e.g., an open-source retirement calculator) can improve engagement and help employees make better decisions about contribution levels and investment choices.  
 • **Regulatory Compliance**: Pension legislation and tax rules can be intricate. Employers must ensure their plan documents comply with provincial or federal legislation and with the Income Tax Act. Failure to do so can result in regulatory penalties.  
@@ -148,7 +148,7 @@ A manufacturing group offers a hybrid plan: a base DB guarantee based on flat be
 
 ---
 
-### 7. Regulatory Framework and Additional Resources
+### Regulatory Framework and Additional Resources
 
 Canadian pension plans are subject to legislation and regulations from multiple layers of government. The primary frameworks include:
 
@@ -167,7 +167,7 @@ Advisors looking to refine their expertise should consult the following:
 
 ---
 
-### 8. Summary and Key Takeaways
+### Summary and Key Takeaways
 
 Employer-sponsored pension plans are vital for many Canadians’ retirement security. Different plan structures—DB, DC, or hybrid—carry distinct risk profiles and funding mechanisms. Understanding vesting, locking-in, portability, and funding is essential for practitioners who advise on retirement solutions. Advisors can add value by guiding clients through plan complexities, ensuring compliance with legislation, and helping match plan structure to retirement goals.
 

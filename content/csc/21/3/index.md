@@ -16,11 +16,11 @@ In this section, we delve into the core processes and best practices for perform
 
 ---
 
-## 1. The Importance of Due Diligence
+## The Importance of Due Diligence
 
 Due diligence is the investigative process through which investors or advisors assess an alternative fund’s operations, risks, and compliance to determine if it meets their objectives. Unlike many traditional investment vehicles (e.g., mutual funds tracking common equity benchmarks), alternative strategies often engage in short-selling, leverage, and complex derivatives that introduce unique operational and counterparty risks.
 
-### 1.1 General Due Diligence Framework
+### General Due Diligence Framework
 
 A comprehensive due diligence framework covers five core pillars:
 
@@ -44,9 +44,9 @@ Each pillar supports the next, and thorough analysis in one area often leads to 
 
 ---
 
-## 2. Strategy Assessment
+## Strategy Assessment
 
-### 2.1 Review of Fund Documentation
+### Review of Fund Documentation
 
 The first step in strategy assessment involves reviewing the fund’s offering memorandum, audited financial statements, and any available regulatory filings. Offering memoranda typically detail:
 
@@ -58,7 +58,7 @@ The first step in strategy assessment involves reviewing the fund’s offering m
 
 Audited financial statements are also crucial. They shed light on whether the fund’s historical returns align with its stated strategy and targets. If the fund consistently deviates from its declared approach, this raises questions about transparency and consistency in management.
 
-### 2.2 Evaluating Performance Track Record
+### Evaluating Performance Track Record
 
 Performance track record is another vital aspect to consider. Questions include:
 
@@ -70,9 +70,9 @@ When studying the performance, also verify if longer time horizons (e.g., five o
 
 ---
 
-## 3. Management and Organizational Assessment
+## Management and Organizational Assessment
 
-### 3.1 Manager Experience and Stability
+### Manager Experience and Stability
 
 Assessing the fund manager’s expertise is pivotal. Look for:
 
@@ -82,7 +82,7 @@ Assessing the fund manager’s expertise is pivotal. Look for:
 
 Significant changes in key personnel or high turnover can disrupt the fund’s performance continuity. Stability of the core team provides confidence that the fund will maintain its stated strategy and preserve institutional knowledge crucial for decision-making.
 
-### 3.2 Third-Party Service Providers
+### Third-Party Service Providers
 
 Alternative funds typically rely on various service providers:
 
@@ -95,9 +95,9 @@ When recognized and reputable third parties are involved, it instills greater in
 
 ---
 
-## 4. Operational Risk and Control Practices
+## Operational Risk and Control Practices
 
-### 4.1 Operational Policies
+### Operational Policies
 
 Operational due diligence dives into how funds handle routine procedures and potential disruptions. Key questions:
 
@@ -105,7 +105,7 @@ Operational due diligence dives into how funds handle routine procedures and pot
 • Are there adequate IT systems and cybersecurity protocols?  
 • Is there a formal disaster recovery plan or business continuity strategy?
 
-### 4.2 Liquidity Terms
+### Liquidity Terms
 
 • Lock-Up Period: A specified window during which investors cannot redeem their shares. This helps managers deploy funds strategically but restricts investor liquidity.  
 • Gates: Allow the fund to limit the proportion of assets redeemed at any one time, typically during market stress.  
@@ -115,16 +115,16 @@ An investor unable to tolerate a prolonged lock-up or gating restrictions should
 
 ---
 
-## 5. Risk Management and Controls
+## Risk Management and Controls
 
-### 5.1 Portfolio-Level Risk Oversight
+### Portfolio-Level Risk Oversight
 
 Alternative funds can employ leverage or derivatives, magnifying both gains and losses. Effective risk management includes:
 
 • Scenario Analysis and Stress Testing: Tools like Excel or Google Sheets add-ons (Solver) can perform scenario analyses to measure exposures under different conditions (e.g., equity downturn or interest rate spikes).  
 • Value-at-Risk (VaR) Calculations: Commonly used models to quantify potential losses over a given timeframe.
 
-### 5.2 Regulatory Compliance and Investor Transparency
+### Regulatory Compliance and Investor Transparency
 
 In Canada, regulated funds must adhere to guidelines set by the Canadian Investment Regulatory Organization (CIRO) and provincial regulators such as the OSC. For instance:
 
@@ -135,34 +135,34 @@ Reviewing a fund’s historical compliance records and any previous sanctions or
 
 ---
 
-## 6. Suitability Considerations
+## Suitability Considerations
 
-### 6.1 Client Risk Tolerance
+### Client Risk Tolerance
 
 Alternative investments typically have higher volatility, use leverage, and can be less transparent or illiquid than traditional products. Clients must be comfortable with the potential for substantial drawdowns. Under CIRO rules, fulfilling Know-Your-Client (KYC) obligations is paramount to gauge a client’s risk-bearing capacity.
 
-### 6.2 Time Horizon and Liquidity Needs
+### Time Horizon and Liquidity Needs
 
 • Long-Term Outlook: Investors willing to lock-in capital (5–7 years or more) might benefit from real estate funds or private equity funds, where lock-up periods match the underlying assets’ liquidity profile.  
 • Short-Term Liquidity: If a client might need funds in the near term, a liquid alternative under NI 81-102 (e.g., a “liquid alt” mutual fund) could be more suitable than a locked private fund with gating policies.
 
-### 6.3 Regulatory Constraints
+### Regulatory Constraints
 
 In Canada, certain sophisticated alternative strategies are only offered to “accredited investors” who meet income or net worth thresholds. Retail clients might instead opt for liquid alt products with fewer restrictions but also stricter regulatory oversight. The advisor must confirm that the client meets eligibility requirements before recommending private placements or exempt market products.
 
-### 6.4 Disclosure and KYC Requirements
+### Disclosure and KYC Requirements
 
 CIRO mandates the collection of detailed client information—financial objectives, investment knowledge, risk tolerance, net worth, etc.—to ensure net new recommendations remain suitable. Full disclosure of fund features, potential conflicts of interest, and performance expectations is vital in building trust with clients.
 
 ---
 
-## 7. Ongoing Monitoring and Portfolio Alignment
+## Ongoing Monitoring and Portfolio Alignment
 
 Due diligence does not stop once the investment is made. Ongoing performance evaluation, calls with fund managers, changes in management or key staff, and updated regulatory filings should be monitored regularly. Should the fund’s strategy drift or risk exposure escalate, an advisor must reassess the investment’s compatibility with the client’s objectives.
 
 ---
 
-## 8. Practical Example: Monitoring a Canadian Hedge Fund
+## Practical Example: Monitoring a Canadian Hedge Fund
 
 Consider an investor who places capital in a hedge fund managed by “ABC Alternative Strategies,” which uses a market-neutral approach. Upon initial investment, the manager emphasized minimal equity market beta.
 
@@ -173,7 +173,7 @@ In this example, due diligence extends beyond initial onboarding. An advisor who
 
 ---
 
-## 9. Comparison Table: Key Due Diligence Components
+## Comparison Table: Key Due Diligence Components
 
 Below is a simplified table summarizing key aspects, actions, and potential red flags:
 
@@ -188,7 +188,7 @@ Below is a simplified table summarizing key aspects, actions, and potential red 
 
 ---
 
-## 10. References and Additional Resources
+## References and Additional Resources
 
 Below are reputable sources for further study and tools to enhance your due diligence process:
 
@@ -215,7 +215,7 @@ Below are reputable sources for further study and tools to enhance your due dili
 
 ---
 
-## 11. Summary
+## Summary
 
 Due diligence and suitability evaluation for alternative investment strategies require a systematic approach that spans an in-depth look at the investment’s design, the integrity of fund managers, operational protocols, and alignment with Canadian regulations. Advisors must also ensure the product matches each client’s risk profile, time horizon, and liquidity needs, updating their analysis through ongoing monitoring.
 

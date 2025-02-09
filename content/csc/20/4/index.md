@@ -16,103 +16,103 @@ In this section, we compare alternative mutual funds, conventional mutual funds,
 
 ---
 
-## 1. Regulatory Environment and Accessibility
+## Regulatory Environment and Accessibility
 
-### 1.1 Alternative Mutual Funds 
+### Alternative Mutual Funds 
 • Governed at the federal level under the Canadian Securities Administrators (CSA) and subject to National Instrument 81-102.  
 • Allowed to employ certain advanced strategies—for example, short-selling (within set limits), leverage up to a specified ratio, and exposure to non-traditional assets (e.g., commodities via derivatives).  
 • Regulated to ensure protections for retail investors—similar disclosure obligations as conventional mutual funds under National Instrument 81-106 for continuous disclosure.
 
 Due to these regulations, many investors who previously found it challenging to access broad-based alternative strategies in a liquid, regulated environment can now do so without requiring high-net-worth or “accredited investor” status.
 
-### 1.2 Conventional Mutual Funds
+### Conventional Mutual Funds
 • Typically invest in equities, bonds, or money market instruments; reined in by more restrictive concentration limits and limited leverage possibilities.  
 • Highly regulated under National Instrument 81-102, providing daily liquidity and continuous disclosure documents (e.g., Simplified Prospectus, Fund Facts, Management Reports of Fund Performance).  
 • Accessible to any retail investor without any minimum net worth or specific financial sophistication requirements.
 
-### 1.3 Hedge Funds
+### Hedge Funds
 • Generally open to accredited investors, high-net-worth individuals, or institutional clients.  
 • Less regulated than mutual funds and not subject to the same concentration or leverage limits; this allows for broader and more aggressive investment strategies but carries higher risk.  
 • Often distributed via offering memoranda rather than a full prospectus, which may limit the transparency of operations.
 
 ---
 
-## 2. Strategy Differences
+## Strategy Differences
 
-### 2.1 Alternative Mutual Funds
+### Alternative Mutual Funds
 • May use derivatives and long/short strategies within stricter guidelines than hedge funds. For instance, short-selling can be used to hedge market risk or to enhance returns, but regulatory deadlines and coverage requirements limit the amount of leverage.  
 • Allowed to invest in asset classes that conventional funds cannot easily access (e.g., commodities futures, derivatives on currencies, etc.), potentially offering better diversification to retail investors.  
 • Common strategies include market-neutral and long/short equity approaches designed to maintain liquidity and meet daily redemption requirements.
 
-### 2.2 Conventional Mutual Funds
+### Conventional Mutual Funds
 • Typically pursue long-only strategies within a mandate focusing on a specified asset class (e.g., equity, balanced, fixed income).  
 • Use of derivatives is often limited to hedging or efficient portfolio management with minimal leverage.  
 • Usually avoid riskier assets or illiquid investments to preserve daily liquidity for retail investors.
 
-### 2.3 Hedge Funds
+### Hedge Funds
 • Employ a wide range of investment strategies, including but not limited to global macro, event-driven, distressed assets, private lending, and more.  
 • Can take concentrated positions, freely employ significant leverage (often beyond what regulations allow for mutual funds), and short-sell without the same set limits.  
 • Strategies can be highly complex and may require specialized expertise to manage effectively.
 
 ---
 
-## 3. Fee and Liquidity Considerations
+## Fee and Liquidity Considerations
 
-### 3.1 Alternative Mutual Funds
+### Alternative Mutual Funds
 • Typically charge a Management Expense Ratio (MER) that can be slightly higher than conventional funds due to the specialized complexity of alternative strategies.  
 • Must offer regular (often daily) liquidity to investors; thus, these funds cannot hold extremely illiquid investments as easily as hedge funds might.  
 • May include performance fees in rare cases, but most follow the standard mutual fund MER structure.
 
-### 3.2 Conventional Mutual Funds
+### Conventional Mutual Funds
 • Typically provide daily liquidity and have a standard MER structure, although some funds use different classes of shares (e.g., Series A, Series F, etc.) with varying fee schedules.  
 • Frequently offer both front-end, deferred sales charge (DSC), and no-load options (though DSCs have largely fallen out of favor).  
 • Management and operating fees are typically lower than those of hedge funds, especially in passively managed or index-tracking mutual funds.
 
-### 3.3 Hedge Funds
+### Hedge Funds
 • Common fee model is “2 and 20,” i.e., a 2% management fee plus 20% performance fee on profits above a certain benchmark or “high-water mark.”  
 • May impose lock-up periods, redemption gates, or limited redemption windows (e.g., quarterly or annually) to maintain strategy integrity and prevent sudden large outflows.  
 • While hedging strategies can attract higher potential returns, they also come with greater risk and lower liquidity.
 
 ---
 
-## 4. Performance Reporting and Transparency
+## Performance Reporting and Transparency
 
-### 4.1 Alternative Mutual Funds
+### Alternative Mutual Funds
 • Subject to the same reporting requirements as conventional mutual funds under National Instrument 81-106, ensuring monthly or quarterly updates, annual financial statements, and Management Reports of Fund Performance (MRFP).  
 • Investors receive transparency in the form of simplified prospectuses and continuous disclosure about holdings, strategies, and risks.
 
-### 4.2 Conventional Mutual Funds
+### Conventional Mutual Funds
 • Deliver standardized disclosure documents, Fund Facts, interim and annual financial statements, and MRFP.  
 • Provide a high degree of transparency into their holdings, performance, fees, and risks.  
 • Routinely scrutinized by both regulators and industry self-regulatory organizations like the Canadian Investment Regulatory Organization (CIRO).
 
-### 4.3 Hedge Funds
+### Hedge Funds
 • Usually outside of the mainstream regulatory framework; thus, they are not obliged to publish full disclosure documents in the same format.  
 • Offer monthly or quarterly statements and detailed performance data only to existing investors.  
 • Rely on limited disclosure, typically via an offering memorandum that is distributed only to qualified investors.
 
 ---
 
-## 5. Suitability and Access
+## Suitability and Access
 
-### 5.1 Alternative Mutual Funds
+### Alternative Mutual Funds
 • Available to retail investors who want non-traditional strategies but still desire the oversight and transparency associated with mutual funds.  
 • May fit investors looking for enhanced diversification, lower correlation to standard equity and bond markets, or strategies aimed at mitigating market volatility.  
 • Minimum investment amounts are typically lower than those required by hedge funds.
 
-### 5.2 Conventional Mutual Funds
+### Conventional Mutual Funds
 • Suitable for the broadest segment of retail investors, often providing simplicity and familiarity.  
 • Explore a range of risk profiles, from conservative fixed-income funds to high-risk emerging markets funds.  
 • Favored by advisors looking to match straightforward, easy-to-understand strategies with a wide client base.
 
-### 5.3 Hedge Funds
+### Hedge Funds
 • Usually restricted to high-net-worth or accredited investors with the sophistication and risk tolerance for the strategies employed.  
 • The inherent complexity, potential for illiquidity, and higher investment minimums make them less accessible to the average retail investor.  
 • Attractive to institutional investors such as pension funds, endowments, or philanthropic foundations seeking more sophisticated growth or hedging drivers.
 
 ---
 
-## 6. Practical Financial Example
+## Practical Financial Example
 
 Imagine a scenario where a major Canadian pension fund, such as the Ontario Teachers’ Pension Plan, is looking for strategies to diversify beyond traditional equities and fixed income. The plan could invest in a specialized alternative mutual fund that employs a market-neutral strategy, pairing long positions in undervalued Canadian bank shares and short positions in comparatively overvalued equities within the same sector. 
 
@@ -120,7 +120,7 @@ For instance, the fund might be long Royal Bank of Canada (RBC) while shorting a
 
 ---
 
-## 7. Case Study: Comparing Funds from a Canadian Bank
+## Case Study: Comparing Funds from a Canadian Bank
 
 Consider alternative investments offered by a large Canadian institution like TD Bank:
 
@@ -144,7 +144,7 @@ In this simplified example, the alternative mutual fund provides a balance betwe
 
 ---
 
-## 8. Visual Comparison
+## Visual Comparison
 
 The following Mermaid diagram illustrates the features of each type of fund side by side:
 
@@ -170,7 +170,7 @@ flowchart LR
 
 ---
 
-## 9. Best Practices, Challenges, and Strategies for Investors
+## Best Practices, Challenges, and Strategies for Investors
 
 • Thorough Due Diligence: Review fund prospectuses (via Sedar+ at https://www.sedarplus.ca) and regulatory filings to understand strategy, fees, performance, and risks.  
 • Risk-Adjusted Return Analysis: Compare alternative mutual funds to relevant benchmarks; evaluate risk metrics such as standard deviation and Sharpe ratios.  
@@ -181,7 +181,7 @@ flowchart LR
 
 ---
 
-## 10. Summary
+## Summary
 
 Alternative mutual funds occupy a middle ground between conventional mutual funds and hedge funds in the Canadian investment landscape. They grant retail investors exposure to advanced strategies—such as modest leverage, short-selling, and derivatives—within a regulated, transparent, and daily-liquid environment. While they share many characteristics with conventional funds (such as continuous disclosure requirements and retail availability), they also adopt some hedge fund techniques to potentially generate enhanced returns or reduce market correlation. 
 

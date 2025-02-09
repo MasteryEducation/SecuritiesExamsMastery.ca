@@ -14,7 +14,7 @@ Measuring mutual fund performance is critical for evaluating how effectively the
 
 ---
 
-## 1. The Importance of Performance Measurement
+## The Importance of Performance Measurement
 
 Mutual fund investors—both retail and institutional—seek consistent growth and returns that reflect the fund’s stated objectives. Performance measurement:
 • Helps assess if the fund is meeting its investment goals.  
@@ -26,9 +26,9 @@ In the Canadian financial market, performance reporting must align with the guid
 
 ---
 
-## 2. Rate of Return
+## Rate of Return
 
-### 2.1 Definition and Basic Concepts
+### Definition and Basic Concepts
 
 A mutual fund’s rate of return represents the percentage increase (or decrease) in the value of the investment over a specific period, typically expressed on a total return basis. A total return includes both price changes (capital gains or losses) and any distributions (dividends, interest, or capital gains) that may be reinvested in the fund.
 
@@ -40,7 +40,7 @@ For example, suppose an investor purchases C$10,000 worth of a mutual fund. Over
 
 ( (10,800 – 10,000 + 200) / 10,000 ) × 100% = 10%
 
-### 2.2 Relevance to Investors
+### Relevance to Investors
 
 • Allows for a straightforward snapshot of how much the investment has grown.  
 • Must be evaluated relative to risk, market conditions, and alternative investments.  
@@ -48,9 +48,9 @@ For example, suppose an investor purchases C$10,000 worth of a mutual fund. Over
 
 ---
 
-## 3. Benchmark Comparisons
+## Benchmark Comparisons
 
-### 3.1 Why Benchmarks Matter
+### Why Benchmarks Matter
 
 A benchmark is a standard against which a fund’s returns are measured, typically an index that matches the fund’s investment mandate. Examples include:
 • S&P/TSX Composite Index for a Canadian equity fund.  
@@ -59,11 +59,11 @@ A benchmark is a standard against which a fund’s returns are measured, typical
 
 Benchmark comparisons help distinguish market-driven returns from the added value (or detriment) of the fund manager’s decisions.
 
-### 3.2 Selecting Appropriate Benchmarks
+### Selecting Appropriate Benchmarks
 
 Selecting a relevant benchmark ensures a fair comparison. For instance, if a fund invests primarily in Canadian dividend-paying stocks, the S&P/TSX Composite High Dividend Index would be more appropriate than a broader market average. Canadian investors often reference RBC, TD, or other large financial institutions’ in-house indexes as well, though these are typically used in more specific circumstances.
 
-### 3.3 Outperformance and Underperformance
+### Outperformance and Underperformance
 
 • Outperformance (positive “alpha”) indicates the manager has delivered returns exceeding the benchmark’s returns, considering the level of risk taken.  
 • Underperformance can occur if the fund lags behind the benchmark or if excessive fees erode returns.  
@@ -71,11 +71,11 @@ Selecting a relevant benchmark ensures a fair comparison. For instance, if a fun
 
 ---
 
-## 4. Risk-Adjusted Performance Measures
+## Risk-Adjusted Performance Measures
 
 Measuring returns alone does not reveal how much risk a fund took to generate those returns. Risk-adjusted measures address this gap, comparing performance against volatility or market risk.
 
-### 4.1 Sharpe Ratio
+### Sharpe Ratio
 
 The Sharpe ratio measures the excess return above the risk-free rate per unit of total risk (standard deviation). It is calculated as:
 
@@ -91,7 +91,7 @@ Sharpe Ratio = (8% – 2%) ÷ 10% = 0.6
 
 A Sharpe ratio of 0.6 means the fund earns 0.6% of excess return per 1% of total risk. By comparing this with other funds, investors can see which one is achieving more return for each unit of volatility.
 
-### 4.2 Treynor Ratio
+### Treynor Ratio
 
 The Treynor ratio isolates systematic risk (market risk) using beta as the measure of volatility. Beta captures the fund’s sensitivity to movements in a chosen benchmark or market index.
 
@@ -104,7 +104,7 @@ Treynor Ratio = (Fund Return – Risk-Free Rate) / Beta
 
 Hence, the fund generated 5% of excess return per unit of market risk.
 
-### 4.3 Alpha
+### Alpha
 
 Alpha is the incremental return that exists over and above the expected return due to overall market movement. It is calculated as:
 
@@ -115,9 +115,9 @@ Alpha = Fund Return – (Risk-Free Rate + Beta × (Market Return – Risk-Free R
 
 ---
 
-## 5. Annualized Returns and Rolling Returns
+## Annualized Returns and Rolling Returns
 
-### 5.1 Annualized (Compound) Returns
+### Annualized (Compound) Returns
 
 Mutual funds commonly report annualized returns for periods like 3 years, 5 years, or 10 years. This converts the total return over a multi-year period into an average annual return, enabling easier comparisons across different investment horizons.
 
@@ -127,7 +127,7 @@ For example, if a fund’s value rose from C$10,000 to C$15,000 over five years 
 
 (15,000 ÷ 10,000)^(1 ÷ 5) – 1 = (1.5)^(0.2) – 1 ≈ 0.08447 → 8.45%
 
-### 5.2 Rolling Returns
+### Rolling Returns
 
 Rolling returns assess performance over overlapping intervals (e.g., monthly, quarterly, or annually) to capture consistency over time. This can help identify patterns or trends that single “point-to-point” returns may overlook.
 
@@ -136,36 +136,36 @@ Rolling returns assess performance over overlapping intervals (e.g., monthly, qu
 
 ---
 
-## 6. Distribution Adjustments
+## Distribution Adjustments
 
-### 6.1 Distributions in Mutual Funds
+### Distributions in Mutual Funds
 
 Mutual funds distribute dividends, interest income, and realized capital gains to unitholders. In many cases, investors choose to reinvest these distributions, purchasing additional fund units. This reinvestment:
 
 • Enhances the compounding effect over time.  
 • Must be included in performance calculations to reflect total returns accurately.  
 
-### 6.2 Impact of Reinvestment
+### Impact of Reinvestment
 
 Reinvesting distributions typically accelerates the growth of an investment. For example, the total return chart for a mutual fund that automatically reinvests distributions will show a higher ending value than one in which distributions are paid out in cash and not reinvested.
 
-### 6.3 Tax Considerations
+### Tax Considerations
 
 Distributions are typically taxable in non-registered accounts, based on their nature (capital gains, dividends, or interest). In registered or tax-sheltered accounts (e.g., RRSPs, TFSAs), taxes on distributions are often deferred or eliminated, affecting net returns.
 
 ---
 
-## 7. Real-World Illustrations and Case Studies
+## Real-World Illustrations and Case Studies
 
-### 7.1 Canadian Equity Fund Example
+### Canadian Equity Fund Example
 
 A well-known fund at a major Canadian bank like RBC or TD might benchmark itself against the S&P/TSX Composite Index, aiming to deliver above-average capital gains and dividends. If RBC Canadian Equity Fund posted a 10% total return last year while the S&P/TSX Composite Index rose 8.5%, investors might point to a positive alpha. But they must also evaluate whether the fund’s higher volatility or fees impacted its net performance.
 
-### 7.2 Example with Open-Source Tools
+### Example with Open-Source Tools
 
 Investors can utilize open-source or subscription-based financial tools—such as those from Morningstar (http://www.morningstar.com/)—to retrieve data on a mutual fund’s returns and compare them with benchmarks. Many Canadian investors also examine environmental, social, and governance (ESG) metrics, which can affect how the fund’s performance is viewed in the broader context of sustainable investing.
 
-### 7.3 Diagram: Simplified View of Risk-Adjusted Performance Comparison
+### Diagram: Simplified View of Risk-Adjusted Performance Comparison
 
 Below is a Mermaid diagram representing different funds plotted against risk (x-axis) and return (y-axis). The risk-free rate is labeled as a separate reference line.
 
@@ -183,15 +183,15 @@ Explanation:
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 8.1 Best Practices
+### Best Practices
 
 • Assess Consistency: Look beyond short-term, single snapshots. Examine multi-year and rolling returns.  
 • Evaluate Risk Adjusted Metrics: Use Sharpe, Treynor, and alpha to understand how a manager navigates market volatility.  
 • Review Benchmarks Carefully: Use an appropriate benchmark. An inappropriate benchmark may misrepresent relative performance.
 
-### 8.2 Pitfalls to Avoid
+### Pitfalls to Avoid
 
 • Ignoring Fees: Management Expense Ratios (MERs) and trading costs can significantly impact net returns.  
 • Chasing Past Performance: High historical returns do not guarantee future outperformance.  
@@ -199,7 +199,7 @@ Explanation:
 
 ---
 
-## 9. Compliance and Regulatory Framework in Canada
+## Compliance and Regulatory Framework in Canada
 
 • CIRO (Canadian Investment Regulatory Organization) mandates rules around transparent and timely reporting of mutual fund returns.  
 • Fund Facts: CSA regulations require mutual funds to provide a concise 2-page Fund Facts document that includes historical performance and risk ratings.  
@@ -209,7 +209,7 @@ By following these guidelines, investors and financial advisors remain compliant
 
 ---
 
-## 10. Glossary
+## Glossary
 
 • Sharpe Ratio: A measure of risk-adjusted return, calculated as (Portfolio Return – Risk-Free Rate) ÷ Standard Deviation of Portfolio.  
 • Treynor Ratio: A risk-adjusted measure that uses Beta to account for systematic (market) risk.  

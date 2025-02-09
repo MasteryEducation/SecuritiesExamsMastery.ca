@@ -14,7 +14,7 @@ In the Canadian wealth management landscape, wrap products—sometimes referred 
 
 ---
 
-### 1. Introduction to Wrap Products
+### Introduction to Wrap Products
 A wrap program is typically an all-in-one solution for clients seeking to delegate and simplify their portfolio management. Such programs often include:  
 • Asset allocation.  
 • Professional portfolio management.  
@@ -25,7 +25,7 @@ Clients pay a single annual or quarterly percentage of the assets under manageme
 
 ---
 
-### 2. Defining the Wrap Structure
+### Defining the Wrap Structure
 
 Wrap accounts revolve around the idea that **simplicity** adds value. Rather than billing separately for each transaction, consultation, or administrative task, clients receive a single consolidated statement. This approach was popularized in Canada in the 1990s and has since evolved to address diverse client demands—from more conservative retirees to growth-oriented families.
 
@@ -38,7 +38,7 @@ Wrap accounts revolve around the idea that **simplicity** adds value. Rather tha
 
 ---
 
-### 3. Single-Style vs. Multi-Style Wrap Offerings
+### Single-Style vs. Multi-Style Wrap Offerings
 
 Despite the unified structure, wrap products can differ significantly in their configurations:
 
@@ -56,7 +56,7 @@ Multi-style wrap accounts can help mitigate the “style drift” phenomenon (wh
 
 ---
 
-### 4. Wrap Fee Structures
+### Wrap Fee Structures
 
 The defining feature of a wrap account is the establishment of a single, all-encompassing fee. This fee is typically calculated as a percentage of AUM. For example, a client might pay 1.75% annually, deducted proportionally each quarter. This charge generally includes:  
 • Ongoing advice and portfolio oversight.  
@@ -69,7 +69,7 @@ Although transparent and straightforward, wrap fees may be relatively high if th
 
 ---
 
-### 5. Aligning Wrap Accounts with Client Objectives
+### Aligning Wrap Accounts with Client Objectives
 
 An effective wrap arrangement goes beyond mere convenience. The program should align with the client’s overall financial goals, risk tolerance, and time horizon. In Canada, many advisors employ detailed **risk questionnaires** or “Know Your Client” (KYC) documentation to map out:
 
@@ -81,7 +81,7 @@ This emphasis on suitability and customization can be one of the greatest streng
 
 ---
 
-### 6. Portfolio Customization and Curation
+### Portfolio Customization and Curation
 
 A unique advantage of wrap programs is the possibility of tailoring investment choices to the specific needs of the investor. For instance:
 
@@ -93,7 +93,7 @@ Therefore, the portfolio under a wrap arrangement can be curated much more preci
 
 ---
 
-### 7. Simplified Reporting and Performance Tracking
+### Simplified Reporting and Performance Tracking
 
 One of the most attractive features of wrap products is **simplified reporting**. Rather than receiving multiple statements from various funds or managers, the client receives a consolidated monthly or quarterly statement summarizing:
 
@@ -106,7 +106,7 @@ This level of consolidation improves transparency and often enhances the advisor
 
 ---
 
-### 8. Potential Advantages
+### Potential Advantages
 
 Clients choosing wrap accounts typically cite the following benefits:
 
@@ -127,7 +127,7 @@ Clients choosing wrap accounts typically cite the following benefits:
 
 ---
 
-### 9. Possible Drawbacks and Considerations
+### Possible Drawbacks and Considerations
 
 Despite their advantages, wrap accounts are not suitable for every type of investor. Key considerations include:
 
@@ -145,7 +145,7 @@ Despite their advantages, wrap accounts are not suitable for every type of inves
 
 ---
 
-### 10. Regulatory Context and Compliance
+### Regulatory Context and Compliance
 
 Within the Canadian regulatory framework, wrap products must meet the same suitability and disclosure standards as any other investment vehicle. Key regulatory bodies and guidelines include:
 
@@ -169,7 +169,7 @@ Because clients are effectively delegating a wide range of decisions under a wra
 
 ---
 
-### 11. Real-World Example and Case Study
+### Real-World Example and Case Study
 
 Consider an affluent family approaching a major Canadian bank—such as RBC—with $1 million to invest. They desire a long-term growth strategy but have distinct preferences for environmental sustainability and moderate risk. After completing a comprehensive risk questionnaire, the advisor and client agree on a multi-style wrap program featuring:
 
@@ -181,7 +181,7 @@ All managers and associated trading costs are consolidated under a 1.5% wrap fee
 
 ---
 
-### 12. A Visual Overview of Wrap Accounts
+### A Visual Overview of Wrap Accounts
 
 Below is a simple diagram outlining the flow of responsibilities and fees in a wrap program:
 
@@ -201,7 +201,7 @@ flowchart LR
 
 ---
 
-### 13. Implementation Tips and Best Practices
+### Implementation Tips and Best Practices
 
 1. **Detailed Risk Profiling**  
    Ensure every wrap client undertakes robust KYC and risk profiling. A mismatch between client risk tolerance and the selected wrap strategy can jeopardize trust and performance.
@@ -220,7 +220,7 @@ flowchart LR
 
 ---
 
-### 14. Common Pitfalls to Avoid
+### Common Pitfalls to Avoid
 
 • **Overconcentration of Assets:** Even in a multi-style wrap, ensure genuine diversification and prevent overexposure to a single sector or asset class.  
 • **Neglecting Tax Efficiency:** Some wrap managers may rebalance frequently, triggering undue capital gains, which can reduce net returns for taxable portfolios.  
@@ -229,7 +229,7 @@ flowchart LR
 
 ---
 
-### 15. Glossary
+### Glossary
 
 • **Wrap Fee:** A single, all-inclusive fee covering portfolio management, trading commissions, and advice.  
 • **Separately Managed Account (SMA):** A private portfolio managed according to the specific needs and objectives of the individual client.  
@@ -238,7 +238,7 @@ flowchart LR
 
 ---
 
-### 16. Additional Resources
+### Additional Resources
 
 • **CIRO Compliance Resources:** Guidance for fee-based account structures and disclosure requirements.  
 • **CSA’s Client Focused Reforms (NI 31-103):** Regulations emphasizing conflict-of-interest mitigation and transparent fee disclosure.  
@@ -247,7 +247,7 @@ flowchart LR
 
 ---
 
-### 17. Summary
+### Summary
 
 Wrap products can be an excellent solution for Canadians who want to simplify investment management, benefit from a tailored approach, and maintain close collaboration with their advisor. By bundling multiple services—portfolio management, asset allocation, and trading costs—into a single fee, wrap accounts deliver transparency and convenience. Yet, advisors must evaluate their client’s unique needs, risk tolerance, and cost sensitivity when recommending a wrap solution. In an evolving regulatory environment, wrap providers should maintain clear communication, ongoing client reviews, and thorough compliance oversight.
 

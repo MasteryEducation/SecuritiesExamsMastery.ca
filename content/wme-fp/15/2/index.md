@@ -14,9 +14,9 @@ When clients think about making a will, their initial focus is often on fundamen
 
 ---
 
-### 1. Blended Families, Special Needs, and Other Complexities
+### Blended Families, Special Needs, and Other Complexities
 
-#### 1.1 Blended Families and Dependants from Previous Relationships
+#### Blended Families and Dependants from Previous Relationships
 
 In Canada, increasing numbers of families are blended—meaning there are stepchildren, half-siblings, or dependants from previous relationships in the family unit. In such scenarios, a will must carefully reflect the financial needs and emotional sensitivities of all parties involved. Failure to draft a balanced estate distribution plan may lead to disputes, legal challenges, or unintended disinheritance.
 
@@ -24,7 +24,7 @@ In Canada, increasing numbers of families are blended—meaning there are stepch
 • Clarify any pre-existing obligations from prior relationships (e.g., child support or spousal support) and how those obligations are satisfied in the estate plan.  
 • Consult relevant provincial statutes (e.g., Ontario’s Succession Law Reform Act, or British Columbia’s Wills, Estates, and Succession Act) to understand the rights of common-law partners or dependent children.
 
-#### 1.2 Children with Special Needs
+#### Children with Special Needs
 
 Estate planning for children or adult dependants with special needs can be highly intricate. Setting up trusts—such as a testamentary trust or a Henson Trust—may help preserve government benefits or provide long-term care:
 
@@ -34,11 +34,11 @@ Estate planning for children or adult dependants with special needs can be highl
 
 ---
 
-### 2. The Role of Trusts in Estate Planning
+### The Role of Trusts in Estate Planning
 
 Trusts are legal arrangements that manage and distribute assets for beneficiaries, according to the directions specified by the settlor (the individual establishing the trust). In the context of wills, testamentary trusts are created upon the testator’s death. Below are several trust structures that may be used in conjunction with a will:
 
-#### 2.1 Testamentary Trusts
+#### Testamentary Trusts
 
 A testamentary trust comes into effect after the testator’s death. It can be designed for a variety of purposes, including:
 
@@ -46,11 +46,11 @@ A testamentary trust comes into effect after the testator’s death. It can be d
 • Safeguarding assets for minor or dependent children, releasing funds according to milestones (e.g., at certain ages or upon attainment of specific life events).  
 • Managing complex business interests, such as shares in a family corporation.
 
-#### 2.2 Spousal Trusts
+#### Spousal Trusts
 
 A spousal trust ensures that a surviving spouse has ongoing income or financial resources, while preserving the capital for other beneficiaries (often children) after the spouse’s passing. Careful drafting can also offer tax advantages that align with Canadian taxation rules on rollovers for spousal beneficiaries. Consulting with a legal professional and a tax accountant is essential to optimize these trusts and ensure compliance with the Income Tax Act (Canada).
 
-#### 2.3 Trusts for Children’s Education and Care
+#### Trusts for Children’s Education and Care
 
 Beyond general testamentary trusts, specialized trusts can be created for a broad range of child-related expenses:
 
@@ -60,7 +60,7 @@ Beyond general testamentary trusts, specialized trusts can be created for a broa
 
 ---
 
-### 3. Guardianship Designations for Minor Children
+### Guardianship Designations for Minor Children
 
 If minor children are left without a surviving parent, guardianship designations in a will are crucial. Courts typically respect the parents’ preferences for a guardian, as stated in the will, unless there are compelling reasons to deviate from those wishes. Failure to name a guardian can lead to legal uncertainty, protracted family court battles, or the appointment of a guardian who may not reflect the parents’ original intentions.
 
@@ -70,7 +70,7 @@ If minor children are left without a surviving parent, guardianship designations
 
 ---
 
-### 4. Primary Will vs. Ancillary or Secondary Will
+### Primary Will vs. Ancillary or Secondary Will
 
 In some provinces (e.g., Ontario), individuals may set up multiple wills—commonly referred to as a primary will and a secondary (or ancillary) will. The fundamental aim is to reduce probate fees on certain assets that do not require probate or where the transfer mechanisms can be simplified:
 
@@ -92,7 +92,7 @@ In this diagram, the testator creates two wills. The primary will covers assets 
 
 ---
 
-### 5. Letters of Instruction and Personal Memoranda
+### Letters of Instruction and Personal Memoranda
 
 A will is a legal document that undergoes a formal process. By contrast, a letter of instruction or personal memorandum is an informal supplement to a will that can provide clarity on specific personal belongings or instructions. Some Canadian provinces allow these memoranda to be legally binding if they are explicitly referenced in the will and properly executed according to local law. However, even when they’re non-binding, these documents can be extremely helpful:
 
@@ -104,7 +104,7 @@ Note that digital assets—ranging from cryptocurrency wallets to social media a
 
 ---
 
-### 6. Planning for Digital Assets
+### Planning for Digital Assets
 
 Digital assets include online banking passwords, cryptocurrency wallets, email accounts, social media profiles, online-only subscription services, and more. Overlooking these assets can delay or complicate the estate settlement process.
 
@@ -114,13 +114,13 @@ Digital assets include online banking passwords, cryptocurrency wallets, email a
 
 ---
 
-### 7. Compliance with Canadian Regulations and Guidelines
+### Compliance with Canadian Regulations and Guidelines
 
-#### 7.1 CIRO Guidelines
+#### CIRO Guidelines
 
 The Canadian Investment Regulatory Organization (CIRO) periodically issues guidelines on estate-related issues for client accounts. This includes naming beneficiaries, issuing instructions for powers of attorney, and effectively handling estate accounts. Advisors should remain current with CIRO notices published at [ciro.ca](https://ciro.ca/) to ensure compliance when assisting clients with estate planning.
 
-#### 7.2 Provincial Succession Laws
+#### Provincial Succession Laws
 
 Estate laws are largely governed by provincial legislation. Key statutes include:  
 • Ontario’s Succession Law Reform Act (SLRA)  
@@ -130,13 +130,13 @@ Estate laws are largely governed by provincial legislation. Key statutes include
 
 These regulations outline the minimum requirements for a valid will, rules around spousal entitlement, and guidelines for family maintenance claims.
 
-#### 7.3 Public Guardian and Trustee Offices
+#### Public Guardian and Trustee Offices
 
 Each province’s Public Guardian and Trustee office provides resources, brochures, and sometimes direct oversight for estates or trusts that involve vulnerable parties (e.g., minors, or individuals who lack capacity). Advisors and executors can consult these offices for guidance on specific matters, especially if disputes or complexities arise around guardianships or dependent adult beneficiaries.
 
 ---
 
-### 8. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 1. **Regular Updates**: Life events such as marriage, divorce, the birth of children, the death of a spouse, or the acquisition of sizable assets demand will updates.  
 2. **Proper Witnessing**: Failing to have the will properly witnessed and executed can invalidate or severely limit its enforceability.  
@@ -146,7 +146,7 @@ Each province’s Public Guardian and Trustee office provides resources, brochur
 
 ---
 
-### 9. Case Study: Blended Family and Trust Planning
+### Case Study: Blended Family and Trust Planning
 
 Consider an Ontario-based client, Karen, who has two children from her previous marriage and a stepson from her new marriage. She also has a child with special needs. Karen’s estate includes a family home, an RRSP, a privately held corporation, and a significant art collection.
 
@@ -160,7 +160,7 @@ Consider an Ontario-based client, Karen, who has two children from her previous 
 
 ---
 
-### 10. Summary
+### Summary
 
 Drafting a will that genuinely reflects one’s wishes, protects dependants, and coordinates with broader wealth management objectives involves more than just naming beneficiaries. Advisors and clients must address guardianship, trusts, multiple will strategies, digital assets, and provincial legal nuances. By exploring these areas in depth—and staying current with Canadian regulations—clients can ensure that their legacies are effectively preserved and that their loved ones are well looked after.
 

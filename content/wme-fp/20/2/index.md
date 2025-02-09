@@ -16,11 +16,11 @@ In this section, we explore the structure and functions of equity markets, focus
 
 ---
 
-## 1. Understanding Equity Markets
+## Understanding Equity Markets
 
 Equity markets—often referred to as the stock market—are where corporations’ shares (or stocks) are issued, bought, and sold. Each share represents fractional ownership in a company. By purchasing shares, investors seek returns from price appreciation and potentially dividend income. 
 
-### 1.1 Key Functions of Equity Markets
+### Key Functions of Equity Markets
 
 1. Capital Formation:  
    Companies can raise capital by listing shares on an exchange. This infusion of funds supports business expansion, research and development, acquisitions, or debt repayment.  
@@ -36,7 +36,7 @@ Equity markets—often referred to as the stock market—are where corporations�
 
 ---
 
-## 2. Major Equity Exchanges in Canada
+## Major Equity Exchanges in Canada
 
 Canada boasts a robust equity market with two primary stock exchanges:
 
@@ -55,7 +55,7 @@ Many Canadian junior mining companies debut on the TSXV, raising initial explora
 
 ---
 
-## 3. Global Exchanges and Cross-Border Considerations
+## Global Exchanges and Cross-Border Considerations
 
 While Canadian advisors primarily deal with the TSX and TSXV, investors may also consider global exchanges such as the New York Stock Exchange (NYSE) and NASDAQ in the United States for portfolio diversification and exposure to international markets.  
 
@@ -67,9 +67,9 @@ Canadian investors can trade on foreign exchanges through brokerage accounts tha
 
 ---
 
-## 4. Regulated Exchanges vs. OTC Markets
+## Regulated Exchanges vs. OTC Markets
 
-### 4.1 Benefits of Regulated Exchanges
+### Benefits of Regulated Exchanges
 
 • Transparency:  
   Real-time quotes and transaction data are generally publicly available.  
@@ -83,7 +83,7 @@ Canadian investors can trade on foreign exchanges through brokerage accounts tha
 • Better Liquidity:  
   Listed securities typically have more buyers and sellers, translating into narrower bid-ask spreads and easier trade execution.
 
-### 4.2 Over-the-Counter (OTC) Markets and Alternative Trading Systems (ATS)
+### Over-the-Counter (OTC) Markets and Alternative Trading Systems (ATS)
 
 Over-the-counter or OTC markets provide trading avenues outside of formal exchanges. OTC trading can be attractive for companies that do not meet the listing requirements of major exchanges or choose to remain unlisted for strategic reasons.
 
@@ -98,7 +98,7 @@ Over-the-counter or OTC markets provide trading avenues outside of formal exchan
 
 ---
 
-## 5. The Role of Supply and Demand in Pricing
+## The Role of Supply and Demand in Pricing
 
 Securities prices in equity markets are driven by the perennial tug-of-war between supply and demand:
 
@@ -112,7 +112,7 @@ In an active market—where numerous buyers and sellers compete—the bid-ask sp
 
 ---
 
-## 6. Regulatory Landscape in Canada
+## Regulatory Landscape in Canada
 
 1. Canadian Securities Administrators (CSA):  
    A coordinating body of provincial and territorial securities regulators. It fosters a harmonized approach to securities regulation across Canada, including oversight of exchanges and investment dealers.  
@@ -129,9 +129,9 @@ In an active market—where numerous buyers and sellers compete—the bid-ask sp
 
 ---
 
-## 7. Technology and Modern Equity Markets
+## Technology and Modern Equity Markets
 
-### 7.1 High-Frequency Trading (HFT)
+### High-Frequency Trading (HFT)
 
 High-frequency trading uses sophisticated algorithms to process market data and execute trades within fractions of a second. Key considerations include:
 
@@ -141,13 +141,13 @@ High-frequency trading uses sophisticated algorithms to process market data and 
 • Advantages and Criticisms:  
   HFT can narrow spreads and boost liquidity, but critics argue it may exacerbate market volatility and disadvantage slower participants.
 
-### 7.2 Algorithmic Trading
+### Algorithmic Trading
 
 Broader in scope than HFT, algorithmic trading involves automated strategies for order execution and portfolio rebalancing. Institutional investors commonly use algorithms to reduce market impact (e.g., VWAP or TWAP strategies) and optimize large block trades.
 
 ---
 
-## 8. Market Participants and Their Roles
+## Market Participants and Their Roles
 
 1. Retail Investors:  
    • Individuals buying or selling stocks through brokerage accounts.  
@@ -166,7 +166,7 @@ Major banks (e.g., RBC, TD) can serve as market makers, especially for smaller-c
 
 ---
 
-## 9. Best Practices for Wealth Managers
+## Best Practices for Wealth Managers
 
 1. Understand Liquidity Risks:  
    Recommending illiquid stocks can compromise a client’s ability to exit positions quickly. Wealth managers should factor in trading volume and average bid-ask spreads.  
@@ -185,7 +185,7 @@ Major banks (e.g., RBC, TD) can serve as market makers, especially for smaller-c
 
 ---
 
-## 10. Visualizing the Equity Market Structure
+## Visualizing the Equity Market Structure
 
 Below is a Mermaid diagram illustrating the interconnectedness of various equity market participants and venues.
 
@@ -207,7 +207,7 @@ flowchart LR
 
 ---
 
-## 11. Practical Case Study
+## Practical Case Study
 
 Imagine a Canadian wealth manager, Priya, who advises a client wishing to invest in a high-growth junior mining company. The company’s shares trade on the TSXV with limited daily trading volume:
 
@@ -218,7 +218,7 @@ Imagine a Canadian wealth manager, Priya, who advises a client wishing to invest
 
 ---
 
-## 12. Resources and Further Exploration
+## Resources and Further Exploration
 
 • CIRO Regulatory Notices (https://www.ciro.ca/):  Stay updated with the latest regulatory guidelines and rulings.  
 • TSX Website (https://www.tsx.com/):  Access real-time market data, listing rules, and educational resources.  
@@ -228,7 +228,7 @@ Imagine a Canadian wealth manager, Priya, who advises a client wishing to invest
 
 ---
 
-## 13. Conclusion
+## Conclusion
 
 Canadian equity markets remain vital for capital formation and wealth generation, anchored by prominent exchanges like the TSX and TSXV. Over-the-counter and alternative trading systems expand the trading ecosystem, offering flexibility alongside unique risks. A solid grasp of regulatory requirements, technological advancements, and best practices ensures wealth managers can effectively guide clients in navigating these markets.  
 

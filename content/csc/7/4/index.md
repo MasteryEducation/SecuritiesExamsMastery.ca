@@ -14,15 +14,15 @@ Bond markets are central to the global financial system, facilitating the flow o
 
 ---
 
-## 1. Overview of the OTC and Exchange-Traded Bond Markets
+## Overview of the OTC and Exchange-Traded Bond Markets
 
-### 1.1 Bond Market Structures
+### Bond Market Structures
 
 In Canada, most bond trading happens in the Over-the-Counter (OTC) market, which is a decentralized marketplace where dealers negotiate directly with buyers and sellers. Individuals, institutional investors (e.g., pension funds), and investment dealers conduct transactions primarily via telephone or electronic communication networks (ECNs). As opposed to stocks—commonly listed on centralized exchanges such as the Toronto Stock Exchange (TSX)—very few bonds are listed on exchanges.
 
 Exchange-traded bond products do exist, most notably fixed-income exchange-traded funds (ETFs). These ETFs hold various baskets of fixed-income securities, allowing retail and institutional investors alike to gain instant exposure to diversified bond portfolios. Bond ETFs trade on exchanges, offering transparency in pricing and real-time liquidity, but the underlying bonds typically remain traded OTC at the dealer level.
 
-### 1.2 Key Advantages and Challenges of OTC Trading
+### Key Advantages and Challenges of OTC Trading
 
 • Advantages:  
   – Negotiated pricing: Dealers can provide flexible pricing based on dynamic market conditions, investor relationships, and specialist knowledge of specific bonds.  
@@ -36,21 +36,21 @@ Exchange-traded bond products do exist, most notably fixed-income exchange-trade
 
 ---
 
-## 2. Trading Characteristics of Different Bond Categories
+## Trading Characteristics of Different Bond Categories
 
-### 2.1 Government of Canada Bonds
+### Government of Canada Bonds
 
 • Issued by the federal government, these bonds (and Treasury bills) are considered to have the lowest credit risk in the Canadian market.  
 • The high trading volumes and stable investor demand for Government of Canada bonds foster tight bid-ask spreads and robust liquidity.  
 • These securities are commonly used as benchmarks for pricing corporate issues and are integral to the risk management strategies of financial institutions.
 
-### 2.2 Provincial and Municipal Bonds
+### Provincial and Municipal Bonds
 
 • Provincial bonds, also referred to as “provincials,” carry a higher yield than federal bonds because of slightly higher credit risk and lower liquidity.  
 • Municipal (or “muni”) bonds fund local government projects such as infrastructure, schools, and transit systems. They can be relatively less liquid than provincial bonds, but they fill a critical need in the fixed-income ecosystem.  
 • Trading spreads and volumes can vary widely among provinces and municipalities, reflecting differences in fiscal positions, debt levels, and market demand.
 
-### 2.3 Corporate Bonds
+### Corporate Bonds
 
 • Corporate bonds in Canada encompass a large range of credit qualities, from highly rated (investment-grade) issuers to more speculative, high-yield offerings.  
 • Liquidity and trading spreads for corporate bonds depend significantly on the issuer’s credit rating, sector, and issuance size.  
@@ -58,16 +58,16 @@ Exchange-traded bond products do exist, most notably fixed-income exchange-trade
 
 ---
 
-## 3. Role of Dealers and Brokers
+## Role of Dealers and Brokers
 
-### 3.1 Market-Making and Inventory
+### Market-Making and Inventory
 
 Investment dealers play an essential part in bond markets by acting as intermediaries:  
 • Market Liquidity: Dealers use their capital to hold inventory in various bonds, enabling them to offer immediate execution for buy or sell orders.  
 • Price Discovery: By posting bid and ask prices—and updating them as market conditions change—dealers facilitate fair pricing of bonds.  
 • Specialized Research and Sales: Many dealers maintain relationships with institutional clients, providing bespoke research, market insights, and advice for portfolio management.
 
-### 3.2 Regulatory Oversight and Best Execution
+### Regulatory Oversight and Best Execution
 
 Dealers operating in Canada must comply with regulations set by the Canadian Investment Regulatory Organization (CIRO). Key CIRO obligations include:  
 • Best Execution: Dealers are required to obtain the most advantageous execution terms for their clients, considering factors like price, speed, and likelihood of execution.  
@@ -78,13 +78,13 @@ For more details on best execution policies, refer to CIRO’s official document
 
 ---
 
-## 4. Settlement Conventions in the Canadian Bond Market
+## Settlement Conventions in the Canadian Bond Market
 
-### 4.1 Standard T+2 Cycle
+### Standard T+2 Cycle
 
 Bond market transactions in Canada typically settle on a T+2 basis—meaning the settlement date is two business days after the trade date. This timeline applies to most Government of Canada, provincial, municipal, and corporate bonds.
 
-### 4.2 Accrued Interest and Clean vs. Dirty Pricing
+### Accrued Interest and Clean vs. Dirty Pricing
 
 Unlike stocks, bonds often trade with accrued interest that accumulates between coupon payments.  
 • Clean Price: The quoted price for a bond, excluding accrued interest.  
@@ -92,7 +92,7 @@ Unlike stocks, bonds often trade with accrued interest that accumulates between 
 
 During settlement, the Canadian Depository for Securities (CDS) handles the clearing and settlement infrastructure, ensuring orderly and accurate disbursement of payments and transfer of title.
 
-### 4.3 Example Calculation of Dirty Price
+### Example Calculation of Dirty Price
 
 Suppose you buy a bond with a clean price of $1,000. Suppose the bond’s annual coupon is 4% ($40 per year), paid semi-annually ($20 every six months). If you purchase the bond exactly halfway between coupon dates (i.e., it has accrued three months of interest since the last coupon), then:
 
@@ -102,19 +102,19 @@ Suppose you buy a bond with a clean price of $1,000. Suppose the bond’s annual
 
 ---
 
-## 5. Electronic Trading Platforms
+## Electronic Trading Platforms
 
-### 5.1 Shift to Electronic Markets
+### Shift to Electronic Markets
 
 Historically, bond trading revolved around telephone-based negotiations. Over the past decade, increased adoption of electronic trading systems has aimed to enhance price transparency, reduce transaction costs, and accelerate execution. Institutional investors increasingly use electronic platforms to request quotes from multiple dealers simultaneously, creating a mini-auction dynamic that can lead to tighter bid-ask spreads.
 
-### 5.2 Canadian Electronic Bond Platforms
+### Canadian Electronic Bond Platforms
 
 • CanDeal ([www.candeal.com](https://www.candeal.com/)): A leading electronic marketplace for Canadian dollar debt securities, providing real-time quotes from multiple dealers.  
 • CBID: Focuses primarily on retail-oriented fixed-income trading, enabling users to compare multiple offerings for bonds, GICs, and other fixed-income instruments.  
 • MarketAxess, Bloomberg, and Tradeweb: While more global in scope, these platforms also serve Canadian institutions seeking cross-border trades or a broader range of liquidity pools.
 
-### 5.3 Benefits and Considerations
+### Benefits and Considerations
 
 • Benefits:  
   – Greater Price Transparency: Investors can easily compare quotes, reducing the likelihood of overpaying or receiving suboptimal bids.  
@@ -128,7 +128,7 @@ Historically, bond trading revolved around telephone-based negotiations. Over th
 
 ---
 
-## 6. Practical Example: Trading a Provincial Bond via OTC
+## Practical Example: Trading a Provincial Bond via OTC
 
 Imagine a pension fund wants to purchase $10 million in Ontario provincial bonds maturing in 2030 for yield pickup compared to an equivalent federal government bond. The fund’s manager might:  
 1. Contact multiple dealers—such as RBC Capital Markets, TD Securities, and BMO Nesbitt Burns—to request quotes.  
@@ -139,16 +139,16 @@ Imagine a pension fund wants to purchase $10 million in Ontario provincial bonds
 
 ---
 
-## 7. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 7.1 Best Practices
+### Best Practices
 
 • Diversify Dealer Relationships: Maintaining relationships with multiple dealers helps investors compare quotes for better pricing.  
 • Stay Informed on Credit Conditions: Monitor issuer fundamentals, credit rating changes, and macroeconomic factors only to understand potential shifts in spreads.  
 • Leverage Electronic Platforms: For improved price comparisons, especially on liquid, high-grade bonds where multiple dealers are active.  
 • Monitor Regulations: Keep abreast of CIRO guidance on best execution, transparency, and corporate governance changes that can affect bond pricing.
 
-### 7.2 Common Pitfalls
+### Common Pitfalls
 
 • Overlooking Liquidity Risks: Lower-tier corporate or thinly traded municipal bonds may incur larger spreads and pose challenges if you need to sell quickly.  
 • Ignoring Settlement Nuances: Failing to account for accrued interest can lead to unexpected costs at settlement.  
@@ -156,7 +156,7 @@ Imagine a pension fund wants to purchase $10 million in Ontario provincial bonds
 
 ---
 
-## 8. Diagram: Simplified OTC Bond Trading Flows
+## Diagram: Simplified OTC Bond Trading Flows
 
 Below is a simple Mermaid.js diagram illustrating how a trade flows between an institutional investor, multiple dealers, and the clearing system:
 
@@ -177,7 +177,7 @@ flowchart LR
 
 ---
 
-## 9. Glossary
+## Glossary
 
 • **OTC (Over-the-Counter) Market:** A decentralized market where participants trade fixed-income instruments directly without using a formal exchange.  
 • **Liquidity:** The ease with which a bond can be bought or sold in the market without significantly affecting the price.  
@@ -186,7 +186,7 @@ flowchart LR
 
 ---
 
-## 10. Regulatory and Supplemental Resources
+## Regulatory and Supplemental Resources
 
 • **CIRO Rules on Best Execution** ([www.ciro.ca](https://www.ciro.ca/)): CIRO provides guidelines ensuring client orders and trades receive the most advantageous execution terms.  
 • **Canadian Depository for Securities (CDS)**: Central clearing and settlement for the Canadian fixed-income market.  

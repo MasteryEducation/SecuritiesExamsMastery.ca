@@ -14,7 +14,7 @@ In Canada’s institutional marketplace, a wide range of finance professionals w
 
 ---
 
-## 1. Overview of Institutional Roles
+## Overview of Institutional Roles
 
 Large institutional investors require a multi-layered approach to portfolio management, risk mitigation, and operational efficiency. To illustrate this, consider a major Canadian pension fund investing in domestic and global equities, fixed-income securities, derivatives, and alternative assets:
 
@@ -45,7 +45,7 @@ Each arrow reflects communication or workflow crucial to effective institutional
 
 ---
 
-## 2. Portfolio Managers: Strategists and Decision-Makers
+## Portfolio Managers: Strategists and Decision-Makers
 
 Portfolio managers are responsible for designing, implementing, and monitoring an investment strategy that meets a client’s objectives, risk tolerance, and time horizon. Key responsibilities include:
 
@@ -59,7 +59,7 @@ A portfolio manager at a large pension plan (such as the Canada Pension Plan Inv
 
 ---
 
-## 3. Traders: Executing and Optimizing Orders
+## Traders: Executing and Optimizing Orders
 
 Traders are fundamental in the institutional market, as their skills help achieve cost-effective and timely trades. Responsibilities include:
 
@@ -73,7 +73,7 @@ At RBC Capital Markets, institutional traders might facilitate large trades in T
 
 ---
 
-## 4. Research Analysts: Informing Investment Decisions
+## Research Analysts: Informing Investment Decisions
 
 Research analysts enable data-driven decision-making by providing specialized security or market-level insights. Their responsibilities include:
 
@@ -87,7 +87,7 @@ An equity research analyst at TD Securities focuses on the Canadian banking sect
 
 ---
 
-## 5. Compliance Officers: Upholding Ethical and Regulatory Standards
+## Compliance Officers: Upholding Ethical and Regulatory Standards
 
 Compliance officers serve as the guardians of integrity and legal adherence within an institution. Key functions include:
 
@@ -101,7 +101,7 @@ A compliance officer at a large broker-dealer ensures that employees with inside
 
 ---
 
-## 6. Risk Managers: Identifying, Measuring, and Mitigating Risks
+## Risk Managers: Identifying, Measuring, and Mitigating Risks
 
 Risk managers incorporate tools and methodologies to recognize and control various types of risks:
 
@@ -115,7 +115,7 @@ A risk manager at a major Canadian insurer might use open-source software framew
 
 ---
 
-## 7. Client Relationship Managers (Institutional Sales): Fostering Partnerships
+## Client Relationship Managers (Institutional Sales): Fostering Partnerships
 
 Client Relationship Managers, often referred to as institutional sales professionals, act as liaisons between institutional clients and the firm. Their duties include:
 
@@ -129,7 +129,7 @@ A senior Institutional Sales Associate at a major Canadian brokerage might hold 
 
 ---
 
-## 8. Collaboration and Information Flow
+## Collaboration and Information Flow
 
 Effective institutional investing requires seamless communication, but strict safeguards must remain in place to prevent conflicts of interest or regulatory breaches. Common best practices include:
 
@@ -142,7 +142,7 @@ If a research analyst receives early notice that Company XYZ will be added to th
 
 ---
 
-## 9. Professional Development and Ongoing Learning
+## Professional Development and Ongoing Learning
 
 The institutional market evolves rapidly, influenced by technological innovations, product breakthroughs, and changing regulatory environments. Ongoing education and professional development are often mandatory:
 
@@ -152,7 +152,7 @@ The institutional market evolves rapidly, influenced by technological innovation
 
 ---
 
-## 10. Regulatory References and Additional Resources
+## Regulatory References and Additional Resources
 
 Staying informed about policy, guidelines, and market developments is vital. Track these sources:
 

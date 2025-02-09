@@ -20,7 +20,7 @@ When a client’s tax burden is managed properly, they can keep more capital for
 
 ---
 
-## 1. Identify All Available Deductions and Tax Credits
+## Identify All Available Deductions and Tax Credits
 
 One of the simplest yet most impactful ways to reduce taxes is to ensure clients maximize all relevant deductions and credits. These can include:
 
@@ -34,21 +34,21 @@ One of the simplest yet most impactful ways to reduce taxes is to ensure clients
 
 Financial planners must pay close attention to the specific eligibility criteria and documentation required for each deduction and credit.
 
-### 1.1 Organized Record-Keeping
+### Organized Record-Keeping
 
 Encourage clients to maintain organized records for all payments that might qualify as deductible or credit-eligible. This may include receipts for charitable donations, medical expenses, or official statements for qualified child care expenses. Proper documentation not only ensures smoother tax preparation but also provides valuable proof in the event of a CRA review or audit.
 
-### 1.2 Reviewing T1 Returns
+### Reviewing T1 Returns
 
 A comprehensive check of the T1 General return for personal income tax is a good starting point for discovering unclaimed deductions. If your client runs an unincorporated business or sole proprietorship, reviewing relevant schedules (e.g., T2125 Statement of Business or Professional Activities) and exploring allowable business deductions proves invaluable for identifying additional tax savings.
 
 ---
 
-## 2. Income Splitting
+## Income Splitting
 
 Income splitting involves transferring income from a high-income family member to another family member in a lower tax bracket to reduce the overall household tax burden. This technique has multiple facets, from paying reasonable salaries to family members in a family-owned business to spousal loans at the CRA’s prescribed interest rate.
 
-### 2.1 Attributing Income Legally
+### Attributing Income Legally
 
 While income splitting can be advantageous, the Income Tax Act enforces “attribution rules” to prevent abuse. For instance, if you gift or loan funds to a spouse or minor child to invest, any income or capital gains earned on that amount may be attributed back to the original transferor for tax purposes. However, a properly structured spousal loan at the CRA-prescribed rate (often lower than commercial rates) allows the transferee spouse to earn income that is taxable at their typically lower marginal rate.
 
@@ -56,13 +56,13 @@ While income splitting can be advantageous, the Income Tax Act enforces “attri
 
 Mr. Tran, a high-income professional, lends $100,000 to his spouse at the current prescribed interest rate set by the CRA (e.g., 3%). His spouse invests these funds in a portfolio that yields a 5% return annually. After paying the 3% interest back to Mr. Tran (as required by the spousal loan agreement), the spouse pays taxes on the net 2% return at her lower marginal rate. This reduces the Tran family’s total tax bill. Note that Mr. Tran must report the 3% interest income on his return, but the net effect can still be beneficial.
 
-### 2.2 Registered Education Savings Plans (RESPs)
+### Registered Education Savings Plans (RESPs)
 
 RESPs are another avenue for income splitting. Contributions to a child’s RESP and subsequent investment income are taxed in the child’s hands when withdrawn for educational expenses. Because students often have little to no income, RESP withdrawals attract minimal or zero tax, effectively splitting income within the family.
 
 ---
 
-## 3. Deferral of Income
+## Deferral of Income
 
 Deferring taxes to future years can significantly reduce a client’s current tax liability, especially if they anticipate lower taxable income in those future years. Strategies include:
 
@@ -70,7 +70,7 @@ Deferring taxes to future years can significantly reduce a client’s current ta
 2. Participation in employer-sponsored deferred compensation arrangements  
 3. Holding investments in structures that defer income recognition (e.g., certain insurance products)  
 
-### 3.1 Leveraging Tax-Deferred Vehicles
+### Leveraging Tax-Deferred Vehicles
 
 RRSPs remain the primary method for most Canadians to defer taxes on investment returns. Contributions to RRSPs are fully deductible (up to the available contribution limit), and investment income within the RRSP grows on a tax-deferred basis until withdrawal. By making contributions during peak earning years and withdrawing in retirement—when their income is presumably lower—clients can achieve meaningful tax savings.
 
@@ -87,49 +87,49 @@ In this simplified representation, clients benefit from an immediate tax deducti
 
 ---
 
-## 4. Capital Gains Management
+## Capital Gains Management
 
 Capital gains are taxed more favorably than regular income. Only 50% of capital gains are included as taxable income in Canada. By strategically timing the realization of these gains or harvesting capital losses, clients can control their tax liability.
 
-### 4.1 Lifetime Capital Gains Exemption (LCGE)
+### Lifetime Capital Gains Exemption (LCGE)
 
 For owners of qualified small business corporation shares or individuals owning qualified farm or fishing properties, the LCGE provides a significant capital gains tax exemption upon selling these assets. The exemption amount is indexed to inflation (e.g., over $971,000 in 2023 for qualified small business shares). Verify that your client’s business meets the criteria set out by CRA guidelines, such as the 90% rule for small business assets.
 
-### 4.2 Strategic Loss Harvesting
+### Strategic Loss Harvesting
 
 If a client’s portfolio includes securities that have fallen in value, selling those securities at a loss can help offset current or future capital gains. Advisors often use “tax-loss selling” late in the calendar year to minimize that year’s capital gains. Be mindful of the superficial loss rule, which disallows a loss if the same or an identical security is repurchased within 30 days before or after the sale.
 
-### 4.3 Holding Periods
+### Holding Periods
 
 When feasible, holding investments longer can defer the recognition of capital gains, offering more time for investments to compound and possibly deferring capital gains tax to years when the client’s marginal rate may be lower.
 
 ---
 
-## 5. Optimize Use of Registered Accounts
+## Optimize Use of Registered Accounts
 
 Beyond the well-known RRSP, other registered accounts offer significant tax advantages.
 
-### 5.1 Tax-Free Savings Accounts (TFSAs)
+### Tax-Free Savings Accounts (TFSAs)
 
 Although TFSA contributions are not tax-deductible, all earnings (interest, dividends, or capital gains) within a TFSA accumulate tax-free. Withdrawals are also tax-free, making TFSAs an attractive vehicle for both short- and long-term savings. Strategically, individuals with variable income can focus on RRSP contributions during high-income years and TFSA contributions in lower-income years to maximize tax benefits.
 
-### 5.2 Registered Plans for Non-Retirement Goals
+### Registered Plans for Non-Retirement Goals
 
 Certain registered plans, such as the Registered Education Savings Plan (RESP), provide grants and tax benefits specifically for education. Meanwhile, the Registered Disability Savings Plan (RDSP) offers government grants and bonds for eligible individuals with disabilities, allowing further tax-sheltered growth.
 
 ---
 
-## 6. Charitable Donations
+## Charitable Donations
 
 Planned charitable giving can have significant tax benefits by providing donation tax credits. Moreover, donating publicly traded securities directly to a registered charity can eliminate capital gains tax on the donated securities.
 
-### 6.1 Donation of Appreciated Securities
+### Donation of Appreciated Securities
 
 Rather than selling stocks, ETFs, or mutual funds and paying tax on the capital gain, donating them directly to the charity allows clients to claim the fair market value as a donation tax credit, while the capital gain is generally exempt from tax.
 
 ---
 
-## 7. Leverage Provincial Tax Credits
+## Leverage Provincial Tax Credits
 
 Tax benefits vary among provinces and territories. Many provincial governments offer specialized credits or incentives to stimulate economic activity and encourage socially beneficial investments.  
 
@@ -141,27 +141,27 @@ Financial planners with clients in multiple provinces must stay updated on curre
 
 ---
 
-## 8. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 8.1 Financial Institution Example: TD Bank Structured Loan
+### Financial Institution Example: TD Bank Structured Loan
 
 • A small business owner, Ms. Li, approaches TD Bank for a loan to make a spousal loan at the prescribed rate. By doing so, Ms. Li’s spouse can invest using the borrowed funds and pay taxes at a lower marginal rate. TD Bank sets up a transparent repayment schedule, ensuring the interest is paid annually at the prescribed rate.  
 • Compliance with Interest Payments: Ms. Li’s spouse must pay interest on time, or the entire structure collapses under attribution rules.
 
-### 8.2 Capital Gains Management with RBC Direct Investing
+### Capital Gains Management with RBC Direct Investing
 
 • An investor has a self-directed RRSP and a TFSA under RBC Direct Investing. After a successful year, the investor reviews the portfolio and notices some small capital losses. By strategically selling certain losing positions before the end of December, the investor offsets capital gains realized elsewhere in the portfolio.  
 • The proceeds can later be reinvested in non-identical assets to avoid the superficial loss rule and maintain exposure to the desired market segment.
 
 ---
 
-## 9. Utilizing Technology and Tools
+## Utilizing Technology and Tools
 
 A variety of open-source and commercial software solutions can guide clients. Tools such as Wealthsimple Tax (formerly SimpleTax) or StudioTax can help model scenarios and estimate how changes to income or investments alter tax obligations. Encouraging clients to run simulations with these tools under your guidance can improve their understanding and facilitate better decision-making.
 
 ---
 
-## 10. Best Practices, Common Pitfalls, and Compliance
+## Best Practices, Common Pitfalls, and Compliance
 
 1. **Best Practices**  
    • Advise clients to keep well-documented receipts and records.  
@@ -179,7 +179,7 @@ A variety of open-source and commercial software solutions can guide clients. To
 
 ---
 
-## 11. Glossary
+## Glossary
 
 • **Income Splitting:** A strategy where income is transferred from a higher tax bracket family member to a lower bracket member, effectively lowering the overall family tax burden.  
 • **Attribution Rules:** Provisions forcing certain income or capital gains generated from gifted or loaned funds to be “attributed back” to the original transferor.  
@@ -188,7 +188,7 @@ A variety of open-source and commercial software solutions can guide clients. To
 
 ---
 
-## 12. References and Additional Resources
+## References and Additional Resources
 
 • Income Tax Act (R.S.C., 1985, c. 1 (5th Supp.)) – Canada’s principal statute governing taxation.  
 • Canada Revenue Agency (CRA): <https://www.canada.ca/en/revenue-agency.html> – Official guidelines, tax forms, and bulletins.  

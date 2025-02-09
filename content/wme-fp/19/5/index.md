@@ -22,11 +22,11 @@ Below, you will learn:
 
 ---
 
-### 1. Understanding Tactical Asset Allocation
+### Understanding Tactical Asset Allocation
 
 Tactical Asset Allocation involves making short-term shifts in portfolio weightings based on market conditions, forecasting models, economic data, or technical indicators. The objective is to generate additional alpha (excess returns above a benchmark) by identifying and exploiting capital market inefficiencies or carrying out proactive risk management.
 
-#### 1.1 TAA vs. SAA
+#### TAA vs. SAA
 
 • **Strategic Asset Allocation (SAA):**  
   The cornerstone of a long-term investment strategy. It allocates assets based on fundamental risk-return preferences, time horizons, and client objectives. Canadian investors often rely on guidelines that consider factors like the historical performance of the S&P/TSX Composite Index (for Canadian equities), the S&P 500 (for U.S. equities), and Government of Canada bonds for fixed income allocations.
@@ -38,7 +38,7 @@ Because TAA includes market timing elements, it is accompanied by higher risks a
 
 ---
 
-### 2. Rationale Behind TAA
+### Rationale Behind TAA
 
 1. **Market Inefficiencies:**  
    Advocates of TAA argue that markets are not always perfectly efficient, especially when emotional or short-term factors such as volatility in commodity prices, global news events, or central bank announcements significantly move markets.
@@ -54,7 +54,7 @@ Because TAA includes market timing elements, it is accompanied by higher risks a
 
 ---
 
-### 3. Market Timeliness and Analytical Tools
+### Market Timeliness and Analytical Tools
 
 Because TAA involves active decisions about when to intensify (overweight) or reduce (underweight) exposure to certain assets, timing is critical. To increase the likelihood of success, TAA practitioners often rely on a blend of quantitative and qualitative tools:
 
@@ -80,7 +80,7 @@ Because TAA involves active decisions about when to intensify (overweight) or re
 
 ---
 
-### 4. Risk of Market Timing
+### Risk of Market Timing
 
 While TAA can deliver outperformance, it carries inherent risks:
 
@@ -98,11 +98,11 @@ While TAA can deliver outperformance, it carries inherent risks:
 
 ---
 
-### 5. Combining TAA with SAA: A Blended Approach
+### Combining TAA with SAA: A Blended Approach
 
 Many Canadian financial advisors realize the importance of balance. They maintain a strategic core—aligned with the client’s long-term risk profile and objectives—while allowing for a set percentage of the portfolio (e.g., up to 10%) for tactical decisions.
 
-#### 5.1 Core-Satellite Model
+#### Core-Satellite Model
 
 A common approach to blending SAA and TAA is the “Core-Satellite” model:
 
@@ -129,9 +129,9 @@ With this structure, advisors can manage risk by keeping the majority of the por
 
 ---
 
-### 6. Governance and Oversight
+### Governance and Oversight
 
-#### 6.1 Investment Committee and Formal Processes
+#### Investment Committee and Formal Processes
 
 For institutional or high-net-worth portfolios, TAA decisions often involve:
 
@@ -139,7 +139,7 @@ For institutional or high-net-worth portfolios, TAA decisions often involve:
 • **Formal Decision Criteria:** Processes that dictate what economic indicators or market signals must be present before tactical adjustments are made.  
 • **Risk Budgeting:** A system that limits how much deviation is allowed from the strategic benchmark.
 
-#### 6.2 Transparency and Reporting
+#### Transparency and Reporting
 
 To avoid confusion and maintain trust, advisors must:
 
@@ -149,7 +149,7 @@ To avoid confusion and maintain trust, advisors must:
 
 ---
 
-### 7. Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 1. **Case Study: Canadian Pension Fund**  
    A large Canadian pension fund might apply TAA by underweighting equities if it perceives an imminent recession, redirecting a portion of its equity holdings into Government of Canada short-term bonds. This shift might be prompted by weakening economic indicators like rising unemployment or an inverted yield curve.
@@ -162,7 +162,7 @@ To avoid confusion and maintain trust, advisors must:
 
 ---
 
-### 8. Best Practices and Actionable Insights
+### Best Practices and Actionable Insights
 
 1. **Define Clear Parameters:**  
    Establish maximum deviation limits and criteria for when to rebalance back to the core.
@@ -184,7 +184,7 @@ To avoid confusion and maintain trust, advisors must:
 
 ---
 
-### 9. Additional Resources
+### Additional Resources
 
 • **Canadian Securities Administrators Guidance on Investment Funds**  
   https://www.securities-administrators.ca  
@@ -202,7 +202,7 @@ To avoid confusion and maintain trust, advisors must:
 
 ---
 
-### 10. Glossary
+### Glossary
 
 • **Tactical Asset Allocation (TAA):** An active approach that temporarily shifts asset allocations to exploit short-term market opportunities.  
 • **Overweight/Underweight:** Increasing or decreasing the exposure to a particular asset class relative to the long-term strategic mix.  

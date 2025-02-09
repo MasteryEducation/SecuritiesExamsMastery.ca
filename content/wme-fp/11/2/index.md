@@ -16,11 +16,11 @@ In this section, we will explore the role of employer-sponsored pension plans in
 
 ---
 
-## 1. The Importance of Employer-Sponsored Pension Plans in Retirement Funding
+## The Importance of Employer-Sponsored Pension Plans in Retirement Funding
 
 Employer-sponsored pension plans serve as one of the key pillars of retirement income for Canadian employees. Along with government programs (CPP/QPP and OAS) and personal retirement savings (e.g., RRSPs and TFSAs), these plans can help individuals maintain a comfortable lifestyle throughout retirement. Financial planners must understand pension plan structures and funding rules in order to guide clients effectively.
 
-### 1.1 Defined Benefit (DB) vs. Defined Contribution (DC) Plans
+### Defined Benefit (DB) vs. Defined Contribution (DC) Plans
 
 • Defined Benefit (DB) Plans  
   These plans promise a specified monthly benefit at retirement, often calculated based on a formula involving years of service, final average earnings, and a predetermined benefit multiplier. With DB plans, employees know the income they will receive, but employers carry the investment and longevity risks.
@@ -32,7 +32,7 @@ Understanding the type of employer-sponsored plan lays the groundwork for decisi
 
 ---
 
-## 2. Coordination with Other Income Sources
+## Coordination with Other Income Sources
 
 Retirement planning must consider a variety of income streams. Employer-sponsored pension benefits should be harmonized with CPP/QPP, OAS, and personal savings like RRSPs and TFSAs. The overall objective is to maintain a stable income while minimizing tax inefficiencies and ensuring benefit sustainability.
 
@@ -50,16 +50,16 @@ Retirement planning must consider a variety of income streams. Employer-sponsore
 
 ---
 
-## 3. Retirement Age Options
+## Retirement Age Options
 
 When to retire is one of the most critical decisions in retirement planning. Pension plans commonly specify a “normal retirement age” (often 65), but employees may have options for early or delayed retirement.
 
-### 3.1 Early Retirement
+### Early Retirement
 
 • Early retirement generally means receiving reduced pension benefits. The reduction in benefits compensates for the longer expected payout period.  
 • Some employers offer incentives, such as subsidized early retirement provisions or bridging benefits, to encourage employees to retire before normal retirement age.
 
-### 3.2 Delayed Retirement
+### Delayed Retirement
 
 • Employees who work beyond the normal retirement age may receive a higher pension. The plan often applies actuarial adjustments to reflect a shorter payout period.  
 • This option can be advantageous for individuals who expect to live longer, want to continue earning income, or prefer to maximize their pension.
@@ -80,11 +80,11 @@ In this diagram, the employee can opt for early, normal, or delayed retirement, 
 
 ---
 
-## 4. Pension Benefit Options at Retirement
+## Pension Benefit Options at Retirement
 
 Employer-sponsored plans typically offer a variety of options for receiving pension income. Financial planners must weigh each choice’s influence on survivor benefits, estate planning, ongoing needs, and potential tax effects.
 
-### 4.1 Defined Benefit (DB) Plan Annuity Choices
+### Defined Benefit (DB) Plan Annuity Choices
 
 1. Single Life Annuity  
    • Provides income only for the life of the retiree.  
@@ -98,7 +98,7 @@ Employer-sponsored plans typically offer a variety of options for receiving pens
    • An annuity that guarantees payments for a specified period (e.g., 10 or 15 years).  
    • If the retiree dies during the guarantee period, the beneficiary (often a spouse or estate) continues to receive payments until the term ends.
 
-### 4.2 Defined Contribution (DC) Plan Payout and Conversion
+### Defined Contribution (DC) Plan Payout and Conversion
 
 1. Commuted Value  
    • The employee can transfer the accumulated DC balance to a Life Income Fund (LIF) or Locked-In Retirement Income Fund (LRIF).  
@@ -115,7 +115,7 @@ Employer-sponsored plans typically offer a variety of options for receiving pens
 
 ---
 
-## 5. Inflation Protection and Indexation
+## Inflation Protection and Indexation
 
 Inflation can erode the purchasing power of pension income over time. DB plans may include an indexing clause, which increases benefits annually based on the Consumer Price Index (CPI) or another measure of inflation. DC plan participants may rely on investment growth to keep pace with inflation, though market risks can make this uncertain.
 
@@ -124,7 +124,7 @@ Inflation can erode the purchasing power of pension income over time. DB plans m
 
 ---
 
-## 6. Bridging Benefits
+## Bridging Benefits
 
 A bridging benefit, also known as a “bridge benefit,” is a supplemental payment that some DB plans provide to retirees who choose early retirement. It’s intended to “bridge” the gap until the retiree qualifies for CPP/QPP benefits. Once the retiree starts drawing CPP/QPP, the bridging benefit typically ends.
 
@@ -138,7 +138,7 @@ A bridging benefit, also known as a “bridge benefit,” is a supplemental paym
 
 ---
 
-## 7. Best Practices and Strategic Considerations for Advisors
+## Best Practices and Strategic Considerations for Advisors
 
 1. **Holistic Approach**  
    Adopt a comprehensive vision when integrating employer-sponsored pension benefits with RRSPs, TFSAs, and government programs.
@@ -160,7 +160,7 @@ A bridging benefit, also known as a “bridge benefit,” is a supplemental paym
 
 ---
 
-## 8. Glossary
+## Glossary
 
 • **Early Retirement**  
   The option to start receiving pension benefits before the normal retirement age—often with a reduced benefit reflecting the longer payout period.
@@ -179,7 +179,7 @@ A bridging benefit, also known as a “bridge benefit,” is a supplemental paym
 
 ---
 
-## 9. Additional Resources and References
+## Additional Resources and References
 
 • **Actuarial Standards Board (ASB)**  
   The ASB sets the professional standards for actuarial practice in Canada, including pension valuations:  
@@ -202,7 +202,7 @@ Staying informed about actuarial, regulatory, and market developments ensures th
 
 ---
 
-## 10. Case Study: Blending DC and RRSP Strategies at RBC
+## Case Study: Blending DC and RRSP Strategies at RBC
 
 Imagine a 58-year-old professional employed at RBC with a DC pension plan that includes employer matching. Over decades of service, this individual has accrued a sizable balance in the plan. With retirement approaching at age 62, careful coordination of personal RRSP holdings is imperative:
 
@@ -216,7 +216,7 @@ This scenario highlights how DC pension plans, personal RRSPs, and government pr
 
 ---
 
-## 11. Summary
+## Summary
 
 Employer-sponsored pension plans offer a significant, stable foundation for Canadian retirees. By integrating these plans with individual retirement savings vehicles and government benefits, clients can build a comprehensive retirement strategy. Financial planners play a crucial role in guiding clients through key decisions such as retirement age, pension benefit options, bridging strategies, and inflation protection. Ongoing monitoring and adjustments are essential to ensure retirees maintain sufficient income and achieve long-term financial security.
 

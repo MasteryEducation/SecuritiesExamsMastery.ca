@@ -58,7 +58,7 @@ flowchart LR
 
 These steps ensure a disciplined approach, enabling the portfolio manager or advisor to deliver consistent and transparent results. 
 
-#### 2.1 Determine Client Objectives and Constraints
+#### Determine Client Objectives and Constraints
 
 The first step focuses on gathering comprehensive client information. This is the essence of KYC. Advisors may use questionnaires, interviews, and financial statement reviews to determine:
 
@@ -71,7 +71,7 @@ The first step focuses on gathering comprehensive client information. This is th
 
 Comprehensive initial data gathering not only satisfies regulatory mandates but also ensures the portfolio’s structure will truly reflect the client’s goals.
 
-#### 2.2 Design an Investment Policy Statement (IPS)
+#### Design an Investment Policy Statement (IPS)
 
 An Investment Policy Statement (IPS) is a written document capturing the client’s objectives, constraints, and guidelines for portfolio construction. It outlines:
 
@@ -83,7 +83,7 @@ An Investment Policy Statement (IPS) is a written document capturing the client�
 
 Regulatory bodies such as the Canadian Investment Regulatory Organization (CIRO) and the Canadian Securities Administrators (CSA) encourage clear documentation of client objectives and portfolio strategy. The IPS helps ensure that portfolio decisions are justifiable and traceable.
 
-#### 2.3 Develop the Asset Mix
+#### Develop the Asset Mix
 
 Asset allocation typically has the greatest influence on a portfolio’s risk and return. During this phase, advisors determine how to distribute capital among major asset classes: equities, fixed income, cash, and potentially alternative assets (e.g., real estate, private equity, or hedge fund strategies). Common considerations include:
 
@@ -93,7 +93,7 @@ Asset allocation typically has the greatest influence on a portfolio’s risk an
 
 Canadian practitioners often use data from the Bank of Canada (bankofcanada.ca) and official economic releases to gauge interest rate trends and economic conditions, adjusting asset mixes to reflect monetary policy shifts and anticipated market cycles.
 
-#### 2.4 Select the Securities
+#### Select the Securities
 
 Once the asset mix is established, advisors choose specific securities that will populate each segment of the portfolio. This selection should reflect not only the overall strategy but also the KYP obligation. Key tasks include:
 
@@ -105,7 +105,7 @@ Once the asset mix is established, advisors choose specific securities that will
 
 For example, an advisor at RBC or TD might recommend a broad-market ETF for the equity component, Government of Canada bonds for stability, and a hedge fund strategy for alpha generation—provided the client meets the suitability requirements and the products align with the IPS.
 
-#### 2.5 Monitor the Client, the Market, and the Economy
+#### Monitor the Client, the Market, and the Economy
 
 Markets fluctuate, and client circumstances often evolve. Monitoring involves keeping an eye on:
 
@@ -116,7 +116,7 @@ Markets fluctuate, and client circumstances often evolve. Monitoring involves ke
 
 Advisors must record major decisions and rationales, creating a transparent record that supports good governance.  
 
-#### 2.6 Evaluate Portfolio Performance
+#### Evaluate Portfolio Performance
 
 Regular performance reviews compare the portfolio’s returns and risk profile against stated objectives and benchmarks. Key metrics might include:
 
@@ -127,7 +127,7 @@ Regular performance reviews compare the portfolio’s returns and risk profile a
 
 Global Investment Performance Standards (GIPS), promoted by the CFA Institute (cfainstitute.org), provide a recognized framework for measuring and presenting performance with consistency and transparency.
 
-#### 2.7 Rebalance the Portfolio
+#### Rebalance the Portfolio
 
 Finally, portfolio managers realign the asset mix with the original or evolving targets. Portfolio drift occurs naturally over time due to differing growth rates among assets. Rebalancing may involve:
 

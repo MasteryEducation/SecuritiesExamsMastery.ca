@@ -24,21 +24,21 @@ This section focuses on the corporate form—its unique features, governance fra
 
 Before concentrating on corporations, it is helpful to understand how they compare to the other main Canadian business forms.
 
-#### 1.1 Sole Proprietorship
+#### Sole Proprietorship
 • Operated by a single individual (the “proprietor”).  
 • The proprietor and the business are considered the same legal entity for liability purposes.  
 • The proprietor bears unlimited personal liability for the debts of the business.  
 • Receives all profits and is personally taxed on business income.  
 • Easy and inexpensive to start, but limited in terms of accessing external capital (e.g., large loans or public investments).
 
-#### 1.2 Partnership
+#### Partnership
 • Formed by two or more individuals (or entities) who share ownership.  
 • Partners ordinarily have joint and several liability, meaning they share responsibility for the partnership’s debts.  
 • Profits flow through to partners, who are individually taxed.  
 • More potential for capital than a sole proprietorship, but disagreements and liability complexities can arise.  
 • In limited partnerships (LPs) or limited liability partnerships (LLPs), certain partners enjoy limited liability status while at least one partner remains fully liable in an LP, or unlimited liability is somewhat mitigated in professional LLPs.
 
-#### 1.3 Corporation
+#### Corporation
 • A separate legal entity, distinct from its owners (shareholders).  
 • Enjoys many of the rights and responsibilities of a natural person (e.g., it can sue, be sued, own property, and enter contracts).  
 • Offers limited liability to shareholders, who are generally responsible only up to the amount of their investment.  
@@ -131,7 +131,7 @@ In addition to bylaws, many corporations adopt **corporate governance guidelines
 
 ### Corporate Governance and Regulatory Compliance
 
-#### 6.1 Canadian Regulators
+#### Canadian Regulators
 When a corporation decides to raise capital by selling securities to the public, it must comply with requirements enforced by agencies under the umbrella of the **Canadian Securities Administrators (CSA)**. Specific provinces may have their own commissions, such as:
 
 • **Ontario Securities Commission (OSC)**  
@@ -140,7 +140,7 @@ When a corporation decides to raise capital by selling securities to the public,
 
 Meanwhile, the **Canadian Investment Regulatory Organization (CIRO)** regulates investment dealers and mutual fund dealers to ensure consumer protection and market integrity. Public corporations are expected to follow stringent rules for disclosures, insider trading, and market fairness.
 
-#### 6.2 Corporate Governance Guidelines
+#### Corporate Governance Guidelines
 Most corporate governance guidelines in Canada encourage best practices, including:
 
 • Establishing independent Board committees (e.g., Audit Committee, Corporate Governance Committee).  
@@ -154,15 +154,15 @@ The **Ontario Securities Commission** publishes corporate governance guidelines 
 
 ### Practical Considerations and Real-World Scenarios
 
-#### 7.1 Raising Capital: Private vs. Public Routes
+#### Raising Capital: Private vs. Public Routes
 • A Canadian startup might begin as a private corporation funded by friends, family, and angel investors. Over time, if the company’s growth requires significant capital, it may go through an initial public offering (IPO) to broaden its shareholder base and attract institutional investors such as Canadian pension funds.  
 • Major banks or large publicly listed corporations may continuously raise capital through new share offerings or bonds, benefiting from high levels of transparency and brand credibility in the Canadian market.
 
-#### 7.2 Limited Liability in Action
+#### Limited Liability in Action
 • Suppose a Canadian technology firm faces litigation due to product liability claims. Its shareholders, while exposed to potential share value declines, are generally insulated from personal financial liability.  
 • This separation of liability encourages broader participation in the capital market, fostering entrepreneurial ventures that drive economic growth.
 
-#### 7.3 Corporate Governance Best Practices
+#### Corporate Governance Best Practices
 • RBC’s Board of Directors regularly reviews risk management policies, ensuring compliance with oversight bodies such as the OSFI (Office of the Superintendent of Financial Institutions) and CIRO.  
 • TD requires conflict-of-interest disclosures from top executives to prevent situations where personal interest conflicts with corporate duties.
 

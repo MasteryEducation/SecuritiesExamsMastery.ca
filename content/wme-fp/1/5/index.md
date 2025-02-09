@@ -26,7 +26,7 @@ flowchart LR
     A --> G[Technological Adaptability]
 ```
 
-### 1. Technical Knowledge
+### Technical Knowledge
 
 #### Overview
 
@@ -55,7 +55,7 @@ Many advisors in Canada look to the investment strategies employed by major pens
 
 ---
 
-### 2. Regulatory and Compliance Skills
+### Regulatory and Compliance Skills
 
 #### Overview
 
@@ -83,7 +83,7 @@ When a client at a major Canadian bank like RBC seeks advice on margin borrowing
 
 ---
 
-### 3. Communication and Relationship Building
+### Communication and Relationship Building
 
 #### Overview
 
@@ -105,7 +105,7 @@ A common scenario in Canada is the shift from accumulation to decumulation strat
 
 ---
 
-### 4. Emotional Intelligence
+### Emotional Intelligence
 
 #### Overview
 
@@ -126,7 +126,7 @@ Consider an advisor with a client who recently lost a spouse. Beyond the immedia
 
 ---
 
-### 5. Business Development and Entrepreneurship
+### Business Development and Entrepreneurship
 
 #### Overview
 
@@ -148,7 +148,7 @@ A wealth advisor might tailor a marketing campaign discussing the unique conside
 
 ---
 
-### 6. Technological Adaptability
+### Technological Adaptability
 
 #### Overview
 

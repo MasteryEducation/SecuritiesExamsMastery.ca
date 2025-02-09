@@ -24,9 +24,9 @@ By the end of this chapter, you will have a thorough understanding of how option
 
 ---
 
-## 1. Understanding Options
+## Understanding Options
 
-### 1.1 What Is an Option?
+### What Is an Option?
 
 An option is a binding contract between two parties:  
 • The option buyer (holder) obtains the right—without the obligation—to buy or sell an underlying asset at a set price (the strike price).  
@@ -34,7 +34,7 @@ An option is a binding contract between two parties:
 
 Options come with an expiration date, after which they become worthless if not exercised. The option buyer pays a premium to the writer for this right.
 
-### 1.2 Key Terms and Definitions
+### Key Terms and Definitions
 
 • Strike Price: The price at which the underlying can be bought or sold if the option is exercised.  
 • Expiration: The date by which the holder must exercise the option or let it expire.  
@@ -47,9 +47,9 @@ Premium = Intrinsic Value + Time Value
 
 ---
 
-## 2. Types of Options
+## Types of Options
 
-### 2.1 Call Options
+### Call Options
 
 A call option gives its holder the right to buy an underlying asset at the strike price. Investors often purchase call options when they anticipate an increase in the underlying’s price. For instance, if you purchase a call on shares of a major Canadian bank like RBC or TD, you expect that the stock will rise before the option expires.
 
@@ -57,7 +57,7 @@ A call option gives its holder the right to buy an underlying asset at the strik
 • Risk for the Buyer: The maximum loss is limited to the premium paid.  
 • Risk for the Writer: If the market price exceeds the strike price significantly, the writer could face substantial losses.
 
-### 2.2 Put Options
+### Put Options
 
 A put option grants the holder the right to sell an underlying asset at the strike price. Puts are frequently used for hedging: an investor can buy puts to protect a stock portfolio from a drop in market prices.
 
@@ -67,15 +67,15 @@ A put option grants the holder the right to sell an underlying asset at the stri
 
 ---
 
-## 3. Common Uses of Options
+## Common Uses of Options
 
-### 3.1 Hedging Strategies
+### Hedging Strategies
 
 Investors often use options to protect existing positions against adverse price movements. For example, a large Canadian pension fund with a substantial equity portfolio may purchase put options to insure against a sudden market downturn. This is called a protective put strategy.
 
 • Example: If an investor holds 1,000 shares of a resource company listed on the TSX and worries about a short-term drop, they can buy puts on that company’s shares to ensure they can sell the shares at the strike price if the market falls.
 
-### 3.2 Speculative Strategies
+### Speculative Strategies
 
 Because of their leverage, options attract investors who want to profit from anticipated price moves with a limited initial investment. For instance, if an investor believes a Canadian technology stock will surge in the coming months, they can buy calls, potentially generating large gains while risking only the premium.
 
@@ -83,9 +83,9 @@ Because of their leverage, options attract investors who want to profit from ant
 
 ---
 
-## 4. Option Pricing Models
+## Option Pricing Models
 
-### 4.1 Factors Influencing Option Value
+### Factors Influencing Option Value
 
 The value of an option depends on:
 
@@ -95,7 +95,7 @@ The value of an option depends on:
 • Volatility: Higher volatility usually increases option prices, reflecting a higher probability of large price moves.  
 • Interest Rates: Typically have a minor effect but can influence forward prices and thus option premiums.  
 
-### 4.2 Black–Scholes–Merton (BSM) Model
+### Black–Scholes–Merton (BSM) Model
 
 This famous pricing model calculates the value of European-style calls and puts by considering the variables mentioned above. The formula, in simplified terms, is:
 
@@ -117,7 +117,7 @@ d₂ = d₁ – σ √T
 
 Although real-world trading often involves American-style options (which can be exercised any time up to expiration), Black–Scholes–Merton provides a foundational framework. Many financial institutions, including RBC and TD, might use variations or more advanced models (e.g., binomial trees, Monte Carlo simulations) to value Canadian-traded options.
 
-### 4.3 Binomial Models
+### Binomial Models
 
 A binomial model breaks the time to expiration into discrete steps. At each step, the underlying price can move up or down by specified factors. Over multiple steps, this creates a “tree” of possible prices. Option values are found by backward induction, averaging discounted payoffs at each node.
 
@@ -126,9 +126,9 @@ A binomial model breaks the time to expiration into discrete steps. At each step
 
 ---
 
-## 5. Trading Options in Canada
+## Trading Options in Canada
 
-### 5.1 Montreal Exchange (MX)
+### Montreal Exchange (MX)
 
 Standardized equity options in Canada are primarily listed on the Montreal Exchange. The MX sets the contract size (typically 100 shares per contract), strike increments, and expiration cycles (monthly and/or quarterly expirations). Each option series is clearly defined by:  
 • Underlying security  
@@ -136,7 +136,7 @@ Standardized equity options in Canada are primarily listed on the Montreal Excha
 • Expiration date  
 • Option type (call or put)  
 
-### 5.2 Clearing and Settlement
+### Clearing and Settlement
 
 The Canadian Derivatives Clearing Corporation (CDCC) handles the clearing of equity and index options in Canada. The CDCC interposes itself as the counterparty to all parties in a trade, mitigating credit risk.
 
@@ -154,9 +154,9 @@ This simplified diagram shows how the option buyer purchases a standardized opti
 
 ---
 
-## 6. Practical Applications and Examples
+## Practical Applications and Examples
 
-### 6.1 Protective Put for Canadian Investors
+### Protective Put for Canadian Investors
 
 Assume you hold 500 shares in a mid-cap Canadian mining firm, and the current market price is $30 per share. You are concerned that short-term volatility in global metal prices could negatively impact this stock.
 
@@ -164,7 +164,7 @@ Assume you hold 500 shares in a mid-cap Canadian mining firm, and the current ma
 • If the stock drops below $29, your put becomes more valuable, offsetting the losses on the stock itself.  
 • If the stock stays above $29, the maximum loss is the premium of $1.50 per share.
 
-### 6.2 Covered Call with Canadian Bank Stocks
+### Covered Call with Canadian Bank Stocks
 
 You own 200 shares of a Canadian bank trading at $80. You want extra income and are willing to potentially sell your shares at $85.
 
@@ -176,7 +176,7 @@ Covered calls are popular among investors seeking additional income on stable or
 
 ---
 
-## 7. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 1. Understand the Risks: While maximum loss for buyers is limited to the premium, option writers can face substantial risks.  
 2. Watch Volatility and Time Decay: An option’s value can erode quickly if the underlying fails to move in the predicted direction within the expected timeframe.  
@@ -186,7 +186,7 @@ Covered calls are popular among investors seeking additional income on stable or
 
 ---
 
-## 8. Regulatory Environment and Resources
+## Regulatory Environment and Resources
 
 The Canadian Investment Regulatory Organization (CIRO) oversees the conduct of market participants. For listed options, the Montreal Exchange (MX) enforces its own rules aligned with CIRO’s guidelines.
 
@@ -201,7 +201,7 @@ Key resources for further study include:
 
 ---
 
-## 9. Summary
+## Summary
 
 Options are powerful tools that can help investors mitigate risks or speculate on price movements with a portion of capital relative to direct investment in the underlying. Calls and puts, the two main types of options, offer flexibility and leverage but also require a thorough understanding of pricing concepts such as intrinsic value, time value, and implied volatility. In Canada, standardized options trading on the Montreal Exchange is governed by strict regulations and cleared by the CDCC, ensuring efficient and reliable transactions.
 

@@ -38,28 +38,28 @@ If the firm resolves the issue to the client’s satisfaction at this stage, the
 
 If a client remains unsatisfied with the firm’s internal response or resolution, they can escalate the matter further through additional avenues. The structures available blend industry self-regulation with independent dispute resolution.
 
-#### 2.1 Internal Resolution
+#### Internal Resolution
 Many investment firms offer internal escalation channels beyond the initial compliance review, especially for complex cases:
 
 - **Escalation to Senior Management:** Some complaints may warrant a deeper investigation by higher-level staff, such as the Head of Compliance or the firm’s Chief Risk Officer.  
 - **Mediation or Settlement:** The firm may offer to settle financially or adjust accounts to reconcile client losses if wrongdoing is found.  
 - **Apology or Process Change:** In certain situations, remedial measures may include enhanced training for the advisor or revised internal controls aimed at preventing future errors.
 
-#### 2.2 CIRO Complaints Process
+#### CIRO Complaints Process
 The Canadian Investment Regulatory Organization (CIRO) is responsible for overseeing investment dealers and their advisors. When a complaint remains unresolved at the firm level:
 
 - **Formal Complaint to CIRO:** The client can submit a complaint directly via CIRO’s online complaint channels.  
 - **CIRO Review and Investigation:** CIRO will examine whether the firm or advisor breached any regulatory requirements.  
 - **Possible Disciplinary Measures:** If a breach is established, CIRO may impose fines, suspensions, or other penalties on the firm or individual. This action helps ensure regulatory standards are upheld.
 
-#### 2.3 Ombudsman for Banking Services and Investments (OBSI)
+#### Ombudsman for Banking Services and Investments (OBSI)
 OBSI is an independent body that provides a free and impartial dispute resolution service:
 
 - **Scope of OBSI:** OBSI can review claims against participating financial institutions, including banks, mutual fund dealers, and investment dealers.  
 - **Investigation and Recommendation:** After the investigation, OBSI issues a recommendation. If it rules in the client’s favor, it can recommend compensation (non-binding). Though not legally enforceable, most firms honor OBSI recommendations to maintain good standing and public trust.  
 - **Client Choice:** If the client is still dissatisfied, they retain the option to pursue arbitration or civil litigation.
 
-#### 2.4 Arbitration and Civil Litigation
+#### Arbitration and Civil Litigation
 As a measure of last resort, clients can consider:
 
 - **Arbitration:** A legally binding process that uses a neutral third-party arbitrator. Arbitration can be quicker, less formal, and generally cheaper than a full litigation process. However, the arbitrator’s decision is final and binding.  

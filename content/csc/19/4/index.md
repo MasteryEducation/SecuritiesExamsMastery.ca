@@ -14,7 +14,7 @@ Exchange-Traded Funds (ETFs) have grown significantly in popularity among Canadi
 
 ---
 
-## 1. Market Risk
+## Market Risk
 
 As with any security, ETFs are subject to market risk. When overall market sentiment deteriorates—due to macroeconomic factors, geopolitical tensions, or unexpected events—ETF values can decline.
 
@@ -31,7 +31,7 @@ As with any security, ETFs are subject to market risk. When overall market senti
 
 ---
 
-## 2. Tracking Error
+## Tracking Error
 
 “Tracking error” refers to the difference between the ETF’s actual returns and the benchmark index it intends to replicate. While most ETFs strive to minimize this gap, several factors can cause discrepancies:
 
@@ -49,7 +49,7 @@ Imagine an ETF that aims to track a corporate bond index. If certain bonds withi
 
 ---
 
-## 3. Liquidity Risk
+## Liquidity Risk
 
 Liquidity risk arises when an ETF—or the securities that underlie it—is difficult to buy or sell without significantly influencing its price. While widely traded ETFs (like those that track major benchmarks) have robust liquidity, some niche ETFs with low daily trading volumes can present liquidity challenges.
 
@@ -67,7 +67,7 @@ A specialized ETF focusing on a narrow technology subsector may garner limited i
 
 ---
 
-## 4. Concentration Risk
+## Concentration Risk
 
 Concentration risk occurs when an ETF is heavily focused on a specific sector, theme, or geographic region. While this focus can deliver impressive upside if the sector performs well, it also heightens volatility and the potential for losses.
 
@@ -81,7 +81,7 @@ A Canadian Real Estate ETF might hold positions in a dozen major real estate inv
 
 ---
 
-## 5. Counterparty Risk
+## Counterparty Risk
 
 Some ETFs—particularly inverse or leveraged ETFs—rely on derivatives such as swaps or futures contracts. Under these agreements, the ETF is exposed to the solvency of the counterparty. If the counterparty defaults, the ETF may not receive the promised payment, resulting in losses.
 
@@ -102,7 +102,7 @@ Consider an inverse ETF designed to move opposite to Canadian energy stocks. If 
 
 ---
 
-## 6. Currency Risk
+## Currency Risk
 
 ETFs that hold foreign securities, such as U.S. equities or global bonds, expose investors to fluctuations in foreign exchange rates. If the Canadian dollar appreciates relative to the currency of the underlying securities, the value of your ETF holdings may decline, unless the fund is hedged.
 

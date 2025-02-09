@@ -22,13 +22,13 @@ We will explore these steps with practical Canadian examples, discuss relevant r
 
 ---
 
-## 1. Introduction
+## Introduction
 
 Risk management is more than just buying insurance. It is a holistic process that begins with understanding the potential perils that can derail financial plans, continues with prioritizing the likelihood and severity of those risks, and culminates in creating a tailored strategy to either reduce, transfer, avoid, or accept them. For Canadian financial planners, this approach must also include staying compliant with provincial and federal regulations, maintaining appropriate insurance licensing credentials, and being aware of guidelines from organizations like CIRO and FP Canada.
 
 ---
 
-## 2. Key Concepts in Personal Risk Management
+## Key Concepts in Personal Risk Management
 
 Before diving into the four-step process, let’s clarify a few foundational concepts:
 
@@ -42,39 +42,39 @@ Before diving into the four-step process, let’s clarify a few foundational con
 
 ---
 
-## 3. Step 1: Identifying Risks
+## Step 1: Identifying Risks
 
 Identifying risks is the foundational step in personal risk management. You can integrate this process into the client discovery or onboarding phase and continue refining it as client needs evolve.
 
-### 3.1 Client Interviews and Documentation
+### Client Interviews and Documentation
 
 • Start with comprehensive client interviews to gather details about personal circumstances, including family composition, work history, health, and lifestyle preferences.  
 • Review net worth and cash flow statements to identify financial obligations and potential exposures such as outstanding loans or seasonal cash flow fluctuations.  
 • Ask about any special circumstances such as co-signing for a family member’s loan, operating a small business, or owning multiple residential properties.
 
-### 3.2 Family Life Cycle Considerations
+### Family Life Cycle Considerations
 
 Being mindful of the client’s stage in the family life cycle helps you anticipate risks associated with their generational context. For example:  
 • Singles and young couples may need to focus on disability insurance for income protection.  
 • Growing families often need life insurance to protect dependents’ living expenses and educational needs.  
 • Pre-retirees may concentrate on protecting accumulated assets and ensuring stable retirement income.
 
-### 3.3 Unique Liabilities
+### Unique Liabilities
 
 Certain clients will have distinct liabilities or potential exposures. An entrepreneur might face greater business continuity risks, while someone managing multiple rental properties will likely have broader liability insurance needs. Understanding the scope of these liabilities informs which products and services may be most useful.
 
 ---
 
-## 4. Step 2: Evaluating Impact and Likelihood
+## Step 2: Evaluating Impact and Likelihood
 
 After identifying potential risks, the next step is to analyze their probability of occurring and their possible magnitude. This allows financial planners to prioritize solutions for the pressures that could have the most severe financial consequences.
 
-### 4.1 Quantifying Potential Scenarios
+### Quantifying Potential Scenarios
 
 • Project outcomes for each risk. For example, how would a three-month job loss affect cash flow? How costly would a home rebuild be in the event of a fire?  
 • Use scenario planning—commonly employed by large Canadian financial institutions like RBC and TD—to simulate events such as natural disasters, market downturns, job layoffs, or health crises. This helps approximate potential financial damage.
 
-### 4.2 Severity vs. Frequency
+### Severity vs. Frequency
 
 • High Severity, Low Frequency Risks: These are catastrophic events like premature death or major property damage. They may occur rarely, but the consequences are significant enough to demand immediate attention—often mitigated through insurance.  
 • Low Severity, High Frequency Risks: These are recurring costs or events that pose minor financial disruptions but happen regularly, such as routine home repairs or minor car dents. In many cases, it’s economical for clients to handle these out of pocket (risk retention) rather than purchase extensive insurance coverage.  
@@ -85,28 +85,28 @@ By systematically categorizing identified risks, you can anchor the discussion o
 
 ---
 
-## 5. Step 3: Developing Strategies and Solutions
+## Step 3: Developing Strategies and Solutions
 
 With risks identified and evaluated, you can begin crafting strategies for mitigating or addressing these challenges. Typically, these strategies fall into four main categories: avoidance, reduction, transfer, and retention.
 
-### 5.1 Risk Avoidance
+### Risk Avoidance
 
 • Opting out of specific activities or investments to eliminate potential threats.  
 • Example: A high-net-worth client might avoid using margin accounts for stock trading to eliminate the risk of margin calls during a market downturn.
 
-### 5.2 Risk Reduction
+### Risk Reduction
 
 • Implementing techniques to minimize either the frequency or severity of a loss.  
 • Outside of insurance considerations, risk reduction often involves healthy lifestyle choices to reduce health-related risks or investment diversification to mitigate market volatility.  
 • Example: Encouraging a client to install home security systems and fire alarms for property risk reduction, lowering premium costs and the likelihood of large claims.
 
-### 5.3 Risk Transfer (Insurance)
+### Risk Transfer (Insurance)
 
 • The most common form of risk transfer is insurance, wherein clients pay premiums to an insurer. In exchange, the insurer covers specific losses that arise from insured events.  
 • Canadians have a variety of insurance options: life insurance, critical illness, disability, liability, and property and casualty insurance.  
 • Due diligence: Check with each provincial insurance council, such as the Insurance Council of British Columbia, for guidelines on product offerings, licensing, and consumer protection.
 
-### 5.4 Risk Retention
+### Risk Retention
 
 • Clients may choose to self-insure, especially for minor or low-severity risks where insurance may not be cost-effective.  
 • Examples include setting aside an emergency fund for minor car repairs, small dental expenses, or other short-term emergencies.  
@@ -114,33 +114,33 @@ With risks identified and evaluated, you can begin crafting strategies for mitig
 
 ---
 
-## 6. Step 4: Implementing and Monitoring
+## Step 4: Implementing and Monitoring
 
 Even the best-laid plans lose effectiveness without proper execution, ongoing monitoring, and periodic adjustments. Implementation often involves coordinating with a team of specialists—insurance professionals, tax advisors, and perhaps legal counsel—to ensure comprehensive coverage and compliance.
 
-### 6.1 Reviewing Policies and Beneficiary Designations
+### Reviewing Policies and Beneficiary Designations
 
 • Ensure that clients’ contracts, especially life insurance policies, have the correct ownership structure and beneficiary designation.  
 • Work with legal teams to confirm that beneficiary designations align with estate planning documents. Mistakes here can have unintended tax consequences or family disputes.
 
-### 6.2 Updating Coverage After Life Events
+### Updating Coverage After Life Events
 
 • Life changes like marriage, divorce, the birth of a child, or a career switch may call for adjusting coverage levels or adding new types of insurance.  
 • Collaborate with other professionals—accountants, lawyers, child guardians—to ensure a cohesive approach.  
 
-### 6.3 Coordinating with Legal, Tax, and Insurance Experts
+### Coordinating with Legal, Tax, and Insurance Experts
 
 • Risk management often intersects with tax planning (e.g., ensuring that insurance solutions maximize after-tax benefits) and legal requirements (e.g., validating a power of attorney).  
 • Applying FP Canada’s guidelines for integrated risk management ensures that all facets of a client’s finances are coordinated around their risk profile.
 
-### 6.4 Continuous Oversight
+### Continuous Oversight
 
 • Schedule annual or semi-annual meetings to re-evaluate the client’s risk environment and update any materials or coverage.  
 • If new legislation or significant market shifts occur, an interim review may be necessary. Keeping abreast of relevant regulatory updates from CIRO or your local insurance council is a best practice.
 
 ---
 
-## 7. Visualizing the Risk Management Process
+## Visualizing the Risk Management Process
 
 Below is a simple flowchart, rendered in Mermaid, illustrating how each step in the process builds on the previous one:
 
@@ -156,7 +156,7 @@ Each loop back to the “Identify Risks” phase signifies that risk management 
 
 ---
 
-## 8. Case Study: A Growing Family in Toronto
+## Case Study: A Growing Family in Toronto
 
 Imagine a couple in their early 30s living in Toronto. They are expecting their second child and recently bought a larger family home with a mortgage from TD Bank. Here is how they might apply the personal risk management process:
 
@@ -183,7 +183,7 @@ By walking through these steps, the family can effectively safeguard their finan
 
 ---
 
-## 9. Glossary
+## Glossary
 
 • **Risk Avoidance**: Eliminating involvement in activities or situations that generate risk.  
 • **Risk Transfer (Insurance)**: Outsourcing the financial consequences of a risk to a third party (insurer) in exchange for premiums.  
@@ -192,7 +192,7 @@ By walking through these steps, the family can effectively safeguard their finan
 
 ---
 
-## 10. Additional Resources and References
+## Additional Resources and References
 
 For even deeper insights into Canadian risk management and compliance, consider the following:
 

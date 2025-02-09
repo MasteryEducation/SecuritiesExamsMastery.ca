@@ -32,7 +32,7 @@ Mastering these core concepts empowers investors to anticipate bond price volati
 
 Duration measures how sensitive a bond’s price is to changes in interest rates. In essence, it represents the average time (in years) an investor needs to wait to receive all coupon and principal payments, weighted by their present value. Duration is one of the most important metrics for fixed-income analysis in Canada and around the world.
 
-#### 2.1 Macauley Duration vs. Modified Duration
+#### Macauley Duration vs. Modified Duration
 
 • **Macauley Duration**:  
   – The classic definition of duration.  
@@ -42,11 +42,11 @@ Duration measures how sensitive a bond’s price is to changes in interest rates
   – Adjusts Macauley Duration to estimate the sensitivity of bond price to a change in yield.  
   – A Modified Duration of 5 implies that if the bond’s yield rises by 1%, the bond’s price will drop by approximately 5%, and vice versa.  
 
-#### 2.2 Practical Example
+#### Practical Example
 
 Imagine RBC issues a 5-year bond with an annual coupon of 2.5%. Suppose its Modified Duration is calculated at 4.2. If the yield of this bond suddenly increases by 1% (e.g., from 3% to 4%), the price of the bond is expected to decrease by roughly 4.2%. The reverse applies if yields fall.
 
-#### 2.3 Why Duration Matters to Canadian Investors
+#### Why Duration Matters to Canadian Investors
 
 • **Portfolio Immunization**: Pension funds (like the Canada Pension Plan Investment Board) or large institutional investors use duration strategies to match asset and liability durations, mitigating interest rate risk.  
 • **Risk Management**: You can dynamically hedge interest rate exposure in a portfolio by balancing high-duration assets (longer maturity, lower coupons) with short-duration holdings.  

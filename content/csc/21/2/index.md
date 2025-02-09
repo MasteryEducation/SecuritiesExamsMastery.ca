@@ -22,7 +22,7 @@ Unlike traditional stocks and bonds that generally exhibit consistent market bet
 
 ### Key Metrics for Evaluating Alternative Strategy Funds
 
-#### 2.1 Sharpe Ratio
+#### Sharpe Ratio
 
 The Sharpe Ratio is one of the most well-known measures of risk-adjusted return. It calculates how much excess return (above the risk-free rate, typically taken as yields on Government of Canada Treasury Bills) a fund generates per unit of volatility:  
  
@@ -37,7 +37,7 @@ Where:
 
 High Sharpe Ratios indicate that the fund is generating attractive excess returns relative to volatility. However, it does not differentiate between upside and downside volatility, treating both equally.
 
-#### 2.2 Sortino Ratio
+#### Sortino Ratio
 
 The Sortino Ratio refines the Sharpe Ratio by isolating downside volatility (downside deviation) instead of total volatility:
 
@@ -47,21 +47,21 @@ The Sortino Ratio refines the Sharpe Ratio by isolating downside volatility (dow
 
 Because the Sortino Ratio only penalizes downside volatility, many hedge fund managers prefer it when their strategy targets asymmetrical return distributions (e.g., option-selling or managed futures strategies). A high Sortino Ratio can signal that the fund effectively avoids large drawdowns.
 
-#### 2.3 Alpha
+#### Alpha
 
 Alpha measures the portion of a fund’s return that cannot be explained by general market movements (beta). In practical terms, alpha is the “value-added” or manager skill component. Many hedge funds rely on absolute-return strategies that aspire to generate positive alpha across varying market conditions. However, for alpha estimates to be accurate, you need an appropriate benchmark or factor model. Traditional alpha calculations might use a standard equity index (e.g., S&P/TSX Composite). But alternative funds employing multi-asset strategies sometimes construct customized benchmarks—such as weighted blends of bond, equity, and alternative indices—to capture all underlying exposures.
 
-#### 2.4 Beta and Correlation
+#### Beta and Correlation
 
 Beta measures a fund’s sensitivity to broad market movements. A fund with a beta of 1.0 to a particular index implies that if the index moves up or down by 1%, the fund also tends to move by about 1% in the same direction. Alternatives, and especially hedge funds, may adapt their beta exposure over time.  
 • A “variable-beta” strategy can actively adjust its market exposure based on market conditions or tactical outlook.  
 • Correlation measures how closely two return series move together. Low correlation to equity or bond benchmarks is often a key selling point for alternative strategy funds, given the potential diversification benefits.
 
-#### 2.5 Maximum Drawdown (MDD)
+#### Maximum Drawdown (MDD)
 
 Maximum Drawdown (MDD) quantifies the most significant interim loss that an investor would have faced from a previous peak to a trough. This metric is especially important in alternative funds where tail risk can be substantial, potentially exacerbated by leverage or short-selling. For example, a global macro fund using derivatives may see sharp drawdowns during sudden market dislocations. By regularly monitoring MDD, investors gain insight into the risk of large cumulative losses and how quickly (or slowly) the fund recovers.
 
-#### 2.6 Value-at-Risk (VaR) and Conditional VaR (CVaR)
+#### Value-at-Risk (VaR) and Conditional VaR (CVaR)
 
 Value-at-Risk (VaR) is a statistical approach estimating the potential loss at a specified confidence level (e.g., 99%) over a particular time horizon (e.g., one day or one month). Conditional VaR (also known as Expected Shortfall) goes further by estimating the average loss that might occur beyond that confidence threshold. For an alternative strategy fund, VaR and CVaR highlight the magnitude of extreme losses under stressed market conditions. However, these measures can be heavily model-dependent and rely on historical data, which may not fully account for once-in-a-generation market events.
 
@@ -124,17 +124,17 @@ Canadian liquid alternative funds operate under the auspices of National Instrum
 
 ### Practical Performance Analysis Techniques
 
-#### 7.1 Using Open-Source Tools
+#### Using Open-Source Tools
 
 • **R’s PerformanceAnalytics:** An extensive package that simplifies the calculation of metrics (e.g., Sharpe Ratio, Sortino Ratio, VaR).  
 • **Python’s pyfolio:** A library for analyzing performance and risk in trading algorithms, useful for robust backtesting.  
 • **QuantConnect:** A cloud-based platform enabling quantitative researchers to code, test, and deploy multi-asset strategies with real-time data.
 
-#### 7.2 Backtesting and Scenario Analysis
+#### Backtesting and Scenario Analysis
 
 Backtesting historical data helps managers evaluate how the strategy might have performed under previous market conditions. Scenario analysis involves applying stress tests or hypothetical market shocks—like the 2008 financial crisis or the COVID-19 liquidity crunch—to gauge potential drawdowns.
 
-#### 7.3 Attribution Analysis
+#### Attribution Analysis
 
 Where possible, managers break down returns by various sources (e.g., sector exposure, hedging activities, derivative overlays). This allows investors to see whether alpha is driven by genuine skill, or if it stems from unidentified factor exposures.
 

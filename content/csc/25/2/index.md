@@ -16,7 +16,7 @@ Below, we explore different types of managed fee-based accounts, their benefits,
 
 ---
 
-## 1. Overview of Managed Fee-Based Accounts
+## Overview of Managed Fee-Based Accounts
 
 Managed fee-based accounts, sometimes known as discretionary or advisory programs, bundle several services under a single fee structure. These services may include:
 
@@ -31,7 +31,7 @@ The uniform fee arrangement contrasts with traditional transaction-based models 
 
 ---
 
-## 2. Discretionary vs. Non-Discretionary Management
+## Discretionary vs. Non-Discretionary Management
 
 Discretionary management is most common in managed fee-based accounts. Under a discretionary setup:
 
@@ -47,9 +47,9 @@ Non-discretionary managed programs also exist, although they are less common. In
 
 ---
 
-## 3. Types of Managed Fee-Based Accounts
+## Types of Managed Fee-Based Accounts
 
-### 3.1 Wrap Accounts
+### Wrap Accounts
 Wrap accounts charge an all-inclusive fee (called a “wrap fee”) that covers:
 
 • Investment management services  
@@ -59,7 +59,7 @@ Wrap accounts charge an all-inclusive fee (called a “wrap fee”) that covers:
 
 Clients enjoy a streamlined approach where all fees are consolidated, simplifying billing and reporting. For instance, RBC Dominion Securities offers wrap programs that bundle trading, research, and planning services under one fee. This approach can reduce friction for high-net-worth individuals who prefer consolidated reporting and direct access to a dedicated advisor.
 
-### 3.2 Separately Managed Accounts (SMAs)
+### Separately Managed Accounts (SMAs)
 SMAs take customization a step further:
 
 • Each investor holds distinct securities—rather than pooling resources in a single fund vehicle.  
@@ -69,7 +69,7 @@ SMAs take customization a step further:
 Case Study Example  
 A retired business owner with $5 million in investable assets may opt for a separately managed account through TD Wealth Private Investment Counsel. The investor wants to exclude energy stocks from their portfolio and maintain a 60% equity/40% fixed-income allocation. With an SMA, the portfolio manager directly adjusts holdings in response to market conditions or the client’s changing circumstances, while respecting the exclusions and targets laid out in the IPS.
 
-### 3.3 Unified Managed Accounts (UMAs)
+### Unified Managed Accounts (UMAs)
 UMAs consolidate multiple investment products under one administrative account:
 
 • Clients can hold individual securities, mutual funds, exchange-traded funds (ETFs), derivatives, and more.  
@@ -78,7 +78,7 @@ UMAs consolidate multiple investment products under one administrative account:
 
 This model is especially appealing to investors who desire exposure to various asset classes and management styles without juggling multiple accounts. UMAs can streamline tax reporting and rebalancing for clients who hold both equities and fixed income across various vehicles.  
 
-### 3.4 Model Portfolios / Robo-Advisors
+### Model Portfolios / Robo-Advisors
 Model portfolios and robo-advisors bring algorithmic portfolio construction to managed accounts. Typically:
 
 • The client completes an online questionnaire detailing risk tolerance, return expectations, and time horizon.  
@@ -90,9 +90,9 @@ Platforms like Wealthsimple, Nest Wealth, and others in Canada offer model portf
 
 ---
 
-## 4. Benefits and Considerations for Clients
+## Benefits and Considerations for Clients
 
-### 4.1 Benefits
+### Benefits
 
 1. Professional Management:  
    Ongoing oversight by expert portfolio managers who may analyze global macroeconomic factors, industry trends, and individual company fundamentals.
@@ -106,7 +106,7 @@ Platforms like Wealthsimple, Nest Wealth, and others in Canada offer model portf
 4. Customization and Personalization:  
    Through options like SMAs, clients can incorporate personal preferences—such as socially responsible investing, tax-sensitive strategies, or other constraints.
 
-### 4.2 Potential Drawbacks
+### Potential Drawbacks
 
 1. Management Fees Can Be Significant:  
    While the all-in fee brings simplicity, it may appear higher than a traditional commission-based model, especially if the investor trades infrequently.
@@ -122,7 +122,7 @@ Platforms like Wealthsimple, Nest Wealth, and others in Canada offer model portf
 
 ---
 
-## 5. Regulatory and Compliance Considerations
+## Regulatory and Compliance Considerations
 
 Managed fee-based accounts and discretionary portfolio management in Canada are regulated by the Canadian Investment Regulatory Organization (CIRO), as well as by provincial securities commissions. Key points include:
 
@@ -149,7 +149,7 @@ Managed fee-based accounts and discretionary portfolio management in Canada are 
 
 ---
 
-## 6. Practical Example: Implementing a Managed Fee-Based Solution
+## Practical Example: Implementing a Managed Fee-Based Solution
 
 Suppose an investor—Elena, age 50—seeks a balanced approach, blending capital growth and income generation. She has $1.2 million in investable assets, split between a Registered Retirement Savings Plan (RRSP) and a Tax-Free Savings Account (TFSA). She meets with a portfolio manager at RBC Dominion Securities:
 
@@ -163,22 +163,22 @@ This approach simplifies her life: she pays one fee, and she trusts her portfoli
 
 ---
 
-## 7. Best Practices, Pitfalls, and Strategies for Success
+## Best Practices, Pitfalls, and Strategies for Success
 
-### 7.1 Best Practices
+### Best Practices
 
 • Craft a Detailed IPS: Ensure the IPS covers goals, constraints, return targets, risk capacity, and monitoring frequency.  
 • Communicate Frequently: Encourage open dialogue between client and portfolio manager, especially when major life events occur or market conditions shift.  
 • Compare Fee Structures: Evaluate multiple providers to understand fee schedules, performance track records, and service levels.  
 • Monitor Performance Diligently: Use benchmarks or model portfolios to compare performance periodically and assess manager effectiveness.
 
-### 7.2 Common Pitfalls
+### Common Pitfalls
 
 • Overlooking Hidden Fees: Some wrap programs or managed accounts charge expense ratios for underlying funds, platform fees, or performance fees in addition to the base fee.  
 • Underestimating Risk Tolerance: Overly aggressive portfolios can lead to client distress in a downturn, while overly conservative portfolios could limit long-term growth.  
 • Lack of Transparency: Some managers do not provide clear, itemized statements. This oversight can erode trust and make it difficult to measure the program’s total cost.
 
-### 7.3 Strategies for Overcoming Challenges
+### Strategies for Overcoming Challenges
 
 • Education: Encourage clients to learn the basics of portfolio theory, risk management, and performance metrics.  
 • Holistic Planning: Integrate the managed account with broader financial considerations such as tax planning, retirement strategies, and estate planning.  
@@ -186,7 +186,7 @@ This approach simplifies her life: she pays one fee, and she trusts her portfoli
 
 ---
 
-## 8. Visualizing the Managed Account Flow
+## Visualizing the Managed Account Flow
 
 To illustrate the workflow of a discretionary, managed fee-based account, examine the following Mermaid diagram:
 
@@ -209,7 +209,7 @@ flowchart LR
 
 ---
 
-## 9. Summary and Key Takeaways
+## Summary and Key Takeaways
 
 Managed fee-based accounts streamline investment management by unifying all costs under a single, predictable fee. Clients benefit from professional oversight, thorough KYC, continuous monitoring, and comprehensive reporting. Common structures include wrap accounts, separately managed accounts, unified managed accounts, and model portfolios/robo-advisors—all varying in their degree of customization and advisor involvement.
 

@@ -18,11 +18,11 @@ In this section, we explore the key considerations, methods, and tools that guid
 
 ---
 
-## 1. Overview of Security Selection Methodologies
+## Overview of Security Selection Methodologies
 
 Before diving into specific asset classes, it’s helpful to understand the two primary analytical approaches: fundamental analysis and technical analysis. Each approach yields different insights and can be applied independently or in tandem.
 
-### 1.1 Fundamental Analysis
+### Fundamental Analysis
 
 Fundamental analysis involves studying a company’s financial statements, management quality, competitive landscape, overall industry position, and macroeconomic factors to derive an intrinsic value. By comparing the intrinsic value to the market price, analysts determine whether a security is undervalued, fairly valued, or overvalued.
 
@@ -35,7 +35,7 @@ Fundamental analysis involves studying a company’s financial statements, manag
 
 When analyzing Canadian equities—such as those of RBC (Royal Bank of Canada) or TD (Toronto-Dominion Bank)—fundamental analysts often review quarterly and annual reports filed on Sedar+ (sedar.com). These filings provide updated financials, management’s discussion and analysis (MD&A), and other disclosures ensuring transparent investor communication.  
 
-### 1.2 Technical Analysis
+### Technical Analysis
 
 Technical analysis evaluates past price movements to predict future pricing trends. It relies on price charts, trading volumes, and indicators such as moving averages, relative strength index (RSI), and support/resistance levels. Technical analysts believe that market trends and patterns often repeat over time.
 
@@ -51,11 +51,11 @@ The interplay between fundamental and technical analysis helps advisors generate
 
 ---
 
-## 2. Security Selection Criteria and Considerations
+## Security Selection Criteria and Considerations
 
 With the analytical foundation set, the next step involves examining key factors unique to each asset class or product type. This is where knowledge of regulatory requirements—particularly CIRO’s product due diligence guidelines—comes into play. Advisors must ensure that the securities they select align with the client’s portfolio objectives, risk tolerance, and overall asset mix.
 
-### 2.1 Equities
+### Equities
 
 Equities, or common shares, can provide long-term growth potential and dividend income. However, they carry varying degrees of market risk. Here are some equity-specific considerations:
 
@@ -75,7 +75,7 @@ Equities, or common shares, can provide long-term growth potential and dividend 
 
 Example: An advisor might select shares of RBC if they believe its strong capital ratios and strategic global expansion plan will outperform peers. If key fundamentals align with attractive buy signals from technical charts, RBC could be a suitable equity holding in a dividends-focused Canadian portfolio.
 
-### 2.2 Fixed-Income Securities
+### Fixed-Income Securities
 
 Fixed-income securities—such as government bonds, corporate bonds, and preferred shares—offer predictable income and can stabilize portfolio returns. In security selection, advisors examine the following:
 
@@ -93,7 +93,7 @@ Fixed-income securities—such as government bonds, corporate bonds, and preferr
 
 Example: A Canadian pension fund might seek long-term provincial bonds with AA or higher credit ratings to match future liabilities. The fund will analyze bond spreads, overall interest rate environment, and the creditworthiness of provinces to ensure stable fixed-income returns.
 
-### 2.3 Mutual Funds, ETFs, and Alternative Investments
+### Mutual Funds, ETFs, and Alternative Investments
 
 For many clients, managed products like mutual funds and ETFs form the core of their investments due to diversification benefits and professional management. Alternative investments (hedge funds, private equity, real estate) can also serve to further diversify returns and risks.
 
@@ -113,7 +113,7 @@ Example: A fee-based advisor might suggest a low-cost Canadian equity ETF with a
 
 ---
 
-## 3. Diversification and Unsystematic Risk
+## Diversification and Unsystematic Risk
 
 Unsystematic risk is risk associated with a specific company, industry, or sector. For instance, a natural disaster impacting a single company’s operations is an unsystematic risk. Diversifying within each asset class—selecting multiple issuers, sectors, and geographies—helps mitigate unsystematic risk.  
 
@@ -130,7 +130,7 @@ By investing in multiple securities (C), the unsystematic risk of holding a sing
 
 ---
 
-## 4. Practical Steps in the Security Selection Process
+## Practical Steps in the Security Selection Process
 
 While theory provides the analytical basis, advisors must follow a methodical process to select securities responsibly. Below is a high-level overview of a best-practice workflow:
 
@@ -154,7 +154,7 @@ flowchart TB
 
 ---
 
-## 5. Glossary of Key Terms
+## Glossary of Key Terms
 
 • **Fundamental Analysis**: Studying a company’s financial statements, management, industry position, and economic factors to estimate intrinsic value.  
 • **Technical Analysis**: Examining price charts, trading volume, and momentum indicators to forecast future price movements.  
@@ -162,7 +162,7 @@ flowchart TB
 
 ---
 
-## 6. Resources and References
+## Resources and References
 
 • **CIRO Guidelines on Product Due Diligence (KYP)**  
   – Ensure compliance with Canadian rules for selecting and recommending securities.  

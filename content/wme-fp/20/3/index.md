@@ -16,7 +16,7 @@ This section explores the **core components of equity analysis**—both fundamen
 
 ---
 
-## 1. Overview of Equity Analysis
+## Overview of Equity Analysis
 
 Equity analysis can be divided broadly into two main approaches: **fundamental analysis** and **technical analysis**.
 
@@ -32,9 +32,9 @@ In Canadian financial practice, combining both approaches can be highly effectiv
 
 ---
 
-## 2. Fundamental Analysis: Digging into the Company
+## Fundamental Analysis: Digging into the Company
 
-### 2.1 Qualitative Analysis
+### Qualitative Analysis
 
 In **qualitative analysis**, you delve into factors that are harder to quantify but can have a major impact on investment outcomes. These include:
 
@@ -48,7 +48,7 @@ In **qualitative analysis**, you delve into factors that are harder to quantify 
 
 5. **Broad Economic Indicators**: For example, if you are analyzing a Canadian manufacturing company, consider global trade policies, currency exchange rates (especially CAD vs. USD), and consumer confidence.  
 
-### 2.2 Quantitative Analysis
+### Quantitative Analysis
 
 Quantitative approaches rely on financial statements, ratios, and modeled projections:
 
@@ -68,9 +68,9 @@ Analyzing these metrics in relation to competitors and industry averages gives a
 
 ---
 
-## 3. Macroeconomic Influences
+## Macroeconomic Influences
 
-### 3.1 Economic Indicators
+### Economic Indicators
 
 Macroeconomic trends have a far-reaching impact on equities. Key measures include:
 
@@ -79,7 +79,7 @@ Macroeconomic trends have a far-reaching impact on equities. Key measures includ
 - **GDP Growth**: Overall economic expansion signals increased corporate earnings potential but can elevate inflationary pressures.  
 - **Consumer Sentiment**: Consumer confidence indicators can offer timely clues into retail sales strength, especially relevant for consumer-driven sectors like apparel and automotive.
 
-### 3.2 Cyclical vs. Defensive Stocks
+### Cyclical vs. Defensive Stocks
 
 - **Cyclical Stocks**: Sectors like consumer discretionary, industrials, and technology often benefit in periods of economic expansion and higher consumer spending. Conversely, they could suffer more when growth slows.  
 - **Defensive Stocks**: Utilities, telecommunications, and consumer staples are considered “defensive” because demand remains relatively stable regardless of economic cycles.
@@ -88,7 +88,7 @@ As an Approved Person, you must consider how these macroeconomic elements inters
 
 ---
 
-## 4. Technical Analysis: Identifying Trends and Turning Points
+## Technical Analysis: Identifying Trends and Turning Points
 
 Technical analysis provides a complementary perspective. While fundamental analysts aim to discover a company’s intrinsic worth, technical analysts study:
 
@@ -101,16 +101,16 @@ Integrating technical signals allows you to refine your entry or exit timing for
 
 ---
 
-## 5. Leveraging Canadian Resources and Regulations
+## Leveraging Canadian Resources and Regulations
 
-### 5.1 Regulatory Considerations
+### Regulatory Considerations
 
 Canadian securities regulation requires thorough disclosure and transparency. As an Approved Person, you must also be aware of CIRO (Canadian Investment Regulatory Organization) rules for properly documenting and disclosing material facts when recommending securities. Compliance is crucial for building trust and minimizing liability.
 
 - **CIRO Rules**: [CIRO.ca](https://www.ciro.ca/)  
 - **CSA (Canadian Securities Administrators)**: [Securities-Administrators.ca](https://www.securities-administrators.ca/)
 
-### 5.2 Research Tools
+### Research Tools
 
 Numerous **open-source and commercial research platforms** help streamline equity analysis:
 
@@ -118,7 +118,7 @@ Numerous **open-source and commercial research platforms** help streamline equit
 - **FactSet and S&P Capital IQ**: Fee-based platforms for in-depth analysis, including analyst forecasts and comprehensive global data sets.  
 - **EDGAR-SEDAR Comparison**: The CSA website offers free “EDGAR to SEDAR” research tools to compare cross-border filings, which is especially useful for dual-listed companies trading on both U.S. and Canadian exchanges.
 
-### 5.3 Additional Resources
+### Additional Resources
 
 - **“Security Analysis” by Graham and Dodd**: The cornerstone work on fundamental analysis, focusing on the intrinsic value concept.  
 - **“Technical Analysis of the Financial Markets” by John J. Murphy**: A practical guide to chart interpretation and technical indicators.  
@@ -126,7 +126,7 @@ Numerous **open-source and commercial research platforms** help streamline equit
 
 ---
 
-## 6. Competitive Forces and Industry Analysis
+## Competitive Forces and Industry Analysis
 
 Examining the competitive landscape is an extension of fundamental analysis:
 
@@ -138,7 +138,7 @@ For example, a once-dominant retailer in Canada could face intense competition f
 
 ---
 
-## 7. Structured Approach to Equity Analysis
+## Structured Approach to Equity Analysis
 
 Below is a simple flowchart illustrating a structured approach to equity analysis:
 
@@ -162,7 +162,7 @@ Explanation of Steps:
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 - **Best Practices**  
   - Stick to a **consistent methodology**. Whether you prefer DCF or multiples-based valuation, apply your process systematically.  
@@ -176,7 +176,7 @@ Explanation of Steps:
 
 ---
 
-## 9. Real-World Example: Canadian Bank Analysis
+## Real-World Example: Canadian Bank Analysis
 
 Canadian banks, like RBC and TD, are known for **strong capital ratios**, consistent dividend payments, and stable earnings. A fundamental analysis of these banks might involve:
 
@@ -188,7 +188,7 @@ On the technical side, you might observe the 50-day and 200-day moving averages 
 
 ---
 
-## 10. Aligning Equity Analysis with Client Objectives
+## Aligning Equity Analysis with Client Objectives
 
 Ultimately, your goal as an Approved Person or financial planner is to ensure that equity selections fit within a **holistic financial plan**. For a client with:
 
@@ -213,7 +213,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 {{< quizdown >}}
 
-### 1. Which of the following best describes fundamental analysis? 
+### Which of the following best describes fundamental analysis? 
 - [x] Evaluating a company’s financial and operational health to estimate its intrinsic value.
 - [ ] Predicting market price movements solely through chart patterns and volume.
 - [ ] Measuring an investor’s behavioural preferences for specific stocks.
@@ -221,7 +221,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** Fundamental analysis involves assessing a company's underlying business prospects, financial metrics, and broader economic conditions to derive intrinsic value.
 
-### 2. Which macroeconomic factor is most likely to impact a highly leveraged company’s borrowing costs?
+### Which macroeconomic factor is most likely to impact a highly leveraged company’s borrowing costs?
 - [x] Interest rates
 - [ ] Industry competition
 - [ ] Consumer sentiment
@@ -229,7 +229,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** When interest rates rise, companies with significant debt often face higher borrowing costs, shrinking profit margins.
 
-### 3. In the context of equity analysis, which ratio evaluates how efficiently a company uses shareholders’ capital?
+### In the context of equity analysis, which ratio evaluates how efficiently a company uses shareholders’ capital?
 - [ ] Price-to-Earnings (P/E) Ratio
 - [ ] Debt-to-Equity (D/E) Ratio
 - [x] Return on Equity (ROE)
@@ -237,7 +237,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** ROE is calculated as net income divided by shareholders’ equity, indicating how effectively a firm uses equity to generate profits.
 
-### 4. Which aspect of technical analysis focuses on identifying support and resistance levels, trend lines, and chart patterns?
+### Which aspect of technical analysis focuses on identifying support and resistance levels, trend lines, and chart patterns?
 - [x] Price chart analysis
 - [ ] Fundamental valuation
 - [ ] Corporate governance review
@@ -245,7 +245,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** Price chart analysis scrutinizes historical trading data to detect patterns that may indicate future price moves.
 
-### 5. Which of the following best describes a “defensive” stock?  
+### Which of the following best describes a “defensive” stock?  
 - [ ] A company whose earnings vary widely based on economic cycles.  
 - [x] A company in industries like utilities or consumer staples that remain stable even in downturns.  
 - [ ] A new tech startup with high growth potential.  
@@ -253,7 +253,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** Defensive stocks come from sectors whose demand remains relatively stable, offering potential downside protection during economic slowdowns.
 
-### 6. When analyzing a Canadian bank stock, which key measure indicates the spread between interest earned on loans and the interest paid on deposits?
+### When analyzing a Canadian bank stock, which key measure indicates the spread between interest earned on loans and the interest paid on deposits?
 - [x] Net Interest Margin (NIM)
 - [ ] Return on Equity (ROE)
 - [ ] Debt-to-Equity (D/E) Ratio
@@ -261,7 +261,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** NIM is specific to financial institutions and reveals how profitable their lending activities are relative to funding costs.
 
-### 7. Which of the following is not typically part of fundamental analysis?
+### Which of the following is not typically part of fundamental analysis?
 - [x] Intraday price patterns
 - [ ] Earnings growth
 - [ ] Management expertise
@@ -269,7 +269,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** Intraday price patterns are more closely associated with technical or short-term trading analysis rather than long-term, fundamental evaluation.
 
-### 8. What is a potential pitfall of focusing solely on P/E ratios when evaluating a stock?
+### What is a potential pitfall of focusing solely on P/E ratios when evaluating a stock?
 - [x] Earnings may be temporarily inflated or depressed, skewing the ratio. 
 - [ ] It clearly identifies a stock’s intrinsic value with no further analysis needed.
 - [ ] It considers both price trends and volume simultaneously. 
@@ -277,7 +277,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** Earnings can fluctuate due to one-time events or economic cycles, making the P/E ratio misleading if taken in isolation.
 
-### 9. Which step in a structured equity analysis process focuses on discounting future cash flows or using relative valuation to compare with peers?
+### Which step in a structured equity analysis process focuses on discounting future cash flows or using relative valuation to compare with peers?
 - [ ] Defining investment objectives
 - [ ] Technical analysis
 - [x] Valuation assessment
@@ -285,7 +285,7 @@ By integrating these principles, you can help clients navigate the complexities 
 
 > **Explanation:** During the valuation assessment, analysts use models like discounted cash flow (DCF) or ratios (P/E, P/B, EV/EBITDA) to estimate a stock’s fair value.
 
-### 10. Investors combining fundamental and technical analysis are primarily trying to:
+### Investors combining fundamental and technical analysis are primarily trying to:
 - [x] Determine what to buy and when to buy it.
 - [ ] Eliminate all market risk.
 - [ ] Prioritize historical annual reporting over real-time data.

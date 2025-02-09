@@ -16,7 +16,7 @@ This comprehensive overview will equip you with the knowledge to understand how 
 
 ---
 
-## 1. The Primary Market vs. the Secondary Market
+## The Primary Market vs. the Secondary Market
 
 One of the most fundamental distinctions in capital markets is the difference between primary and secondary markets:
 
@@ -43,37 +43,37 @@ In the primary market, the issuer benefits directly from the sale of new securit
 
 ---
 
-## 2. Distribution Process of an IPO
+## Distribution Process of an IPO
 
 An IPO represents one of the most high-profile ways that organizations tap the public markets. This process transforms a privately held company into a publicly traded corporation, which then must comply with continuous disclosure requirements and ongoing regulatory oversight. While each IPO can have unique characteristics, the general steps are relatively consistent:
 
-### 2.1 Preliminary Decision and Advisor Selection
+### Preliminary Decision and Advisor Selection
 
 • **Corporate Decision-Making:** The organization’s leadership (e.g., the board of directors and executive management) determines that public equity financing is the best route for raising capital.  
 • **Engagement of Advisors:** The company typically engages an investment dealer (often referred to as an underwriter or sponsor) to help structure the offering. Major Canadian investment dealers—such as RBC Capital Markets, TD Securities, BMO Capital Markets, or CIBC World Markets—often play a lead role.
 
-### 2.2 Due Diligence and Prospectus Preparation
+### Due Diligence and Prospectus Preparation
 
 • **Due Diligence:** The underwriter performs a thorough examination of the company’s financials, business model, management team, and competitive landscape.  
 • **Preliminary (Red Herring) Prospectus:** A preliminary prospectus is prepared in accordance with Canadian securities laws and filed with the relevant securities commission(s). This “red herring” document outlines the company’s financial statements, risk factors, and business strategy, offering potential investors a chance to review the key information before deciding whether to invest.
 
-### 2.3 Regulatory Review
+### Regulatory Review
 
 • **Review by Securities Commissions:** Regulatory bodies—such as the provincial securities commissions—review the preliminary prospectus. In Canada, collaboration among the different regulators can occur under a “passport” system for certain offerings, thereby streamlining the process.  
 • **Comment and Revision Period:** The issuer, assisted by its underwriters and legal counsel, responds to any comments or requests for clarification from regulators.
 
-### 2.4 Final Prospectus and Roadshow
+### Final Prospectus and Roadshow
 
 • **Final Prospectus:** Once concerns are addressed and approval is granted, a final prospectus is filed. This document contains the final details of the offering, including the intended price range, the number of shares, and any underwriting discounts or commissions.  
 • **Roadshow and Investor Meetings:** Company executives and underwriting representatives meet with potential investors—both institutional (e.g., pension funds, mutual funds) and retail (through broker networks)—to generate interest in the upcoming IPO.
 
-### 2.5 Price Determination and Allocation
+### Price Determination and Allocation
 
 • **Book Building:** Underwriters gauge investor demand for the new security, which helps refine a final price based on the initially indicated range.  
 • **Setting the Final Price:** Taking into account market conditions and investor interest, the **offer price** is finalized.  
 • **Allocation of Shares:** Underwriters allocate shares among interested investors, often giving priority to institutional clients with large purchase orders, but also reserving a portion for retail investors.  
 
-### 2.6 Listing and Trading
+### Listing and Trading
 
 • **Listing on the Exchange:** On the designated IPO date, the shares are officially listed on a recognized Canadian exchange, such as the TSX or the CSE (Canadian Securities Exchange). Trading commences once the market opens.  
 • **Public Company Status:** From this point forward, the company is a publicly traded entity and must adhere to continuous disclosure requirements, including quarterly and annual reporting, and abide by relevant regulations such as National Instrument 44-101 for future offerings.
@@ -92,15 +92,15 @@ flowchart TB
 
 ---
 
-## 3. Aftermarket Stabilization
+## Aftermarket Stabilization
 
 When a stock begins trading, its price can fluctuate significantly as buyers and sellers find equilibrium. Underwriters may take steps to stabilize the share price through specific, regulated mechanisms. One of the most common methods in Canada (and in many global markets) is the overallotment or “greenshoe” option.
 
-### 3.1 The Greenshoe Option
+### The Greenshoe Option
 
 The greenshoe option allows underwriters to purchase additional shares from the issuer—usually up to 15% more than the original offering size—or sell more shares than are initially allocated if demand is high. Conversely, if the stock price weakens post-IPO, underwriters may buy shares in the open market to cover their short positions, thus supporting the share price. This form of aftermarket stabilization is subject to rules and guidelines, such as those stipulated by the Canadian Investment Regulatory Organization (CIRO, formerly IIROC), to prevent market manipulation.
 
-### 3.2 Best Practices and Potential Pitfalls
+### Best Practices and Potential Pitfalls
 
 • **Regulatory Compliance:** Underwriters must thoroughly document any aftermarket stabilization activities to prove they are conducted within legal limits.  
 • **Transparency:** Issuers and investors should be made aware of how any greenshoe option functions and how it may affect share availability and pricing.  
@@ -108,7 +108,7 @@ The greenshoe option allows underwriters to purchase additional shares from the 
 
 ---
 
-## 4. Price Determination
+## Price Determination
 
 The underwriter’s core responsibility is to set the issue price of the new security as accurately as possible. Key factors influencing price determination include:
 
@@ -130,7 +130,7 @@ Following regulatory comments and investor roadshows, TechNova and RBC set the I
 
 ---
 
-## 5. Additional Resources and References
+## Additional Resources and References
 
 • **National Instrument 44-101 “Short Form Prospectus Distributions”**:  
   [Canadian Securities Administrators](https://www.securities-administrators.ca)  
@@ -151,7 +151,7 @@ Following regulatory comments and investor roadshows, TechNova and RBC set the I
 
 ---
 
-## 6. Best Practices, Challenges, and Strategies
+## Best Practices, Challenges, and Strategies
 
 • **Thorough Compliance**: Engage legal counsel and compliance professionals to navigate national and provincial regulations, ensuring the final prospectus and stabilization activities meet regulatory requirements.  
 • **Accurate Valuation**: Invest time in robust financial modeling and market research to determine the appropriate valuation range. Be prepared to adjust in response to shifting market conditions.  
@@ -163,7 +163,7 @@ By understanding each stage—from the initial decision to go public through to 
 
 ---
 
-## 7. Summary of Key Points
+## Summary of Key Points
 
 • **Primary Market vs. Secondary Market**: Funds from newly issued securities go to the issuer in the primary market, whereas proceeds in the secondary market go to the selling investor.  
 • **IPO Steps**: Preparation includes due diligence, preparing the prospectus, regulatory review, and roadshows, culminating in the final prospectus and listing day.  

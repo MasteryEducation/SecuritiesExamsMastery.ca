@@ -14,9 +14,9 @@ When meeting with clients, Canadian financial advisors are required to gather ba
 
 ---
 
-## 1. Holistic Client Understanding
+## Holistic Client Understanding
 
-### 1.1 The Value of an Expanded Perspective
+### The Value of an Expanded Perspective
 Regulations like National Instrument 31-103 in Canada detail “Know Your Client” (KYC) obligations, requiring advisors to gather fundamental financial details. Yet, simply checking boxes on a form only scratches the surface. A holistic approach looks at each client’s life from multiple angles:
 
 • Family structure and dynamics (e.g., caring for aging parents or supporting children’s education).  
@@ -26,17 +26,17 @@ Regulations like National Instrument 31-103 in Canada detail “Know Your Client
 
 By examining these broader features, advisors can create financial plans that respond to clients’ real-world concerns. For instance, a high-income professional with significant health risks may prioritize insurance strategies more than someone with minimal health concerns.
 
-### 1.2 Using Structured and Open-Ended Questions
+### Using Structured and Open-Ended Questions
 An advisor who only asks closed-ended questions focusing on numeric details might collect the minimum data needed but miss deeper insights. Instead, consider mixing structured questions (e.g., “What is your household income?”) with open-ended inquiries (e.g., “What led you to choose your current profession?”, “How do you envision your lifestyle in retirement?”). These more exploratory questions not only uncover personal motivations and values but also foster a sense of trust and rapport.
 
-### 1.3 Example: Building Trust with a Family Business Owner
+### Example: Building Trust with a Family Business Owner
 Imagine a client who is a second-generation owner of a manufacturing business. Beyond net income and net worth, a wealth advisor uncovers that the client is planning to eventually pass on the company to their daughter, who is currently studying business at the University of Toronto. This succession insight is invaluable for shaping tax planning strategies, insurance products for business continuity, and future estate-planning needs.
 
 ---
 
-## 2. Life Goals and Aspirations
+## Life Goals and Aspirations
 
-### 2.1 Identifying Short- and Long-Term Objectives
+### Identifying Short- and Long-Term Objectives
 Financial planning extends beyond immediate concerns to incorporate clients’ aspirations for the future. Advisors can delve deeper by asking questions about:
 
 • Near-term goals, such as purchasing a vacation property or completing a home renovation.  
@@ -45,17 +45,17 @@ Financial planning extends beyond immediate concerns to incorporate clients’ a
 
 This approach recognizes that a thoughtful plan balances short-term needs (e.g., emergency funds) with longer-term ambitions (e.g., philanthropic trusts).
 
-### 2.2 Aligning Strategies with Personal Passions
+### Aligning Strategies with Personal Passions
 A client interested in philanthropic or social causes may welcome an investment strategy that focuses on Responsible Investment (RI), where environmental, social, and governance (ESG) metrics play a key role. By understanding clients’ passions, advisors can propose an equity portfolio that includes ESG-compliant funds—a move that meets both the client’s desire for stable returns and ethical alignment.
 
-### 2.3 Case Study: A Philanthropic Vision
+### Case Study: A Philanthropic Vision
 Consider a client in Vancouver who dreams of supporting local community sports programs. During discovery, the advisor uncovers philanthropic goals, leading to a portfolio that channels some investment gains into generating donations and grants. By integrating community-building aspirations, the advisor earns deeper trust, and the client’s financial plan feels personally meaningful.
 
 ---
 
-## 3. Behavioral Finance Considerations
+## Behavioral Finance Considerations
 
-### 3.1 Recognizing Biases and Emotional Triggers
+### Recognizing Biases and Emotional Triggers
 Emotions and biases can substantially influence investment behavior and decision-making. During market downturns, a client might panic-sell due to fear of losses. Knowing that stress triggers impulsive decisions can help an advisor guide the client through turbulent times, offering evidence-based reassurance rather than purely following emotional impulses.
 
 Common biases include:
@@ -64,7 +64,7 @@ Common biases include:
 • Overconfidence: Overestimating one’s ability to identify the “next big winner” on the TSX.  
 • Anchoring: Clinging to an initial piece of information, like a historically high share price, and failing to adapt to market realities.
 
-### 3.2 Tools to Measure Behavioral Tendencies
+### Tools to Measure Behavioral Tendencies
 Several tools exist to help assess a client’s emotional attitudes toward money, including risk profile questionnaires that incorporate behavioral elements. Behavioral finance research from the [CFA Institute](https://www.cfainstitute.org) explores strategies to identify common cognitive biases. Advisors can:
 
 • Integrate short behavioral quizzes into initial meetings.  
@@ -73,9 +73,9 @@ Several tools exist to help assess a client’s emotional attitudes toward money
 
 ---
 
-## 4. Risk Management Beyond Investments
+## Risk Management Beyond Investments
 
-### 4.1 Holistic View of Risk
+### Holistic View of Risk
 Risk transcends volatility in equity markets. An effective plan must consider:
 
 • Health risks (e.g., disability, long-term care needs).  
@@ -85,17 +85,17 @@ Risk transcends volatility in equity markets. An effective plan must consider:
 
 A comprehensive risk assessment helps advisors propose relevant insurance products, establish emergency funds, and plan for sudden life events. This broader perspective aligns with delivering real value, not just fulfilling a regulatory checkbox.
 
-### 4.2 Illustration: Balancing Insurance and Investment
+### Illustration: Balancing Insurance and Investment
 A client working as an engineer for a major Canadian bank (e.g., RBC or TD) might have excellent employee benefits but no supplementary private disability insurance. After exploring the client’s familial obligations—like supporting a child with special needs—the advisor recommends additional long-term disability coverage alongside a well-rounded investment portfolio. This approach mitigates the long-term financial impact of unforeseen events.
 
 ---
 
-## 5. Ongoing Engagement
+## Ongoing Engagement
 
-### 5.1 Continuous Update and Life Transitions
+### Continuous Update and Life Transitions
 Clients’ lives evolve over time: marriages, divorces, relocations, job changes, and inheritances all shape their financial reality. Advisors must keep client data current by scheduling periodic reviews—at least annually or during any significant milestone. For example, an advisor can provide updated retirement projections after a client receives an unexpected inheritance, adjusting their portfolio allocation accordingly.
 
-### 5.2 Building a Relationship of Trust
+### Building a Relationship of Trust
 Regular check-ins transform the advisor-client relationship from transactional to consultative. By convening at milestone points (e.g., a child heading to university, a parent needing assisted living), both parties build rapport, ensuring the financial plan remains relevant. This deeper relationship fosters client loyalty—a crucial factor in an increasingly competitive wealth management industry.
 
 Below is a simplified diagram illustrating how ongoing engagement is a cyclical, dynamic process:
@@ -113,9 +113,9 @@ As shown, data collection and plan implementation should be followed by regular 
 
 ---
 
-## 6. Practical Examples and Tools
+## Practical Examples and Tools
 
-### 6.1 Incorporating Canadian Financial Tools
+### Incorporating Canadian Financial Tools
 Clients and advisors can benefit from official tools and calculators provided by the [Financial Consumer Agency of Canada](https://www.canada.ca/en/financial-consumer-agency.html), including:  
 • Mortgage affordability calculators.  
 • Budgeting tools.  
@@ -123,7 +123,7 @@ Clients and advisors can benefit from official tools and calculators provided by
 
 These free resources help clients understand basic financial parameters, while advisors add value through personalized interpretation and tailored strategies.
 
-### 6.2 Real-World Case: A Mid-Career Professional
+### Real-World Case: A Mid-Career Professional
 • Client Age: 45  
 • Career: Mid-level manager at a major technology firm in Toronto  
 • Objectives: Ensure adequate retirement savings while also funding a child’s undergraduate tuition at McGill University
@@ -132,7 +132,7 @@ After exploring beyond the basics, the advisor discovers the client’s aspirati
 
 ---
 
-## 7. Best Practices and Key Takeaways
+## Best Practices and Key Takeaways
 
 1. Ask the Right Questions: Move beyond standard KYC forms to probe deeper motivations.  
 2. Embrace Behavioral Finance: Identify biases and help clients manage emotional decision-making.  

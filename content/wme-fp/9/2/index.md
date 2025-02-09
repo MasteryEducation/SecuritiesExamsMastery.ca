@@ -14,9 +14,9 @@ A Tax-Free Savings Account (TFSA) is one of the most powerful tools in a Canadia
 
 ---
 
-## 1. Understanding TFSA Basics
+## Understanding TFSA Basics
 
-### 1.1 Eligibility and Purpose
+### Eligibility and Purpose
 • A TFSA is available to Canadian residents who are 18 years of age or older and have a valid Social Insurance Number (SIN).  
 • The main purpose is to allow individuals to set aside funds that can grow and be withdrawn completely tax-free.  
 
@@ -25,7 +25,7 @@ From an investment standpoint, TFSAs can accommodate various goals:
 • Medium-term objectives like vacations, home renovations, or car purchases.  
 • Long-term savings, including retirement “top-ups” that can supplement existing Registered Retirement Savings Plan (RRSP) or pension savings.
 
-### 1.2 Contribution Room
+### Contribution Room
 • Annual TFSA contribution limits are determined by the federal government. For 2023, the annual limit is $6,500.  
 • Unused contribution room carries forward indefinitely. This means if you did not use the full limit in one year, you can add it to future years.  
 • Total contribution room is the sum of all annual limits since 2009 (the first year TFSAs were introduced) minus any contributions made, plus any withdrawals re-contributed in subsequent years.
@@ -46,24 +46,24 @@ In this diagram, each year’s contribution limit that is not used gets carried 
 
 ---
 
-## 2. Contributions and Withdrawals
+## Contributions and Withdrawals
 
-### 2.1 Contributions
+### Contributions
 • TFSA contributions are not tax-deductible (unlike RRSP contributions). You pay tax on your income first and then invest those after-tax dollars in the TFSA.  
 • Since contributions are made from after-tax income, any future withdrawals of principal and gains will be completely tax-free.  
 • It is crucial to track contribution room because over-contributions result in penalty taxes (detailed in Section 4).  
 
-### 2.2 Withdrawals
+### Withdrawals
 • One of the major advantages of a TFSA is the tax-free withdrawal feature. Whether your account has earned interest, dividends, or capital gains, you do not pay tax when you withdraw from your TFSA.  
 • Any withdrawals you make in one calendar year are added back to your contribution room, but only in the next calendar year. For example, if you withdraw $5,000 from your TFSA in 2023, you cannot immediately re-contribute that $5,000 within the same year without using up new or existing contribution room. Instead, you gain additional $5,000 of contribution room on January 1, 2024.
 
-### 2.3 Flexibility in Estate Planning
+### Flexibility in Estate Planning
 • Unlike RRSPs, there is no mandatory age at which TFSAs must be collapsed or withdrawn. You can continue to hold a TFSA indefinitely.  
 • In estate planning, TFSAs can be rolled over to a spouse or common-law partner with minimal tax implications, allowing wealth to transfer more seamlessly.
 
 ---
 
-## 3. Investment Options in TFSAs
+## Investment Options in TFSAs
 
 TFSAs can hold a wide spectrum of investments:
 • High-interest savings accounts and Guaranteed Investment Certificates (GICs) for low-risk, stable returns.  
@@ -78,12 +78,12 @@ When advising clients on how to invest within a TFSA, consider:
 
 ---
 
-## 4. Over-Contribution Penalties
+## Over-Contribution Penalties
 
-### 4.1 Penalty Mechanics
+### Penalty Mechanics
 An over-contribution occurs when you exceed your available TFSA contribution room. The Canada Revenue Agency (CRA) applies a 1% penalty tax each month on the excess amount. For example, if an investor is over the limit by $2,000 for three months, the penalty is $2,000 × 1% × 3 = $60 in total.
 
-### 4.2 Monitoring and Preventive Measures
+### Monitoring and Preventive Measures
 Encourage clients to:
 • Track their cumulative contributions using the CRA’s My Account online service or review their latest Canada Revenue Agency (CRA) TFSA Room statement.  
 • Obtain the CRA notice (Notice of Assessment or separate TFSA Room statement) to verify contribution limits.  
@@ -91,32 +91,32 @@ Encourage clients to:
 
 ---
 
-## 5. TFSA Strategies in Financial Planning
+## TFSA Strategies in Financial Planning
 
-### 5.1 Emergency and Short-Term Needs
+### Emergency and Short-Term Needs
 Due to the tax-free nature and easy accessibility of TFSA funds, many individuals use it as an emergency fund:
 • Tax-free growth ensures better compounding over time compared to a standard savings account.  
 • Withdrawals at any time, for any purpose, without tax consequences.  
 
-### 5.2 Medium-Term Savings Goals
+### Medium-Term Savings Goals
 TFSAs can be strategically deployed for planned large expenses:
 • Vacations, home down payments, or car purchases can be funded from TFSAs.  
 • Using investments with moderate volatility may ensure capital grows while aligning with a medium-term horizon.
 
-### 5.3 TFSA for Retirement & Estate Planning
+### TFSA for Retirement & Estate Planning
 While TFSAs are not solely retirement vehicles (like RRSPs), they play a prominent role in retirement planning:
 • TFSAs have no mandatory withdrawal or conversion age.  
 • Withdrawals in retirement do not affect Old Age Security (OAS) or Guaranteed Income Supplement (GIS) benefits, as they are not reported as taxable income.  
 • For estate transfers, naming your spouse or common-law partner as a “successor holder” allows the TFSA to continue after your death with minimal disruption.
 
-### 5.4 Spousal Strategies  
+### Spousal Strategies  
 Though TFSAs cannot be “joint,” spouses can coordinate:
 • One spouse can gift funds to the other spouse to invest in the spouse’s TFSA without invoking attribution rules—any income earned in the spouse’s TFSA is tax-free.  
 • By maximizing contributions in both TFSAs, couples can significantly increase their combined tax-free investment space.
 
 ---
 
-## 6. Practical Case Study: RBC Client
+## Practical Case Study: RBC Client
 
 Consider a married couple, Alex and Jordan, both aged 35, each with $6,500 of new TFSA contribution room for 2023 and $20,000 of prior unused room:
 
@@ -130,21 +130,21 @@ This approach allows the couple to protect more of their savings from taxes, inv
 
 ---
 
-## 7. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 7.1 Best Practices
+### Best Practices
 • Contribute Early: If possible, make your yearly TFSA contribution early to maximize tax-free growth throughout the year.  
 • Use Online Calculators and Tools: Platforms such as Wealthsimple Tax or TaxTips.ca offer TFSA calculators to estimate optimal contributions and potential growth.  
 • Rebalance Regularly: If using your TFSA for investments, ensure your asset allocation remains aligned with your goals and risk tolerance.  
 
-### 7.2 Common Pitfalls
+### Common Pitfalls
 • Over-Contribution: Neglecting to track your total deposits can lead to monthly penalty taxes.  
 • Timing of Re-Contribution: Try not to re-contribute amounts withdrawn from a TFSA in the same year unless you have sufficient contribution room available.  
 • Misuse for Trading Gains: While trading inside a TFSA is generally allowed, taxpayers engaged in frequent and speculative trading risk being classified by the CRA as carrying on a business, which could lead to tax implications.  
 
 ---
 
-## 8. Additional Resources
+## Additional Resources
 
 For up-to-date rules and guidelines, consult:
 • [CRA’s official TFSA guide (RC4466)](https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/tax-free-savings-account.html)  
@@ -154,7 +154,7 @@ For up-to-date rules and guidelines, consult:
 
 ---
 
-## 9. Summary
+## Summary
 
 A Tax-Free Savings Account remains a central ingredient in a well-rounded Canadian financial plan. Offering compound growth free from any form of taxation, TFSAs provide advantages for both short- and long-term goals. Whether used for emergency funds, retirement supplements, or estate planning strategies, the TFSA is flexible and beneficial across various stages of life. 
 

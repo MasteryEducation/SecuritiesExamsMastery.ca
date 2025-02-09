@@ -32,7 +32,7 @@ flowchart TD
 
 ---
 
-### 1. Immediate Annuities
+### Immediate Annuities
 
 • Payments begin very soon after the premium is paid—usually within 12 months.  
 • Attract retirees looking for a quick start to a guaranteed income stream.  
@@ -49,7 +49,7 @@ flowchart TD
 
 ---
 
-### 2. Deferred Annuities
+### Deferred Annuities
 
 • Payments (the income phase) start at a specified future time, allowing investments to grow within the annuity contract.  
 • Particularly appealing for clients still in their 50s or early 60s, who want to secure guaranteed income for later in retirement while deferring taxes on the growth.  
@@ -63,7 +63,7 @@ A 55-year-old invests $100,000 in a deferred annuity offered by a large Canadian
 
 ---
 
-### 3. Fixed Annuities
+### Fixed Annuities
 
 • Offer a predetermined, fixed rate of return or payment over the contract’s lifetime.  
 • The insurer bears all the investment risk, ensuring consistent payouts regardless of market fluctuations.  
@@ -82,7 +82,7 @@ A 55-year-old invests $100,000 in a deferred annuity offered by a large Canadian
 
 ---
 
-### 4. Variable Annuities
+### Variable Annuities
 
 • Payments vary based on the performance of the underlying investment funds (sub-accounts).  
 • Potential for higher returns, but clients bear the investment risk.  
@@ -96,7 +96,7 @@ A 60-year-old invests in a variable annuity with growth-oriented sub-accounts li
 
 ---
 
-### 5. Indexed Annuities
+### Indexed Annuities
 
 • Often linked to a market index (e.g., S&P/TSX Composite).  
 • Offer a combination of fixed annuity security with some growth potential.  
@@ -110,7 +110,7 @@ Suppose an indexed annuity offers a 70% participation rate in the S&P/TSX Compos
 
 ---
 
-### 6. Joint and Survivor Annuities
+### Joint and Survivor Annuities
 
 • Income continues to a designated survivor—often a spouse—after the primary annuitant’s death.  
 • Typically, monthly payments reduce upon the first death (e.g., 60% or 75% of original payment), but some contracts maintain the same payment level for the survivor.  

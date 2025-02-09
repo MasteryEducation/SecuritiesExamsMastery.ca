@@ -14,7 +14,7 @@ Retirement planning is one of the cornerstones of wealth management. As clients 
 
 ---
 
-### 1. Defining a Clear Retirement Vision
+### Defining a Clear Retirement Vision
 
 A critical first step is to help clients articulate what they envision retirement to look like. This is often referred to as the client’s “Retirement Vision,” which can include:
 
@@ -27,7 +27,7 @@ Encourage clients to think beyond a single date or event. Some individuals pursu
 
 ---
 
-### 2. Identifying Potential Retirement Income Sources
+### Identifying Potential Retirement Income Sources
 
 Advisors should guide clients in cataloguing possible streams of income in retirement:
 
@@ -55,7 +55,7 @@ Advisors should assess the reliability, stability, and flexibility of each incom
 
 ---
 
-### 3. Creating a Timeline of Major Life Events
+### Creating a Timeline of Major Life Events
 
 Alongside retirement planning, clients often face major life transitions that can affect their saving or withdrawal schedules:
 
@@ -83,7 +83,7 @@ flowchart LR
 
 ---
 
-### 4. Addressing Key Retirement Risks
+### Addressing Key Retirement Risks
 
 Retirement presents several risks that can undermine financial security:
 
@@ -104,7 +104,7 @@ Retirement presents several risks that can undermine financial security:
 
 ---
 
-### 5. Establishing a Contingency Plan
+### Establishing a Contingency Plan
 
 Advisors typically recommend that clients keep emergency funds (e.g., three to six months of expenses) to protect long-term savings when life’s unexpected events occur:
 
@@ -114,7 +114,7 @@ Advisors typically recommend that clients keep emergency funds (e.g., three to s
 
 ---
 
-### 6. Monitoring and Updating the Retirement Strategy
+### Monitoring and Updating the Retirement Strategy
 
 Retirement planning is not static. Personal circumstances, regulations, and economic conditions can shift abruptly. Advisors must regularly:
 

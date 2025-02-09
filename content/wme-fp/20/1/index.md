@@ -14,7 +14,7 @@ Equity securities—or simply “equities,” “stocks,” or “shares”—ar
 
 ---
 
-### 1. Introduction to Equity Securities
+### Introduction to Equity Securities
 
 Equity securities entitle investors to a fractional stake in the issuing company. By purchasing shares, investors effectively become part-owners (shareholders). This ownership comes with:
 
@@ -26,7 +26,7 @@ Equity investments can be volatile, as the market value of shares depends on num
 
 ---
 
-### 2. Common Shares
+### Common Shares
 
 Common shares represent the most prevalent form of equity securities. They give investors partial ownership in a corporation along with voting rights (unless otherwise restricted by specific share classes). Key attributes of common shares include:
 
@@ -48,7 +48,7 @@ Consider an investor who buys 100 shares of RBC (Royal Bank of Canada) at $120 p
 
 ---
 
-### 3. Preferred Shares
+### Preferred Shares
 
 Preferred shares occupy a hybrid position between common shares and fixed-income securities. Here are some important characteristics:
 
@@ -72,7 +72,7 @@ A Canadian investor might purchase preferred shares of a major utility company, 
 
 ---
 
-### 4. Sources of Shareholder Returns
+### Sources of Shareholder Returns
 
 Equity investors may receive returns through:
 
@@ -93,7 +93,7 @@ Equity investors may receive returns through:
 
 ---
 
-### 5. Volatility and Risk Factors
+### Volatility and Risk Factors
 
 Equity securities often experience higher price volatility than bonds or other fixed-income instruments. Reasons for this volatility include:
 
@@ -107,7 +107,7 @@ When a Canadian technology company, such as Shopify Inc., experiences rapid reve
 
 ---
 
-### 6. Legal Protections for Equity Investors in Canada
+### Legal Protections for Equity Investors in Canada
 
 Shareholders benefit from protections provided by both federal and provincial corporate statutes and securities laws. Canadian Securities Administrators (CSA) oversees the harmonization of securities regulation across provinces. Key protections include:
 
@@ -118,7 +118,7 @@ Shareholders benefit from protections provided by both federal and provincial co
 
 ---
 
-### 7. Risk-Return Considerations
+### Risk-Return Considerations
 
 Equity investing can be lucrative but requires due diligence. Advisors and investors should consider:
 
@@ -146,7 +146,7 @@ Equity investing can be lucrative but requires due diligence. Advisors and inves
 
 ---
 
-### 8. Best Practices and Practical Steps
+### Best Practices and Practical Steps
 
 When advising clients or managing personal portfolios, consider the following:
 
@@ -172,7 +172,7 @@ When advising clients or managing personal portfolios, consider the following:
 
 ---
 
-### 9. Visualizing Equity Ownership and Claims
+### Visualizing Equity Ownership and Claims
 
 Below is a simple Mermaid.js diagram illustrating the claims hierarchy in corporate liquidation, highlighting where equity (common and preferred) shareholders rank in comparison to other stakeholders:
 
@@ -189,7 +189,7 @@ flowchart LR
 
 ---
 
-### 10. Additional Resources and Further Reading
+### Additional Resources and Further Reading
 
 • Visit the Canadian Securities Administrators (CSA) website (https://www.securities-administrators.ca/) to learn more about provincial regulatory bodies, investor alerts, and shareholder resources.  
 • Explore CIRO (https://www.ciro.ca/) for the latest regulations, guidance, and enforcement policies for investment dealers and mutual fund dealers in Canada.  
@@ -200,7 +200,7 @@ flowchart LR
 
 ---
 
-### 11. Summary
+### Summary
 
 Equity securities provide investors with an ownership stake in a company, the prospect of capital appreciation, and access to dividends when declared. Common shares typically come with voting rights and potential for higher returns but also face greater volatility. Preferred shares often appeal to those seeking more stable dividends and priority in liquidation but typically lack voting rights. Canadian regulators like the CSA and CIRO play essential roles in protecting investors through disclosure requirements, fair trading rules, and enforcement of fiduciary duties.
 
@@ -212,7 +212,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 {{< quizdown >}}
 
-### 1. Which of the following correctly describes a primary characteristic of common shares?  
+### Which of the following correctly describes a primary characteristic of common shares?  
 - [x] They typically carry voting rights in corporate decisions.  
 - [ ] They always offer a guaranteed dividend.  
 - [ ] They have priority over bondholders in liquidation.  
@@ -220,7 +220,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Common shares often include voting rights, enabling shareholders to vote on matters like board appointments and major corporate decisions. Dividends are not guaranteed; common shareholders rank below bondholders and face market risk.
 
-### 2. Which of the following best explains why preferred shares are considered a hybrid security?  
+### Which of the following best explains why preferred shares are considered a hybrid security?  
 - [ ] They can only be issued by governments.  
 - [x] They have characteristics of both equities and fixed-income instruments.  
 - [ ] They offer no dividend payments but high capital gain potential.  
@@ -228,7 +228,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Preferred shares exhibit traits of equities (ownership interest) and fixed-income securities (fixed or pre-specified dividends, priority over common shares in liquidation). They generally do not carry voting rights.
 
-### 3. In what order do stakeholders get paid during corporate liquidation, from first to last?  
+### In what order do stakeholders get paid during corporate liquidation, from first to last?  
 - [ ] Common shareholders, preferred shareholders, unsecured creditors, bondholders.  
 - [x] Bondholders, unsecured creditors, preferred shareholders, common shareholders.  
 - [ ] Preferred shareholders, bondholders, unsecured creditors, common shareholders.  
@@ -236,7 +236,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Bondholders (secured creditors) have the first claim, followed by unsecured creditors, then preferred shareholders, and finally, common shareholders.
 
-### 4. Which statement is true regarding dividend payments for common shares?  
+### Which statement is true regarding dividend payments for common shares?  
 - [x] They are not legally required and can fluctuate over time.  
 - [ ] They must be paid every quarter by law in Canada.  
 - [ ] They cannot be changed without consent of the shareholders.  
@@ -244,7 +244,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Canadian law does not obligate companies to pay dividends on common shares. The board of directors sets dividend policy, factoring in profits, cash flow, and strategic plans.
 
-### 5. Why might a Canadian investor hold preferred shares instead of common shares?  
+### Why might a Canadian investor hold preferred shares instead of common shares?  
 - [x] To benefit from a more predictable dividend stream and priority in liquidation.  
 - [ ] To acquire extra voting power that exceeds that of common shares.  
 - [x] To potentially avoid the higher volatility common stocks may experience.  
@@ -252,7 +252,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Preferred shares typically offer more stable dividend payments and rank above common shares in a liquidation process. Although not guaranteed, their dividend structure can be more predictable compared to common shares, and they often exhibit less price volatility.
 
-### 6. Which is an advantage preferred shareholders typically have over common shareholders?  
+### Which is an advantage preferred shareholders typically have over common shareholders?  
 - [ ] They set the company’s dividend policy.  
 - [ ] They have the right to appoint the board of directors.  
 - [x] They receive dividend payments before common shareholders.  
@@ -260,7 +260,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Preferred shareholders have priority in dividend payments over common shareholders. However, they usually do not have voting rights.
 
-### 7. Which of the following is NOT a factor contributing to equity price volatility?  
+### Which of the following is NOT a factor contributing to equity price volatility?  
 - [ ] Macroeconomic conditions.  
 - [x] Guaranteed fixed dividends.  
 - [ ] Market sentiment.  
@@ -268,7 +268,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Equity price volatility arises from economic conditions, investor psychology, and company-specific developments. Fixed dividends are not guaranteed in the case of common shares, and while preferred shares may have a fixed dividend rate, it doesn’t eliminate overall share price volatility.
 
-### 8. Which Canadian entity oversees investment dealers and mutual fund dealers to ensure fair trading practices?  
+### Which Canadian entity oversees investment dealers and mutual fund dealers to ensure fair trading practices?  
 - [ ] Bank of Canada.  
 - [ ] Department of Finance.  
 - [x] CIRO (Canadian Investment Regulatory Organization).  
@@ -276,7 +276,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** CIRO supervises and regulates the practices of investment dealers and mutual fund dealers. This includes maintaining fairness and integrity in Canadian capital markets.
 
-### 9. What is one reason a company might prefer to issue preferred shares rather than common shares?  
+### What is one reason a company might prefer to issue preferred shares rather than common shares?  
 - [x] It can raise capital without diluting voting control significantly.  
 - [ ] Preferred shares always trade at the same price as common shares.  
 - [ ] Preferred dividends are always higher than common dividends.  
@@ -284,7 +284,7 @@ Financial planners should stress a balanced approach to equity investing, consid
 
 > **Explanation:** Since preferred shares typically do not carry voting rights, issuing them allows a company to secure capital without appreciably changing the distribution of voting power.  
 
-### 10. Equity securities generally exhibit higher volatility than many fixed-income securities. Is this statement true or false?  
+### Equity securities generally exhibit higher volatility than many fixed-income securities. Is this statement true or false?  
 - [x] True  
 - [ ] False  
 

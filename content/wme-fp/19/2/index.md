@@ -14,7 +14,7 @@ Asset allocation involves distributing investments across various asset classes�
 
 ---
 
-## 1. Changing Market Conditions
+## Changing Market Conditions
 
 Financial markets are dynamic, influenced by interest rates, inflation, geopolitical events, and sudden shifts in investor sentiment. Canadians often watch the Bank of Canada’s policy rate announcements, which can significantly influence bond yields, mortgage rates, and consumer spending. A rising interest rate environment, for instance, may reduce the attractiveness of long-term bonds and increase the appeal of shorter-term fixed-income securities or even dividend-paying stocks.
 
@@ -34,7 +34,7 @@ Keeping a close eye on economic indicators like GDP growth, the Canadian unemplo
 
 ---
 
-## 2. Client Behavioral Biases
+## Client Behavioral Biases
 
 Behavioral finance research reveals that emotions often drive investment decisions more strongly than rational analysis. Common biases include:
 
@@ -54,7 +54,7 @@ Educating clients on these biases is crucial. Advisors can employ techniques suc
 
 ---
 
-## 3. Time Horizon Conflicts
+## Time Horizon Conflicts
 
 Determining an appropriate time horizon is a central component of asset allocation. Many Canadians juggle multiple goals that operate on different timelines:
 
@@ -68,7 +68,7 @@ Balancing these different needs within a single portfolio entails creating “su
 
 ---
 
-## 4. Regulatory and Tax Constraints
+## Regulatory and Tax Constraints
 
 Advisors in Canada must navigate a range of regulations and tax laws when shaping a client’s portfolio. Failure to understand these complexities can diminish potential returns or create legal liabilities.
 
@@ -84,7 +84,7 @@ Selecting the best account type for each asset class can significantly enhance a
 
 ---
 
-## 5. Currency Risk
+## Currency Risk
 
 Global diversification offers exposure to growth opportunities outside Canada, but it also introduces currency risk. Fluctuations in exchange rates between the Canadian dollar (CAD) and foreign currencies can substantially affect return outcomes.
 
@@ -100,7 +100,7 @@ While currency diversification may offer a hedge against domestic economic cycle
 
 ---
 
-## 6. Illiquidity and Alternative Investments
+## Illiquidity and Alternative Investments
 
 Alternative assets like real estate, private equity, venture capital, and hedge funds can enhance diversification and yield potential. However, they frequently come with obstacles:
 
@@ -119,7 +119,7 @@ Ensuring that clients understand the differences between liquid investments (equ
 
 ---
 
-## 7. Data Quality and Forecasting Limitations
+## Data Quality and Forecasting Limitations
 
 Advisors often rely on historical data and forward-looking models to estimate expected returns, volatility, and correlations between asset classes. While these tools are valuable, they are far from perfect:
 
@@ -135,7 +135,7 @@ Advisors can mitigate forecasting risk by using Monte Carlo simulations, stress 
 
 ---
 
-## 8. Visualizing the Asset Allocation Process
+## Visualizing the Asset Allocation Process
 
 Below is a simplified diagram illustrating how various factors—such as market conditions, client needs, regulatory constraints, and risk exposures—feed into the asset allocation decision:
 
@@ -159,7 +159,7 @@ flowchart LR
 
 ---
 
-## 9. Glossary
+## Glossary
 
 • Liquidity: The ease with which an investment can be converted to cash without significantly affecting its price.  
 • Behavioral Finance: A field of study that examines how psychological influences and biases affect the financial behaviors of investors and advisors.  
@@ -168,7 +168,7 @@ flowchart LR
 
 ---
 
-## 10. Key Takeaways
+## Key Takeaways
 
 • Stay Proactive in Monitoring Market Conditions: Shifts in interest rates, geopolitical events, and investor sentiment can alter portfolio performance significantly.  
 • Address Behavioral Biases: Educating clients about overconfidence, loss aversion, and recency bias can promote disciplined, long-term investing.  

@@ -14,9 +14,9 @@ Open-end mutual funds in Canada are structured to provide daily liquidity, allow
 
 ---
 
-## 1. Understanding the NAV-Based Pricing
+## Understanding the NAV-Based Pricing
 
-### 1.1 Daily NAV Calculation
+### Daily NAV Calculation
 
 Mutual funds typically calculate their net asset value once per trading day, usually after the close of major North American markets (4:00 p.m. Eastern Time). The NAV per unit is calculated as:
 
@@ -32,15 +32,15 @@ NAV per unit = (Total Assets - Total Liabilities) / Number of Outstanding Units
 
 Since the NAV changes from day to day, a redemption request submitted before the cut-off time (usually 4:00 p.m. Eastern Time) will be executed at the NAV calculated on that day. Orders submitted after the cut-off time are processed at the next day’s NAV.
 
-### 1.2 Importance of Cut-Off Times
+### Importance of Cut-Off Times
 
 Meeting the fund’s specified cut-off time is crucial. If an investor submits a redemption request at 3:59 p.m. Eastern Time, it will be processed at the same day’s NAV. Conversely, a request submitted at 4:01 p.m. will typically be processed at the following day’s NAV. This distinction may have a meaningful impact on the proceeds investors receive, especially in volatile markets.
 
 ---
 
-## 2. Redemption Process
+## Redemption Process
 
-### 2.1 Submitting a Redemption Request
+### Submitting a Redemption Request
 
 Investors can redeem their mutual fund units through various channels, such as a full-service investment dealer, a discount brokerage platform (e.g., RBC Direct Investing, TD Direct Investing), or directly through the mutual fund company (depending on the fund’s distribution model). The redemption request involves:
 
@@ -48,7 +48,7 @@ Investors can redeem their mutual fund units through various channels, such as a
 2. Entering the number of units or the dollar amount to be sold.  
 3. Confirming and submitting the order before the cut-off time.
 
-### 2.2 Order Execution and Settlement
+### Order Execution and Settlement
 
 Once the request is placed, the dealer or distributor forwards it to the fund’s transfer agent. The following steps illustrate the typical redemption flow:
 
@@ -67,17 +67,17 @@ flowchart LR
 
 ---
 
-## 3. Fees and Charges
+## Fees and Charges
 
 Mutual fund fees can significantly affect the net redemption proceeds. Below are the common fee structures encountered in Canada.
 
-### 3.1 Front-End Load (Initial Sales Charge)
+### Front-End Load (Initial Sales Charge)
 
 • Investors pay a sales charge at the time of purchase, usually ranging from 0% to 5%.  
 • No redemption fee applies at selling.  
 • Negotiation is often possible with full-service brokers; however, discount brokerages frequently offer front-end load funds at 0%.
 
-### 3.2 Deferred Sales Charge (DSC)
+### Deferred Sales Charge (DSC)
 
 • No initial sales charge applies upon purchase.  
 • A DSC schedule typically applies for 4–7 years; the fee decreases over time. For example:
@@ -94,21 +94,21 @@ Mutual fund fees can significantly affect the net redemption proceeds. Below are
 
 • Early redemption, such as during Year 1 or 2, triggers the highest DSC. After the specified time frame, the DSC reduces to zero.
 
-### 3.3 No-Load Funds
+### No-Load Funds
 
 • No direct sales commission is assessed when buying or selling mutual fund units.  
 • Some funds may impose a short-term trading fee if redeemed within a specific time (e.g., 30 to 90 days) to discourage frequent trading.
 
-### 3.4 Low-Load Funds
+### Low-Load Funds
 
 • A modified version of DSC with a shorter redemption fee schedule (e.g., 2–3 years) at rates lower than a traditional DSC plan.  
 • More flexibility if the investor decides to exit the fund earlier than planned but still involves a redemption fee within the specified period.
 
 ---
 
-## 4. Tax Consequences
+## Tax Consequences
 
-### 4.1 Capital Gains and Losses
+### Capital Gains and Losses
 
 When redeeming mutual fund units, the transaction can trigger a capital gain or loss. If the redemption proceeds exceed your adjusted cost base (ACB), you realize a capital gain. Conversely, if the proceeds are lower than your ACB, you have a capital loss.
 
@@ -121,7 +121,7 @@ Capital Gain (or Loss) = Redemption Proceeds - Adjusted Cost Base (ACB)
 • The **adjusted cost base (ACB)** represents the average cost of acquiring the units, including reinvested distributions and return of capital adjustments.  
 • Keeping detailed records of contributions, reinvested dividends (or distributions), and any return of capital is critical to accurately calculate the ACB. **Online tools** offered by discount brokerages such as RBC Direct Investing or TD Direct Investing can help automate cost base tracking.
 
-### 4.2 CRA Reporting
+### CRA Reporting
 
 • Report any capital gains or losses on your annual tax return using Schedule 3 for T1 filings.  
 • Consult the **CRA T4037 Capital Gains guide** for detailed information on capital gains or losses.  
@@ -129,7 +129,7 @@ Capital Gain (or Loss) = Redemption Proceeds - Adjusted Cost Base (ACB)
 
 ---
 
-## 5. Systematic Withdrawal Plans (SWPs)
+## Systematic Withdrawal Plans (SWPs)
 
 Many mutual funds allow investors to access their capital systematically through a **Systematic Withdrawal Plan (SWP)**. Under an SWP, the investor redeems a set amount of money at regular intervals (e.g., monthly or quarterly). 
 
@@ -143,7 +143,7 @@ Many mutual funds allow investors to access their capital systematically through
 
 ---
 
-## 6. Best Practices and Practical Insights
+## Best Practices and Practical Insights
 
 1. **Monitor Cut-Off Times:** Ensure you meet the daily submission deadline to control the NAV price used for redemption.  
 2. **Understand Fee Schedules:** Familiarize yourself with front-end loads, DSC, low-load structures, and no-load options. Consult your advisor or brokerage fee schedule for specifics.  
@@ -156,7 +156,7 @@ Many mutual funds allow investors to access their capital systematically through
 
 ---
 
-## 7. Additional Resources
+## Additional Resources
 
 • **National Instrument 81-102**: Governs Canadian mutual funds, including redemption policies and permissible loads.  
 • **CRA Official Site (https://www.canada.ca/en/revenue-agency.html)**: Provides guidance on tax filings, capital gains and losses, and the adjusted cost base.  

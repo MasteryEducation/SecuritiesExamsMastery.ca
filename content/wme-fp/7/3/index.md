@@ -18,7 +18,7 @@ Measuring risk is a crucial step in the personal risk management process because
 
 Risk can be evaluated through both qualitative and quantitative lenses. While quantitative measures offer clear numerical data, qualitative insights provide a deeper understanding of a client’s emotional and psychological relationship to risk.
 
-### 7.3.1 Qualitative Measures
+### Qualitative Measures
 
 • Client Interviews and Questionnaires: Qualitative assessments rely heavily on conversations and written surveys to discover how a client truly feels about uncertainty. In many Canadian financial advisory practices—including those at RBC and TD—advisors use structured interviews to gauge a client’s comfort with various scenarios, such as market volatility or job loss.  
 • Attitudinal Assessment: Examining a client's attitudes about potential financial loss or unpredictability helps reveal an individual’s tolerance for making (or avoiding) certain financial decisions.  
@@ -26,7 +26,7 @@ Risk can be evaluated through both qualitative and quantitative lenses. While qu
 
 A common pitfall in qualitative measurement is failing to probe deeply enough. Superficial questions might not uncover true risk preferences. Successful wealth managers use open-ended questions and scenario-based discussions to uncover genuine risk thresholds and emotional triggers.
 
-### 7.3.2 Quantitative Measures
+### Quantitative Measures
 
 Quantitative measures, by contrast, enable advisors to assign specific numbers to potential events and outcomes:
 
@@ -42,7 +42,7 @@ Quantitative measures are exact but can sometimes feel abstract. They are best p
 
 Several tools and methodologies blend these qualitative and quantitative approaches, offering a holistic view of client risk.
 
-### 7.3.3 Risk Profiling Questionnaires
+### Risk Profiling Questionnaires
 Canadian institutions like RBC and TD often use proprietary risk-profiling questionnaires to gauge a client’s attitude toward financial loss, volatility, and uncertainty. These questionnaires typically analyze:
 • Short-term vs. Long-term Financial Objectives  
 • Comfort with Market Turbulence  
@@ -51,7 +51,7 @@ Canadian institutions like RBC and TD often use proprietary risk-profiling quest
 
 Results are usually combined with the client’s demographic information, target retirement date, and existing assets to determine suitable asset allocations or insurance solutions.
 
-### 7.3.4 Actuarial Tables
+### Actuarial Tables
 Insurance providers and actuaries rely on comprehensive data—often sourced from Statistics Canada or the Canadian Life and Health Insurance Association (CLHIA)—that reflect the probability of death or disability for various age groups. Common uses include:
 • Calculating life insurance premiums  
 • Estimating the needed term or coverage level for mortgage life insurance  
@@ -59,7 +59,7 @@ Insurance providers and actuaries rely on comprehensive data—often sourced fro
 
 For instance, if a 40-year-old male nonsmoker shows a mortality rate of X% in a given year according to an actuarial table, an insurance provider can use that statistic to price coverage appropriately.
 
-### 7.3.5 Stress Testing and Scenario Analysis
+### Stress Testing and Scenario Analysis
 Stress testing and scenario analysis allow advisors to model severe or unexpected events:
 
 • Hypothetical Life Events: A spouse becoming critically ill, a major job loss, or a sharp market correction can be factored into financial models.  
@@ -82,7 +82,7 @@ flowchart LR
 
 ## Life Insurance Needs Analysis
 
-### 7.3.6 Capital Need Calculation
+### Capital Need Calculation
 
 In Canada, life insurance is typically seen as a cornerstone of personal risk management. One common approach to measure insurance needs is the capital needs analysis:
 
@@ -92,7 +92,7 @@ In Canada, life insurance is typically seen as a cornerstone of personal risk ma
 
 Advisors at Canadian banks or independent firms may use software that automates this calculation. However, it is crucial to verify that each client’s specific obligations (e.g., paying for dependent care) are accurately captured.
 
-### 7.3.7 Income Replacement Approach
+### Income Replacement Approach
 
 Another method is to replace a percentage of the primary breadwinner’s annual income for a predetermined period (often until the youngest child is financially independent). For instance:
 
@@ -105,13 +105,13 @@ This approach requires frequent review to adjust for inflation or changes in hou
 
 ## Disability and Critical Illness Analysis
 
-### 7.3.8 Benefit Levels
+### Benefit Levels
 Disability insurance is meant to replace a portion—often 60% to 70%—of a client’s paycheck should they become partially or fully disabled. A comprehensive analysis includes:
 
 • Income Replacement Requirements: If a client’s monthly expenses are CAD 4,000, a disability policy may need to replace at least this amount after taxes.  
 • Additional Costs: Home modifications or medical care can greatly exceed normal monthly expenses, necessitating larger coverage.
 
-### 7.3.9 Benefit Periods
+### Benefit Periods
 Determining the right benefit period involves:
 
 • Partial Disability Coverage: Some illnesses or injuries might allow a client to continue part-time work.  
@@ -119,7 +119,7 @@ Determining the right benefit period involves:
 
 For example, a policy might specify a set number of years of coverage (e.g., 2 or 5 years) or coverage to age 65 for permanent disability.
 
-### 7.3.10 Survivor and Care Costs
+### Survivor and Care Costs
 Critical illness insurance is often structured to pay a lump sum upon diagnosis. This sum may:
 
 • Cover specialized treatments or out-of-country care.  
@@ -168,7 +168,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 {{< quizdown >}}
 
-### 1. Which of the following is an example of a qualitative measure of risk?  
+### Which of the following is an example of a qualitative measure of risk?  
 - [ ] Standard deviation of a stock’s returns  
 - [x] Client discussions regarding fear of portfolio volatility  
 - [ ] Probability of disability by age 65  
@@ -176,7 +176,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** Qualitative measures refer to the subjective assessment of a client’s feelings, attitudes, and preferences. Client discussions regarding fear of portfolio volatility exemplify a qualitative approach.
 
-### 2. What is a key benefit of using actuarial tables for insurance calculations in Canada?  
+### What is a key benefit of using actuarial tables for insurance calculations in Canada?  
 - [ ] They eliminate the need for underwriting.  
 - [x] They provide statistical probabilities of mortality or morbidity rates for specific age groups.  
 - [ ] They remove the impact of inflation on premiums.  
@@ -184,7 +184,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** Actuarial tables are used by insurance companies to assign numerical probabilities of events (like death or disability) based on large-scale statistical data, which helps in accurately pricing insurance coverage.
 
-### 3. In a typical stress test scenario, a financial advisor might:  
+### In a typical stress test scenario, a financial advisor might:  
 - [ ] Eliminate all equity holdings.  
 - [x] Model the impact of a prolonged market downturn on a client’s portfolio.  
 - [ ] Ignore the client’s current investment strategy.  
@@ -192,7 +192,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** A stress test involves modeling severe or unexpected events—such as a market decline—to see how it affects a client’s plan or portfolio, then recommending adjustments if needed.
 
-### 4. Which approach in life insurance needs analysis involves summing up all major liabilities and subtracting existing assets?  
+### Which approach in life insurance needs analysis involves summing up all major liabilities and subtracting existing assets?  
 - [ ] Income Replacement Approach  
 - [x] Capital Need Calculation  
 - [ ] Asset Allocation Model  
@@ -200,7 +200,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** The Capital Need Calculation starts by identifying the lump-sum requirements (e.g., debts, education costs) and then subtracting current coverage or assets, revealing any gap that insurance should fill.
 
-### 5. When analyzing disability insurance needs, the percentage of income to be replaced commonly ranges from:  
+### When analyzing disability insurance needs, the percentage of income to be replaced commonly ranges from:  
 - [x] 60% to 70%  
 - [ ] 10% to 20%  
 - [x] 75% to 90%  
@@ -208,7 +208,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** Disability insurance typically covers 60% to 70% (sometimes up to 75%) of pre-disability income to balance financial support and cost affordability.
 
-### 6. Which of the following best describes a quantitative measure of risk?  
+### Which of the following best describes a quantitative measure of risk?  
 - [x] A numerical value reflecting the likelihood of an adverse event  
 - [ ] A verbal description of a client’s emotions about losses  
 - [ ] A conversation about hypothetical retirement goals  
@@ -216,7 +216,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** Quantitative measures are represented by numeric data, such as probabilities, rates, or standard deviations.
 
-### 7. Why is annual policy review recommended in managing personal risk?  
+### Why is annual policy review recommended in managing personal risk?  
 - [x] Because clients’ financial situations and lifestyle needs can change.  
 - [ ] To inflate policy premiums artificially.  
 - [x] To comply with life insurance rules that change monthly.  
@@ -224,7 +224,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** A client’s income, family status, and personal or professional circumstances can shift over time, potentially altering insurance needs and risk coverage priorities.
 
-### 8. Stress testing a client’s portfolio typically includes which of the following?  
+### Stress testing a client’s portfolio typically includes which of the following?  
 - [ ] Guaranteeing principal remains unchanged.  
 - [ ] Avoiding hypothetical worst-case scenarios.  
 - [ ] Using only historical data without any assumptions.  
@@ -232,7 +232,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** Stress testing is about predicting how a financial plan or portfolio might fare under extreme or unexpected events, helping advisors prepare for worst-case scenarios.
 
-### 9. What does the term “actuarial assumptions” commonly refer to?  
+### What does the term “actuarial assumptions” commonly refer to?  
 - [ ] Short-term interest rate forecasts for equity markets.  
 - [ ] A client’s subjective risk tolerance.  
 - [x] Statistical estimates (e.g., mortality, morbidity) used in calculation of insurance products.  
@@ -240,7 +240,7 @@ By thoroughly assessing your client’s vulnerabilities and proactively planning
 
 > **Explanation:** Actuarial assumptions involve recognized statistical data predicting events like death or disability. They help insurers and pension plans set premiums and contributions.
 
-### 10. Stress testing and scenario analysis are optional steps in measuring risk for Canadian clients.  
+### Stress testing and scenario analysis are optional steps in measuring risk for Canadian clients.  
 - [ ] True  
 - [x] False  
 

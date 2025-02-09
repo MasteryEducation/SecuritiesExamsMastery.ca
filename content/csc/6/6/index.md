@@ -14,12 +14,12 @@ In addition to conventional government and corporate bonds, the Canadian fixed-i
 
 ---
 
-## 1. Floating Rate Notes (FRNs)
+## Floating Rate Notes (FRNs)
 
-### 1.1 Definition and Key Features
+### Definition and Key Features
 A Floating Rate Note (FRN) is a debt instrument whose coupon payments reset periodically based on a benchmark reference rate, such as the Canadian Dealer Offered Rate (CDOR) or the prime rate, plus a predetermined spread. This reset mechanism means that the coupon you receive can change frequently, often every three or six months. By design, FRNs reduce interest rate risk because their coupons adjust to reflect current market interest rates.
 
-### 1.2 How They Work
+### How They Work
 When you invest in an FRN, you initially purchase the security at par value or at a discount/premium, depending on market conditions. At each payment interval—let’s say every three months—the issuer recalculates the coupon by adding a fixed spread to the benchmark interest rate. The new rate applies to upcoming coupon payments until the next reset date.
 
 Below is a simplified visual diagram illustrating how an FRN’s coupon resets:
@@ -32,13 +32,13 @@ flowchart LR
     D --> E[Next Reset Cycle]
 ```
 
-### 1.3 Advantages and Disadvantages
+### Advantages and Disadvantages
 • Advantage: Reduced interest rate risk. Because the coupon rate adjusts regularly, FRNs are less sensitive to market rate fluctuations than traditional fixed-rate bonds.  
 • Advantage: Steady (though fluctuating) income stream. Investors receive regular coupon payments that track current rates, which can be beneficial in a rising interest rate environment.  
 • Disadvantage: Limited upside if rates fall. When interest rates decrease, the coupon resets downward, potentially reducing the investor’s yield over time.  
 • Disadvantage: Credit risk. If the issuer’s credit profile deteriorates, the FRN’s value could also decline, especially if the spread does not adequately compensate for increased risk.
 
-### 1.4 Use Cases and Strategies
+### Use Cases and Strategies
 FRNs are particularly suitable for investors seeking:  
 • Protection against rising interest rates.  
 • Income that adjusts with the market.  
@@ -48,14 +48,14 @@ Canadian banks (such as TD and RBC) frequently issue FRNs, which can also be fou
 
 ---
 
-## 2. Zero-Coupon Bonds (Strip Bonds)
+## Zero-Coupon Bonds (Strip Bonds)
 
-### 2.1 Definition and Structure
+### Definition and Structure
 A Zero-Coupon Bond, or “strip bond,” is sold at a deep discount and does not pay periodic interest (coupons). Instead, the investor’s entire return comes from the bond’s appreciation from its discounted purchase price to its face value at maturity. Issuers may create strip bonds by literally separating (“stripping”) the coupon payments from the principal payment of a bond. The result is two sets of securities:  
 1. The principal portion, which pays no coupon and redeems at maturity.  
 2. Individual coupons, each of which can be sold separately and redeemed when the respective coupon date arrives.
 
-### 2.2 Pricing Mechanics
+### Pricing Mechanics
 The price of a zero-coupon bond depends primarily on:  
 • Time to maturity.  
 • Current interest rates.  
@@ -63,25 +63,25 @@ The price of a zero-coupon bond depends primarily on:
 
 Because there is no coupon income, zero-coupon bonds often have higher duration (i.e., they are more sensitive to changes in interest rates) than comparable coupon-paying bonds of the same maturity.
 
-### 2.3 Tax Implications
+### Tax Implications
 In Canada, even though no cash interest payments are received annually, zero-coupon bondholders with non-registered accounts generally must report and pay tax on the “accreted interest” each year. The Canada Revenue Agency (CRA) treats the annual increase in the bond’s value (based on an amortized cost method) as taxable interest income. For precise guidance, review the official CRA documentation on the tax treatment of zero-coupon bonds.
 
-### 2.4 Risk-Return Profile
+### Risk-Return Profile
 • Interest Rate Risk: Higher sensitivity to rate fluctuations because all cash flow is realized at maturity.  
 • Credit Risk: The risk that the issuer may default before maturity.  
 • Opportunity for Capital Appreciation: Because zero-coupon bonds trade at a discount, they can offer significant lump-sum gains at maturity. This makes them attractive for long-term goals, such as retirement planning through Registered Retirement Savings Plans (RRSPs), where interest income is tax-deferred.
 
-### 2.5 Real-World Example
+### Real-World Example
 Consider a 10-year zero-coupon bond with a face value of $1,000 purchased for $600. Over the next decade, it matures at $1,000, offering a $400 gain. Although the investor doesn’t receive periodic interest, they must account, for tax purposes, for the proportion of the accrued gain each year (unless held in a tax-deferred or tax-free account like an RRSP or TFSA).
 
 ---
 
-## 3. High-Yield Bonds (Junk Bonds)
+## High-Yield Bonds (Junk Bonds)
 
-### 3.1 Definition and Key Characteristics
+### Definition and Key Characteristics
 High-Yield Bonds, commonly referred to as “junk bonds,” are corporate bonds that carry a lower credit rating (below BBB- by S&P Global Ratings or DBRS Morningstar) and hence present higher default risk. In return for this increased risk, issuers must offer higher coupon rates to attract investors.
 
-### 3.2 Credit Ratings and Default Risk
+### Credit Ratings and Default Risk
 Credit rating agencies such as DBRS Morningstar, S&P Global Ratings, and Moody’s assess an issuer’s creditworthiness. A rating below investment grade indicates a potentially elevated risk of default. Investors can consult open-source platforms or academic research (e.g., SSRN) to review empirical studies on high-yield bond performance, assessing default rates and risk premia over time.
 
 Below is a simple chart illustrating how the risk and yield potential of different types of bonds often compare:
@@ -95,18 +95,18 @@ graph LR
     B -->|Higher Risk & Yield| C
 ```
 
-### 3.3 Benefits and Risks
+### Benefits and Risks
 • Potential for Higher Returns: High-yield bonds can offer substantially more interest income than investment-grade securities.  
 • Increased Credit Risk: The primary risk is default, which could cause significant losses.  
 • Market Liquidity Risk: In periods of market stress, high-yield bonds may be more difficult to sell at a fair price.  
 • Economic Sensitivity: High-yield issuers may be more vulnerable to economic downturns, further elevating credit risk.
 
-### 3.4 Portfolio Considerations
+### Portfolio Considerations
 High-yield bonds can serve as a diversification tool within fixed-income allocations, but investors should carefully weigh the enhanced credit risk. Portfolio managers often use high-yield bonds to boost total returns, especially in a low-interest-rate environment. However, during economic downturns, these bonds can experience greater price volatility and default risk.
 
 ---
 
-## 4. Comparing Key Features
+## Comparing Key Features
 
 The table below summarizes the defining characteristics, advantages, and main risks of FRNs, zero-coupon bonds, and high-yield bonds—providing a convenient reference for Canadian investors evaluating these instruments:
 
@@ -118,7 +118,7 @@ The table below summarizes the defining characteristics, advantages, and main ri
 
 ---
 
-## 5. Regulatory Considerations and Additional Resources
+## Regulatory Considerations and Additional Resources
 
 • The Canada Revenue Agency (CRA) provides official guidelines for the annual accrual taxation of zero-coupon bonds and other debt instruments. Consult the CRA website (canada.ca) for the latest documentation and bulletins.  
 • Rating agencies (DBRS Morningstar, S&P Global, Moody’s) publish extensive research on corporate default rates, essential reading for anyone interested in high-yield bonds.  
@@ -127,7 +127,7 @@ The table below summarizes the defining characteristics, advantages, and main ri
 
 ---
 
-## 6. Best Practices for Investors
+## Best Practices for Investors
 
 1. ► Evaluate Credit Quality: Look into the issuer’s fundamentals and the credit rating of the bond before investing.  
 2. ► Match Instruments with Objectives: Zero-coupon bonds may be ideal for long-term capital accumulation, while FRNs can be safer during rising rate cycles.  

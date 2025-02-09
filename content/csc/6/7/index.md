@@ -14,7 +14,7 @@ Bond quotes and ratings are essential tools for evaluating fixed-income investme
 
 ---
 
-### 6.7.1 Understanding Bond Quotes
+### Understanding Bond Quotes
 
 Bond quotes represent the current market price and other essential data you need when evaluating or trading a fixed-income security. These quotes typically appear on financial data platforms such as Bloomberg, Refinitiv Eikon, or online brokerage sites. While each platform has its design, most bond quote displays include the following core components:
 
@@ -39,7 +39,7 @@ Bond quotes represent the current market price and other essential data you need
 
 ---
 
-### 6.7.2 Clean Price vs. Dirty Price
+### Clean Price vs. Dirty Price
 
 When you see a bond priced on a financial platform (e.g., quoted as 99.50), that quote typically reflects the **clean price**. The clean price excludes any accrued interest the seller is owed since the last coupon payment. However, when you purchase a bond, you actually pay the **dirty price**, which is:
 
@@ -63,7 +63,7 @@ Understanding the distinction between clean and dirty prices is crucial for both
 
 ---
 
-### 6.7.3 Credit Rating Systems
+### Credit Rating Systems
 
 A bond’s credit rating reflects the issuer’s ability to meet its financial obligations. Ratings are typically assigned by recognized credit rating agencies, including DBRS Morningstar, Standard & Poor’s (S&P), and Moody’s Investor Services. In Canada, DBRS Morningstar is widely referenced, but many global investors also rely on S&P and Moody’s scales for comparative context.
 
@@ -82,7 +82,7 @@ Investment-grade ratings generally start from AAA (highest quality) to BBB- (i.e
 
 ---
 
-### 6.7.4 Effect of Rating Upgrades and Downgrades
+### Effect of Rating Upgrades and Downgrades
 
 Credit rating agencies frequently review issuers and update ratings as new financial data emerges or sector-wide changes occur. When a bond’s credit rating is upgraded, its perceived default risk decreases, often leading to a price increase and a corresponding yield decrease.
 
@@ -90,7 +90,7 @@ Conversely, a downgrade signals heightened credit risk. Investors may sell the b
 
 ---
 
-### 6.7.5 Benchmark Indices for Bonds
+### Benchmark Indices for Bonds
 
 To measure how well a bond or bond portfolio is performing, investors often compare the yield or total return against a relevant benchmark index. In Canada, the most commonly referenced benchmark is the **FTSE Canada Universe Bond Index**, which covers a broad spectrum of Canadian investment-grade bonds. Other specialized indices track specific market segments, such as:
 
@@ -104,7 +104,7 @@ These indices serve as reference points:
 
 ---
 
-### 6.7.6 Putting It All Together: A Canadian Example
+### Putting It All Together: A Canadian Example
 
 Imagine you access a financial terminal like Bloomberg or Refinitiv Eikon to review a recently issued Government of Canada bond quote. You see:
 
@@ -124,7 +124,7 @@ Since this is a Government of Canada bond, it likely has a top-tier credit ratin
 
 ---
 
-### 6.7.7 Best Practices for Reading Quotes and Ratings
+### Best Practices for Reading Quotes and Ratings
 
 1. **Validate Sources**: Use reputable data providers. Check at least two sources to confirm accuracy.  
 2. **Check Features**: Always verify if a bond is callable, putable, or convertible. Special features interact with market dynamics and can drastically alter returns.  
@@ -135,7 +135,7 @@ Since this is a Government of Canada bond, it likely has a top-tier credit ratin
 
 ---
 
-### 6.7.8 Summary
+### Summary
 
 Bond quotes provide crucial market data—price, yield, coupon, maturity date, and special features. However, understanding whether that price is clean or includes accrued interest is essential in determining the actual cost. Credit ratings serve as a compass for evaluating credit risk, guiding both institutional and retail investors in asset allocation. An upgrade usually supports higher bond prices and lower yields, whereas a downgrade triggers the opposite trend. Finally, benchmark indices such as the FTSE Canada Universe Bond Index help measure performance in comparison to the broader Canadian bond market.
 
@@ -143,7 +143,7 @@ This concludes Chapter 6, which introduces the foundational concepts of fixed-in
 
 ---
 
-### 6.7.9 Glossary
+### Glossary
 
 • **Clean Price** – The bond price quoted in the market that does not factor in accrued interest.  
 • **Dirty Price (Full Price)** – The actual purchase price of a bond (Clean Price + Accrued Interest).  

@@ -20,9 +20,9 @@ This section provides a comprehensive look at:
 
 ---
 
-## 1. Understanding Powers of Attorney
+## Understanding Powers of Attorney
 
-### 1.1 Definition and Purpose
+### Definition and Purpose
 
 A Power of Attorney (POA) is a legal instrument used to appoint an individual—referred to as the “attorney” or “agent”—to make decisions on behalf of another individual, known as the “grantor” or “donor.” The POA ensures that financial, property, and in some cases personal care decisions can be executed properly if the grantor becomes mentally or physically unable to act independently.
 
@@ -31,7 +31,7 @@ Under Canadian law, each province has its own legislation governing the creation
 • The document must clearly outline the powers granted to the attorney.  
 • The attorney must act within the boundaries of those powers and in the best interests of the grantor.
 
-### 1.2 Types of Powers of Attorney
+### Types of Powers of Attorney
 
 There are typically two major categories:
 
@@ -43,7 +43,7 @@ There are typically two major categories:
    - Authorizes the attorney to make personal care and health-related decisions.  
    - May pertain to daily living arrangements, choice of healthcare providers, and other non-financial matters.
 
-### 1.3 Continuing or Enduring Power of Attorney vs. General Power of Attorney
+### Continuing or Enduring Power of Attorney vs. General Power of Attorney
 
 • Continuing (or Enduring) Power of Attorney:  
   - Remains effective even if the grantor loses mental capacity.  
@@ -57,7 +57,7 @@ The distinction is critical for estate planning. If a general POA is chosen and 
 
 ---
 
-## 2. Importance of Early Preparation
+## Importance of Early Preparation
 
 A POA can only be validly granted when the individual is mentally capable. Clients who procrastinate in creating a POA run the risk of waiting until they are already unwell or incapacitated, at which point they lack the legal capacity to grant a POA. Early preparation facilitates:
 
@@ -67,9 +67,9 @@ A POA can only be validly granted when the individual is mentally capable. Clien
 
 ---
 
-## 3. Living Wills (Advance Health Care Directives)
+## Living Wills (Advance Health Care Directives)
 
-### 3.1 Definition and Scope
+### Definition and Scope
 
 A Living Will or Advance Health Care Directive is a written statement expressing an individual’s preferences regarding medical treatment, end-of-life care, and life support measures if they become terminally ill or permanently unconscious and are incapable of communicating. While the specific terminology varies by province, the following core elements remain consistent:
 
@@ -77,13 +77,13 @@ A Living Will or Advance Health Care Directive is a written statement expressing
 • Guides healthcare professionals and caregivers when the individual cannot speak or make decisions.  
 • Reduces family conflicts by clearly documenting the individual’s choices regarding heroic measures or life support.
 
-### 3.2 Why Establish an Advance Health Care Directive
+### Why Establish an Advance Health Care Directive
 
 Living Wills mitigate the uncertainty and stress family members face when critical medical decisions are required. By outlining the client’s wishes in advance, doctors and family members have a concrete framework to follow, making it less likely that disagreements will arise. For instance, if a client explicitly states that they do not wish to remain on mechanical ventilation if there is no reasonable chance of recovery, medical professionals can act based on that directive.
 
 ---
 
-## 4. Role of Financial Planners in Guiding Clients
+## Role of Financial Planners in Guiding Clients
 
 Financial planners provide a vital layer of support by advising clients on the financial ramifications of their choice of attorney and the management of Living Wills. Specifically, financial planners can:
 
@@ -105,19 +105,19 @@ Financial planners provide a vital layer of support by advising clients on the f
 
 ---
 
-## 5. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 5.1 Scenario: Managing a Complex Portfolio
+### Scenario: Managing a Complex Portfolio
 
 Mr. Singh, a retiree with a well-diversified investment portfolio held at RBC Online Brokerage, wants to ensure continuity of his financial affairs. He appoints his daughter under a Continuing Power of Attorney for Property. Because she has a strong background in finance, she can handle complex tasks, such as rebalancing his equity holdings or rolling over GICs upon maturity. Should Mr. Singh develop severe cognitive impairment, the POA ensures his investments continue to be prudently managed without delay.
 
-### 5.2 Scenario: Health Care Directive in Action
+### Scenario: Health Care Directive in Action
 
 Ms. Tremblay prepares a Living Will that explicitly asks her healthcare providers to avoid invasive treatments if her medical team deems that she has no chance of meaningful recovery. She shares this directive with her family doctor and her adult children. Upon a sudden stroke that leaves her incapacitated, the hospital refers to her directive. Her children do not face agonizing decisions regarding life-sustaining procedures because Ms. Tremblay’s instructions are clear.
 
 ---
 
-## 6. Step-by-Step Guidance for Setting Up a POA and Living Will
+## Step-by-Step Guidance for Setting Up a POA and Living Will
 
 Below is a simplified model illustrating the process:
 
@@ -159,16 +159,16 @@ flowchart TB
 
 ---
 
-## 7. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 7.1 Best Practices
+### Best Practices
 
 • Start Early: Clients should create a POA and Living Will before age-related health issues or serious illnesses arise.  
 • Align Roles with Competencies: Select someone who has the skills, trustworthiness, and availability to carry out the role effectively.  
 • Reflect and Update: Regular reviews (e.g., every few years or after significant life events) ensure that the documents remain up to date.  
 • Seek Professional Advice: Encourage collaboration between financial planners, lawyers, and tax professionals to optimize results.
 
-### 7.2 Common Pitfalls
+### Common Pitfalls
 
 • Failing to Differentiate POA Types: Using a general POA when a continuing POA is needed can lead to invalidation upon incapacity.  
 • Poor Communication: Surprising family members with a POA or Living Will at a crisis point can trigger conflicts.  
@@ -177,7 +177,7 @@ flowchart TB
 
 ---
 
-## 8. References and Additional Resources
+## References and Additional Resources
 
 • Government of Canada – Info on Planning for Incapacity:  
   https://www.canada.ca/en/financial-consumer-agency/services/estate-planning  

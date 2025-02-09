@@ -14,7 +14,7 @@ A well-defined code of ethics is the cornerstone of trust in the financial servi
 
 ---
 
-### 1. Purpose of a Code of Ethics
+### Purpose of a Code of Ethics
 
 In wealth management and other areas of finance, ethical conduct underpins public confidence and long-term client relationships. A formal code of ethics does the following:
 
@@ -32,7 +32,7 @@ In wealth management and other areas of finance, ethical conduct underpins publi
 
 ---
 
-### 2. Common Principles in Codes of Ethics
+### Common Principles in Codes of Ethics
 
 Across various financial bodies—ranging from CIRO (Canadian Investment Regulatory Organization) to FP Canada—codes of ethics often share core tenets:
 
@@ -53,7 +53,7 @@ Across various financial bodies—ranging from CIRO (Canadian Investment Regulat
 
 ---
 
-### 3. Adaptation to New Challenges
+### Adaptation to New Challenges
 
 The dynamic nature of finance requires continuous revisions and updates to ethical codes. New arenas such as fintech and digital assets introduce fresh ethical dimensions—from data privacy and cybersecurity to algorithmic biases and robo-advisory conflicts of interest.
 
@@ -64,7 +64,7 @@ The dynamic nature of finance requires continuous revisions and updates to ethic
 
 ---
 
-### 4. Enforcement Mechanisms
+### Enforcement Mechanisms
 
 Regulatory bodies and professional organizations employ disciplinary processes to maintain ethical standards:
 
@@ -93,7 +93,7 @@ This flowchart highlights how allegations move through a regulatory or professio
 
 ---
 
-### 5. Cultural Sensitivity and Diversity
+### Cultural Sensitivity and Diversity
 
 As Canada remains culturally and ethnically diverse, codes of ethics reflect the imperative for inclusive practices. Modern wealth managers often serve clients from diverse backgrounds, so they must:
 
@@ -103,7 +103,7 @@ As Canada remains culturally and ethnically diverse, codes of ethics reflect the
 
 ---
 
-### 6. Step-by-Step Guidance for Implementing a Code of Ethics
+### Step-by-Step Guidance for Implementing a Code of Ethics
 
 1. **Draft Clear Principles**: Start with broad ideals—integrity, objectivity, confidentiality, professionalism, and due diligence—then adapt them to your firm’s specific angles.  
 2. **Consult Stakeholders**: Involve advisors, compliance officers, and, if feasible, client representatives to ensure the code is grounded in real-world experience.  
@@ -114,7 +114,7 @@ As Canada remains culturally and ethnically diverse, codes of ethics reflect the
 
 ---
 
-### 7. Practical Examples and Case Studies
+### Practical Examples and Case Studies
 
 1. **Case Study: Conflict of Interest in Investment Recommendations**  
    A financial planner at a major Canadian institution such as TD is approached by a fund manager offering higher commissions for promoting a specific mutual fund. The planner’s code of ethics clearly states that client interests come first. Despite potential personal gain, the advisor must recommend the investment only if it legitimately serves the client’s objectives and risk tolerance.
@@ -124,7 +124,7 @@ As Canada remains culturally and ethnically diverse, codes of ethics reflect the
 
 ---
 
-### 8. Resources and Recommended Readings
+### Resources and Recommended Readings
 
 Below are some official and professional sources that detail ethical standards and offer frameworks for Canadian financial professionals:
 
@@ -147,7 +147,7 @@ Additionally, open-source financial tools (such as spreadsheet software like Lib
 
 ---
 
-### 9. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 **Best Practices**  
 • Keep the code visible to all stakeholders: employees, clients, and partners.  
@@ -161,7 +161,7 @@ Additionally, open-source financial tools (such as spreadsheet software like Lib
 
 ---
 
-### 10. Summary
+### Summary
 
 A robust code of ethics guides wealth management professionals in fulfilling their fiduciary duties, safeguarding client assets, and preserving trust in Canada’s financial industry. Ethical principles such as integrity, objectivity, confidentiality, professional competence, and due diligence remain critical amid ever-evolving market conditions, regulatory shifts, and automation trends. By understanding these principles, applying them in daily practice, and remaining alert to new challenges, financial planners can uphold the highest standards of professionalism and protect the interests of their clients.
 

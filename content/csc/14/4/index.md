@@ -14,16 +14,16 @@ Preferred shares occupy a middle ground between equities and fixed-income securi
 
 ---
 
-## 1. Understanding the Nature and Features of Preferred Shares
+## Understanding the Nature and Features of Preferred Shares
 
-### 1.1 What Are Preferred Shares?
+### What Are Preferred Shares?
 Preferred shares (often referred to simply as “preferreds”) are a distinct class of corporate ownership that offers investors priority claim over common shareholders in two critical areas:  
 • Dividend payments (they generally receive dividends before common shareholders).  
 • Distribution of assets in the event of corporate liquidation (though still below bondholders).
 
 Because of their unique position in the capital structure, preferred shares often trade with yield characteristics similar to bonds, while maintaining some equity-like features, particularly if they are convertible into common shares or if their payouts can fluctuate.
 
-### 1.2 Key Features of Preferred Shares
+### Key Features of Preferred Shares
 Below are some essential features that define preferred shares:
 
 • Dividend Priority: Preferred shareholders are paid dividends before any dividends are paid to common shareholders.  
@@ -33,28 +33,28 @@ Below are some essential features that define preferred shares:
 
 ---
 
-## 2. Types of Preferred Shares
+## Types of Preferred Shares
 
 Many types of preferred shares exist in Canada, each with distinct risk and reward profiles. Understanding the nuances is crucial for matching the right preferred shares to an investor’s strategy and risk tolerance.
 
-### 2.1 Cumulative vs. Non-Cumulative Preferreds
+### Cumulative vs. Non-Cumulative Preferreds
 • Cumulative: If dividends are missed or cut due to the issuer’s financial difficulties, the skipped dividends accrue and must be paid in full before common shareholders can receive dividends again. This structure provides a degree of protection to preferred shareholders, as it guarantees the eventual payment of missed dividends (subject to the issuer’s viability).  
 • Non-Cumulative: If the issuer suspends or skips a dividend, non-cumulative preferred shareholders have no claim to missed payments. Thus, these are riskier from a dividend stability perspective.
 
-### 2.2 Convertible vs. Non-Convertible Preferreds
+### Convertible vs. Non-Convertible Preferreds
 • Convertible: These can be converted into a specified number of common shares at certain dates or under certain conditions. Convertibility can provide substantial upside if the underlying common stock appreciates significantly. However, the conversion terms must be carefully examined, including conversion ratios and exchange conditions.  
 • Non-Convertible: Provide no opportunity to convert into common shares, thus offering fewer avenues for capital appreciation. Their main appeal lies in stable dividend income and a generally more predictable risk profile.
 
-### 2.3 Retractable, Callable, and Perpetual Preferreds
+### Retractable, Callable, and Perpetual Preferreds
 • Retractable Preferreds: Give shareholders the right to “put” (sell) the shares back to the issuer at predetermined times and prices. This feature may protect the investor if interest rates rise or the share price declines.  
 • Callable Preferreds: Grant the issuer the right to buy back (or “call”) the shares before maturity, often at a premium to par value. Issuers typically exercise this right when interest rates fall, allowing them to refinance at lower costs.  
 • Perpetual Preferreds: Have no maturity date. Investors must gauge whether the dividend yield compensates for potentially indefinite interest rate risk.
 
 ---
 
-## 3. Evaluating Creditworthiness and Default Risk
+## Evaluating Creditworthiness and Default Risk
 
-### 3.1 Issuer’s Overall Creditworthiness
+### Issuer’s Overall Creditworthiness
 While preferred shares stand ahead of common equity in the capital structure, they remain subordinate to debt obligations such as bonds. Thus, an issuer’s overall credit rating is one of the most critical metrics in determining the default risk. Canadian banks, such as RBC or TD, typically have high credit ratings, reflecting more stable dividend streams. Meanwhile, a smaller, more volatile corporation might carry a lower rating, implying higher default risk and potentially higher yields.
 
 #### Key Sources of Credit Ratings  
@@ -62,9 +62,9 @@ Agencies including DBRS Morningstar, S&P Global Ratings, and Fitch Ratings asses
 
 ---
 
-## 4. Dividend Coverage and Financial Strength
+## Dividend Coverage and Financial Strength
 
-### 4.1 Dividend Coverage Ratio
+### Dividend Coverage Ratio
 The reliability of preferred dividends often hinges on the issuer’s cash flow. One common measure is the dividend coverage ratio, which can be simplified as:
 
 {{< katex >}}
@@ -79,7 +79,7 @@ Some analysts focus primarily on preferred share dividends to get a more conserv
 
 A strong coverage ratio suggests the issuer has sufficient income to consistently meet its dividend obligations on preferred shares. However, always read the issuer’s financial statements in detail—particularly the statement of cash flows—to confirm whether earnings translate into actual cash.
 
-### 4.2 Free Cash Flow Analysis
+### Free Cash Flow Analysis
 Many confine themselves to net earnings but ignore cash flows. An issuer might appear profitable, but if cash flow is constrained (due to high capital expenditures, for instance), maintaining dividend payments can become challenging. Look into:  
 • Operational cash flow vs. total dividends.  
 • Capital expenditures (CapEx) and debt service obligations.  
@@ -87,25 +87,25 @@ Many confine themselves to net earnings but ignore cash flows. An issuer might a
 
 ---
 
-## 5. Tax Considerations for Canadian Investors
+## Tax Considerations for Canadian Investors
 
-### 5.1 Dividend Tax Credit
+### Dividend Tax Credit
 In Canada, dividends from eligible Canadian corporations often qualify for the dividend tax credit, reducing an investor’s effective tax rate compared to interest income. Investors in higher tax brackets may benefit substantially from this credit. Consult the Canada Revenue Agency (CRA) website (https://www.canada.ca/en/revenue-agency.html) for details on how the dividend tax credit applies in your province.
 
-### 5.2 RRSP, TFSA, and Other Tax-Sheltered Accounts
+### RRSP, TFSA, and Other Tax-Sheltered Accounts
 Preferred share dividends within Registered Retirement Savings Plans (RRSPs) or Tax-Free Savings Accounts (TFSAs) can reduce or eliminate immediate tax liability, allowing the dividend income to compound. For instance, if you hold preferred shares of a major Canadian bank inside your TFSA, dividend income and capital gains are free from tax, potentially improving net returns.
 
-### 5.3 Provincial Variations
+### Provincial Variations
 Each province may have different surtaxes or dividend tax credits. For example, Ontario and Quebec have distinct rates. Ensure that you verify how your province’s tax structure affects the net yield.
 
 ---
 
-## 6. Yield and Risk Trade-Offs
+## Yield and Risk Trade-Offs
 
-### 6.1 Comparing Preferred Yields to Bonds
+### Comparing Preferred Yields to Bonds
 Preferred shares typically offer higher yields than the same issuer’s bonds. This occurs because, despite the dividend priority over common shares, preferred shareholders still rank behind bondholders in a default scenario.
 
-### 6.2 Price Volatility and Liquidity
+### Price Volatility and Liquidity
 Preferred share prices can be more volatile than bonds because of:  
 • Reduced trading liquidity.  
 • Greater susceptibility to equity market sentiment.  
@@ -115,20 +115,20 @@ Still, preferred shareholders may experience fewer price fluctuations than commo
 
 ---
 
-## 7. Interest Rate Sensitivity
+## Interest Rate Sensitivity
 
-### 7.1 Fixed-Rate Preferred Shares
+### Fixed-Rate Preferred Shares
 Fixed-rate perpetual preferreds can exhibit significant interest rate risk. When interest rates rise, the market price of these shares often falls because their fixed dividends become less attractive relative to prevailing yields.
 
-### 7.2 Rate-Reset Preferred Shares
+### Rate-Reset Preferred Shares
 Many Canadian issuers offer rate-reset preferred shares, where the dividend is periodically reset based on a benchmark (such as the 5-year Government of Canada bond yield) plus a stated spread. This mechanism reduces interest rate risk relative to strictly perpetual fixed-rate preferreds, though the spread and reset date remain crucial details.
 
-### 7.3 Floating-Rate Preferred Shares
+### Floating-Rate Preferred Shares
 Dividend rates may float with short-term benchmarks. These shares can have lower price volatility in a rising interest rate environment. However, in a declining rate environment, floating-rate dividends decrease, which might reduce the share’s appeal.
 
 ---
 
-## 8. Practical Example: Evaluating a Hypothetical Preferred Share from a Canadian Bank
+## Practical Example: Evaluating a Hypothetical Preferred Share from a Canadian Bank
 
 Suppose RBC (a fictional example for illustration) issues a perpetual non-cumulative preferred share with a 5% annual dividend. You want to evaluate whether this is suitable for your portfolio. Here is a step-by-step approach:
 
@@ -141,7 +141,7 @@ Suppose RBC (a fictional example for illustration) issues a perpetual non-cumula
 
 ---
 
-## 9. Step-by-Step Guidance for Evaluating Preferred Shares
+## Step-by-Step Guidance for Evaluating Preferred Shares
 
 Below is a simplified process diagram for assessing a preferred share’s investment quality:
 
@@ -167,7 +167,7 @@ flowchart TB
 
 ---
 
-## 10. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 • Best Practices:  
   1. Regularly Monitor Credit Trends: Issue downgrades often precede dividend cuts.  
@@ -183,7 +183,7 @@ flowchart TB
 
 ---
 
-## 11. References and Additional Resources
+## References and Additional Resources
 
 • Credit Rating Agencies:  
   – DBRS Morningstar: https://www.dbrsmorningstar.com/  

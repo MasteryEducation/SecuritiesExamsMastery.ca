@@ -16,7 +16,7 @@ Choosing the right fund management style is crucial for Canadian investors seeki
 
 ---
 
-## 1. Active Management
+## Active Management
 
 Active management involves deep research and continuous monitoring of the market to select securities believed to be undervalued or offering strong growth potential. Fund managers aim to outperform a chosen benchmark, such as the S&P/TSX Composite Index, using various tools:
 
@@ -30,7 +30,7 @@ Active management involves deep research and continuous monitoring of the market
 • Searches for trend lines, support/resistance levels, and chart patterns to make short-term or long-term predictions.  
 • May complement fundamental analysis by aiding in timing entry and exit points.
 
-### 1.3 Potential Benefits and Challenges
+### Potential Benefits and Challenges
 
 • Potential for Outperformance: By carefully selecting investments, an experienced fund manager may beat the market benchmark.  
 • Higher Fees: Active funds often incur higher fees (MERs) to compensate for research and portfolio turnover.  
@@ -44,7 +44,7 @@ Active management involves deep research and continuous monitoring of the market
 
 ---
 
-## 2. Passive Management
+## Passive Management
 
 Passive management, often known as index investing, involves mirroring the composition of a specific market index, such as the S&P/TSX Composite Index or the S&P 500 (for Canadian investors with U.S. exposure). The goal is to match the market’s performance rather than beat it.
 
@@ -79,7 +79,7 @@ In this simplified flowchart:
 
 ---
 
-## 3. Quantitative (Quant) Strategies
+## Quantitative (Quant) Strategies
 
 Quantitative strategies employ complex algorithms, mathematical models, and vast data sets to identify investment opportunities. By statistically analyzing historical market data, quants attempt to uncover patterns or factors that correlate with future performance.
 
@@ -100,7 +100,7 @@ Quantitative strategies employ complex algorithms, mathematical models, and vast
 
 ---
 
-## 4. Thematic Investing
+## Thematic Investing
 
 Thematic investing centers on macrolevel trends and structural shifts, targeting companies likely to benefit from emerging or ongoing developments. Themes might include:  
 • Climate change and clean energy solutions.  
@@ -125,18 +125,18 @@ Thematic investing centers on macrolevel trends and structural shifts, targeting
 
 ---
 
-## 5. Style-Based Funds
+## Style-Based Funds
 
 Style-based funds concentrate on specific investment styles (e.g., growth or value) that mirror a particular investment philosophy.
 
-### 5.1 Growth Funds
+### Growth Funds
 
 • Invest primarily in companies expected to experience above-average revenue or earnings growth.  
 • Often characterized by higher P/E ratios, as investors may be willing to pay a premium for robust future growth.  
 • Common in tech, biotech, or companies with disruptive business models.  
 • Might experience higher volatility because of the reliance on future earnings potential.
 
-### 5.2 Value Funds
+### Value Funds
 
 • Seek undervalued companies trading at a discount to their intrinsic value based on price-to-earnings, price-to-book, or other valuation metrics.  
 • Often look for stable, profitable companies that are temporarily out of favor with the market.  

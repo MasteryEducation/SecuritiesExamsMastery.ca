@@ -28,7 +28,7 @@ Below, we consider three main types of domestic contracts:
 Each form of contract has distinct characteristics and is used in different stages of a relationship. However, they share common requirements such as making full financial disclosure, ensuring voluntary consent, and avoiding fraud or coercion.
 
 -------------------------------------------------------------------------------
-### 1. Marriage Contracts (Prenuptial / Postnuptial Agreements)
+### Marriage Contracts (Prenuptial / Postnuptial Agreements)
 
 Many individuals think about marriage contracts as “prenups,” but a marriage contract can also be signed after the wedding—commonly referred to as a “postnuptial agreement.” These contracts detail how finances, property, and other assets will be handled should the marriage dissolve.
 
@@ -45,7 +45,7 @@ Many individuals think about marriage contracts as “prenups,” but a marriage
 Imagine a scenario where one spouse has a flourishing startup in Toronto valued at CAD 1.5 million. To protect this venture, the spouse may propose a prenuptial agreement that specifies the business remains separate property in case of a divorce. The contract can outline the proportion of any future appreciation of the business that the other spouse might be entitled to, thus providing predictability and fairness.
 
 -------------------------------------------------------------------------------
-### 2. Cohabitation Agreements
+### Cohabitation Agreements
 
 As more Canadians opt for common-law relationships without formal marriage, cohabitation agreements have grown in importance. Common-law couples in many provinces accrue certain rights and responsibilities over time, even without marriage. This can include the right to retirement support, property division, and other financial considerations.
 
@@ -62,7 +62,7 @@ As more Canadians opt for common-law relationships without formal marriage, coha
 Consider a professional couple living in Vancouver who buy a condo together but are not married. They wish to formalize how any appreciation or debts related to the condo would be divided should they break up. A cohabitation agreement clarifies each partner’s share of mortgage payments, ownership proportions, and future obligations, preventing disputes down the road.
 
 -------------------------------------------------------------------------------
-### 3. Separation Agreements
+### Separation Agreements
 
 A separation agreement is typically developed at the time of a relationship breakdown, whether for married spouses or common-law partners. It documents the agreed-upon approach to property division, spousal support, child custody, and other relevant matters. Once signed, separation agreements are often legally enforceable just like a court order, providing a structured resolution and possibly reducing the need for adversarial litigation.
 
@@ -110,13 +110,13 @@ flowchart LR
 
 While legal counsel ultimately drafts and finalizes the document, financial planners have a critical role in ensuring domestic contracts support the client’s wealth management objectives.
 
-#### 1. Financial Projection  
+#### Financial Projection  
 Advisors should provide scenarios that model how spousal support or property division provisions might affect a client’s net worth, cash flow, and monthly budgeting. For instance, employing spreadsheet applications, open-source financial modeling tools (like GNUCash or custom Monte Carlo simulators), or professional software helps in presenting multiple scenarios clearly and accurately.
 
-#### 2. Collaboration with Legal Professionals  
+#### Collaboration with Legal Professionals  
 Advisors should communicate and collaborate with family law lawyers, ensuring that all terms in the domestic contract align with broader financial plans. By sharing a detailed overview of the client’s asset allocation, retirement strategies, insurance coverage, and estate plan, advisors help lawyers craft agreements that are more robust and reflective of real-world financial positions.
 
-#### 3. Planning for Contingencies  
+#### Planning for Contingencies  
 Life events like unemployment, chronic illness, parental leaves, or economic downturns may affect a couple’s or partner’s financial obligations. Advisors should encourage clients to address these scenarios explicitly in the agreement. For instance, RBC or TD’s wealth management teams often project various “what-if” scenarios, including potential changes to investment returns or employment status. This helps ensure the domestic contract remains fair and adaptable over time.
 
 -------------------------------------------------------------------------------

@@ -16,7 +16,7 @@ Financial statements are critical tools for investors, analysts, and other stake
 
 ### Overview of the Three Primary Statements
 
-#### 1.1 Income Statement
+#### Income Statement
 Also referred to as the profit and loss statement (P&L), the Income Statement summarizes the company’s revenues, expenses, and net income (or net loss) over a specific reporting period (e.g., a quarter, semi-annual, or annual period). It allows investors to see the company’s operational performance and profitability. Key elements include:
 
 • Revenues (also called sales or turnover)  
@@ -28,7 +28,7 @@ Also referred to as the profit and loss statement (P&L), the Income Statement su
 
 Investors should pay special attention to large or unusual expenses—such as restructuring charges—that might distort the true underlying performance of the business. For example, a large Canadian bank like RBC may have one-time litigation costs or restructuring charges linked to realigning certain business segments. These costs can either inflate or deflate the net income in a given period.
 
-#### 1.2 Balance Sheet
+#### Balance Sheet
 A Balance Sheet provides a snapshot of a company’s financial position at a specific point in time. It outlines three main components:
 
 • Assets: What the company owns, such as cash, receivables, inventory, property, plant, and equipment (PPE), and intangible assets.  
@@ -37,7 +37,7 @@ A Balance Sheet provides a snapshot of a company’s financial position at a spe
 
 One significant aspect of analyzing the Balance Sheet is assessing the capital structure, including the mix of debt and equity financing. If a company (e.g., TD Bank) has too much leverage, it may face higher financial risk during economic downturns, as interest and principal repayments become more burdensome. Conversely, insufficient debt might indicate a conservative strategy that could limit growth potential.
 
-#### 1.3 Statement of Cash Flows
+#### Statement of Cash Flows
 The Statement of Cash Flows details how the company’s cash position changes over the reporting period. It segments cash flow activity into three categories:
 
 1. Operating Activities: Cash inflows and outflows related to day-to-day operations, such as revenue collection, payment of wages, and interest expenses.  
@@ -50,13 +50,13 @@ A robust cash flow from operating activities generally suggests the company is g
 
 ### Financial Reporting Standards and Disclosures
 
-#### 2.1 IFRS, ASPE, and Other Standards
+#### IFRS, ASPE, and Other Standards
 Majority of publicly traded Canadian companies adhere to IFRS, while private enterprises may follow ASPE if they do not report publicly. Companies that are cross-listed on U.S. exchanges (e.g., dual-listed RBC shares on the NYSE) might apply or reconcile to U.S. GAAP. Understanding which standards the firm follows is essential because measurement and recognition rules can vary, sometimes causing differences in reported profit or asset valuation.
 
-#### 2.2 Management Discussion & Analysis (MD&A)
+#### Management Discussion & Analysis (MD&A)
 The MD&A section often accompanies the financial statements in a company’s annual or quarterly report. It provides management’s perspective on financial results, including explanations for revenue growth, risk factors, significant changes to operational strategies, and future direction. MD&A can highlight one-time gains or losses, changes to accounting policies, or anticipated trends in the industry—crucial details that help clarify the financial statements.
 
-#### 2.3 Notes to the Financial Statements
+#### Notes to the Financial Statements
 Footnotes supply vital supplemental detail on accounting policies, contingent liabilities (e.g., pending lawsuits or environmental obligations), and significant events that have not yet impacted the financials but could in the future. For instance, a mining company’s note might disclose reclamation liabilities or newly discovered reserves that could alter its future asset base.
 
 ---
@@ -98,7 +98,7 @@ A balanced approach to financing—precise amounts of debt and equity—often su
 ### Assessing the Quality of Earnings
 Comparing net income on the Income Statement to cash flow from operations on the Statement of Cash Flows can reveal discrepancies. A company displaying robust earnings but weak operating cash flows may be employing aggressive revenue recognition or carrying significant unpaid receivables. Conversely, strong cash flows that exceed net income could signal conservative accounting practices or efficient working capital management.
 
-#### 6.1 Example: Evaluating a Canadian Bank
+#### Example: Evaluating a Canadian Bank
 Imagine RBC reports net income of $15 billion for the year, but operating cash flows only total $5 billion. This discrepancy might be attributable to timing differences in loan and credit card payments or changes in policy for loan loss provisions. By scrutinizing the MD&A and footnotes, analysts can piece together whether these differences are temporary or indicative of more concerning issues like credit quality deterioration.
 
 ---

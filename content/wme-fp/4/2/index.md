@@ -24,7 +24,7 @@ The Canadian financial landscape offers a variety of registered plans (e.g., RRS
 
 ## Core Concepts
 
-### 1. Present Value (PV)
+### Present Value (PV)
 
 Present Value (PV) is the current worth of a future sum of money or cash flow, determined by discounting the future amount with an appropriate interest or discount rate. Generally, the equation is:
 
@@ -40,7 +40,7 @@ Where:
 
 If you expect to receive a certain amount of money in the future, you can calculate how much you need to invest today at a particular rate of return to achieve that amount. For example, if you need \$10,000 in five years for a down payment on a car, you can calculate how much you should deposit today in a TFSA earning 5% annual interest, compounded yearly, to accomplish that future goal.
 
-### 2. Future Value (FV)
+### Future Value (FV)
 
 Future Value (FV) calculates the potential growth of a lump sum or a series of payments over a specified period at a given interest rate. The general formula for the future value of a single lump sum is:
 
@@ -50,13 +50,13 @@ Future Value (FV) calculates the potential growth of a lump sum or a series of p
 
 When dealing with multiple recurring payments (an annuity), the formula can be expanded to account for each contribution. This helps clients see how their recurring investments—such as monthly deposits to a Registered Retirement Savings Plan (RRSP)—will accumulate over time, given a specified rate of return.
 
-### 3. Discount Rate / Interest Rate
+### Discount Rate / Interest Rate
 
 The discount rate or interest rate is crucial in TVM calculations. It represents the expected rate of return used to discount future values back to the present or to project current amounts forward to the future. A higher discount rate reduces the present value of future money because it implies you can earn more on your capital if you invested it today.
 
 For instance, if markets are bullish, you might assume a higher nominal rate of return for your calculations. On the flip side, conservative clients may prefer using a lower rate to account for potential market volatility.
 
-### 4. Compounding
+### Compounding
 
 Compounding refers to earning or paying interest on both the principal (the initial sum) and on previously accumulated interest over time. The formula for compound growth over n compounding periods is:
 
@@ -97,7 +97,7 @@ Explanation:
 
 ## Applications in Financial Planning
 
-### 1. Retirement Planning
+### Retirement Planning
 
 Many Canadians depend on RRSPs, TFSAs, and employer pension plans to fund retirement. By using time value of money calculations:
 
@@ -105,7 +105,7 @@ Many Canadians depend on RRSPs, TFSAs, and employer pension plans to fund retire
 • Clients can see how changes—like contributing an additional \$100 a month—impact overall retirement savings.  
 • Sensitivity analysis shows how adjusting the assumed rate of return from 4% to 6% changes final retirement nest eggs.
 
-### 2. Debt Amortization
+### Debt Amortization
 
 Mortgages and other consumer loans rely on TVM to calculate amortization schedules. In mortgage planning:
 
@@ -113,7 +113,7 @@ Mortgages and other consumer loans rely on TVM to calculate amortization schedul
 • Clients can compare different amortization periods (e.g., 25 vs. 30 years) to see their total interest costs.  
 • They can also assess the impact of extra lump sum payments, which reduce outstanding principal and shorten the amortization schedule.
 
-### 3. Education Funding
+### Education Funding
 
 For parents aiming to fund their child’s post-secondary education, compounding becomes critical. When contributing to a Registered Education Savings Plan (RESP):
 
@@ -121,7 +121,7 @@ For parents aiming to fund their child’s post-secondary education, compounding
 • They consider government grants (e.g., Canada Education Savings Grant), further enhancing long-term compounding.  
 • The future value helps estimate if the child’s tuition and living expenses can be covered.
 
-### 4. Lump Sum vs. Annuity Choices
+### Lump Sum vs. Annuity Choices
 
 Clients sometimes face decisions about how to structure contributions:
 
@@ -134,7 +134,7 @@ Being able to articulate the difference in projected growth between a lump sum a
 
 ## Calculation Approaches
 
-### 1. Financial Calculators and Software
+### Financial Calculators and Software
 
 Professional advisors frequently rely on dedicated tools to handle TVM calculations:
 
@@ -142,7 +142,7 @@ Professional advisors frequently rely on dedicated tools to handle TVM calculati
 • Financial Planning Software: Comprehensive software packages integrate economic assumptions, expected rates of return, and even advanced Monte Carlo simulations.  
 • Excel, Google Sheets, LibreOffice Calc: Built-in functions such as =PV, =FV, =RATE, and =NPER allow quick modeling of various scenarios.
 
-### 2. Formulae and Tables
+### Formulae and Tables
 
 Traditional compound interest tables are still helpful for quick illustrations or to cross-check results. Advisors can also use the basic formulas:
 
@@ -163,7 +163,7 @@ Traditional compound interest tables are still helpful for quick illustrations o
 
 Where PMT = periodic payment.
 
-### 3. Sensitivity Analysis
+### Sensitivity Analysis
 
 Sensitivity analysis helps illustrate how changing variables (e.g., interest rates, contribution amounts, time horizon) impacts a financial plan:
 
@@ -174,7 +174,7 @@ Sensitivity analysis helps illustrate how changing variables (e.g., interest rat
 
 ## Real-Life Examples
 
-### 1. Comparing Investment Scenarios
+### Comparing Investment Scenarios
 
 Consider a client investing \$1,000 per month for 20 years:
 
@@ -183,7 +183,7 @@ Consider a client investing \$1,000 per month for 20 years:
 
 Even a 2% difference in annual returns over two decades can create tens of thousands of dollars in additional funds, illustrating the meaningful impact of small differences in interest rates or investment performance.
 
-### 2. Mortgage Prepayments
+### Mortgage Prepayments
 
 A client has a \$400,000 mortgage at 4% semi-annually compounded interest over 25 years:
 

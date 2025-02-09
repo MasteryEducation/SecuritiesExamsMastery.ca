@@ -14,7 +14,7 @@ This section addresses the legal and financial complexities involved in the divi
 
 --------------------------------------------------------------------------------
 
-### 1. Introduction
+### Introduction
 
 When spouses separate or divorce, determining how to divide assets is often one of the most contentious and complex processes. Canadian jurisdictions recognize that each partner contributed—financially or otherwise—to the accumulation of marital or family assets. Consequently, the law typically requires an equitable division or “equalization” of these assets.
 
@@ -22,11 +22,11 @@ On the other hand, certain assets, such as property belonging to one spouse prio
 
 --------------------------------------------------------------------------------
 
-### 2. Division of Family Property
+### Division of Family Property
 
 In most Canadian provinces, the legislation addressing family property relies on the principle that both spouses share equally in the financial gains made during the marriage. However, specifics can vary across provinces (for instance, in Ontario under the Family Law Act or in British Columbia under the Family Law Act of BC). Before working with clients, it is crucial to verify the jurisdiction-specific rules.
 
-#### 2.1 Identification of Family Assets
+#### Identification of Family Assets
 
 Family or matrimonial property generally encompasses:
 
@@ -37,7 +37,7 @@ Family or matrimonial property generally encompasses:
 • Pensions and Registered Plans: Workplace pensions and Registered Retirement Savings Plans (RRSPs).  
 • Other Investments: Security portfolios (stocks, bonds, mutual funds, or Exchange-Traded Funds), Tax-Free Savings Accounts (TFSAs), and other wealth accumulation vehicles.
 
-#### 2.2 Exclusions
+#### Exclusions
 
 While each province has its nuances, the following assets are commonly excluded:
 
@@ -48,7 +48,7 @@ While each province has its nuances, the following assets are commonly excluded:
 
 One complexity arises if excluded property (e.g., inherited funds) is used to purchase a matrimonial home, which often triggers different rules. Advisors must therefore help clients maintain clear records and documentation so they can trace the value and source of assets.
 
-#### 2.3 Impact on Retirement Plans
+#### Impact on Retirement Plans
 
 Retirement plans, including RRSPs, RPPs (Registered Pension Plans), pensions under the Canada Pension Plan (CPP), and other registered plans, can be split during a relationship breakdown.
 
@@ -60,15 +60,15 @@ Financial advisors should offer guidance to ensure that the division of retireme
 
 --------------------------------------------------------------------------------
 
-### 3. Valuation Methods
+### Valuation Methods
 
 Valuing assets at separation can be straightforward in the case of liquid investments traded on public markets. However, tangible property such as real estate or livestock on farmland and intangible property such as business interests require careful and sometimes specialized approaches.
 
-#### 3.1 Fair Market Value
+#### Fair Market Value
 
 For most real estate holdings, publicly traded securities, and standard vehicles, fair market value (FMV) is typically used. FMV represents the highest price an asset would fetch in an open market between informed and willing parties. In many provinces, the relevant date is the date of separation, though the law may specify a different date to reduce disputes.
 
-#### 3.2 Business Valuations
+#### Business Valuations
 
 When a family business or professional practice forms part of the matrimonial property, an external expert, such as a Chartered Business Valuator (CBV), may be required. Key factors influencing the valuation include:
 
@@ -79,7 +79,7 @@ When a family business or professional practice forms part of the matrimonial pr
 
 This process can be complex and time-consuming. Financial advisors, alongside legal professionals, must ensure that any valuation is conducted accurately and objectively, preserving the viability of the business while ensuring fairness to both parties.
 
-#### 3.3 Discounts or Offsets
+#### Discounts or Offsets
 
 In certain provinces, special exemptions or discounts may exist to address the needs of farmland or family businesses. Courts or mediators might consider:
 
@@ -91,18 +91,18 @@ Moreover, each province applies its own regulations regarding how farmland or bu
 
 --------------------------------------------------------------------------------
 
-### 4. Dispute Resolution Processes
+### Dispute Resolution Processes
 
 Although litigation is often assumed necessary for settling property disputes, alternative dispute resolution (ADR) methods, such as mediation or arbitration, can be faster and more cost-effective.
 
-#### 4.1 Mediation and Arbitration
+#### Mediation and Arbitration
 
 • Mediation: A neutral mediator assists the spouses in negotiations, encouraging them to find a mutually agreeable solution. Not legally binding unless formalized, but can pave the way for an amicable resolution.  
 • Arbitration: A neutral arbitrator reviews each spouse’s position and makes a binding decision. It is generally faster than litigation but might lack the full procedural safeguards of a court.
 
 Many financial advisors encourage mediation or arbitration first, particularly when valuations are not heavily contested or when spouses aim for a more collaborative resolution.
 
-#### 4.2 Litigation
+#### Litigation
 
 If mediation or arbitration fails or is not agreed upon, litigation in the court system remains the final option. Litigation can be lengthy and expensive, often causing significant emotional distress. By planning ahead with prenuptial or cohabitation agreements (collectively called domestic contracts), couples can reduce uncertainty, as courts may uphold these agreements if properly executed and considered fair.
 
@@ -120,7 +120,7 @@ flowchart LR
 
 --------------------------------------------------------------------------------
 
-### 5. Tax Implications
+### Tax Implications
 
 When spouses transfer property between themselves as part of a division, the transaction may be treated as a rollover, deferring any immediate capital gains. However, to qualify, the transfer must meet the Canada Revenue Agency (CRA) requirements under the Income Tax Act. Some key considerations:
 
@@ -134,11 +134,11 @@ Staying aligned with CRA guidelines is critical to avoid unwanted tax surprises.
 
 --------------------------------------------------------------------------------
 
-### 6. Role of the Financial Advisor
+### Role of the Financial Advisor
 
 Dividing property on relationship breakdown is a multi-faceted process. Financial advisors can be invaluable in navigating the complexities and ensuring each party is set up for long-term financial stability.
 
-#### 6.1 Asset Tracing and Organization
+#### Asset Tracing and Organization
 
 Advisors can help clients:
 
@@ -146,7 +146,7 @@ Advisors can help clients:
 • Gather statements, quotes, and valuations to support a fair settlement.  
 • Maintain meticulous records of all assets, especially gifts, inheritances, or property owned prior to marriage.
 
-#### 6.2 Short-Term vs. Long-Term Impact
+#### Short-Term vs. Long-Term Impact
 
 Divorce settlements can significantly alter retirement goals and estate plans. Advisors can model different asset division scenarios to project long-term outcomes:
 
@@ -154,7 +154,7 @@ Divorce settlements can significantly alter retirement goals and estate plans. A
 • Estate Implications: Updates to wills, beneficiary designations, and powers of attorney become paramount.  
 • Cash Flow: Post-separation, both parties need independent sources of income and liquidity to cover rent or mortgage in separate residences.
 
-#### 6.3 Cash Flow Management
+#### Cash Flow Management
 
 Financial advisors should evaluate how immediate or future cash needs might be impacted after separation:
 
@@ -164,7 +164,7 @@ Financial advisors should evaluate how immediate or future cash needs might be i
 
 --------------------------------------------------------------------------------
 
-### 7. Best Practices and Common Pitfalls
+### Best Practices and Common Pitfalls
 
 • Keep Detailed Records: Advisors should encourage clients to keep records of all major financial transactions, especially gifts, inheritances, or pre-marital property.  
 • Seek Expert Valuations: If the family business or certain real estate holdings are significant, enlist a credible business valuator or real estate appraiser.  
@@ -174,7 +174,7 @@ Financial advisors should evaluate how immediate or future cash needs might be i
 
 --------------------------------------------------------------------------------
 
-### 8. References and Additional Resources
+### References and Additional Resources
 
 • Provincial Legislation:  
   – Ontario’s Family Law Act  
@@ -197,7 +197,7 @@ Financial advisors should evaluate how immediate or future cash needs might be i
 
 --------------------------------------------------------------------------------
 
-### 9. Glossary
+### Glossary
 
 • **Matrimonial/Familial Property**: Assets and liabilities acquired during the marriage or cohabitation that are subject to division upon separation or divorce.  
 • **Valuation Date**: The legal date (often the date of separation) on which assets are valued for division.  

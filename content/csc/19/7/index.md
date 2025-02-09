@@ -92,19 +92,19 @@ Access to diversified holdings helps reduce unsystematic risk—risks associated
 
 ### Hedging and Risk Management
 
-#### 5.1 Currency-Hedged ETFs  
+#### Currency-Hedged ETFs  
 Canadian investors venturing into international markets often face currency risk. As the Canadian dollar fluctuates relative to foreign currencies (e.g., USD, EUR), the value of overseas investments can rise or fall independently of market performance. Currency-hedged ETFs mitigate this risk by using currency derivatives (forwards or futures) to lock in exchange rates.
 
 • **Benefit:** More stable returns in CAD terms if the chosen currency-hedged ETF is accurately managed.  
 • **Drawback:** Hedge might reduce potential currency gains if the Canadian dollar weakens, plus there are costs associated with hedging.
 
-#### 5.2 Inverse or Leveraged ETFs  
+#### Inverse or Leveraged ETFs  
 Inverse ETFs aim to replicate the *opposite* performance of a certain index. For instance, if the S&P/TSX Composite goes down by 1% on a given day, an inverse ETF might go up by about 1%. Leveraged ETFs attempt to magnify daily returns by factors of 2 or 3.
 
 • **Tactical Use:** Hedging or short-term speculation.  
 • **Risk:** Due to daily rebalancing, these products can diverge significantly from their stated objectives over longer periods.
 
-#### 5.3 Other Risk Management Techniques  
+#### Other Risk Management Techniques  
 • **Stop-Loss Orders:** Investors can predefine exit points to limit losses on ETF positions.  
 • **Option Strategies:** Covered calls or protective puts on ETF holdings can sometimes limit downside risk or generate additional income.
 

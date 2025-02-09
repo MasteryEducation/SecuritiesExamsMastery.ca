@@ -39,7 +39,7 @@ As the diagram shows, the process is continuous, with feedback loops ensuring th
 
 ---
 
-### 1. Client Discovery and Goal Setting
+### Client Discovery and Goal Setting
 
 The first step involves gathering the essential KYC (Know-Your-Client) information:
 - Basic personal details (name, date of birth, contact information, status of residency).  
@@ -62,7 +62,7 @@ Take a scenario where an RBC wealth advisor meets a client who has recently inhe
 
 ---
 
-### 2. Plan Development
+### Plan Development
 
 Once the advisor has gathered all relevant client information, the next step is crafting a clear, written roadmap. This plan typically covers:
 
@@ -85,7 +85,7 @@ Below is a more granular structure illustrating essential components of the plan
 
 ---
 
-### 3. Implementation
+### Implementation
 
 Implementation translates the written plan into specific actions. An advisor might:  
 - Recommend buying or selling particular funds or securities.  
@@ -101,7 +101,7 @@ A client with a modest risk tolerance and a 15-year horizon might be guided towa
 
 ---
 
-### 4. Ongoing Monitoring and Reporting
+### Ongoing Monitoring and Reporting
 
 Once implementation is underway, the advisor’s role shifts to continuous oversight. Market conditions evolve, new investment products emerge, and client circumstances change. Regular monitoring involves:
 
@@ -114,7 +114,7 @@ An advisor might apply open-source reporting or analytics solutions to simulate 
 
 ---
 
-### 5. Two-Way Feedback Loop
+### Two-Way Feedback Loop
 
 A successful client-advisor relationship thrives on communication. A two-way feedback loop ensures the plan remains relevant and updated when life events occur, such as:
 

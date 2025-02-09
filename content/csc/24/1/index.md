@@ -16,9 +16,9 @@ To effectively navigate this system, one must thoroughly understand how taxable 
 
 ---
 
-## 1. Key Components of Canada’s Taxation System
+## Key Components of Canada’s Taxation System
 
-### 1.1 Federal Income Tax Act and the Role of the CRA
+### Federal Income Tax Act and the Role of the CRA
 
 Canada’s tax laws are primarily derived from the federal Income Tax Act (ITA), a central piece of legislation outlining what is taxable, how it is taxed, and which deductions or credits are permissible. The Canada Revenue Agency (CRA) is the primary authority responsible for:
 
@@ -35,7 +35,7 @@ flowchart LR
     B -->|Provides Assessments<br>Issues Refunds/Benefits| A
 ```
 
-### 1.2 Provincial and Territorial Taxes
+### Provincial and Territorial Taxes
 
 Alongside federal income taxes, every province and territory has the authority to levy additional income taxes, typically calculated as a percentage of federal taxable income or through parallel provincial tax brackets. While the mechanics are broadly similar across different regions, specific rates, bracket thresholds, and credits vary. For instance:
 
@@ -45,9 +45,9 @@ Alongside federal income taxes, every province and territory has the authority t
 
 ---
 
-## 2. Personal Income Taxation
+## Personal Income Taxation
 
-### 2.1 The Progressive Tax Rate Structure
+### The Progressive Tax Rate Structure
 
 Canada employs a graduated (progressive) tax system for individuals. Tax rates rise as taxable income increases, ensuring that higher-income earners pay a larger proportion of their income in taxes relative to lower-income individuals. Personal income includes:
 
@@ -70,7 +70,7 @@ Below is a generalized example of how progressive (federal) tax brackets might l
 
 To this, you would add a province’s applicable rates. For instance, in Ontario, you might pay 5.05% on your first bracket of taxable income, rising as income increases. Therefore, an Ontarian taxpayer typically pays a combined rate (federal + provincial) on each income slice.
 
-### 2.2 Deductions and Credits
+### Deductions and Credits
 
 Both deductions and credits reduce your tax burden, but they do so differently:
 
@@ -84,7 +84,7 @@ Both deductions and credits reduce your tax burden, but they do so differently:
    • Charitable donation tax credits.  
    • GST/HST credit.  
 
-### 2.3 Employment Insurance and Pension Contributions
+### Employment Insurance and Pension Contributions
 
 In addition to income taxes, most Canadian workers pay into Employment Insurance (EI) and the Canada Pension Plan (CPP) or Québec Pension Plan (QPP). These are payroll taxes deducted at source by the employer:
 
@@ -95,9 +95,9 @@ Employers match or exceed certain portions of these contributions, effectively s
 
 ---
 
-## 3. Corporate Taxation
+## Corporate Taxation
 
-### 3.1 Types of Business Structures
+### Types of Business Structures
 
 When considering taxation, businesses in Canada can operate under multiple structures:
 
@@ -105,14 +105,14 @@ When considering taxation, businesses in Canada can operate under multiple struc
 2. **Partnership:** Each partner reports their share of partnership income or loss on their personal or corporate return (if incorporated).  
 3. **Corporation:** A separate legal entity that files its own tax return, pays corporate tax on net income, and distributes after-tax profits to shareholders (e.g., through dividends).
 
-### 3.2 Corporate Tax Rates
+### Corporate Tax Rates
 
 Corporate tax rates vary based on income type and the company’s provincial or territorial jurisdiction. In general:
 
 • **Small Business Deduction (SBD):** Qualified Canadian-controlled private corporations (CCPCs) benefit from reduced tax rates on active business income up to a specified limit.  
 • **Investment Income:** Generally taxed at higher rates than active business income to discourage the accumulation of passive investments inside corporations.  
 
-### 3.3 Compliance and Reporting Obligations
+### Compliance and Reporting Obligations
 
 Corporations must file T2 returns annually within six months of their fiscal year-end. For example, if a calendar-year-end is used (December 31), the filing deadline is typically June 30. Companies may also be required to remit monthly or quarterly instalment payments. Failure to submit returns or pay taxes on time results in penalties and accrued interest.
 
@@ -125,9 +125,9 @@ flowchart LR
 
 ---
 
-## 4. Self-Assessment and Compliance
+## Self-Assessment and Compliance
 
-### 4.1 Annual Filing Requirements
+### Annual Filing Requirements
 
 Under Canada’s self-assessment principle, taxpayers are expected to:
 
@@ -137,11 +137,11 @@ Under Canada’s self-assessment principle, taxpayers are expected to:
 
 Corporations typically have different deadlines as indicated above.
 
-### 4.2 Quarterly and Monthly Instalments
+### Quarterly and Monthly Instalments
 
 Certain individuals with large non-salaried or investment income may have to pay quarterly instalments. Likewise, corporations remitting large tax sums often pay in monthly or quarterly instalments. Failure to submit instalments can lead to instalment interest and penalties.
 
-### 4.3 Penalties and Interest
+### Penalties and Interest
 
 Penalties can be significant and are imposed for:
 
@@ -154,9 +154,9 @@ CRA calculates daily interest on outstanding tax amounts from the due date to th
 
 ---
 
-## 5. Practical Examples and Case Studies
+## Practical Examples and Case Studies
 
-### 5.1 Individual Tax Scenario
+### Individual Tax Scenario
 
 Lily, a web developer in Toronto, earned the following amounts in 2024:  
 • $70,000 in employment income.  
@@ -172,22 +172,22 @@ She contributed $5,000 to her RRSP. Her combined federal and provincial tax paya
 
 After all calculations, Lily remits her balance owing by April 30 of the following year.
 
-### 5.2 Corporate Tax Scenario
+### Corporate Tax Scenario
 
 GreenTech Inc., a Canadian-controlled private corporation, earns $400,000 in active business income from consulting services and an additional $20,000 in passive investment income. By claiming small business deductions and applying federal/provincial tax credits, its combined corporate tax rate on active income is effectively reduced, while the passive income portion is taxed at a higher rate. GreenTech files its T2 return within six months of its fiscal year-end and pays monthly instalments to manage its cash flow.
 
 ---
 
-## 6. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
-### 6.1 Best Practices
+### Best Practices
 
 • **Maintain Accurate Records:** Keep detailed accounting records, receipts, and statements to streamline tax filing and avoid errors.  
 • **Stay Current:** Regulatory changes to tax brackets, credits, or rules can impact the amount owed or savings opportunities.  
 • **Leverage Tax-Advantaged Accounts:** Maximize RRSP or TFSA (Tax-Free Savings Account) contributions and other registered instruments.  
 • **Hire Professionals When Necessary:** Complex tax situations may warrant a tax accountant or lawyer.
 
-### 6.2 Common Pitfalls
+### Common Pitfalls
 
 • **Missed Deadlines:** Late filing and payments trigger penalties and interest.  
 • **Incorrect Deductions or Credits:** Over-claiming or failing to claim relevant credits inadvertently leads to audits or missed opportunities.  
@@ -195,7 +195,7 @@ GreenTech Inc., a Canadian-controlled private corporation, earns $400,000 in act
 
 ---
 
-## 7. Additional Resources and References
+## Additional Resources and References
 
 • **CRA Official Website:**  
   Visit the CRA at [https://www.canada.ca/en/revenue-agency.html](https://www.canada.ca/en/revenue-agency.html) for detailed guidance, forms, filing deadlines, and information on credits and deductions.
@@ -213,7 +213,7 @@ GreenTech Inc., a Canadian-controlled private corporation, earns $400,000 in act
 
 ---
 
-## 8. Summary and Next Steps
+## Summary and Next Steps
 
 The Canadian taxation system is dynamic, reflecting evolving economic conditions and government revenue requirements. By understanding progressive tax rates, allowable deductions, credits, payroll contributions, and filing obligations, you are well-positioned to comply with and benefit from the available tax provisions.
 

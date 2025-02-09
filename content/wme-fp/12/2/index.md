@@ -14,7 +14,7 @@ The Old Age Security (OAS) program is a cornerstone of Canada’s social safety 
 
 ---
 
-## 1. Overview of Old Age Security (OAS)
+## Overview of Old Age Security (OAS)
 
 1. OAS is a non-contributory, government-sponsored program that provides a monthly pension to most Canadians aged 65 and older.  
 2. Because OAS is funded through general tax revenues, there is no direct payroll contribution or premium payment for this program (as is the case with CPP/QPP).  
@@ -24,13 +24,13 @@ From a wealth management perspective, OAS often serves as a baseline for retirem
 
 ---
 
-## 2. Eligibility Criteria
+## Eligibility Criteria
 
-### 2.1 Age Requirement
+### Age Requirement
 
 • To receive OAS, an individual must be at least 65 years of age.  
 
-### 2.2 Residency Requirement
+### Residency Requirement
 
 • Full OAS Pension: Requires 40 years of Canadian residency after the age of 18.  
 • Partial OAS Pension: Requires a minimum of 10 years of Canadian residency after the age of 18, but fewer than 40 years.  
@@ -45,20 +45,20 @@ flowchart LR
    B --> D[10 Years (min) = Partial OAS]
 ```
 
-### 2.3 Citizenship or Legal Status
+### Citizenship or Legal Status
 
 • Applicants must be Canadian citizens or legal residents (i.e., landed immigrants/permanent residents).  
 • If living outside Canada, different qualifying periods apply. Generally, recipients must have lived in Canada for at least 20 years after age 18 to receive benefits outside the country.
 
 ---
 
-## 3. OAS Pension Amounts and Clawbacks
+## OAS Pension Amounts and Clawbacks
 
-### 3.1 Basic OAS Pension Amount
+### Basic OAS Pension Amount
 
 The OAS pension is reviewed quarterly and indexed to the cost of living based on the Consumer Price Index (CPI). While the Government of Canada publishes updated rates regularly, the maximum monthly payment for those meeting the 40-year residency requirement typically runs a few hundred dollars.  
 
-### 3.2 The Clawback (OAS Recovery Tax)
+### The Clawback (OAS Recovery Tax)
 
 High-income OAS recipients must be aware of the OAS recovery tax, often called the “clawback.” This clawback reduces the OAS benefit when an individual’s net income exceeds a specific annual threshold (updated each tax year). Once your net income is high enough (approximately in the low-to-mid $80,000 range), the entire OAS benefit can be clawed back.  
 • The clawback effectively recovers some or all OAS payments from higher earners.  
@@ -68,7 +68,7 @@ Financial planners may employ strategies such as splitting pension income, caref
 
 ---
 
-## 4. Deferring OAS Benefits
+## Deferring OAS Benefits
 
 Although age 65 is the earliest starting point, OAS payments can be deferred up to age 70. For each month of deferral, the pension amount is increased by a set percentage, resulting in permanently larger monthly payments once commenced.  
 
@@ -80,39 +80,39 @@ A practical example:
 
 ---
 
-## 5. Guaranteed Income Supplement (GIS)
+## Guaranteed Income Supplement (GIS)
 
 The Guaranteed Income Supplement (GIS) is a non-taxable monthly benefit offered to low-income seniors who receive OAS and reside in Canada.  
 
-### 5.1 Eligibility Requirements
+### Eligibility Requirements
 
 • Must be receiving OAS;  
 • Must have annual income below a certain threshold, varying with marital status.  
 
 GIS aims to ensure that the most vulnerable Canadian retirees can cover essential living expenses. Since GIS is non-taxable, it can provide an effective safety net for seniors without stable or sizeable income sources.
 
-### 5.2 GIS Benefits and Calculation
+### GIS Benefits and Calculation
 
 • GIS amounts depend on whether the recipient is single, married, or common-law, and on combined household income.  
 • If recipients leave Canada for more than six months, GIS is generally discontinued.  
 
-### 5.3 Impact on Holistic Financial Planning
+### Impact on Holistic Financial Planning
 
 Although GIS can be a significant source of support, it also has an “income threshold” structure that can affect decisions about RRSP withdrawals, part-time work, or other forms of income. Even modest additional income might reduce GIS payments. Financial planners must consider strategies (such as delaying certain withdrawals) that preserve or maximize GIS benefits for qualifying clients.
 
 ---
 
-## 6. Allowance and Allowance for the Survivor
+## Allowance and Allowance for the Survivor
 
 The Government of Canada also provides complementary benefits—often called the “Allowance programs”—aimed at helping those aged 60 to 64 facing financial hardship.
 
-### 6.1 Allowance (Spouse or Common-Law Partner)
+### Allowance (Spouse or Common-Law Partner)
 
 • Available to low-income individuals (aged 60 to 64) whose spouse or common-law partner is an OAS pensioner eligible for GIS.  
 • The recipient must meet Canadian legal residence requirements.  
 • The amount is based on the combined income of the couple.
 
-### 6.2 Allowance for the Survivor
+### Allowance for the Survivor
 
 • Targeted at low-income individuals aged 60 to 64 whose spouse or common-law partner has died.  
 • Similar residency requirements apply.  
@@ -122,25 +122,25 @@ These Allowance programs bridge a potential income gap for individuals approachi
 
 ---
 
-## 7. Integration with Comprehensive Wealth Management
+## Integration with Comprehensive Wealth Management
 
-### 7.1 OAS as a Retirement Income Foundation
+### OAS as a Retirement Income Foundation
 
 In many retirement plans, OAS acts as a foundational layer of income security. When combined with CPP/QPP, employer-sponsored pensions, and personal savings, OAS helps stabilize an individual’s basic income needs in retirement.  
 
-### 7.2 Tax and Estate Considerations
+### Tax and Estate Considerations
 
 • High-income individuals might need careful planning to avoid or minimize clawbacks.  
 • Deceased spouses or partners can influence OAS-based allowances and survivor benefits; estate planning should account for these transitions to ensure survivors receive full entitlements.
 
-### 7.3 Investing Strategies and OAS Timing
+### Investing Strategies and OAS Timing
 
 • Financial planners often coordinate OAS deferral decisions with other income streams to optimize tax brackets and government benefits.  
 • Combining OAS deferral with other common strategies (e.g., partial RRSP-to-RRIF conversions at different ages) may produce beneficial outcomes that reduce tax liability and preserve GIS entitlements where relevant.
 
 ---
 
-## 8. Practical Example: Deferring OAS for Higher Lifetime Benefits
+## Practical Example: Deferring OAS for Higher Lifetime Benefits
 
 Consider a client, Mia, age 64, with a solid RRSP portfolio and an employer pension covering most of her living expenses. She wants to retire at 65. An advisor at RBC suggests evaluating whether to postpone OAS until age 70, as her other income sources may cover her needs between 65 and 70. By deferring OAS, Mia stands to receive a significantly higher monthly OAS amount for the rest of her life once she starts collecting at age 70.  
 
@@ -148,7 +148,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 ---
 
-## 9. Common Pitfalls and Best Practices
+## Common Pitfalls and Best Practices
 
 1. **Underestimating Clawbacks:** High-income earners sometimes overlook how OAS benefits can be reduced substantially by the recovery tax, potentially shifting the timing of RRSP withdrawals or other income sources.  
 2. **Ignoring Residency Rules:** Individuals who have spent significant time outside Canada must carefully track their residency years to ensure partial or full OAS eligibility.  
@@ -158,7 +158,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 ---
 
-## 10. Glossary
+## Glossary
 
 • **OAS Clawback (OAS Recovery Tax):** A reduction of OAS benefits for high-income recipients whose net income exceeds a specific threshold.  
 • **GIS (Guaranteed Income Supplement):** A non-taxable benefit designed to assist low-income retirees who receive OAS.  
@@ -167,7 +167,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 ---
 
-## 11. References and Further Resources
+## References and Further Resources
 
 • **Government of Canada – Old Age Security Program**  
   https://www.canada.ca/en/services/benefits/publicpensions.html  
@@ -191,7 +191,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 ---
 
-## 12. Key Takeaways
+## Key Takeaways
 
 1. Old Age Security is the largest and most inclusive pension program for seniors in Canada, funded by general tax revenues.  
 2. Eligibility is mainly determined by age (65+) and years of residency in Canada (a minimum of 10 years for a partial pension, 40 years for a full pension).  
@@ -206,7 +206,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 {{< quizdown >}}
 
-### 1. What is the primary funding source for the Old Age Security program? 
+### What is the primary funding source for the Old Age Security program? 
 - [x] General tax revenues of the Government of Canada 
 - [ ] Payroll contributions from employees 
 - [ ] Employer contributions 
@@ -216,7 +216,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 2. At what age can a Canadian resident begin receiving Old Age Security benefits if they do not choose deferral?
+### At what age can a Canadian resident begin receiving Old Age Security benefits if they do not choose deferral?
 - [ ] 60 
 - [x] 65 
 - [ ] 67 
@@ -226,7 +226,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 3. Which of the following is typically required to qualify for the full OAS pension?
+### Which of the following is typically required to qualify for the full OAS pension?
 - [ ] 10 years of residence in Canada after age 18  
 - [x] 40 years of residence in Canada after age 18  
 - [ ] 5 years of residence in Canada after age 18  
@@ -236,7 +236,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 4. Which factor determines whether an individual’s OAS benefits are reduced by the OAS recovery tax (clawback)?
+### Which factor determines whether an individual’s OAS benefits are reduced by the OAS recovery tax (clawback)?
 - [ ] Number of years in the workforce 
 - [ ] Size of CPP/QPP pension 
 - [x] Net income exceeding a legislated threshold 
@@ -246,7 +246,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 5. What is the main advantage of deferring OAS benefits beyond age 65?
+### What is the main advantage of deferring OAS benefits beyond age 65?
 - [ ] Lower taxes on other retirement income 
 - [x] Permanently higher monthly OAS benefits 
 - [ ] Qualification for GIS automatically 
@@ -256,7 +256,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 6. How does the Guaranteed Income Supplement (GIS) differ from regular OAS benefits?
+### How does the Guaranteed Income Supplement (GIS) differ from regular OAS benefits?
 - [ ] GIS is funded by private insurance companies 
 - [x] GIS is non-taxable, whereas OAS is taxable 
 - [ ] GIS eligibility strictly requires 40 years of Canadian residency 
@@ -266,7 +266,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 7. Which statement best describes the Allowance program?
+### Which statement best describes the Allowance program?
 - [ ] It is an allowance given to high-income seniors 
 - [x] It provides income support to individuals aged 60–64 whose spouse or partner receives OAS and GIS 
 - [ ] It is available only to survivors over age 70 
@@ -276,7 +276,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 8. What happens to GIS if a qualified recipient leaves Canada for more than six months?
+### What happens to GIS if a qualified recipient leaves Canada for more than six months?
 - [ ] It automatically increases 
 - [ ] It remains unaffected 
 - [ ] It is converted to the Allowance benefit 
@@ -286,7 +286,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 9. Which strategy could help reduce or avoid the OAS clawback for high-income retirees?
+### Which strategy could help reduce or avoid the OAS clawback for high-income retirees?
 - [x] Income splitting or strategic RRIF withdrawal planning 
 - [ ] Claiming GIS 
 - [ ] Reducing years in Canada 
@@ -296,7 +296,7 @@ However, her advisor also points out family medical history, personal longevity 
 
 
 
-### 10. When considering whether to defer OAS, which factor is most important for a retiree to evaluate?
+### When considering whether to defer OAS, which factor is most important for a retiree to evaluate?
 - [x] Personal life expectancy and overall financial circumstances 
 - [ ] Province of residence 
 - [ ] Whether they are single or married 

@@ -16,7 +16,7 @@ By the end of this chapter, you should have a clear understanding of the key pri
 
 ---------------------------------------------------------------------------------------------------
 
-## 1. Introduction
+## Introduction
 
 The trust placed in financial advisors, portfolio managers, and other securities professionals is critical to the proper functioning of the markets. In Canada, regulators such as the Canadian Investment Regulatory Organization (CIRO) and provincial securities commissions hold these professionals accountable through robust rules and oversight. Additionally, many firms implement their own codes of conduct and annual ethics training programs to reinforce a culture of integrity. 
 
@@ -24,7 +24,7 @@ This environment extends to all facets of the industry—from the advice given b
 
 ---------------------------------------------------------------------------------------------------
 
-## 2. Fundamental Ethical Principles
+## Fundamental Ethical Principles
 
 Financial professionals in Canada are expected to:
 1. Act with integrity, honesty, and fairness.  
@@ -41,7 +41,7 @@ A financial advisor at a large Canadian bank discovers a new product offering hi
 
 ---------------------------------------------------------------------------------------------------
 
-## 3. Know Your Client (KYC) and Suitability
+## Know Your Client (KYC) and Suitability
 
 At the heart of ethical conduct are the principles of “Know Your Client” (KYC) and suitability. Layered across provincial securities regulations, CIRO’s rules, and firm-level policies, these principles require:
 
@@ -69,7 +69,7 @@ A failure to meet KYC obligations can result in serious disciplinary actions, in
 
 ---------------------------------------------------------------------------------------------------
 
-## 4. Fiduciary Duty (in Certain Relationships)
+## Fiduciary Duty (in Certain Relationships)
 
 While not all financial advisors in Canada operate as fiduciaries, there is an ongoing industry debate and an increasing trend towards higher standards of care. Fiduciary duty entails an uncompromised obligation to act in the client’s best interests above all else. Roles such as discretionary portfolio managers do hold fiduciary responsibilities, which generally include:
 
@@ -83,7 +83,7 @@ Canadian pension funds, such as the Ontario Teachers’ Pension Plan (OTPP), ser
 
 ---------------------------------------------------------------------------------------------------
 
-## 5. Conflict of Interest Disclosures
+## Conflict of Interest Disclosures
 
 A “conflict of interest” arises whenever an advisor or institution’s motives could diverge from the client’s best interests. Examples include compensation structures that reward promoting certain products, referral fees from third parties, or relationships with affiliated companies.
 
@@ -97,7 +97,7 @@ When handled properly, conflicts do not necessarily prevent an advisor from maki
 
 ---------------------------------------------------------------------------------------------------
 
-## 6. Code of Ethics and Conduct
+## Code of Ethics and Conduct
 
 Industry self-regulatory organizations (SROs), including CIRO, have established rules and codes of ethics. Members must adhere to these ethical obligations, spanning fair dealing, confidentiality, and professional behavior. In addition, each financial services firm typically maintains its own code of conduct, which might include:
 
@@ -130,7 +130,7 @@ flowchart LR
 
 ---------------------------------------------------------------------------------------------------
 
-## 7. Consequences of Unethical Behavior
+## Consequences of Unethical Behavior
 
 Unethical behavior can severely undermine confidence in the financial system. The consequences for a financial professional or firm found in violation of ethics rules include:
 
@@ -144,7 +144,7 @@ If a portfolio manager at a Canadian wealth management firm trades on insider in
 
 ---------------------------------------------------------------------------------------------------
 
-## 8. Glossary
+## Glossary
 
 • Fiduciary Duty: An obligation to act in the best interest of another party. In finance, certain advisors must manage client assets with a high standard of care and loyalty.  
 • Suitability: The requirement to ensure that all investment recommendations align with the client’s personal and financial circumstances.  
@@ -153,7 +153,7 @@ If a portfolio manager at a Canadian wealth management firm trades on insider in
 
 ---------------------------------------------------------------------------------------------------
 
-## 9. Key Takeaways and Practical Tips
+## Key Takeaways and Practical Tips
 
 • Always Position Client Interests First: Whether recommending a bond for a retired individual or a growth-oriented mutual fund for a young professional, prioritize client needs.  
 • Document Thoroughly: From KYC details to rationale for each recommendation, keep meticulous records.  
@@ -163,7 +163,7 @@ If a portfolio manager at a Canadian wealth management firm trades on insider in
 
 ---------------------------------------------------------------------------------------------------
 
-## 10. Additional Resources
+## Additional Resources
 
 • CIRO’s Rules and Code of Conduct:  
   https://www.ciro.ca/  

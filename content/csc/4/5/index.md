@@ -16,13 +16,13 @@ The purpose of this section is to provide a comprehensive overview of how intere
 
 ---
 
-## 1. Understanding Interest Rates
+## Understanding Interest Rates
 
 Interest rates, at their core, can be viewed in two ways:  
 1. The percentage a lender charges a borrower for the use of money.  
 2. The return earned by depositing or investing funds.
 
-### 1.1 Terminology and Core Concepts
+### Terminology and Core Concepts
 
 • Interest Rate: The cost of borrowing money or the reward for saving. It is typically expressed as an annual percentage of the principal amount.  
 • Policy Interest Rate: The benchmark interest rate the central bank (the Bank of Canada in this context) sets to guide monetary conditions.  
@@ -30,7 +30,7 @@ Interest rates, at their core, can be viewed in two ways:
 • Risk-Free Rate: The theoretical return on an investment with zero risk, often estimated using relatively safe Government of Canada bonds.  
 • Discount Rate (in valuation): Used for calculating the present value of future cash flows—higher discount rates lower the present value of future income streams.
 
-### 1.2 Key Influences on Interest Rates
+### Key Influences on Interest Rates
 
 1. Policy Decisions by the Bank of Canada  
    – When the Bank of Canada drops its policy rate, short-term interest rates typically follow, making loans more affordable and stimulating borrowing.  
@@ -47,11 +47,11 @@ Interest rates, at their core, can be viewed in two ways:
 
 ---
 
-## 2. The Bank of Canada’s Role in Monetary Policy
+## The Bank of Canada’s Role in Monetary Policy
 
 The Bank of Canada manages monetary policy primarily through its **overnight rate** target—an interest rate used by major financial institutions to lend/borrow among themselves for one-day (overnight) funds. By raising or lowering this benchmark rate, the Bank of Canada attempts to keep inflation within a target range (typically 1% to 3%).
 
-### 2.1 Monetary Policy Tools
+### Monetary Policy Tools
 
 1. Open Market Operations  
    – The Bank of Canada buys or sells Canadian Government securities in the open market, influencing the amount of money in circulation and indirectly affecting market interest rates.
@@ -62,7 +62,7 @@ The Bank of Canada manages monetary policy primarily through its **overnight rat
 3. Forward Guidance  
    – The Bank can signal future policy intentions to influence market expectations and shape financial conditions before any actual policy change.
 
-### 2.2 Stimulating vs. Cooling the Economy
+### Stimulating vs. Cooling the Economy
 
 • Lowering Interest Rates:  
   – Reduces borrowing costs, encouraging consumer spending on large-ticket items (e.g., homes, cars).  
@@ -76,11 +76,11 @@ The Bank of Canada manages monetary policy primarily through its **overnight rat
 
 ---
 
-## 3. Interest Rates in Capital Markets
+## Interest Rates in Capital Markets
 
 In capital markets, interest rates frame the foundation upon which risk premiums and discount rates are built. For instance, the yield offered on a 10-year Government of Canada bond is often viewed as the “risk-free rate,” serving as a baseline to evaluate other, riskier investments.
 
-### 3.1 Yield Curves
+### Yield Curves
 
 A “yield curve” plots the yields on Government of Canada bonds of varying maturities, from short-term (e.g., 3-month T-bills) to long-term (30-year bonds).  
 • A normal yield curve gently slopes upward, meaning longer maturities usually command higher yields to compensate for additional risks (such as inflation and interest rate uncertainty).  
@@ -97,7 +97,7 @@ flowchart LR
     style C fill:#99ccff,stroke:#003366,stroke-width:2px,color:#fff
 ```
 
-### 3.2 Bond Valuation and Yields
+### Bond Valuation and Yields
 
 When market interest rates rise, existing bonds (with lower coupon rates) become less attractive, driving their prices down. Conversely, when interest rates fall, existing bonds become more appealing, and their prices generally climb. This inverse relationship between bond prices and yields is central to bond investing strategies.  
 
@@ -107,11 +107,11 @@ When market interest rates rise, existing bonds (with lower coupon rates) become
 
 ---
 
-## 4. Interest Rates’ Impact on Corporate Financing
+## Interest Rates’ Impact on Corporate Financing
 
 Canadian corporations—like Toronto-Dominion (TD) or any other major company—track interest rates to time their debt issuance. Lower borrowing costs can spur expansions, allowing businesses to invest in new equipment or expand globally. Conversely, companies might delay projects when interest rates are high because of the higher cost of capital.
 
-### 4.1 Equity Valuation and Discount Rates
+### Equity Valuation and Discount Rates
 
 In equity valuation, analysts often use a **discount rate** to calculate the present value of future cash flows. A frequently used discount rate is the **Weighted Average Cost of Capital (WACC)**, which includes the cost of equity and the cost of debt. If interest rates rise, the cost of debt increases. Consequently, an analyst’s discount rate might go up, reducing the valuation of future intangible or uncertain cash flows.
 
@@ -133,26 +133,26 @@ Even a small change in the discount rate can produce a noticeable shift in valua
 
 ---
 
-## 5. Household and Institutional Borrowing
+## Household and Institutional Borrowing
 
 Beyond corporate financing, households also face the effects of interest rates in their daily lives. mortgage rates, personal lines of credit, and car loans typically fluctuate in response to the Bank of Canada’s policy rate and broader market conditions.
 
-### 5.1 Mortgage Rates
+### Mortgage Rates
 
 Banks adjust their prime lending rates when the Bank of Canada shifts its key rate. This change causes mortgage rates to move, influencing home affordability and the real estate market’s overall activity. A low-interest-rate environment can fuel a surge in home purchases, whereas higher rates may dampen demand.
 
-### 5.2 Consumer Credit
+### Consumer Credit
 
 Financial institutions may adjust interest rates on credit cards, auto loans, and lines of credit in line with the prime rate. Consumers are therefore faced with higher or lower monthly payments depending on the current interest rate environment.
 
-### 5.3 Institutional Borrowing
+### Institutional Borrowing
 
 • Pension Funds: Large pension funds (e.g., the Canada Pension Plan Investment Board) may adjust their investment strategies if returns from fixed-income securities rise or fall.  
 • Hedge Funds and Asset Managers: They might alter leverage or adopt different strategies depending on financing costs.
 
 ---
 
-## 6. Regulatory Context in Canada
+## Regulatory Context in Canada
 
 Interest rate policies do not exist in a vacuum. They interact with regulations and guidelines established by bodies such as the Canadian Investment Regulatory Organization (CIRO) and the Office of the Superintendent of Financial Institutions (OSFI).
 
@@ -162,9 +162,9 @@ Interest rate policies do not exist in a vacuum. They interact with regulations 
 
 ---
 
-## 7. Strategies for Navigating Interest Rate Environments
+## Strategies for Navigating Interest Rate Environments
 
-### 7.1 Best Practices
+### Best Practices
 
 1. Stay Informed on Bank of Canada Announcements  
    – Review policy statements, economic projections, and forward guidance.  
@@ -178,7 +178,7 @@ Interest rate policies do not exist in a vacuum. They interact with regulations 
    – Focus on short-term bonds when rates are expected to rise, since they are less sensitive to rate hikes.  
    – If you anticipate falling rates, longer-term bonds may see price appreciation.
 
-### 7.2 Potential Challenges and Pitfalls
+### Potential Challenges and Pitfalls
 
 • **Overleveraging**: Borrowers who take on too much debt during periods of low interest rates can face strain when rates rise.  
 • **Ignoring Inflation**: Even if nominal rates are low, a high inflation environment can erode real returns.  
@@ -186,7 +186,7 @@ Interest rate policies do not exist in a vacuum. They interact with regulations 
 
 ---
 
-## 8. Step-by-Step Guide to Analyzing Interest Rate Impacts
+## Step-by-Step Guide to Analyzing Interest Rate Impacts
 
 1. Identify the Current Policy Environment  
    – Check the latest BoC policy rate and read their recent announcements.  
@@ -203,16 +203,16 @@ Interest rate policies do not exist in a vacuum. They interact with regulations 
 
 ---
 
-## 9. Real-World Application: Case Study
+## Real-World Application: Case Study
 
-### 9.1 Pension Fund Asset Allocation
+### Pension Fund Asset Allocation
 
 Consider a major Canadian pension plan that invests in both fixed-income and equity markets. When the Bank of Canada lowers interest rates:  
 • The pension fund’s government bond holdings may increase in price, boosting returns in the short term. However, new bond purchases will offer lower yields.  
 • The plan may shift some allocation toward equities to try to generate higher returns, given the low yields in fixed income.  
 • Longer-term, the fund remains vigilant about duration risk and is prepared to move back into shorter-term bonds if yields begin to climb.
 
-### 9.2 Corporate Decision-Making at a Large Canadian Bank
+### Corporate Decision-Making at a Large Canadian Bank
 
 A leading Canadian commercial bank (e.g., RBC) might time the issuance of new bonds to coincide with favorable market interest rates. If RBC expects an upcoming interest rate hike:  
 • It might issue debt earlier to lock in a lower rate now.  
@@ -221,7 +221,7 @@ A leading Canadian commercial bank (e.g., RBC) might time the issuance of new bo
 
 ---
 
-## 10. Additional Resources
+## Additional Resources
 
 Below are some authoritative sources for those interested in studying interest rates further:
 

@@ -14,16 +14,16 @@ Effectively managing your mortgage and other consumer debt is a crucial part of 
 
 ---
 
-## 1. Accelerated Payment Schedules
+## Accelerated Payment Schedules
 
 An accelerated payment schedule involves paying mortgage installments more frequently or in larger amounts than the standard monthly setup. This approach reduces the outstanding principal more quickly, cutting down on total interest paid over the life of the loan.
 
-### 1.1 Bi-Weekly or Weekly Payments
+### Bi-Weekly or Weekly Payments
 
 • When clients opt for bi-weekly or weekly payments instead of monthly, they effectively make one or two extra monthly payments per year. This additional payment is applied directly to the principal, significantly reducing the amortization period.  
 • For instance, if a mortgage is structured with a traditional 25-year amortization, switching to bi-weekly accelerated payments could shorten it by several years, leading to substantial interest savings.
 
-### 1.2 Lump Sum Prepayments
+### Lump Sum Prepayments
 
 • Many lenders allow borrowers to apply lump sums toward their mortgage principal each year—often between 10% and 20% of the original principal—without incurring penalties.  
 • Clients can use bonuses, inheritances, or tax refunds to reduce their outstanding balance. This can be done once or multiple times a year, depending on the mortgage contract’s terms.  
@@ -31,17 +31,17 @@ An accelerated payment schedule involves paying mortgage installments more frequ
 
 ---
 
-## 2. Refinancing Best Practices
+## Refinancing Best Practices
 
 Refinancing a mortgage can be an efficient way to capitalize on lower interest rates, consolidate high-interest debts, or adjust mortgage terms to better fit a client’s changing financial situation.
 
-### 2.1 Lower Rate Opportunity
+### Lower Rate Opportunity
 
 • If current rates are significantly lower than the existing mortgage rate, refinancing can generate notable savings on monthly payments.  
 • However, it is crucial to account for potential breakage fees or penalties, which can quickly erode the advantage of a lower rate.  
 • A general rule of thumb is to ensure that the potential savings from the lower interest rate exceed refinancing costs within a reasonable timeframe (commonly 12-24 months).
 
-### 2.2 Refinancing Costs
+### Refinancing Costs
 
 Before proceeding with a refinancing strategy, clients should evaluate the associated expenses:  
 • Prepayment penalties (often referred to as “break fees”)  
@@ -51,7 +51,7 @@ Before proceeding with a refinancing strategy, clients should evaluate the assoc
 
 Financial planners should weigh these costs against the anticipated interest savings to see if the net benefit justifies refinancing. Proper modeling of potential savings versus costs is vital in this decision.
 
-### 2.3 Combining High-Interest Debt
+### Combining High-Interest Debt
 
 • Homeowners can use home equity to consolidate higher-interest consumer debt such as credit card balances or personal loans.  
 • This approach usually results in a lower overall effective interest rate.  
@@ -59,17 +59,17 @@ Financial planners should weigh these costs against the anticipated interest sav
 
 ---
 
-## 3. Renegotiating Terms
+## Renegotiating Terms
 
 Renegotiating mortgage terms can minimize penalties and potentially unlock more favorable rates or features.
 
-### 3.1 Early Renewal
+### Early Renewal
 
 • Some lenders permit mortgage holders to renew their term early—before the current term ends—if they want to lock in a lower rate.  
 • This approach can help avoid all or part of a fixed-rate mortgage prepayment penalty.  
 • The feasibility of early renewal without heavy penalties depends on the mortgage contract. Advisors should encourage clients to review their agreements or speak to their lender directly.
 
-### 3.2 Porting a Mortgage
+### Porting a Mortgage
 
 • “Porting” a mortgage refers to transferring an existing loan and its terms to a new property.  
 • Clients who relocate can keep their original mortgage conditions, such as interest rate and term, which might help avoid early repayment penalties.  
@@ -77,7 +77,7 @@ Renegotiating mortgage terms can minimize penalties and potentially unlock more 
 
 ---
 
-## 4. Avoiding Prepayment Penalties
+## Avoiding Prepayment Penalties
 
 Mortgage contracts, especially fixed-rate ones, can impose hefty fees if the borrower:
 
@@ -85,13 +85,13 @@ Mortgage contracts, especially fixed-rate ones, can impose hefty fees if the bor
 • Makes a payment beyond the permitted lump sum  
 • Breaks the mortgage for refinancing or transferring to another lender  
 
-### 4.1 Prepayment Privileges
+### Prepayment Privileges
 
 • Many lenders allow extra payments as part of the mortgage contract—known as “prepayment privileges”—without charging penalties.  
 • Advisors should identify options to double-up payments, increase payment frequency, or add lump sums beyond the regular schedule.  
 • Encouraging clients to take full advantage of these privileges can help reduce their interest burden without incurring penalties.
 
-### 4.2 Open vs. Closed Mortgages
+### Open vs. Closed Mortgages
 
 • Open mortgages often come with higher interest rates but allow repayable amounts at any time without penalty.  
 • Closed mortgages generally have lower rates but restrict early repayment unless a penalty is paid.  
@@ -99,17 +99,17 @@ Mortgage contracts, especially fixed-rate ones, can impose hefty fees if the bor
 
 ---
 
-## 5. Balancing Short-Term Cash Flow and Long-Term Savings
+## Balancing Short-Term Cash Flow and Long-Term Savings
 
 While rapidly paying off a mortgage can save significant amounts in interest, financial planners must also ensure clients have adequate cash for day-to-day living and emergencies.
 
-### 5.1 Impact of Increased Monthly Payments
+### Impact of Increased Monthly Payments
 
 • Increasing monthly or bi-weekly payments will reduce the mortgage balance more quickly.  
 • This approach helps reduce total interest costs, but the client’s monthly cash flow flexibility must remain manageable.  
 • Advisors should use budgeting tools or cash flow analyses to determine whether an increased payment schedule aligns with the client’s financial stability.
 
-### 5.2 Maintaining an Emergency Reserve
+### Maintaining an Emergency Reserve
 
 • Clients often feel compelled to place every available dollar toward mortgage prepayments. However, lack of an emergency reserve can lead to financial stress.  
 • Encouraging clients to keep a cushion for unexpected expenses—e.g., property repairs, health costs, or job loss—prevents potential future borrowing at higher interest rates.

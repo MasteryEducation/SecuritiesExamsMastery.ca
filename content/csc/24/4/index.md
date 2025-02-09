@@ -29,7 +29,7 @@ In this section, we cover some of the most commonly employed tax planning strate
 
 --------------------------------------------------------------------------------
 
-## 1. Introduction to Tax Planning
+## Introduction to Tax Planning
 
 Tax planning involves making strategic decisions about how to structure your financial affairs—such as your investments, cash flow, and estate—to minimize tax liability and maximize after-tax returns. Sound tax planning should take into account:
 
@@ -43,11 +43,11 @@ Although tax strategies can vary significantly based on personal circumstances, 
 
 --------------------------------------------------------------------------------
 
-## 2. Income Splitting: Rationale and Methods
+## Income Splitting: Rationale and Methods
 
 Income splitting refers to the process of dividing or redistributing income between family members to reduce overall taxes by taking advantage of differences in marginal tax rates. When done properly and in line with CRA guidelines, this strategy can provide material tax savings for the family unit as a whole.
 
-### 2.1 Common Income Splitting Methods
+### Common Income Splitting Methods
 
 1. **Spousal RRSPs:**  
    Contributions made by a higher-income spouse to a Spousal Registered Retirement Savings Plan (RRSP) can help shift future income to the lower-income spouse. This strategy can result in overall lower tax during retirement, as withdrawals are taxed in the hands of the lower-income spouse.
@@ -70,7 +70,7 @@ flowchart LR
     D --> E[Tax Benefits Realized]
 ```
 
-### 2.2 Key Considerations
+### Key Considerations
 
 • **Attribution Rules**: The CRA’s attribution rules can cause investment income or capital gains to revert to the original higher-income spouse if not properly structured.  
 • **Documentation**: Properly documenting loans and ensuring interest payments at the prescribed rate is crucial.  
@@ -78,11 +78,11 @@ flowchart LR
 
 --------------------------------------------------------------------------------
 
-## 3. Tax-Loss Harvesting
+## Tax-Loss Harvesting
 
 Tax-loss harvesting allows investors to sell an investment at a loss to offset realized capital gains. This strategy can reduce the amount of tax owed on capital gains during the current tax year or future years.
 
-### 3.1 How It Works
+### How It Works
 
 1. **Identify Underperforming Assets:** Look for investments in your taxable accounts that have declined in value below their adjusted cost base (ACB).  
 2. **Sell to Realize Losses:** Sell the asset, thereby crystallizing the capital loss.  
@@ -90,23 +90,23 @@ Tax-loss harvesting allows investors to sell an investment at a loss to offset r
 
 By reducing your net taxable capital gains, you can lower your overall tax owing. However, watch out for the “superficial loss” rule, which disallows a capital loss if you (or an affiliated person) repurchase an identical asset within 30 calendar days before or after the sale.
 
-### 3.2 Timing and Year-End Strategy
+### Timing and Year-End Strategy
 
 Investors often review taxable investment accounts near the end of the calendar year to identify opportunities to trigger and harvest losses. Timing can be key—realizing losses before year-end ensures they can offset that year’s gains, thereby reducing immediate tax liability.
 
 --------------------------------------------------------------------------------
 
-## 4. Incorporation as a Tax Strategy
+## Incorporation as a Tax Strategy
 
 Entrepreneurs, professionals (e.g., doctors, lawyers, consultants), and business owners may choose to incorporate primarily to access tax rates that can be more favorable than personal marginal rates. Canada’s small business tax rate is typically lower than personal income tax rates at higher income levels.
 
-### 4.1 Potential Advantages
+### Potential Advantages
 
 • **Tax Deferral:** Earnings retained in the corporation are taxed at the lower corporate rate, leaving more capital to grow within the corporation.  
 • **Income Splitting Opportunities:** Salaries or dividends can be paid to family members if they are shareholders or employees, subject to strict regulations.  
 • **Creditor Protection:** In certain cases, incorporating can isolate business liabilities from personal assets.  
 
-### 4.2 Additional Complexities
+### Additional Complexities
 
 • **Additional Filing Requirements:** Corps must file corporate tax returns (T2) and maintain a separate set of books, leading to extra accounting costs.  
 • **Personal Services Business (PSB) Rules:** If the CRA deems the corporation to be a PSB (essentially operating like an employee for a single client), it may trigger higher tax rates and reduce tax advantages.  
@@ -114,17 +114,17 @@ Entrepreneurs, professionals (e.g., doctors, lawyers, consultants), and business
 
 --------------------------------------------------------------------------------
 
-## 5. Estate Planning Essentials
+## Estate Planning Essentials
 
 Estate planning is the process of arranging for the management and disposal of a person’s estate during their life and after death. Proper estate planning can minimize taxes, avoid legal complications, and ensure a smooth transfer of wealth.
 
-### 5.1 Tools and Documents
+### Tools and Documents
 
 • **Wills:** A will outlines how assets are to be distributed. Without a will, provincial intestacy laws apply, potentially causing higher taxes or distributions contrary to your wishes.  
 • **Trusts:** Different types of trusts (e.g., family trusts or testamentary trusts) can reduce or defer taxes and maintain control over how assets are distributed.  
 • **Beneficiary Designations:** RRSPs, RRIFs, TFSAs, and life insurance policies often allow direct beneficiary designations, bypassing probate and expediting transfers.  
 
-### 5.2 Tax Considerations
+### Tax Considerations
 
 • **Deemed Disposition on Death:** Generally, capital property is deemed to be disposed of at fair market value upon death, which can trigger capital gains. Planning strategies like spousal rollovers can defer this event.  
 • **Joint Ownership:** Holding property jointly with right of survivorship may avoid probate fees, but one should evaluate potential legal and familial implications.  
@@ -132,7 +132,7 @@ Estate planning is the process of arranging for the management and disposal of a
 
 --------------------------------------------------------------------------------
 
-## 6. Staying Current with Tax Legislation
+## Staying Current with Tax Legislation
 
 Tax rules and regulations can change significantly from year to year. Federal and provincial budgets often introduce modifications to tax credits, deductions, limitations, or rates. By staying informed, you can adjust your tax strategies accordingly:
 
@@ -142,19 +142,19 @@ Tax rules and regulations can change significantly from year to year. Federal an
 
 --------------------------------------------------------------------------------
 
-## 7. Practical Examples and Real-World Scenarios
+## Practical Examples and Real-World Scenarios
 
-### 7.1 Canadian Pension Fund Strategy
+### Canadian Pension Fund Strategy
 
 Large Canadian pension funds (e.g., CPP Investments or Ontario Teachers’ Pension Plan) regularly employ tax optimization strategies by structuring their portfolios to balance capital gains with capital losses, minimize withholding taxes in foreign investments, and take advantage of double taxation treaties. While on a different scale, the underlying principles—reducing taxable events and optimizing the timing of gains—mirror individual tax planning.
 
-### 7.2 Case Study: RBC and TD Bank
+### Case Study: RBC and TD Bank
 
 Major Canadian banks like RBC and TD offer wealth management services that frequently include tax planning advice. An RBC client with a high net worth might receive a customized strategy that blends RRSPs, TFSAs, corporate structures, and trusts. Meanwhile, a TD wealth management client may prioritize philanthropic giving and utilize donation tax credits. Both scenarios underscore the importance of aligning tax strategies with individual goals and values.
 
 --------------------------------------------------------------------------------
 
-## 8. Diagrams and Tables
+## Diagrams and Tables
 
 Below is a table summarizing various tax planning strategies, their potential benefits, and important considerations.
 
@@ -167,21 +167,21 @@ Below is a table summarizing various tax planning strategies, their potential be
 
 --------------------------------------------------------------------------------
 
-## 9. Best Practices, Pitfalls, and Actionable Insights
+## Best Practices, Pitfalls, and Actionable Insights
 
-### 9.1 Best Practices
+### Best Practices
 
 • **Engage Professional Advice:** Tax professionals (accountants, tax lawyers, or financial planners) ensure that strategies remain compliant and optimal.  
 • **Maintain Updated Records:** Accurate record-keeping of transactions, spousal loans, and trust documents is essential for a valid tax planning approach.  
 • **Leverage Registered Accounts:** Maximize RRSP/TFSA contributions, as these accounts offer tax-deferred or tax-free growth.  
 
-### 9.2 Pitfalls to Avoid
+### Pitfalls to Avoid
 
 • **Misunderstanding Attribution Rules:** Improperly structured income-splitting arrangements can nullify any benefits if the CRA attributes income back to the initiating spouse.  
 • **Ignoring Changing Circumstances:** Failing to revisit your plan after life events (e.g., the birth of a child, divorce) can result in suboptimal outcomes.  
 • **Overlooking Estate Documents:** Neglecting wills or trust updates can lead to unintended tax consequences and drawn-out legal proceedings.
 
-### 9.3 Actionable Insights
+### Actionable Insights
 
 • **Model Different Scenarios:** Use open-source financial planning tools or spreadsheet models to compare outcomes under various assumptions (e.g., changes in marginal tax rates or investment returns).  
 • **Stay Educated:** Regularly visit official resources like the Canadian Tax Foundation (https://www.ctf.ca) or the CRA website for legislative changes.  
@@ -189,7 +189,7 @@ Below is a table summarizing various tax planning strategies, their potential be
 
 --------------------------------------------------------------------------------
 
-## 10. Summary of Key Points
+## Summary of Key Points
 
 1. **Tax strategies** must be tailored to an individual’s or business’s unique goals, risk tolerance, and income profile.  
 2. **Income splitting** can create significant savings when structured properly. Remember to follow CRA guidelines to avoid attribution pitfalls.  

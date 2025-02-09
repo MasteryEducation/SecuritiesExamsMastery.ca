@@ -45,32 +45,32 @@ A wide range of investment vehicles and approaches fall under the umbrella of �
 
 Alternative managers often seek absolute returns, meaning they aim to generate positive performance regardless of broader market direction. Below are some of the most prevalent hedge fund–style strategies:
 
-#### 2.1 Long/Short Equity
+#### Long/Short Equity
 • Managers aim to profit from both rising and falling markets by taking long positions in perceived undervalued equities and short positions in overvalued equities.  
 • Fundamental analysis and stock selection often drive positions, but technical or quantitative models can be used.  
 • A manager could, for instance, go long on technology stocks trading below peers on a price-to-earnings basis while shorting stocks deemed overpriced in other sectors. This approach can reduce overall market exposure.
 
-#### 2.2 Event-Driven Strategies
+#### Event-Driven Strategies
 • Focuses on exploiting mispricings or opportunities stemming from corporate events, such as mergers, acquisitions, spinoffs, bankruptcies, or restructurings.  
 • A merger arbitrage strategy might involve buying shares of a target company while shorting shares of the acquiring company if the manager believes the deal terms are mispriced.  
 • Tends to be highly research-intensive and dependent on the success or failure of the event itself.
 
-#### 2.3 Relative Value Arbitrage
+#### Relative Value Arbitrage
 • Attempts to profit from price discrepancies between related securities while neutralizing broad market risk.  
 • For example, managers may buy convertible bonds while shorting the issuer’s stock to exploit mispricing in the convertible’s implied volatility.  
 • Often uses derivatives to hedge interest rates, currency exposure, or market beta.
 
-#### 2.4 Global Macro
+#### Global Macro
 • Focuses on top-down analysis of macroeconomic and geopolitical events to identify mispriced assets across currencies, interest rates, commodities, and equity indices on a global scale.  
 • Canadian institutional investors—like certain divisions of RBC or TD Asset Management—may employ macro strategies to rotate capital among global markets, currency positions, and sovereign bonds based on interest rate or economic trend forecasts.  
 • Can be discretionary (manager-driven outlook) or systematic (model-driven), with broad flexibility in asset classes.
 
-#### 2.5 Managed Futures (CTAs)
+#### Managed Futures (CTAs)
 • Emphasizes trading futures and forward contracts on commodities, indices, bonds, or currencies using either trend-following or contrarian strategies.  
 • May use quantitative models to identify market breakouts, momentum shifts, or reversion patterns.  
 • Typically uses significant leverage due to the notional value of futures contracts.
 
-#### 2.6 Market Neutral
+#### Market Neutral
 • Aims to generate absolute returns regardless of broader market movements by offsetting long and short positions so overall net exposure is near zero.  
 • Managers scrutinize correlations, factors, and sector exposures to eliminate broad market risk.  
 • Strategy success hinges on security selection and precise hedging.
@@ -123,7 +123,7 @@ flowchart TB
 
 ### Regulatory Context in Canada
 
-#### 5.1 National Instrument 81-102 and Liquid Alts
+#### National Instrument 81-102 and Liquid Alts
 
 Alternative mutual funds in Canada that aim for retail distribution must comply with National Instrument 81-102, which regulates:
 
@@ -132,12 +132,12 @@ Alternative mutual funds in Canada that aim for retail distribution must comply 
 • **Liquidity Requirements:** Funds must keep enough liquid assets to meet daily redemption needs.  
 • **Disclosure Requirements:** Must detail the fund’s strategy, risks, and fees.
 
-#### 5.2 Hedge Funds
+#### Hedge Funds
 • Typically offered under exemptions for accredited investors, high-net-worth individuals, or institutional clients.  
 • Subject to CSA (Canadian Securities Administrators) and CIRO (Canadian Investment Regulatory Organization) oversight, but with more flexibility in strategies and leverage than liquid alts.  
 • Must comply with National Instrument 31-103 for registration and ongoing compliance obligations.
 
-#### 5.3 Private Equity and Other Exempt Market Offerings
+#### Private Equity and Other Exempt Market Offerings
 • Usually offered through the exempt market, meaning they are not distributed by prospectus to retail investors.  
 • Target high-net-worth or institutional investors subject to minimum investment thresholds.  
 • Restrictions on marketing, reporting, and resale reflect the illiquid nature and higher risk profile of these investments.

@@ -14,7 +14,7 @@ Family law intersects significantly with financial planning and wealth managemen
 
 ---
 
-## 1. Provincial Jurisdiction over Family Matters
+## Provincial Jurisdiction over Family Matters
 
 In Canada, most family matters—such as marriage formation, marital property division, child custody, and support obligations—are governed by provincial and territorial legislation. The federal Divorce Act governs divorce and related child or spousal support amid divorce proceedings, but issues like property division and enforcement often fall under provincial jurisdiction.
 
@@ -26,9 +26,9 @@ A few key points to note:
 
 ---
 
-## 2. Marriage and Divorce
+## Marriage and Divorce
 
-### 2.1 Legal Requirements for Marriage
+### Legal Requirements for Marriage
 
 Marriage rules differ slightly by province or territory, but generally include:
 
@@ -45,7 +45,7 @@ Marriage rules differ slightly by province or territory, but generally include:
    • A legally authorized person (e.g., clergy, judge, or justice of the peace) must officiate.  
    • Marriage ceremonies must adhere to provincial requirements for witnessing and documentation.
 
-### 2.2 Grounds for Divorce
+### Grounds for Divorce
 
 Divorce in Canada is regulated under the federal Divorce Act. The primary ground for divorce is the breakdown of the marriage, which can be established in one of three ways:
 
@@ -58,7 +58,7 @@ Divorce in Canada is regulated under the federal Divorce Act. The primary ground
    • Physical or mental cruelty.  
    These grounds are less common and typically more contentious, often requiring proof of misconduct.
 
-### 2.3 Custody and Access
+### Custody and Access
 
 When children are involved, custody and parenting arrangements remain paramount during and after the divorce process. Courts apply the “best interests of the child” standard, considering factors such as:
 
@@ -70,9 +70,9 @@ Common arrangements include sole custody, joint custody, or shared parenting tim
 
 ---
 
-## 3. Support Obligations
+## Support Obligations
 
-### 3.1 Child Support
+### Child Support
 
 Child support follows the Federal Child Support Guidelines or relevant provincial guidelines, depending on whether the support stems from a divorce (federal) or separation between common-law partners (provincial). Key points include:
 
@@ -82,7 +82,7 @@ Child support follows the Federal Child Support Guidelines or relevant provincia
 
 Understanding child support is crucial in preparing a client’s financial plan, as it affects both short- and long-term cash flow projections. For example, an RBC or TD banking client receiving child support will want to plan how funds flow through their savings and investment accounts to cover child-related expenses.
 
-### 3.2 Spousal Support
+### Spousal Support
 
 Spousal support addresses the economic disadvantage one spouse may face following separation or divorce. Courts weigh multiple factors:
 
@@ -94,9 +94,9 @@ The federal Spousal Support Advisory Guidelines may be applied by the courts as 
 
 ---
 
-## 4. Property Division Principles
+## Property Division Principles
 
-### 4.1 Equalization or Division
+### Equalization or Division
 
 In many provinces and territories, the law presumes that spouses share equally in property acquired during the marriage. Depending on the jurisdiction, this can take the form of:
 
@@ -111,7 +111,7 @@ Financial planners often help clients inventory their assets and liabilities. Ex
 
 The division of these assets can significantly impact a client’s financial situation. Cash flow or risk levels can change if, for example, the client must increase contributions to a mortgage or comply with new property ownership arrangements.
 
-### 4.2 Exemptions
+### Exemptions
 
 Some property—such as inheritances, gifts, or property owned before the marriage—may be partially or fully exempt, depending on the province and the nature of the property. However, increases in market value of these assets during the marriage may be subject to sharing. For instance, if a spouse owned 1,000 shares in a major Canadian bank (e.g., RBC) before marriage, the original share value might be exempt, but any appreciation during the relationship might be divided. 
 
@@ -119,7 +119,7 @@ If couples wish to protect specific assets from distribution, legal instruments 
 
 ---
 
-## 5. Enforcement Mechanisms
+## Enforcement Mechanisms
 
 Many provinces have a Maintenance Enforcement Program (MEP) to ensure child and spousal support orders or agreements are upheld. Key enforcement tools include:
 
@@ -131,7 +131,7 @@ For financial planners, it is important to understand that these mechanisms can 
 
 ---
 
-## 6. Practical Example and Case Study
+## Practical Example and Case Study
 
 Consider a married couple, Alex and Priya, who own a home in Ontario with a mortgage at RBC. Alex also holds a substantial Registered Retirement Savings Plan (RRSP), while Priya has a modest TFSA and invests in a TD non-registered brokerage account. After 10 years of marriage, they decide to separate:
 
@@ -144,7 +144,7 @@ From a planning perspective, each client’s cash flow, debt management, retirem
 
 ---
 
-## 7. Step-by-Step Guidance for Financial Planners
+## Step-by-Step Guidance for Financial Planners
 
 Below is a simplified workflow diagram detailing how a financial planner might approach family law matters when advising clients:
 
@@ -166,7 +166,7 @@ flowchart TB
 
 ---
 
-## 8. Best Practices and Common Pitfalls
+## Best Practices and Common Pitfalls
 
 ### Best Practices
 
@@ -182,7 +182,7 @@ flowchart TB
 
 ---
 
-## 9. Additional Resources
+## Additional Resources
 
 • [Divorce Act (federal legislation)](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/)  
 • Provincial Ministries or Departments of Justice for local family law regulations and support enforcement:  

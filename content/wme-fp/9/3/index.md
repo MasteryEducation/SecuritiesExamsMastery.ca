@@ -23,30 +23,30 @@ We will explore how each plan functions, the government incentives available, be
 
 ---
 
-## 1. Registered Education Savings Plans (RESPs)
+## Registered Education Savings Plans (RESPs)
 
 A Registered Education Savings Plan (RESP) is a tax-deferred investment vehicle designed to help families save for a child’s (or other beneficiary’s) post-secondary education. It offers both federal and provincial incentives (where available), making it a compelling option for long-term education financing.
 
-### 1.1 Key Features and Benefits
+### Key Features and Benefits
 
 • Tax-Deferred Growth: Investment income and capital gains inside an RESP grow tax-deferred until withdrawals are made.  
 • Government Grants: The Government of Canada provides the Canada Education Savings Grant (CESG), which matches a portion of annual contributions (typically 20% on the first $2,500 contributed, subject to limits).  
 • Flexibility in Contribution Timelines: While there are lifetime contribution limits (currently $50,000 per beneficiary), families have flexibility to contribute at their own pace.  
 • Educational Assistance Payments (EAPs): Withdrawals for qualified educational expenses are taxed in the student’s hands—typically advantageous because students often have little or no taxable income.
 
-### 1.2 CESG and Other Government Incentives
+### CESG and Other Government Incentives
 
 In most cases, the Canada Education Savings Grant matches 20% of annual RESP contributions, up to $500 per year per child (assuming a $2,500 contribution). Low- or middle-income families may be eligible for enhanced grant rates on the first $500 of contributions. 
 
 Additionally, the Canada Learning Bond (CLB) is designed for lower-income families who might not have the resources to contribute significantly to an RESP. It provides a consistent government-funded amount regardless of whether or not the parents make contributions.
 
-### 1.3 Types of RESPs
+### Types of RESPs
 
 • Individual Plans: Ideal for a single beneficiary; often set up by parents or grandparents.  
 • Family Plans: Multiple siblings or relatives can be beneficiaries as long as they are related by blood or adoption. Unused funds for one child can be transferred to another beneficiary.  
 • Group (Pooled) Plans: Managed by foundations or scholarship plan dealers, pooling contributions with other participants’ funds. These can come with more rigid contribution and withdrawal rules.
 
-### 1.4 Practical Example
+### Practical Example
 
 Imagine a family opening an RESP for their newborn child. They contribute $2,500 annually. In return:  
 • They receive a $500 CESG for each year of contribution.  
@@ -69,74 +69,74 @@ In this diagram, contributions and government grants flow into the RESP, gain ta
 
 ---
 
-## 2. Registered Disability Savings Plans (RDSPs)
+## Registered Disability Savings Plans (RDSPs)
 
 The Registered Disability Savings Plan (RDSP) is intended to ensure long-term financial security for Canadians with disabilities. Clients with severe or prolonged disability conditions may qualify for RDSP benefits, including significant federal grants and bonds.
 
-### 2.1 Eligibility Requirements
+### Eligibility Requirements
 
 • The beneficiary must be a Canadian resident with a valid Social Insurance Number (SIN).  
 • Must be eligible for the Disability Tax Credit (DTC).  
 • There is no annual contribution limit, but there is a lifetime contribution cap of $200,000.
 
-### 2.2 Government Incentives: Canada Disability Savings Grant & Bond
+### Government Incentives: Canada Disability Savings Grant & Bond
 
 • Canada Disability Savings Grant (CDSG): Matches personal contributions at a rate of up to 300%, depending on the beneficiary’s family income and the amount contributed.  
 • Canada Disability Savings Bond (CDSB): A benefit for low-income residents with disabilities, providing up to $1,000 annually without any RDSP contribution required, subject to lifetime limits.
 
-### 2.3 Tax Treatment
+### Tax Treatment
 
 • Contributions are not tax-deductible, but growth on investments is tax-deferred.  
 • Withdrawals consist of taxable and non-taxable portions. The non-taxable portion corresponds to personal contributions, while the taxable portion corresponds to grants, bonds, and investment growth.
 
-### 2.4 Impact on Provincial Disability Benefits
+### Impact on Provincial Disability Benefits
 
 While the federal government encourages RDSPs, rules on provincial disability benefits can vary. In many provinces, RDSP withdrawals are excluded from means-testing, ensuring individuals do not lose disability benefits when receiving RDSP income. However, advisors should confirm the policies in specific provinces.
 
-### 2.5 Case Study
+### Case Study
 
 Consider a 35-year-old client with a disability who qualifies for an RDSP and has modest earnings. They deposit $1,500 annually into their RDSP. Based on their income bracket, they might receive a substantial matching grant—potentially $3,000 or more—and tax-deferred growth over time. Over decades, this can create significant nest egg savings to support long-term personal care or medical costs.
 
 ---
 
-## 3. Home Buyers’ Plan (HBP) Within an RRSP
+## Home Buyers’ Plan (HBP) Within an RRSP
 
 The Home Buyers’ Plan (HBP) allows first-time homebuyers (or those who have not owned a home in the last four years or meet particular criteria) to withdraw up to a specified limit ($35,000 as of current regulations) from their RRSP without immediate taxation. This is one of the most popular programs in Canada for financing the purchase or construction of a first home.
 
-### 3.1 How the HBP Works
+### How the HBP Works
 
 1. Withdraw Funds: The participant can withdraw up to $35,000 per person. In the case of a couple, that could amount to $70,000 total if both are eligible.  
 2. No Immediate Tax Consequence: The withdrawal is not added to the participant’s taxable income for the year of withdrawal.  
 3. Repayment: The withdrawn amount must be repaid to the RRSP over a 15-year period, typically beginning the second year after withdrawal. Each year, minimum repayment amounts are required (generally 1/15th of the total borrowed). If these minimum repayments are not met, the shortfall is added to taxable income for that year.
 
-### 3.2 Key Points to Note
+### Key Points to Note
 
 • The repayable portion does not generate RRSP contribution room again because it effectively must redeposit the funds to avoid taxation.  
 • The funds must be used for a qualifying home purchase or construction within specific timeframes set by the Canada Revenue Agency (CRA).  
 • The buyer must be a first-time homebuyer, or meet the CRA’s detailed criteria for eligibility (e.g., for persons experiencing breakdown of marriage or common-law partnership).
 
-### 3.3 Pitfalls to Avoid
+### Pitfalls to Avoid
 
 • Failing to repay the minimum amounts on time can trigger additional taxation.  
 • Not budgeting for ongoing mortgage and housing costs can lead to financial strain if an individual needs to replenish RRSP funds and pay household expenses simultaneously.  
 
-### 3.4 Example Scenario
+### Example Scenario
 
 A couple, both first-time homebuyers, withdraw a total of $70,000 ($35,000 each) from their respective RRSPs using the HBP to increase their down payment. They agree to repay this amount over 15 years. Each year, each partner must contribute at least $2,333 back into their RRSP to avoid adding that amount to their taxable income.
 
 ---
 
-## 4. Lifelong Learning Plan (LLP) Within an RRSP
+## Lifelong Learning Plan (LLP) Within an RRSP
 
 The Lifelong Learning Plan (LLP) allows individuals to withdraw funds from their RRSPs to finance full-time education or training for themselves or a spouse/partner.
 
-### 4.1 How the LLP Works
+### How the LLP Works
 
 • Maximum Withdrawal: Individuals can withdraw up to $10,000 in a calendar year, to a maximum of $20,000 in total, for eligible education or training.  
 • RRSP Repayment: Similar to the HBP, amounts withdrawn must be repaid to the RRSP over a 10-year period. Annual payments are at least 1/10th of the total withdrawal.  
 • Eligibility Rules: The student (you or your spouse/common-law partner) must be enrolled in a qualifying educational program at a designated educational institution on a full-time basis (with certain exceptions for those with disabilities).
 
-### 4.2 Case Illustration
+### Case Illustration
 
 A 40-year-old professional wants to take two years off work to pursue a full-time MBA. He withdraws $20,000 from his RRSP using the LLP. Over the next 10 years, he repays $2,000 annually to ensure this amount doesn’t become taxable income. This strategy allows him to finance his education by tapping into his RRSP in a tax-efficient manner.
 

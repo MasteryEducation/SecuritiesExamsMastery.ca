@@ -59,32 +59,32 @@ In this framework:
 -------------------------------------
 ## Advantages of Segregated Funds
 
-### 1. Principal Protection
+### Principal Protection
 The central attraction of segregated funds lies in their guaranteed maturity and death benefit features. Even if markets experience severe declines, investors or their beneficiaries may recoup a significant portion (75%–100%) of the originally invested capital.
 
-### 2. Estate Planning Efficiency
+### Estate Planning Efficiency
 Naming a beneficiary directly on the segregated fund policy can avoid or reduce probate fees. This direct transfer can accelerate the estate settlement process and shield the funds from estate creditors under specific circumstances.
 
-### 3. Resets
+### Resets
 Many segregated funds offer “reset” options—periodic windows during which the investor can lock in any accumulated gains as the new guaranteed level. This feature allows investors to capture market upswings and incorporate them into their future guarantee.
 
-### 4. Creditor Protection
+### Creditor Protection
 In certain provinces and under specific conditions, segregated funds may offer robust creditor protection when there is a preferred beneficiary (e.g., spouse or child). This aspect makes them especially appealing for business owners and professionals who want to safeguard personal assets from business liabilities.
 
 -------------------------------------
 ## Considerations and Drawbacks
 
-### 1. Higher Fees (MERs)
+### Higher Fees (MERs)
 Insurance features come at a cost. Management Expense Ratios (MERs) for segregated funds tend to be higher than for comparable mutual funds due to additional risk management, guarantee coverage, and administration fees. Over the long term, these fees can significantly affect returns.
 
-### 2. Complexity and Suitability
+### Complexity and Suitability
 The insurance contract structure can be more complex than a traditional mutual fund. Understanding how resets, maturities, guarantees, and fees work—along with relevant provincial regulations—requires careful review. Advisors must ensure the product is suitable for a client’s specific objectives, risk tolerance, and time horizon.
 
-### 3. Potential Restrictions
+### Potential Restrictions
 • Maturity Period: Minimum holding periods are often required (commonly 10 years) for the maturity guarantee to apply. Early withdrawals or partial surrenders may reduce or eliminate the guarantee.  
 • Resets: Resets may be limited in frequency or available only for a specific window.  
 
-### 4. Limited Liquidity in Some Cases
+### Limited Liquidity in Some Cases
 Although segregated funds generally allow redemptions, surrender charges or market value adjustments could apply. Ensuring the client’s liquidity needs align with the product’s constraints is critical.
 
 -------------------------------------
@@ -146,19 +146,19 @@ This scenario illustrates how the unique combination of market growth potential,
 -------------------------------------
 ## Best Practices and Common Pitfalls
 
-### 1. Ensure Proper Licensing and Compliance
+### Ensure Proper Licensing and Compliance
 Make certain that the advisor or institution offering segregated funds is correctly licensed through provincial insurance regulators and registered with CIRO (if applicable). Compliance ensures the product is sold ethically and within the scope of the law.
 
-### 2. Clearly Communicate Fees
+### Clearly Communicate Fees
 Clients should fully understand the Management Expense Ratio (MER) and other fees, such as contract fees or surrender charges. Demonstrating how these fees affect net returns is critical for setting realistic performance expectations.
 
-### 3. Perform a Suitability Analysis
+### Perform a Suitability Analysis
 Not everyone needs the insurance-based features of a segregated fund. A thorough needs analysis can help determine if the added costs are warranted and if the product aligns with the client’s risk tolerance and time horizon.
 
-### 4. Document All Beneficiary Designations
+### Document All Beneficiary Designations
 Accurate completion of beneficiary designations is crucial, especially if relying on potential probate or creditor protection benefits. Regularly review and update designations after major life events—divorce, marriage, birth of a child, or death of a beneficiary.
 
-### 5. Monitor and Review
+### Monitor and Review
 Segregated funds, like all investment products, require periodic review. Factors such as changes in personal circumstances, new regulations, and shifts in market conditions could necessitate updating the contract features or product selection.
 
 -------------------------------------
