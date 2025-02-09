@@ -42,8 +42,8 @@ imports:
   # blog content panel
   - path: github.com/hbstack/blog/modules/content-panel
 
-  - path: github.com/hbstack/blog/modules/revision
-  - path: github.com/hbstack/docs/modules/revision
+  #- path: github.com/hbstack/blog/modules/revision
+  #- path: github.com/hbstack/docs/modules/revision
   
   # docs comments engine
   - path: github.com/hbstack/docs/modules/giscus
