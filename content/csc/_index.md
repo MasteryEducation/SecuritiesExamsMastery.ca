@@ -1,5 +1,5 @@
 ---
-title: CSC®
+title: Canadian Securities Course (CSC®)
 linkTitle: CSC®
 type: docs
 nav_weight: 11
@@ -8,7 +8,7 @@ menu:
     parent: exams
     weight: 11
     params:
-      description: Canadian Securities Course
+      description: Foundational financial services credential (CIRO, CSI)
       icon:
         vendor: bs
         name: book
