@@ -1,5 +1,5 @@
 ---
-title: Wealth Management Essentials (WME®) for Financial Planners
+title: WME-FP
 linkTitle: WME-FP
 type: docs
 nav_weight: 25
