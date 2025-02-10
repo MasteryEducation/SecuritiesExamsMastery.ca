@@ -1,6 +1,6 @@
 ---
-title: Canadian Securities Course (CSC®)
-linkTitle: CSC®
+title: Canadian Securities Course (CSC®) 2025
+linkTitle: CSC® 2025
 type: docs
 nav_weight: 11
 menu:
