@@ -33,7 +33,7 @@ main:
   #       vendor: bs
   #       name: book
 
-  - name: Licensing
+  - name: Exams
     identifier: exams
     weight: 4
     params:

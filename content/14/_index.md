@@ -6,11 +6,11 @@ linkTitle: |
 description: |
   Ace the CSC® Exam with "CSC® Exam Prep Guide: Volume 2". Dive into advanced topics, comprehensive practice quizzes, and expert strategies tailored for the Canadian Securities Course. Elevate your finance career today!
 type: docs
-nav_weight: 14
+nav_weight: 2
 menu:
   main:
     parent: exams
-    weight: 14
+    weight: 2
     params:
       description: Canadian Securities Course
       icon:

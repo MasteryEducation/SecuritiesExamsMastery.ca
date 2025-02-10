@@ -2,11 +2,11 @@
 title: WME Course For Financial Planners (WME-FP)
 linkTitle: WME-FP
 type: docs
-nav_weight: 25
+nav_weight: 10
 menu:
   main:
     parent: exams
-    weight: 13
+    weight: 10
     params:
       description: Wealth Management Essentials (WME®) for Financial Planners
       icon:
