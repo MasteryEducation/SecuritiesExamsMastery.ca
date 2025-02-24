@@ -209,7 +209,7 @@ Fee-based accounts allow investors and advisors in Canada to establish a transpa
 
 ---
 
-## SEO-Optimized Quiz on Fee-Based Accounts
+## Quiz: Fee-Based Accounts
 
 {{< quizdown >}}
 

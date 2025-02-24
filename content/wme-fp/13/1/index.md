@@ -179,7 +179,7 @@ Retirement planning is not static. Personal circumstances, regulations, and econ
 
 ---
 
-## SEO-Optimized Quiz: Secure Your Canadian Retirement Strategy
+## Quiz: Secure Your Canadian Retirement Strategy
 
 {{< quizdown >}}
 

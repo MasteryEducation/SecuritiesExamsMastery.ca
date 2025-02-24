@@ -167,7 +167,7 @@ Advisors must also remain mindful of evolving insurance product regulations, ens
 
 ---
 
-## SEO-Optimized Quiz: Mastering the Types of Annuities in Canada
+## Quiz: Mastering the Types of Annuities in Canada
 
 {{< quizdown >}}
 

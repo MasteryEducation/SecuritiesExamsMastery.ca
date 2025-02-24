@@ -205,7 +205,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: Bond Market Trading in Canada
+## Quiz: Bond Market Trading in Canada
 
 {{< quizdown >}}
 

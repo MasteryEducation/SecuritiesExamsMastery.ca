@@ -187,7 +187,7 @@ The choice of underlying asset—be it equities, fixed income, commodities, curr
 
 ---
 
-## SEO-Optimized Quiz on Types of Underlying Assets
+## Quiz: Types of Underlying Assets
 
 {{< quizdown >}}
 

@@ -153,7 +153,7 @@ Advisors should record client responses meticulously and revisit them during sub
 
 ---
 
-## SEO-Optimized Quiz: Key Questions for Effective Retirement Planning
+## Quiz: Key Questions for Effective Retirement Planning
 
 {{< quizdown >}}
 

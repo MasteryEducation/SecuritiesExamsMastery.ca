@@ -207,7 +207,7 @@ By integrating these methods, Canadian investors and portfolio managers can more
 
 ---
 
-## SEO-Optimized Portfolio Performance Evaluation Quiz
+## Portfolio Performance Evaluation Quiz
 
 {{< quizdown >}}
 

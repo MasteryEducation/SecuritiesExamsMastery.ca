@@ -216,7 +216,7 @@ Staying informed through these reports and promptly addressing material changes 
 
 ---
 
-## SEO-Optimized Quiz: “Canadian Mutual Fund Disclosure & Reporting Essentials”
+## Quiz: “Canadian Mutual Fund Disclosure & Reporting Essentials”
 
 {{< quizdown >}}
 

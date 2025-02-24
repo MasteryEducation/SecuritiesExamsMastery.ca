@@ -215,7 +215,7 @@ By understanding these foundations, financial professionals can better position 
 
 ---
 
-## SEO-Optimized International Finance and Trade Quiz
+## International Finance and Trade Quiz
 
 {{< quizdown >}}
 

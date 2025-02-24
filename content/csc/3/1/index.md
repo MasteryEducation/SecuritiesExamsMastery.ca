@@ -188,7 +188,7 @@ By understanding the roles and mandates of these diverse regulators, industry pr
 
 ---
 
-## SEO-Optimized Quiz on the Canadian Securities Regulators
+## Quiz: the Canadian Securities Regulators
 
 {{< quizdown >}}
 

@@ -209,7 +209,7 @@ Always verify data with official sources, including annual and quarterly financi
 
 ---
 
-## SEO-Optimized Quiz: Preferred Share Investment Quality Insights
+## Quiz: Preferred Share Investment Quality Insights
 
 {{< quizdown >}}
 

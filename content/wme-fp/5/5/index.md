@@ -181,7 +181,7 @@ Comprehensive financial planning seamlessly weaves mortgage considerations into 
 
 ---
 
-## SEO-Optimized Quiz on Mortgage and Financial Planning Issues
+## Quiz: Mortgage and Financial Planning Issues
 
 {{< quizdown >}}
 

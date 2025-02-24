@@ -184,7 +184,7 @@ Below are some references and tools that Canadian investors and advisors may fin
 
 ---
 
-## SEO-Optimized Quiz: Master Your Technical Analysis Skills
+## Quiz: Master Your Technical Analysis Skills
 
 {{< quizdown >}}
 

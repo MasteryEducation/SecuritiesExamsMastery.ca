@@ -188,7 +188,7 @@ Wealth management in Canada is characterized by a holistic, client-focused philo
 
 ---
 
-## SEO-Optimized Quiz: Wealth Management in Canada Essentials
+## Quiz: Wealth Management in Canada Essentials
 
 {{< quizdown >}}
 

@@ -183,7 +183,7 @@ If a portfolio manager at a Canadian wealth management firm trades on insider in
 
 ---------------------------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Ethical Standards in Finance – Test Your Knowledge
+## Quiz: Ethical Standards in Finance – Test Your Knowledge
 
 {{< quizdown >}}
 

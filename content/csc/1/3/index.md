@@ -203,7 +203,7 @@ Understanding how these entities operate and interact helps finance professional
 
 ---
 
-## SEO-Optimized Quiz: Financial Intermediaries in the Canadian Market
+## Quiz: Financial Intermediaries in the Canadian Market
 
 {{< quizdown >}}
 

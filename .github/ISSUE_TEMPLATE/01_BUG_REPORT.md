@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Create a report to help MyAmazingProject to improve
+about: Create a report to help CPAExamsMastery.com to improve
 title: "bug: "
 labels: "bug"
 assignees: ""
@@ -8,7 +8,7 @@ assignees: ""
 
 # Bug Report
 
-**MyAmazingProject version:**
+**CPAExamsMastery.com version:**
 
 <!-- Please specify commit or tag version. -->
 

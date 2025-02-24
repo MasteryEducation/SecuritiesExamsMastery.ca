@@ -227,7 +227,7 @@ Stay vigilant to fees, the appropriateness of the benchmark, and the influence o
 
 ---
 
-## SEO-Optimized Quiz: Master Mutual Fund Performance in Canada
+## Quiz: Master Mutual Fund Performance in Canada
 
 {{< quizdown >}}
 

@@ -167,7 +167,7 @@ Macroeconomic analyses can guide long-term strategies, such as deciding how to a
 
 ---
 
-## SEO-Optimized Fundamental Macroeconomic Analysis Quiz
+## Fundamental Macroeconomic Analysis Quiz
 
 {{< quizdown >}}
 

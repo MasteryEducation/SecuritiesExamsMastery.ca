@@ -192,7 +192,7 @@ flowchart LR
 
 -----------------------------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Master Rebalancing Strategies in Canadian Asset Allocation
+## Quiz: Master Rebalancing Strategies in Canadian Asset Allocation
 
 {{< quizdown >}}
 

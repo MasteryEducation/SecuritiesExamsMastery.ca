@@ -251,7 +251,7 @@ Individuals reviewing economic trends may decide to rebalance their RRSP portfol
 
 ---
 
-## SEO-Optimized Quiz: Mastering Canada's Economic Growth Metrics
+## Quiz: Mastering Canada's Economic Growth Metrics
 
 {{< quizdown >}}
 

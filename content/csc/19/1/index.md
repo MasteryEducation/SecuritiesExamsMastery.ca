@@ -181,7 +181,7 @@ Exchange-Traded Funds in Canada operate under a robust framework that combines s
 
 ---
 
-## SEO-Optimized Quiz: Regulation and Structure of Exchange-Traded Funds in Canada
+## Quiz: Regulation and Structure of Exchange-Traded Funds in Canada
 
 {{< quizdown >}}
 

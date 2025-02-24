@@ -252,7 +252,7 @@ Performing company analysis is a multifaceted process blending quantitative, qua
 
 ---
 
-## SEO-Optimized Quiz: Mastering Company Analysis
+## Quiz: Mastering Company Analysis
 
 {{< quizdown >}}
 

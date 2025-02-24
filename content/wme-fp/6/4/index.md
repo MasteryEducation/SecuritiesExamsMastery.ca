@@ -206,7 +206,7 @@ Financial advisors should evaluate how immediate or future cash needs might be i
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Quiz: Strengthen Your Knowledge of Canadian Property Division
+## Quiz: Strengthen Your Knowledge of Canadian Property Division
 
 {{< quizdown >}}
 

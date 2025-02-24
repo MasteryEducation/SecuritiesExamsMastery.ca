@@ -196,7 +196,7 @@ As you continue your exploration of Canadian economic fundamentals, keep returni
 
 ---
 
-## SEO-Optimized Quiz: Test Your Knowledge of the Canadian Labour Market
+## Quiz: Test Your Knowledge of the Canadian Labour Market
 
 {{< quizdown >}}
 

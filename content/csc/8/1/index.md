@@ -211,7 +211,7 @@ Navigating the Canadian market and ensuring regulatory compliance can be support
 
 ---
 
-## SEO-Optimized Common Shares Mastery Quiz
+## Common Shares Mastery Quiz
 
 {{< quizdown >}}
 

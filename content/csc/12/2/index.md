@@ -186,7 +186,7 @@ By mastering these principles, corporations can secure capital in ways that not 
 
 ---
 
-## SEO-Optimized Quiz: Corporate Financing Process in Canada
+## Quiz: Corporate Financing Process in Canada
 
 {{< quizdown >}}
 

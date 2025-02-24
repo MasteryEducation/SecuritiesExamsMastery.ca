@@ -151,7 +151,7 @@ From broad-market indexes like the FTSE Canada Universe Bond Index to more speci
 
 ---
 
-## SEO-Optimized Bond Indexes Mastery Quiz
+## Bond Indexes Mastery Quiz
 
 {{< quizdown >}}
 

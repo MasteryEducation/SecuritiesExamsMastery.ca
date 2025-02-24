@@ -184,7 +184,7 @@ With the right processes, advisors also build trust and credibility with clients
 
 ---
 
-## SEO-Optimized Quiz on KYC and AML in Canadian Wealth Management
+## Quiz: KYC and AML in Canadian Wealth Management
 
 {{< quizdown >}}
 

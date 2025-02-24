@@ -191,7 +191,7 @@ Remember that the journey toward an outcome is dynamic; strategies that were onc
 
 ---
 
-## SEO-Optimized Outcome-Based Investing Quiz
+## Outcome-Based Investing Quiz
 
 {{< quizdown >}}
 

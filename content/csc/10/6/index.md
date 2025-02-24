@@ -235,7 +235,7 @@ If M > S, the right holds intrinsic value. If M ≤ S, it may only have time val
 
 ---
 
-## SEO-Optimized Quiz on Rights and Warrants
+## Quiz: Rights and Warrants
 
 {{< quizdown >}}
 

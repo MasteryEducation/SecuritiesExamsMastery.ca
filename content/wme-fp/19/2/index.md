@@ -180,7 +180,7 @@ flowchart LR
 
 ---
 
-## SEO-Optimized Quiz: Issues in Asset Allocation for Canadian Investors
+## Quiz: Issues in Asset Allocation for Canadian Investors
 
 {{< quizdown >}}
 

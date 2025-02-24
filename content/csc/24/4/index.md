@@ -202,7 +202,7 @@ By diligently applying the concepts of tax minimization, timing of income, and s
 
 --------------------------------------------------------------------------------
 
-## SEO-Optimized Tax Planning Strategies Quiz
+## Tax Planning Strategies Quiz
 
 {{< quizdown >}}
 

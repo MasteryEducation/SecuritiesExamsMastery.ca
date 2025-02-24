@@ -242,7 +242,7 @@ Investors are encouraged to apply these principles when constructing their portf
 
 ---
 
-## SEO-Optimized Quiz: Master Corporate Bonds in Canada
+## Quiz: Master Corporate Bonds in Canada
 
 {{< quizdown >}}
 

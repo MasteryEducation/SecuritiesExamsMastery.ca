@@ -206,7 +206,7 @@ These references provide a solid foundation for professionals seeking to enhance
 
 ---
 
-## SEO-Optimized Quiz on Buy-Side Portfolio Management and Trading
+## Quiz: Buy-Side Portfolio Management and Trading
 
 {{< quizdown >}}
 

@@ -165,7 +165,7 @@ By strategically blending alternatives with core equity and bond holdings, inves
 
 ---
 
-## SEO-Optimized Quiz on Alternative Investments: Benefits and Risks
+## Quiz: Alternative Investments: Benefits and Risks
 
 {{< quizdown >}}
 

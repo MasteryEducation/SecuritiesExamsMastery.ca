@@ -173,7 +173,7 @@ The diagram shows how a single unethical act (A) branches out into multiple nega
 
 ---
 
-## SEO-Optimized Quiz: Ethical Violations and Consequences
+## Quiz: Ethical Violations and Consequences
 
 {{< quizdown >}}
 

@@ -249,7 +249,7 @@ By staying abreast of economic indicators, listening to policy announcements, an
 
 ---
 
-## SEO-Optimized Quiz: Mastering the Role of Interest Rates in Canada
+## Quiz: Mastering the Role of Interest Rates in Canada
 
 {{< quizdown >}}
 

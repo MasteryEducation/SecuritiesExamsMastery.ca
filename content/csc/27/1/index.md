@@ -205,7 +205,7 @@ Consider the Ontario Teachers’ Pension Plan (OTPP), one of the world’s large
 
 ---
 
-## SEO-Optimized Quiz: The Sell Side and the Buy Side in Canadian Capital Markets
+## Quiz: The Sell Side and the Buy Side in Canadian Capital Markets
 
 {{< quizdown >}}
 

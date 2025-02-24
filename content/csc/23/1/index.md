@@ -187,7 +187,7 @@ Structured products can be an innovative and potentially rewarding element of a 
 
 ---
 
-## SEO-Optimized Quiz: Structured Products in the Canadian Investing Landscape
+## Quiz: Structured Products in the Canadian Investing Landscape
 
 {{< quizdown >}}
 

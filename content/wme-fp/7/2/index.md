@@ -177,7 +177,7 @@ graph LR
 
 ---
 
-## SEO-Optimized Quiz: Mastering Personal Risk in Strategic Wealth Management
+## Quiz: Mastering Personal Risk in Strategic Wealth Management
 
 {{< quizdown >}}
 

@@ -203,7 +203,7 @@ By methodically implementing asset allocation, financial planners in Canada can 
 
 ---
 
-## SEO-Optimized Quiz: Mastering the Asset Allocation Process in Canada
+## Quiz: Mastering the Asset Allocation Process in Canada
 
 {{< quizdown >}}
 

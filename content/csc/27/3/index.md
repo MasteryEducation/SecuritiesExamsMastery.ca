@@ -208,7 +208,7 @@ In a regulated environment like Canada’s, success hinges on seamless collabora
 
 ---
 
-## SEO-Optimized Quiz on Organizational Structure in Sell-Side Trading Firms
+## Quiz: Organizational Structure in Sell-Side Trading Firms
 
 {{< quizdown >}}
 

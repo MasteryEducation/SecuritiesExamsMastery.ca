@@ -171,7 +171,7 @@ Labour-Sponsored Venture Capital Corporations (LSVCCs) present a unique opportun
 
 ---
 
-## SEO-Optimized Quiz on Labour-Sponsored Venture Capital Corporations (LSVCCs)
+## Quiz: Labour-Sponsored Venture Capital Corporations (LSVCCs)
 
 {{< quizdown >}}
 

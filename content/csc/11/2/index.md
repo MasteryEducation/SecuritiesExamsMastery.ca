@@ -164,7 +164,7 @@ By blending theoretical knowledge with real-world context, readers can confident
 
 ---
 
-## SEO-Optimized Quiz on Financial Statements of Corporations
+## Quiz: Financial Statements of Corporations
 
 {{< quizdown >}}
 
