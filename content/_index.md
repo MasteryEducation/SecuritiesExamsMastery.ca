@@ -7,6 +7,7 @@ keywords: "CSC Mock Exams, Canadian Securities Course, CSC Exam Prep, Canadian S
 draft: false
 #layout: landing
 type: docs
+homepage: true
 full_width: false
 canonical: "https://securitiesexamsmastery.ca/14"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
