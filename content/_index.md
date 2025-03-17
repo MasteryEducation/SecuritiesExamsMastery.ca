@@ -77,7 +77,7 @@ Pinpoint shaky areas and monitor improvement in real time—both online and in-a
 ## Student Success Stories
 
 > “I used the free questions on your site first, which were great, but the app took my learning to the next level. Subscribed during the free trial and never looked back. 8,000 advanced questions really boosted my confidence for Exam 2.”  
-> **– Lisa D. (October 2025)**
+> **– Lisa D. (October 2024)**
 
 > “Got 79% on my CSC thanks to your scenario-based mocks. Love how easy it was to see the reasoning right after each question. Will use again for any future securities exams!”  
 > **– Philip R. (January 2025)**
