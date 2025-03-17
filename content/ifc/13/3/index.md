@@ -230,7 +230,6 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** Liquid Alts comply with Canadian mutual fund regulations (NI 81-102) and must offer daily liquidity, making them more accessible to retail investors than traditional hedge funds.
 
----
 
 ### Which document primarily governs the use of leverage and derivatives for Liquid Alternative Funds in Canada?
 
@@ -241,7 +240,7 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** National Instrument 81-102 sets out the rules on leverage, short-selling, and other investment parameters for Alternative Mutual Funds in Canada.
 
----
+
 
 ### Why might an investor consider adding a Liquid Alt to their portfolio?
 
@@ -252,7 +251,6 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** By using strategies like short-selling and derivatives, Liquid Alts can provide diversification benefits. However, they do not eliminate all risk and often have higher fees due to complexity.
 
----
 
 ### Which of these strategies is commonly employed by Liquid Alternative Funds?
 
@@ -263,7 +261,7 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** Liquid Alts often use long/short equity or similar hedge-fund-like strategies (market neutral, managed futures, etc.). They must fully disclose these in their fund documents.
 
----
+
 
 ### An advisor proposing a Liquid Alt to a client primarily uses "suitability" to ensure:
 
@@ -274,7 +272,7 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** Suitability requires matching a product’s risk and objectives with the client’s risk tolerance and goals. In describing a Liquid Alt, the advisor should highlight complexities and higher costs.
 
----
+
 
 ### In Canada, oversight for mutual fund dealers recommending Liquid Alts is now provided by:
 
@@ -285,7 +283,7 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** As of January 1, 2023, the MFDA and IIROC amalgamated into the new self-regulatory organization, CIRO, which oversees both mutual fund dealers and investment dealers.
 
----
+
 
 ### One of the key advantages of Liquid Alternative Funds over traditional hedge funds is:
 
@@ -296,7 +294,6 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** Unlike many hedge funds, Liquid Alts must offer daily liquidity and comply with stricter reporting rules. However, they remain subject to market fluctuations.
 
----
 
 ### A Long/Short Equity Liquid Alt typically tries to:
 
@@ -307,7 +304,7 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** Long/Short Equity strategies are designed to maximize returns by being long on securities projected to outperform and short on those likely to underperform, potentially hedging market risk.
 
----
+
 
 ### Which is a potential risk of using leverage in a Liquid Alt?
 
@@ -318,7 +315,7 @@ Overall, Liquid Alts can be a more approachable entry into the “alternative”
 
 > **Explanation:** Leverage can magnify both gains and losses. If the market moves against a leveraged position, losses can be significantly larger than the initial investment.
 
----
+
 
 ### True or False: Liquid Alternative Funds are prohibited from using derivatives in Canada.
 
