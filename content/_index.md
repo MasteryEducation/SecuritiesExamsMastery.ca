@@ -101,3 +101,11 @@ Pinpoint shaky areas and monitor improvement in real time—both online and in-a
 ## Disclaimer
 
 This independent study tool is designed for candidates of the Canadian Securities Course (CSC®). It is not affiliated with, sponsored by, or endorsed by the Canadian Securities Institute (CSI) or the Canadian Investment Regulatory Organization (CIRO). All trademarks are the property of their respective owners.
+
+
+---
+
+**Contact Us:**  
+For inquiries or support, please reach out at **[info@tokenizer.ca](mailto:info@tokenizer.ca?subject=SecuritiesExamsMastery.ca)**.
+
+---
