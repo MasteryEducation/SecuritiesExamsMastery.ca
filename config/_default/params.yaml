@@ -21,7 +21,7 @@ hb:
     repo_name: SecuritiesExamsMastery.ca
     repo_branch: main
     repo_subpath: ''
-    repo_contributors: false
+    repo_contributors: true
     repo_actions: true
     icons: true
     created_at: false
