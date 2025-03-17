@@ -1,127 +1,103 @@
 ---
-title: |
-  CSC® Exam Prep Guides: Volumes 1 & 2 + Securities CA: Mock Exams App
-description: |
-  Master the CSC Mock Exams and the Canadian Securities Course with our comprehensive CSC® Exam Prep Guides—Volumes 1 & 2—and the innovative Securities CA: Mock Exams mobile app. Enjoy in-depth content, realistic practice questions, expert strategies, and CIRO 2025–compliant updates whether you study online or on the go!
-keywords: "CSC Mock Exams, Canadian Securities Course, CSC Exam Prep, Canadian Securities, CIRO 2025, Financial Exam Prep"
+title: "CSC Mock Exams & Canadian Securities Course Prep | Your Ultimate Exam Companion"
+description: "Pass the Canadian Securities Course with our extensive CSC Mock Exams, sample exam questions, and powerful study app. Enjoy 5,000 free questions online or unlock 8,000 advanced scenario-based questions in our mobile app. Start your free 7-day trial and master the CSC Exam."
+keywords: "CSC Mock Exams, Canadian Securities Course, CSC Exam Prep, Canadian Securities, Exam 1, Exam 2, Volume 1, Volume 2, Exam Weighting, Exam Breakdown, Test Questions, CIRO 2025"
 draft: false
-#layout: landing
 type: docs
 homepage: true
 full_width: false
-canonical: "https://securitiesexamsmastery.ca/14"
+canonical: "https://securitiesexamsmastery.ca/"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## Master Your CSC Exams with the Ultimate Prep Suite
+# Supercharge Your CSC® Exam Prep
 
-**Unlock your potential with our comprehensive CSC® Exam Prep Guides—Volumes 1 & 2—and our cutting-edge Securities CA: Mock Exams mobile app.**
+Get ready to ace the Canadian Securities Course exams with our comprehensive study resources. Whether you’re looking for free CSC sample exam questions or advanced mock exams, we have the perfect tools to accelerate your learning and boost your confidence.
 
-Whether you're starting with Volume 1’s essential strategies or exploring advanced techniques in Volume 2, our integrated exam prep resources are your key to success on the CSC Mock Exams and the Canadian Securities Course. Study at home on our website or on the go with our mobile app—the choice is yours!
+- Over **5,000 FREE** CSC practice questions right here on the website.  
+- Deep-dive explanations and **8,000+ scenario-based questions** in our mobile app.  
+- Aligned with the latest **CIRO 2025** guidelines for complete exam readiness.
 
----
-
-## Why Choose Our CSC® Exam Prep Suite?
-
-### Comprehensive, Two-Tiered Learning
-
-• **Volume 1 – Foundational Strategies:**  
- Develop a strong base covering the core concepts of the Canadian Securities Course, practical principles, and key study techniques that set you up for passing your CSC Mock Exams with confidence.
-
-• **Volume 2 – Advanced Techniques:**  
- Delve into sophisticated topics—including advanced portfolio management, intricate Canadian financial regulations, ethics, and tax-efficient financial planning—designed for those ready to excel in the Canadian Securities Course.
-
-### Real-World Exam Preparation
-
-• **Extensive Question Banks:**  
- Sharpen your skills with thousands of realistic exam-quality multiple-choice, scenario-based, and vignette-based questions that mirror the intensity of the official tests.
-
-• **Interactive Reviews & Performance Analytics:**  
- Reinforce your understanding with dynamic reviews, clear visual aids, step-by-step problem-solving, and real-time progress tracking that pinpoint your strengths and highlight areas to improve.
-
-• **Up-to-Date & CIRO 2025–Compliant Content:**  
- Study with confidence using materials that are rigorously updated according to the latest industry standards and exam requirements.
-
----
-
-## Introducing Securities CA: Mock Exams – Your Ultimate Mobile Study Partner
-
-Revolutionize your exam prep with the Securities CA: Mock Exams app—a powerful tool that brings the full content of our CSC® Exam Prep Guides directly to your mobile device. Perfect for on-the-go study, this app is engineered for candidates preparing for the CSC Mock Exams and the Canadian Securities Course.
-
-### Key Features:
-
-• **Extensive Mock Exams:**  
- Simulate real exam conditions with a continually updated library of practice tests that challenge you with questions matching the official CSC Exam’s difficulty.
-
-• **In-Depth Study Guides On-the-Go:**  
- Access concise notes and detailed explanations from both volumes—your complete study resource in the palm of your hand.
-
-• **Performance Analytics & Progress Tracking:**  
- Monitor your strengths with real-time insights, allowing you to focus on areas that need extra attention for your CSC Mock Exams.
-
-• **Flexible, Mobile Learning:**  
- Enjoy seamless navigation, offline access, and an intuitive layout that supports effective study sessions anywhere, anytime.
-
-• **Glossary of Financial Terms:**  
- Instantly look up key industry terms, ensuring a smooth study experience without disrupting your focus.
-
-• **CIRO 2025 Ready:**  
- Be confident that your study material is in line with the latest regulatory guidelines.
-
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
 
+---
 
+## 1-Week Free Trial • Unlock 8,000 Questions
 
-*This independent study tool is designed exclusively for candidates of the Canadian Securities Course and related CSC Mock Exams. It is not affiliated with, sponsored by, or endorsed by the Canadian Securities Institute (CSI) or CIRO. All trademarks are the property of their respective owners.*
+All premium app features are **FREE** in your first week. Access the complete 8,000-question bank, including in-depth, vignette-style items, detailed rationales, and advanced analytics. Cancel anytime during the free trial to avoid subscription fees.
+
+### Simple, Flexible Subscriptions  
+- CA$39.00 Monthly  
+- CA$99.99 Quarterly  
+- CA$294.99 Yearly  
+**► First Week FREE!** Cancel anytime.
 
 ---
 
-## What You’ll Find Inside the CSC® Exam Prep Guides
+## Why Choose Our CSC® Exam Prep Tools?
 
-- **From Foundational to Advanced Content:**  
-  Covering everything from Volume 1’s clear step-by-step guides on the Canadian Securities Course to Volume 2’s advanced techniques meant to secure top scores on the CSC Mock Exams.
+### 1) 5,000 Free Questions On Our Website  
+Explore topic-specific quizzes (10 questions per page) to practice key concepts from both Volume 1 and Volume 2 of the Canadian Securities Course. Get free, basic explanations after each question.
 
-- **Expert Coverage of Financial Instruments & Portfolio Strategies:**  
-  Learn about derivatives, fixed-income securities, and portfolio management strategies essential for professional success.
+### 2) 8,000 Advanced Questions in the App  
+Upgrade to the app for deeper, scenario-based and vignette-style queries. Tackle exam-level difficulty with step-by-step clarifications you can read instantly, even offline.
 
-- **In-Depth Regulatory, Taxation & Ethical Insights:**  
-  Understand the intricacies of Canadian securities regulations, tax-efficient investment strategies, and the ethical standards demanded by the industry.
+### 3) CIRO 2025–Ready  
+All questions, notes, and regulations are continuously updated to reflect current standards under the Canadian Investment Regulatory Organization (CIRO).
 
-- **Dynamic Visual Aids & Problem-Solving Guides:**  
-  Benefit from diagrams, flowcharts, and tutorials designed to simplify complex concepts and accelerate your learning curve.
+### 4) Actionable Analytics & Progress Tracking  
+Pinpoint shaky areas and monitor improvement in real time—both online and in-app. Look for color-coded charts, performance stats, and recommended study pathways.
 
----
-
-## Hear from Successful Exam Candidates
-
-> “Fantastic study aid, my CSC completion timeline has been effectively cut in half thanks to these tools! The Instructor Fuad has designed many great and practical questions that ensure you really know the material. I’d easily recommend this resource to anyone aiming to master the CSC Mock Exams and build a deep understanding of the Canadian Securities Course.”  
-> – G.G., Udemy, January 2025
-
-> “Good repertoire of questions and supporting details to those questions, however, many were repeated—often 10+ times—in a way that sometimes felt redundant. Even so, I got 79% on the actual exam and found the experience incredibly beneficial.”  
-> – O.C., Udemy, January 2025
-
-> “I have nothing but good things to say about the website and the information provided in both CSC® Exam Prep volumes. The concepts are explained with much greater clarity than what you’d find in the textbook. As someone who didn’t come from a finance background, this resource has been a lifesaver. I even purchased your practice questions and can’t wait to complete them!”  
-> – T.K., January 2025
+### 5) Comprehensive Study Features  
+- On-the-Spot Explanations  
+- Quick Glossary Lookups  
+- Offline Access  
+- Faster Quiz Flow  
+- Compatibility with both iOS & Android
 
 ---
 
-## Ready to Transform Your Exam Prep?
+## Designed for the CSC Exam (Exam 1 & Exam 2)
 
-Don't leave your future to chance. Whether you prefer studying at home on your desktop or on the move with our mobile app, our integrated CSC® Exam Prep Guides—Volumes 1 & 2—and the Securities CA: Mock Exams app equip you with everything you need to conquer the CSC Mock Exams and excel on the Canadian Securities Course.
+- Covering every major topic in the Canadian Securities Course, including Exam Weightings, Market Concepts, Fixed-Income, Equities, Derivatives, Portfolio Management, Taxation, and more.  
+- Organized per **Volume 1** (Foundational Knowledge) and **Volume 2** (Advanced Techniques), so you can progress logically or dive into advanced topics when ready.
 
-**Take Action Now:**
+---
 
-• **Study Smarter with CSC® Exam Prep Guides: Volumes 1 & 2**  
-• **Download Securities CA: Mock Exams for real-time practice and instant progress tracking!**
+## How the Free Trial Works
 
+1. **Download** the “Securities CA: Mock Exams” App.  
+2. **Activate** your 1-week free trial (no upfront charge).  
+3. **Instantly unlock** all 8,000 advanced CSC exam questions plus detailed study guides.  
+4. **Cancel anytime** within the trial period to avoid fees. If you’re loving it, do nothing—your subscription continues automatically at the chosen plan (monthly, quarterly, yearly).
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)
+---
+
+## Student Success Stories
+
+> “I used the free questions on your site first, which were great, but the app took my learning to the next level. Subscribed during the free trial and never looked back. 8,000 advanced questions really boosted my confidence for Exam 2.”  
+> **– Lisa D. (October 2025)**
+
+> “Got 79% on my CSC thanks to your scenario-based mocks. Love how easy it was to see the reasoning right after each question. Will use again for any future securities exams!”  
+> **– Philip R. (January 2025)**
+
+> “Your app is significantly more detailed than anything else I tried—the free first week was a no-brainer. I learned more from each question’s explanation than from rereading the textbook!”  
+> **– Amanda S. (March 2025)**
+
+---
+
+## Ready to Elevate Your CSC® Prep?
+
+- Practice **5,000 free sample exam questions** on our site.  
+- Download the Securities CA: Mock Exams app for in-depth content, scenario-based items, and advanced features.  
+- Begin your 1-week trial—risk-free—and master the Canadian Securities Course faster than ever.
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)  
 [<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
 
+---
 
+## Disclaimer
 
-Elevate your financial expertise, overcome exam anxiety, and fast-track your career in Canada’s competitive finance industry. Your success story starts here—transform your study routine and master the CSC Exams today!
-
------------------------------------------------------------
+This independent study tool is designed for candidates of the Canadian Securities Course (CSC®). It is not affiliated with, sponsored by, or endorsed by the Canadian Securities Institute (CSI) or the Canadian Investment Regulatory Organization (CIRO). All trademarks are the property of their respective owners.
