@@ -207,7 +207,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** Absolute returns look purely at the gain or loss of the portfolio over a period, whereas relative returns compare those results to a benchmark.
 
----
 
 ### In the Canadian regulatory environment, why is TWRR often used to compare managers or strategies?
 
@@ -218,7 +217,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** TWRR controls for external cash flows, making manager-to-manager evaluations more accurate.
 
----
 
 ### Why might an advisor use the Money-Weighted Rate of Return (MWRR) rather than TWRR?
 
@@ -229,7 +227,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** MWRR incorporates the impact of when money is added or withdrawn, giving insight into the actual returns an investor experiences.
 
----
 
 ### Which ratio best measures returns relative to the total volatility (standard deviation) of the portfolio?
 
@@ -240,7 +237,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** The Sharpe Ratio uses the portfolio’s standard deviation as the measure of risk, providing insight into total (systemic + idiosyncratic) risk-adjusted returns.
 
----
 
 ### If a fund is particularly concerned with downside risk, which risk-adjusted measure is most appropriate?
 
@@ -251,7 +247,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** The Sortino Ratio modifies the Sharpe Ratio by penalizing only downside volatility, making it particularly useful for investors who want to minimize losses.
 
----
 
 ### A positive Jensen’s Alpha indicates:
 
@@ -262,7 +257,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** Jensen’s Alpha measures a manager’s performance above or below the expected return as determined by the CAPM. A positive alpha suggests value-added beyond market movements.
 
----
 
 ### Performance attribution analysis separates returns into which three main effects?
 
@@ -273,7 +267,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** Allocation, selection, and interaction provide insight into whether returns stem from sector weighting, specific security picks, or the timing of these decisions.
 
----
 
 ### Which of the following best describes tracking error?
 
@@ -284,7 +277,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** Tracking error indicates how closely a portfolio follows (or deviates from) its benchmark, measured by the volatility of returns differences.
 
----
 
 ### What is the primary purpose of selecting an appropriate benchmark for portfolio evaluation?
 
@@ -295,7 +287,6 @@ A solid performance evaluation framework is essential for advisors to validate i
 
 > **Explanation:** Benchmarks should reflect the portfolio's asset mix and objectives, enabling a fair comparison of returns and risk.
 
----
 
 ### True or False: Under CIRO regulations, all references to the former MFDA and IIROC organizations must acknowledge they no longer exist as separate entities.
 

@@ -227,7 +227,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** Advising clients to keep housing costs (mortgage, taxes, insurance) below 32% of their gross income is a common guideline to maintain manageable debt levels.
 
----
 
 ### What is a key advantage of a larger down payment?
 
@@ -238,7 +237,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** A larger down payment reduces mortgage principal, resulting in lower monthly payments and less overall interest.
 
----
 
 ### Which cost would most likely be included in the range of approximately 1.5%–4% of a home’s purchase price?
 
@@ -249,7 +247,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** Closing costs (typically 1.5%–4%) combine expenses such as legal fees, appraisal fees, and land transfer taxes.
 
----
 
 ### How do fixed-rate mortgages differ from variable-rate mortgages?
 
@@ -260,7 +257,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** Fixed-rate mortgages lock in a rate for a set term, whereas variable-rate loans adjust according to the prime rate or other benchmarks.
 
----
 
 ### Which of the following factors can affect ongoing property maintenance costs?
 
@@ -271,7 +267,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** Property type and age can directly impact maintenance costs. A stress test influences mortgage affordability, not the property’s maintenance expenses.
 
----
 
 ### What is the purpose of the regulatory “stress test” for mortgages in Canada?
 
@@ -282,7 +277,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** The stress test qualifies borrowers at a higher interest rate, protecting them from potential financial strain if rates rise.
 
----
 
 ### Which of the following closing costs might be overlooked by a first-time buyer?
 
@@ -293,7 +287,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** While many focus on the mortgage payment itself, some first-time buyers forget about additional upfront costs like the inspection and appraisal fees.
 
----
 
 ### Why might a homebuyer choose a variable-rate mortgage?
 
@@ -304,7 +297,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** A variable-rate mortgage can offer lower initial rates, though borrowers face the risk of rising rates if the prime rate goes up.
 
----
 
 ### What can happen if a borrower fails to plan for property tax payments?
 
@@ -315,7 +307,6 @@ With strategic planning, comprehensive analysis, and the use of readily availabl
 
 > **Explanation:** Property taxes are a significant component of housing costs. Failure to plan for them may lead to financial stress or risk of default.
 
----
 
 ### True or False: Having less than a 20% down payment in Canada can require mortgage default insurance through CMHC or a private insurer.
 

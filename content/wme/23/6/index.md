@@ -190,7 +190,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** The MER includes management fees and running costs. It’s expressed as a percentage of the fund’s assets.
 
----
 
 ### A higher portfolio turnover rate in a managed product typically leads to:
 
@@ -201,7 +200,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** Funds with higher turnover incur increased transaction costs and realize more gains, meaning more taxable distributions for investors.
 
----
 
 ### Which of the following is NOT typically included in a mutual fund’s MER?
 
@@ -212,7 +210,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** Capital gains tax is borne by the unitholder upon distributions or sale of units and is not included within the MER.
 
----
 
 ### What is a key benefit of placing high-yielding investments in an RRSP or TFSA?
 
@@ -223,7 +220,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** RRSPs and TFSAs allow income to grow tax deferred (RRSP) or tax free (TFSA), reducing immediate tax burdens.
 
----
 
 ### Which Canadian organization currently oversees investment dealers, mutual fund dealers, and marketplace integrity?
 
@@ -234,7 +230,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** MFDA and IIROC were amalgamated; CIRO is the present self-regulatory organization.
 
----
 
 ### An investor holds a fund that has realized large capital gains but has not sold their fund units. Which statement is true?
 
@@ -245,7 +240,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** Mutual funds must distribute net realized capital gains to unitholders annually, even if they keep their units.
 
----
 
 ### Placing foreign dividend-paying securities in a TFSA may still result in:
 
@@ -256,7 +250,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** Dividend income from non-Canadian sources is often subject to foreign withholding tax, even in a TFSA.
 
----
 
 ### What advantage do index funds typically offer in terms of turnover?
 
@@ -267,7 +260,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** Index funds follow a benchmark, so fewer trades are made, resulting in lower turnover and potentially lower costs and distributions.
 
----
 
 ### How can capital gains distributions affect an investor’s ACB (Adjusted Cost Base)?
 
@@ -278,7 +270,6 @@ Fees, portfolio turnover, and taxes have a collective and compounding effect on 
 
 > **Explanation:** Capital gains distributions are taxable events for the investor, but the ACB is generally unaffected by them. Return of Capital, on the other hand, reduces the ACB.
 
----
 
 ### If a fund has a gross return of 8% and an MER of 2%, what is the investor’s net return before taxes?
 

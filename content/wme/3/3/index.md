@@ -175,7 +175,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** The client discovery process seeks to understand clients entirely—financially and personally—to create strategies that align with both their resources and values.
 
----
 
 ### What is a key purpose of a psychometric risk questionnaire?
 - [x] To measure a client’s capacity and tolerance for volatility and potential losses
@@ -185,7 +184,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** Psychometric risk questionnaires are designed to gauge a client’s comfort with risk, informing portfolio allocation and investment decisions.
 
----
 
 ### Which of the following illustrates net worth?
 - [x] Net Worth = Total Assets – Total Liabilities
@@ -195,7 +193,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** Net worth is calculated by subtracting total liabilities from total assets. This helps advisors understand a client’s overall financial position.
 
----
 
 ### What is one advantage of including open-ended questions in the discovery process?
 - [x] They help reveal clients’ deeper motivations, values, and life goals
@@ -205,7 +202,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** Open-ended questions reveal qualitative insights that mere numeric data cannot capture, enabling an advisor to tailor strategies to a client’s personal preferences and aspirations.
 
----
 
 ### Which of the following best describes a “Statement of Understanding”?
 - [x] A documented summary of a client’s financial goals, risk profile, and constraints
@@ -215,7 +211,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** A Statement of Understanding captures essential client information in writing, ensuring both advisor and client share the same perspective on goals and strategies.
 
----
 
 ### What is a key reason for regularly updating client information?
 - [x] Major life events can drastically change financial circumstances
@@ -225,7 +220,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** Financial situations and life goals evolve. Regular updates keep the wealth management plan aligned with current realities.
 
----
 
 ### Which Canadian institution is responsible for posting updated rules and guidelines for KYC?
 - [x] CIRO
@@ -235,7 +229,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) oversees investment dealers and mutual fund dealers, providing up-to-date mandates for client data collection and retention.
 
----
 
 ### What is a potential pitfall if an advisor focuses exclusively on quantitative data?
 - [x] The strategy may not align with the client’s emotional comfort or lifestyle needs
@@ -245,7 +238,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** Ignoring qualitative factors—such as a client’s emotional response to market volatility—can lead to strategies that exacerbate stress or fail to meet personal aspirations.
 
----
 
 ### How do technology tools like client portals enhance the discovery process?
 - [x] They allow secure, real-time data updates and foster better communication
@@ -255,7 +247,6 @@ In a Canadian context, ensuring compliance with CIRO rules, protecting client da
 
 > **Explanation:** Online portals enable efficient document sharing, communication, and updates, ensuring that advisors can quickly adapt to changes in clients’ situations.
 
----
 
 ### True or False: A Statement of Understanding should be adjusted only for major market shifts.
 - [x] True

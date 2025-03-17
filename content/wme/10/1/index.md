@@ -170,7 +170,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Contributing early maximizes the duration over which compounding can occur, thereby increasing long-term returns.
 
----
 
 ### 2. What is the main purpose of conducting a stress-test on a retirement plan?
 
@@ -181,7 +180,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Stress-testing helps investors evaluate if their plan remains viable during challenging markets or personal emergencies.
 
----
 
 ### 3. Which of the following is generally NOT considered in setting retirement goals?
 
@@ -192,7 +190,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** While personal preferences may matter, frequently upgrading smartphones is not a primary driver of retirement planning. Housing, healthcare, and travel are typically more significant.
 
----
 
 ### 4. Why is it essential to balance debt repayment with RRSP contributions?
 
@@ -203,7 +200,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Balancing priorities helps manage debt while also leveraging the growth potential of retirement savings.
 
----
 
 ### 5. Which statement about RRSP contributions is accurate in Canada?
 
@@ -214,7 +210,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** RRSP contributions lower current taxable income and enjoy tax-deferred growth, making them valuable for building retirement funds.
 
----
 
 ### 6. What is a common approach to setting realistic retirement income goals?
 
@@ -225,7 +220,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Using a mix of software tools and professional input enables accurate projections and well-rounded planning.
 
----
 
 ### 7. Which of the following illustrates a strategic approach to integrating multiple retirement accounts?
 
@@ -236,7 +230,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Smart retirement planning typically incorporates various products—RRSPs, TFSAs, employer plans, and non-registered accounts as needed—to diversify tax treatment and manage risks.
 
----
 
 ### 8. What is one reason to prioritize high-interest debt repayment before increasing RRSP contributions?
 
@@ -247,7 +240,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Paying off high-interest debt can offer a “risk-free” return equivalent to the debt’s interest rate, which can be higher than likely investment returns.
 
----
 
 ### 9. What might be a pitfall if you do NOT periodically update your retirement plan assumptions?
 
@@ -258,7 +250,6 @@ Engage clients—or reflect personally—on how today’s financial decisions wi
 
 > **Explanation:** Failing to review and update assumptions can leave you unprepared for shifts in personal needs or economic factors, creating a financial gap in retirement.
 
----
 
 ### 10. Stress-testing a retirement plan includes assessing potential longevity risk. Which statement is true?
 

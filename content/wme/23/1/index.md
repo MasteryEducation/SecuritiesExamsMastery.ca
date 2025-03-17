@@ -205,7 +205,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** Managed products typically provide professional management and broad diversification. They do not guarantee outperformance or prevent all losses, but are subject to regulatory oversight.
 
----
 
 ### 2. What is the primary regulatory body overseeing mutual fund dealers and investment dealers in Canada as of 2025?
 
@@ -216,7 +215,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** The Mutual Fund Dealers Association (MFDA) and Investment Industry Regulatory Organization of Canada (IIROC) amalgamated into the Canadian Investment Regulatory Organization (CIRO), which now oversees dealers.
 
----
 
 ### 3. Which Canadian regulatory instrument governs many operational aspects of mutual funds?
 
@@ -227,7 +225,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** National Instrument 81-102 covers mutual fund regulations in Canada, including fees, disclosure, and redemption processes.
 
----
 
 ### 4. What is a core advantage of using ETFs compared to some actively managed mutual funds?
 
@@ -238,7 +235,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** Many ETFs often have lower expense ratios than actively managed funds, offering cost-effective exposure to diverse market segments.
 
----
 
 ### 5. Which of the following best describes hedge funds?
 
@@ -249,7 +245,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** Hedge funds can employ strategies like leverage and short selling. Higher risks and minimum investment thresholds often restrict them to accredited investors.
 
----
 
 ### 6. Why is knowing the client’s risk tolerance crucial when recommending managed products?
 
@@ -260,7 +255,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** Risk tolerance helps shape the choice of investment strategies and products, balancing potential returns with the client’s comfort with volatility and losses.
 
----
 
 ### 7. What is an important benefit of economies of scale in managed products?
 
@@ -271,7 +265,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** When investor capital is pooled, costs can be shared more efficiently. Additionally, managers can access institutional-quality investments often unavailable to smaller portfolios.
 
----
 
 ### 8. Which regulatory body sets the standards of conduct for advisors recommending managed products?
 
@@ -282,7 +275,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** CIRO sets proficiency, registration, and conduct standards for investment dealers and advisors, ensuring client-focused advice and product recommendations.
 
----
 
 ### 9. Which of the following factors should advisors regularly review to maintain product suitability?
 
@@ -293,7 +285,6 @@ Managed products play a central role in Canadian wealth management by offering p
 
 > **Explanation:** Advisors must consider changing client circumstances, market conditions, and regulations to ensure ongoing product suitability.
 
----
 
 ### 10. Managed products often include a mix of equities, fixed income, and alternative assets. True or False?
 

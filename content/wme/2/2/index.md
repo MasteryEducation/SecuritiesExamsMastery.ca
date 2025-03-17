@@ -213,7 +213,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** A conflict of interest occurs when a personal or firm-related incentive might interfere with duty to the client.
 
----
 
 ### 2. Which Canadian regulatory body emphasizes the supervisor’s responsibility in preventing unethical practices?
 
@@ -224,7 +223,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** CIRO (the Canadian Investment Regulatory Organization) is Canada’s self-regulatory organization overseeing investment dealers and mutual fund dealers, highlighting supervisory responsibilities for ethical compliance.
 
----
 
 ### 3. Why is suitability critical in wealth management?
 
@@ -235,7 +233,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Suitability ensures advisors recommend investments consistent with each client’s unique circumstance, including investment goals, time horizon, and risk tolerance.
 
----
 
 ### 4. What is an example of a questionable sales practice?
 
@@ -246,7 +243,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Sales practices become questionable when they prioritize selling a particular product for personal or firm gain, rather than acting in the client’s best interests.
 
----
 
 ### 5. An example of an advisor bias is:
 
@@ -257,7 +253,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Advisors may exhibit biases such as overconfidence or recency bias that lead to unsuitable recommendations.
 
----
 
 ### 6. How should an advisor handle suspected insider information?
 
@@ -268,7 +263,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Trading on or disseminating insider information is illegal. Advisors must discuss any suspected inside information with compliance and halt trading activities in the involved security.
 
----
 
 ### 7. Which statement about managing conflict of interest is correct?
 
@@ -279,7 +273,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Disclosure and firm-level conflict management policies are crucial; undisclosed conflicts undermine trust and can lead to regulatory action.
 
----
 
 ### 8. Managers in wealth management firms sometimes face which key dilemma?
 
@@ -290,7 +283,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Managers must fulfill supervisory duties, which may include reporting unethical behavior, even if it reflects poorly on the firm in the short term.
 
----
 
 ### 9. Why is confidentiality crucial in managing delicate client situations (e.g., divorce or illness)?
 
@@ -301,7 +293,6 @@ By recognizing ethical pitfalls, seeking guidance from compliance and legal team
 
 > **Explanation:** Financial professionals regularly handle sensitive personal details, so maintaining confidentiality preserves the advisor-client relationship and meets legal requirements.
 
----
 
 ### 10. True or False: Advisors facing ethical dilemmas should rely solely on personal judgment without documenting decisions.
 

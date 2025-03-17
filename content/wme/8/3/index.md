@@ -200,7 +200,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** Interest income (e.g., from GICs or bonds) is included at 100% and taxed at the investor’s marginal rate.
 
----
 
 ### 2. How much of a capital gain is currently taxable in Canada?
 
@@ -211,7 +210,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** At present, 50% of net capital gains are included in taxable income.
 
----
 
 ### 3. Which of the following statements about capital losses is correct?
 
@@ -222,7 +220,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** In Canada, capital losses can only reduce capital gains. Any excess capital losses can be carried back three years or carried forward indefinitely.
 
----
 
 ### 4. Which of the following describes “eligible dividends?”
 
@@ -233,7 +230,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** Eligible dividends grant the enhanced dividend tax credit, reducing the effective tax rate on these dividends.
 
----
 
 ### 5. To avoid “buying a distribution” on a mutual fund, an investor could:
 
@@ -244,7 +240,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** Waiting until after year-end distributions can minimize immediate tax liability from recently distributed income and gains.
 
----
 
 ### 6. A retired investor wanting to defer taxes using return of capital might consider:
 
@@ -255,7 +250,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** T-Series funds distribute monthly payments that are mostly return of capital, deferring taxes until the investor’s ACB is depleted.
 
----
 
 ### 7. The Adjusted Cost Base (ACB) of an asset increases by:
 
@@ -266,7 +260,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** ACB typically includes the purchase price and related acquisition costs (like commissions). Distributions like dividends or return of capital can affect the ACB differently depending on the nature of the payment.
 
----
 
 ### 8. What does the foreign tax credit allow Canadian residents to do?
 
@@ -277,7 +270,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** The foreign tax credit is designed to offset or reduce Canadian tax payable when foreign taxes have already been paid on the same income.
 
----
 
 ### 9. Under current regulations, which organization oversees investment dealers and mutual fund dealers in Canada?
 
@@ -288,7 +280,6 @@ Taxation of investment income is an essential component of any wealth management
 
 > **Explanation:** MFDA and IIROC amalgamated to form CIRO; CIPF is the investor protection fund, not the national self-regulatory organization.
 
----
 
 ### 10. True or False: All dividends from Canadian corporations receive the same dividend tax credit.
 

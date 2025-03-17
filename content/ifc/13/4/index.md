@@ -177,7 +177,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** Unlike open-end mutual funds, which continuously issue and redeem shares at their NAV, closed-end funds have a fixed share count and trade on an exchange like stocks.
 
----
 
 ### Which of the following statements best explains why a CEF might trade at a premium or discount to its Net Asset Value (NAV)?
 
@@ -188,7 +187,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** Because the shares are traded on an exchange, buying and selling pressures can push the price above (premium) or below (discount) the fund’s NAV.
 
----
 
 ### Which distribution type involves returning an investor’s principal rather than just profits or income?
 
@@ -199,7 +197,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** Return of capital is when part of the distribution payment comes from your initial principal, not from gains or income.
 
----
 
 ### How does the fixed share structure of CEFs benefit managers in implementing a buy-and-hold strategy?
 
@@ -210,7 +207,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** Since shares are not continually created or redeemed, the fund manager is free to hold less liquid or specialized assets without worrying about forced redemptions.
 
----
 
 ### Which factor might cause a closed-end fund to exhibit low liquidity on an exchange?
 
@@ -221,7 +217,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** Liquidity depends on how frequently and in what volume shares are traded. A niche or less popular fund can have thin trading, making it harder to buy or sell shares at a fair price.
 
----
 
 ### When evaluating the potential risks of a closed-end fund, which of the following is a key consideration?
 
@@ -232,7 +227,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** Leverage can amplify both gains and losses, making it a crucial factor to investigate when assessing the risk profile of a closed-end fund.
 
----
 
 ### Why might an investor find it challenging to exit a position in a closed-end fund?
 
@@ -243,7 +237,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** If a fund has thin trading volume, it can be difficult to sell shares efficiently, and the transaction costs (via wider bid-ask spreads) can be higher.
 
----
 
 ### What is one reason a CEF might distribute more than its actual income?
 
@@ -254,7 +247,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** A fund may choose to include a portion of principal with its distributions (i.e., return of capital) to maintain consistent payouts, even if its income in a given period is lower.
 
----
 
 ### Where can investors find official CEF disclosures and prospectuses in Canada?
 
@@ -265,7 +257,6 @@ And don’t forget the overall rule of thumb: Do your homework, ask questions, r
 
 > **Explanation:** In Canada, SEDAR+ (www.sedarplus.ca) is the official repository for securities-related documentation, including fund prospectuses and financial statements.
 
----
 
 ### Is it possible for a discount to the NAV to persist indefinitely for a closed-end fund?
 

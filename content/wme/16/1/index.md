@@ -151,7 +151,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** The trustee manages the trust assets on behalf of the beneficiaries and in accordance with the trust deed.
 
----
 
 ### What is a key difference between an inter vivos (living) trust and a testamentary trust?
 
@@ -162,7 +161,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** Inter vivos trusts are established while the settlor is alive, whereas testamentary trusts are formed via a will and take effect upon the settlor’s death.
 
----
 
 ### Which tax return must a trust typically file annually with the Canada Revenue Agency (CRA)?
 
@@ -173,7 +171,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** Trusts file a T3 Trust Income Tax and Information Return with the CRA.
 
----
 
 ### What is the 21-year deemed disposition rule for inter vivos trusts?
 
@@ -184,7 +181,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** Most inter vivos trusts face a deemed disposition of their capital property every 21 years under the Income Tax Act, which may lead to capital gains tax.
 
----
 
 ### Which of the following is NOT typically an advantage of establishing a trust?
 
@@ -195,7 +191,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** While trusts can help avoid probate fees on certain assets, they do not guarantee that all probate procedures elsewhere or on other assets can be avoided.
 
----
 
 ### Which organization currently regulates Canadian investment dealers that may hold trust assets in Canada?
 
@@ -206,7 +201,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** As of January 1, 2023, the Canadian Investment Regulatory Organization (CIRO) is Canada’s self-regulatory organization for investment and mutual fund dealers, replacing the former MFDA and IIROC.
 
----
 
 ### If a trust invests in a portfolio of equities and bonds through a Canadian dealer, which protection fund would generally cover the trust’s assets in case of dealer insolvency?
 
@@ -217,7 +211,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** CIPF protects eligible client assets at CIRO-regulated firms if the firm becomes insolvent.
 
----
 
 ### How does a testamentary trust generally differ from an inter vivos trust in terms of initial funding?
 
@@ -228,7 +221,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** Testamentary trusts are arranged through a will and receive assets when the settlor’s estate is distributed after death.
 
----
 
 ### Which of the following is typically a trustee’s highest-level duty?
 
@@ -239,7 +231,6 @@ Trusts are a powerful and flexible mechanism for managing and transferring wealt
 
 > **Explanation:** A trustee’s paramount responsibility is the fiduciary duty to act with loyalty, prudence, and impartiality in the best interests of the beneficiaries.
 
----
 
 ### True or False: Provincial legislation may affect how trusts are established and operated differently between provinces like Ontario and Alberta.
 

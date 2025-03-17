@@ -223,7 +223,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** HELOCs typically charge a variable interest rate and allow borrowers to make interest-only payments, providing flexibility but also a risk of over-borrowing.
 
----
 
 ### What differentiates a second mortgage from a first mortgage?
 - [ ] A first mortgage has lower fees than a second mortgage.  
@@ -233,7 +232,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** Because the second mortgage is lower in priority, lenders charge higher rates to offset the increased risk.
 
----
 
 ### Which characteristic generally applies to reverse mortgages in Canada?
 - [ ] They must be fully repaid within 10 years of origination.  
@@ -243,7 +241,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** Reverse mortgages do not require regular payments, and repayment is generally triggered by the sale of the home or the borrower’s passing.
 
----
 
 ### When discussing Mortgage Investment Corporations (MICs) with clients, advisors should:
 - [ ] Recommend them to all risk-averse clients as a safe diversification tool.  
@@ -253,7 +250,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** MICs can offer appealing returns but carry considerable risks related to liquidity and borrower defaults, making full disclosure essential.
 
----
 
 ### Which statement best describes financing for a rental or investment property?
 - [ ] It usually involves a lower interest rate than a primary residence.  
@@ -263,7 +259,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** Investment mortgages typically cost more and require stricter qualifiers due to the higher risk perceived by lenders.
 
----
 
 ### In Canada, which process typically allows a lender to sell the property if a borrower defaults?
 - [x] Power of Sale (in most provinces outside of Quebec).  
@@ -273,7 +268,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** Power of Sale is commonly used outside Quebec, giving lenders the right to sell the property to recover debt.
 
----
 
 ### What is a key strategy when integrating mortgage decisions into a long-term financial plan?
 - [ ] Focusing only on the interest rate without considering future cash flow needs.  
@@ -283,7 +277,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** Mortgage decisions impact your client’s broader financial health; thus, alignment with long-term goals is crucial.
 
----
 
 ### An important best practice when considering mortgage life insurance is:
 - [x] Evaluating term life insurance as an alternative based on cost and flexibility.  
@@ -293,7 +286,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** Comparing term life insurance with mortgage life insurance can highlight differences in coverage scope, cost, and benefits.
 
----
 
 ### Which regulatory body oversees the disclosure practices related to mortgage recommendations in Canada (as of 2025)?
 - [ ] IIROC (Investment Industry Regulatory Organization of Canada)  
@@ -303,7 +295,6 @@ To deepen your understanding of real estate-based wealth strategies, consider co
 
 > **Explanation:** As of January 1, 2023, IIROC and MFDA amalgamated into CIRO, which now supervises investment dealer, mutual fund dealer, and marketplace activity.
 
----
 
 ### True or False: Foreclosure in Canada is universally identical in every province. 
 - [ ] True  

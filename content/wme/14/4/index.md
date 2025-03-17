@@ -182,7 +182,6 @@ For further learning and professional guidance:
 
 > **Explanation:** A GMWB contract is specifically designed to guarantee a minimum withdrawal amount each year, regardless of investment performance.  
 
----
 
 ### 2. What is the “Lifetime Withdrawal Amount” (LWA) in a GMWB contract?
 
@@ -193,7 +192,6 @@ For further learning and professional guidance:
 
 > **Explanation:** The LWA is the core promise of a GMWB, representing an annual, guaranteed income stream.  
 
----
 
 ### 3. How can a “reset” (step-up feature) benefit GMWB contract holders?
 
@@ -204,7 +202,6 @@ For further learning and professional guidance:
 
 > **Explanation:** Step-up features allow the benefit base to increase when the underlying investment value rises, thereby boosting the future withdrawal amounts.  
 
----
 
 ### 4. Which entity provides coverage if the insurance company offering a GMWB contract insolvent?
 
@@ -215,7 +212,6 @@ For further learning and professional guidance:
 
 > **Explanation:** Assuris is the not-for-profit organization that protects policyholders if a Canadian life insurance company fails.  
 
----
 
 ### 5. In many GMWB contracts, withdrawing more than the allowable annual limit:
 
@@ -226,7 +222,6 @@ For further learning and professional guidance:
 
 > **Explanation:** These contracts require adherence to specific withdrawal limits to preserve the long-term guarantees.  
 
----
 
 ### 6. What is the key advantage of including a GMWB contract in a Canadian retirement portfolio?
 
@@ -237,7 +232,6 @@ For further learning and professional guidance:
 
 > **Explanation:** GMWBs address longevity risk by offering lifetime guaranteed withdrawals, providing an income floor that lasts as long as you do.  
 
----
 
 ### 7. Which of the following statements about fees in GMWB contracts is correct?
 
@@ -248,7 +242,6 @@ For further learning and professional guidance:
 
 > **Explanation:** Providing guaranteed withdrawals adds an extra cost component, often making the fees higher than conventional products.  
 
----
 
 ### 8. How are GMWBs regulated in Canada?
 
@@ -259,7 +252,6 @@ For further learning and professional guidance:
 
 > **Explanation:** GMWBs are insurance-based products subject to provincial insurance laws and OSFI oversight for federal rules.  
 
----
 
 ### 9. What is an effective step in integrating GMWB contracts into a retirement plan?
 
@@ -270,7 +262,6 @@ For further learning and professional guidance:
 
 > **Explanation:** A careful evaluation of fees, benefits, and alternatives ensures GMWB solutions truly meet client goals.  
 
----
 
 ### 10. True or False: The Benefit Base always remains equal to the current market value of the underlying investments.
 

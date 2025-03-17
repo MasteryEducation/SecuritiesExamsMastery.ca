@@ -173,7 +173,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** Domestic contracts (prenuptial, cohabitation, and separation agreements) clarify financial obligations, outline property division, and set or waive spousal support terms.
 
----
 
 ### 2. What is the importance of “independent legal advice” (ILA) in domestic contracts?
 
@@ -184,7 +183,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** Each party must understand their rights and obligations under the agreement. Courts may set aside contracts where one spouse did not obtain ILA or lacked capacity to consent.
 
----
 
 ### 3. Domestic contracts may override certain will provisions. What does this imply for estate planning?
 
@@ -195,7 +193,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** The stipulations in a domestic contract may, for example, specify that a spouse is entitled to or excluded from specific property, overriding instructions in a previously drafted will.
 
----
 
 ### 4. Under which circumstances might Canadian courts set aside a domestic contract?
 
@@ -206,7 +203,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** Courts aim to protect fairness. A domestic contract can be overturned if it’s profoundly unjust, was signed under coercion, or lacked informed consent.
 
----
 
 ### 5. What is a core requirement for the enforceability of a domestic contract?
 
@@ -217,7 +213,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** Without complete transparency, courts may invalidate the contract or modify its terms.
 
----
 
 ### 6. Which of the following best describes a prenuptial agreement?
 
@@ -228,7 +223,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** A prenuptial agreement (marriage contract) is entered before marriage and can address property division, spousal support, and estate matters.
 
----
 
 ### 7. If a couple separates and signs a separation agreement, which topics are typically covered?
 
@@ -239,7 +233,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** A separation agreement often deals comprehensively with family finances, support obligations, and parenting plans.
 
----
 
 ### 8. Why should advisors monitor potential changes to beneficiary designations after a domestic contract is signed?
 
@@ -250,7 +243,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** If a domestic contract changes asset allocation or ownership, updating beneficiary designations is critical so they remain consistent with the agreement.
 
----
 
 ### 9. Which regulatory body now oversees investment dealers and mutual fund dealers in Canada?
 
@@ -261,7 +253,6 @@ When carefully drafted and supported by full disclosure, domestic contracts prov
 
 > **Explanation:** The MFDA and IIROC amalgamated on January 1, 2023, into CIRO. References to MFDA or IIROC are now historical.
 
----
 
 ### 10. True or False: Seeking legal advice is unnecessary if both parties agree to the terms informally and sign a written agreement at home.
 

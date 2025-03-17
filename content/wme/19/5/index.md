@@ -156,7 +156,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** TAA involves short-term active adjustments in asset class weights relative to the long-term strategic mix in anticipation of potential market or economic shifts.
 
----
 
 ### 2. In Canada, why is it essential for advisors to set deviations within maximum boundaries when implementing TAA?
 
@@ -167,7 +166,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** Deviations must be capped to respect the client’s risk tolerance, maintain a disciplined approach, and comply with CIRO’s guidelines on suitability.
 
----
 
 ### 3. Which factor most significantly increases the costs associated with frequent tactical shifts?
 
@@ -178,7 +176,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** Multiple transactions in a tactical strategy lead to higher trading commissions, potential capital gains taxes, and other costs that can erode overall returns.
 
----
 
 ### 4. Which of the following best illustrates an example of TAA?
 
@@ -189,7 +186,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** Tactical overweights based on anticipated interest rate moves exemplify TAA’s short-term exploitations of market conditions.
 
----
 
 ### 5. When might an advisor most likely employ a tactical underweight to a particular sector?
 
@@ -200,7 +196,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** Advisors often adopt an underweight position if they foresee poor performance or overvaluation in a specific asset class or sector.
 
----
 
 ### 6. What is a potential danger if an advisor relies solely on emotion when making TAA decisions?
 
@@ -211,7 +206,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** Emotional decision-making often leads to reactive trades—exiting assets prematurely or failing to capitalize on logical opportunities, which can hurt performance.
 
----
 
 ### 7. Which regulatory body in Canada currently oversees dealers and market integrity?
 
@@ -222,7 +216,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** As of 2023, the MFDA and IIROC amalgamated into the Canadian Investment Regulatory Organization (CIRO), which oversees both investment dealers and mutual fund dealers.
 
----
 
 ### 8. Which of the following is NOT a recommended resource for advisors seeking to enhance their TAA expertise?
 
@@ -233,7 +226,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** IIROC became part of CIRO in 2023 and no longer issues new policy updates as a standalone entity. Advisors should refer to CIRO for the latest materials.
 
----
 
 ### 9. Which statement about taxes and short-term trading for TAA in Canada is most accurate?
 
@@ -244,7 +236,6 @@ Tactical Asset Allocation can be an effective method to capitalize on short-term
 
 > **Explanation:** More frequent trades can result in additional capital gains, which are taxable (unless within registered accounts), thereby reducing the after-tax return.
 
----
 
 ### 10. True or False: TAA is designed to eliminate all market risk by repeatedly buying low and selling high.
 

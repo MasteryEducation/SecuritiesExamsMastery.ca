@@ -186,7 +186,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Real property used as a principal residence generally cannot be held within an RRSP. However, mutual funds, ETFs, and government bonds are all permitted.
 
----
 
 ### What is the advantage of conducting a registered transfer rather than withdrawing RRSP funds directly?
 - [x] It prevents an unintended taxable event.
@@ -196,7 +195,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Transferring directly between registered accounts avoids the tax consequences and retains funds within a registered plan, preserving their tax-deferred status.
 
----
 
 ### Why might an investor approaching retirement gradually reduce their allocation to equities within an RRSP?
 - [ ] To increase the account’s short-term risk.
@@ -206,7 +204,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** As retirement nears, focusing on capital preservation and reducing exposure to equity volatility helps manage the risk of major losses right before retirement.
 
----
 
 ### What is one key reason to consolidate multiple RRSP accounts into a single plan?
 - [x] Easier and more cost-effective management.
@@ -216,7 +213,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Consolidation simplifies administration, can reduce fees, and makes it easier to monitor and rebalance the portfolio.
 
----
 
 ### Which of the following best describes the purpose of rebalancing an RRSP portfolio?
 - [x] To bring asset allocations back in line with initial targets.
@@ -226,7 +222,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Rebalancing serves to keep the portfolio’s risk-return profile consistent with the client’s objectives. One may collect capital gains or dividends over time, but the main tool is to correct portfolio drift.
 
----
 
 ### Which organization replaced the IIROC and MFDA to become Canada’s national self-regulatory body governing investment dealers?
 - [x] CIRO (Canadian Investment Regulatory Organization)
@@ -236,7 +231,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** CIRO was formed on January 1, 2023, by the amalgamation of the Mutual Fund Dealers Association (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC).
 
----
 
 ### In which scenario is passive investing through low-cost ETFs most beneficial for an RRSP holder?
 - [x] When the investor seeks diversified market exposure and lower MERs.
@@ -246,7 +240,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Low-cost ETFs offer diversified and lower-fee options, ideal for hands-off, long-term growth strategies typical in an RRSP context.
 
----
 
 ### Which tool can help individuals track and consolidate multiple RRSPs?
 - [x] Wealthica
@@ -256,7 +249,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Wealthica and similar open-source portfolio trackers can help centralize investment data from different financial institutions for easier monitoring and rebalancing.
 
----
 
 ### What is “longevity risk” in the context of RRSP management?
 - [x] The risk of outliving one’s retirement savings.
@@ -266,7 +258,6 @@ Going forward, continue exploring CIRO’s regulatory updates, CSA guidance on s
 
 > **Explanation:** Longevity risk is the possibility that a retiree may deplete their retirement funds if they live longer than expected, necessitating careful planning and sustainable withdrawal strategies.
 
----
 
 ### True or False: Failing to keep track of RRSP contributions can lead to over-contributions and potential tax penalties.
 - [x] True

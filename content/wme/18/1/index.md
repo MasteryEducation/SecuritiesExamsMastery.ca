@@ -190,7 +190,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** An IPS is a blueprint for the portfolio, detailing objectives, constraints, and the strategies agreed upon between advisor and client, which guide ongoing decisions.
 
----
 
 ### One advantage of a time-weighted return calculation is that it:
 
@@ -201,7 +200,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** Time-weighted returns measure performance based on the manager’s skill, removing distortions from client contributions or withdrawals.
 
----
 
 ### In Canadian portfolio management, “tactical asset allocation” refers to:
 
@@ -212,7 +210,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** Tactical asset allocation involves making short-term deviations from the long-term strategic mix to seize perceived market opportunities.
 
----
 
 ### What does diversification primarily aim to reduce?
 
@@ -223,7 +220,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** Diversification across different assets, sectors, and regions lowers unsystematic risk, which is specific to individual securities or sectors, but does not eliminate market-wide (systematic) risk.
 
----
 
 ### When rebalancing a Canadian taxable account, which practices help maximize tax efficiency?
 
@@ -234,7 +230,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** By strategically realizing losses to offset gains and leveraging registered accounts for certain trades, advisors can reduce the tax impact of rebalancing.
 
----
 
 ### What is the function of CIRO in the current Canadian financial regulation landscape?
 
@@ -245,7 +240,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** CIRO became Canada’s sole self-regulatory organization after the amalgamation of the former IIROC and MFDA, monitoring investment practices and market integrity for dealers.
 
----
 
 ### Which metric measures a portfolio’s volatility relative to the overall market?
 
@@ -256,7 +250,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** Beta gauges how a portfolio moves in relation to the market. Covariance is part of the beta calculation, but “beta” is the standard measure for relative volatility.
 
----
 
 ### Under what circumstance would an advisor most likely adjust a client’s Investment Policy Statement (IPS)?
 
@@ -267,7 +260,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** The IPS is typically revised if the client’s circumstances or goals change materially, rather than in response to short-term market moves.
 
----
 
 ### Which statement is most accurate regarding strategic versus tactical asset allocation?
 
@@ -278,7 +270,6 @@ Market movements, shifts in client objectives, and changes to regulatory environ
 
 > **Explanation:** Strategic asset allocation sets the portfolio’s foundational mix aligned with goals and risk tolerance; tactical shifts adjust allocations temporarily on market views.
 
----
 
 ### Rebalancing should primarily be done to:
 

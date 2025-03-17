@@ -185,7 +185,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Modern Portfolio Theory emphasizes that allocating investments across various asset classes is a key determinant of overall portfolio performance, overshadowing the impact of individual security choices or precise market timing.
 
----
 
 ### What is one advantage of investing in Canadian equities over foreign equities for Canadian residents?
 
@@ -196,7 +195,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Canadian equities may offer dividend tax credits, potentially boosting after-tax returns for Canadian residents. However, they do not guarantee immunity from market volatility or higher returns compared to every other market.
 
----
 
 ### According to CIRO guidelines, what critical step must an advisor perform before recommending an asset allocation?
 
@@ -207,7 +205,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Under CIRO requirements, advisors must determine a client’s risk profile, time horizon, and investment objectives to ensure the recommended asset allocation is suitable.
 
----
 
 ### Which of the following is NOT a typical asset class in a diversified portfolio?
 
@@ -218,7 +215,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Equities, fixed income, and cash equivalents are core asset classes in portfolio construction. Lottery tickets, due to their speculative and zero-sum nature, are not generally considered a standard investable asset class.
 
----
 
 ### When discussing asset allocation, what key benefit do alternative investments (e.g., real estate, hedge funds) often bring to a portfolio?
 
@@ -229,7 +225,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Alternative investments may not guarantee higher returns, but they can offer unique risk-return profiles and a lower correlation with publicly traded equities and bonds, enhancing overall portfolio diversification.
 
----
 
 ### Why might some Canadian advisors recommend placing high-yield bonds or other interest-bearing assets in registered accounts?
 
@@ -240,7 +235,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Interest income is taxed at an investor’s marginal tax rate. Holding interest-bearing assets in a registered plan (e.g., RRSP) can defer or shield this income from immediate taxation, potentially improving after-tax returns.
 
----
 
 ### What is a significant risk of failing to rebalance a portfolio amid market fluctuations?
 
@@ -251,7 +245,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** When one asset class performs strongly, it can overly dominate the portfolio, increasing risk levels beyond what the investor intended. Rebalancing realigns the portfolio with the predetermined target allocation.
 
----
 
 ### Which statement best describes how technology (e.g., robo-advisors) fits into the asset allocation process?
 
@@ -262,7 +255,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** Automated platforms apply algorithms to model portfolios, implement trades, and rebalance. However, ongoing human oversight is crucial to address qualitative factors and complex scenarios.
 
----
 
 ### Which regulatory body oversees advisors’ compliance with client risk assessment and asset allocation requirements in Canada?
 
@@ -273,7 +265,6 @@ Asset allocation is an ongoing process of aligning a client’s unique financial
 
 > **Explanation:** In 2023, the MFDA and IIROC amalgamated into CIRO, which oversees both investment dealers and mutual fund dealers in Canada. The SEC is a U.S. regulator.
 
----
 
 ### True or False: The time horizon of an investor does not significantly influence the asset allocation strategy used in Canada.
 

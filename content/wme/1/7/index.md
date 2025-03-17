@@ -258,7 +258,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** A team-based approach allows each area of financial planning (tax, estate, investment, insurance) to be handled by experts, ensuring comprehensive and accurate advice.
 
----
 
 ### 2. Which professional is typically responsible for administering trusts and ensuring they are managed in line with the beneficiaries’ interests?
 
@@ -269,7 +268,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** A Trust Officer is dedicated to the accurate administration of trusts, working within the terms set by the trust deed.
 
----
 
 ### 3. Which of the following is a significant benefit for clients when working with a multidisciplinary team?
 
@@ -280,7 +278,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** By combining the knowledge of various specialists, clients receive holistic advice that ties together all aspects of their finances.
 
----
 
 ### 4. One of the potential challenges of a team-based approach is:
 
@@ -291,7 +288,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** Specialists may sometimes have differing views. Clear communication and a responsible lead advisor help reconcile these efficiently.
 
----
 
 ### 5. In Canada, which regulatory body supervises referral arrangements and fee-sharing among investment dealers and mutual fund dealers?
 
@@ -302,7 +298,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** As of 2025, CIRO (formed from the post-2023 amalgamation of IIROC and MFDA) oversees compliance and regulatory matters related to referral arrangements and fee-sharing.
 
----
 
 ### 6. What is the primary risk if a Canadian wealth advisor shares client data among specialists without a proper framework?
 
@@ -313,7 +308,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** Data privacy laws in Canada require that personal information is safeguarded. Failure to put confidentiality agreements in place can lead to regulatory infractions.
 
----
 
 ### 7. Which of the following is a recommended best practice for communication among a team of specialists?
 
@@ -324,7 +318,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** Frequent team meetings and secure digital tools ensure everyone remains aligned. 
 
----
 
 ### 8. When forming a team-based approach, it is important to clarify:
 
@@ -335,7 +328,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** Transparency in roles prevents overlap and confusions, ensuring each professional focuses on their area of expertise.
 
----
 
 ### 9. Business succession planners are primarily involved in:
 
@@ -346,7 +338,6 @@ By applying these principles, wealth advisors can deliver enriched value to thei
 
 > **Explanation:** Succession planners specialize in creating smooth transitions in ownership or leadership of a family business or corporation.
 
----
 
 ### 10. True or False: A wealth advisory team that includes an offense-oriented investment strategist but lacks a tax specialist can still offer a fully holistic service.
 

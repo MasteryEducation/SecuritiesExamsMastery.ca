@@ -174,7 +174,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** Intraday trading allows investors to enter or exit positions at real-time market prices, providing flexibility not found in end-of-day priced mutual funds.
 
----
 
 ### Which factor commonly leads to tracking error in a passive ETF?
 
@@ -185,7 +184,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** Management fees, imperfect sampling, and trading costs can cause an ETF's performance to diverge from its underlying index.
 
----
 
 ### What is a potential drawback of investing in narrowly focused or thematic ETFs?
 
@@ -196,7 +194,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** Narrow ETFs often have lower trading volumes, leading to wider bid-ask spreads; they can also exhibit higher volatility due to concentrated exposure.
 
----
 
 ### Which of the following is true about costs associated with ETFs?
 
@@ -207,7 +204,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** ETFs generally have lower overall costs, but investors incur bid-ask spreads and possible brokerage commissions; some may distribute capital gains.
 
----
 
 ### Why is the creation/redemption mechanism important for ETF price stability?
 
@@ -218,7 +214,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** Creation and redemption by authorized participants keeps ETFs priced efficiently, as shares are created or destroyed to match demand and maintain NAV alignment.
 
----
 
 ### Under what circumstances might an ETF distribute capital gains to its investors?
 
@@ -229,7 +224,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** Although ETFs are often tax-efficient, rebalancing or changes to the underlying basket may create taxable capital gains, which can be distributed to unitholders.
 
----
 
 ### Which Canadian regulatory framework governs the rules for ETFs?
 
@@ -240,7 +234,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** ETFs in Canada largely operate under the same framework as mutual funds—National Instrument 81-102—overseen by the CSA and CIRO.
 
----
 
 ### What is one benefit of reviewing the ETF Facts document before investing?
 
@@ -251,7 +244,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** The ETF Facts document is a simplified, regulator-mandated disclosure designed to help investors understand key information about the ETF in plain language.
 
----
 
 ### How do large Canadian pension funds sometimes use ETFs?
 
@@ -262,7 +254,6 @@ Advisors and investors should continually monitor industry developments, as prod
 
 > **Explanation:** Pension funds leverage the liquidity and broad exposure ETFs provide, using them for swift adjustments to asset allocation while more complex direct positions are settled.
 
----
 
 ### True or False: Smart Beta ETFs strictly replicate a standard market-cap index.
 

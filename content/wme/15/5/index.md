@@ -197,7 +197,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Designating a Trusted Contact Person (TCP) allows advisors to seek guidance when they see signs of cognitive decline or undue influence.
 
----
 
 ### 2. Which of the following are observable signs that a client may be vulnerable? (Select all that apply)
 
@@ -208,7 +207,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Abrupt changes in transaction behavior and struggle to recall basic details suggest potential vulnerability; a high net worth or clear communication typically do not.
 
----
 
 ### 3. What should an advisor do when concerned about a vulnerable client’s capacity?
 
@@ -219,7 +217,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Advisors should alert their firm’s compliance team. Transferring assets or declaring incompetence are not within an advisor’s direct authority.
 
----
 
 ### 4. Under CIRO’s guidelines, what is the primary rationale for using a Trusted Contact Person (TCP)?
 
@@ -230,7 +227,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** A TCP is a resource for advisors to address red flags regarding capacity or financial abuse, not to assume control or make decisions for the client.
 
----
 
 ### 5. Which of the following is an example of undue influence?
 
@@ -241,7 +237,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Undue influence occurs when someone uses intimidation or deception to force a client into decisions that do not reflect their true intentions.
 
----
 
 ### 6. How can documenting detailed meeting notes protect both the advisor and client?
 
@@ -252,7 +247,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Thorough documentation helps verify that the advisor acted ethically and in accordance with the client’s informed instructions.
 
----
 
 ### 7. If an advisor suspects financial abuse, which steps should they prioritize? (Select all that apply)
 
@@ -263,7 +257,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Advisors should follow firm policies by bringing the matter to compliance and, when appropriate, contacting the TCP. Abrupt account closures or confronting the alleged abuser are not typically initial steps.
 
----
 
 ### 8. Which entity replaced the MFDA and IIROC in 2023 as the primary self-regulatory body for Canadian investment dealers and mutual fund dealers?
 
@@ -274,7 +267,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** The MFDA and IIROC amalgamated to form the Canadian Investment Regulatory Organization (CIRO) on January 1, 2023.
 
----
 
 ### 9. What is the function of having two signatures required for certain transactions?
 
@@ -285,7 +277,6 @@ Advisors in Canada have an ethical and regulatory duty to serve vulnerable clien
 
 > **Explanation:** Having two signatures creates an extra layer of oversight, making it harder for one individual to exploit the client’s vulnerability.
 
----
 
 ### 10. True or False: Keeping regular communication and reviews helps advisors detect changes in a client’s capacity over time.
 

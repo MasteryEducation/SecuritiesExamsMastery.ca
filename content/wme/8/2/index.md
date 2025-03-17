@@ -192,7 +192,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** Line 15000 is where the taxpayer sums up all income sources, including employment, investment, rental, and other taxable income.
 
----
 
 ### What document does the CRA provide after reviewing your submitted tax return?
 
@@ -203,7 +202,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** After you file your T1 General, the CRA issues a Notice of Assessment (NOA) indicating the reviewed amounts and any taxes owing or refunds.
 
----
 
 ### Which deduction is specifically allowed to reduce net income on Line 23600?
 
@@ -214,7 +212,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** RRSP contributions are applied to reduce your net income, often significantly lowering your taxable income for the year.
 
----
 
 ### How long does the CRA recommend taxpayers keep supporting documents for their tax returns?
 
@@ -225,7 +222,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** The CRA advises taxpayers to retain all relevant documentation (receipts, T-slips, etc.) for six years in case of review or audit.
 
----
 
 ### Which of the following statements about pension income splitting is true?
 
@@ -236,7 +232,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** Pension income splitting only applies to eligible pension income (such as certain employer pensions or annuities) and can lower a couple’s combined marginal tax rates.
 
----
 
 ### What is one key difference between non-refundable and refundable tax credits?
 
@@ -247,7 +242,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** Non-refundable credits only reduce taxes payable to zero. In contrast, refundable credits can generate a refund for the taxpayer if the credits exceed taxes owed.
 
----
 
 ### Which action could help reduce the chance of surprise tax balances or penalties?
 
@@ -258,7 +252,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** Ensuring T-slips are accurate and complete, and filing on time, helps prevent underreporting income and late-filing penalties.
 
----
 
 ### Which of the following is a common pitfall when filing a T1 General?
 
@@ -269,7 +262,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** Not reporting all slips (e.g., T4, T5, T3) is a frequent oversight and can lead to penalties or reassessments.
 
----
 
 ### If a taxpayer has a large net income this year but expects a much smaller net income next year, what RRSP strategy might an advisor recommend?
 
@@ -280,7 +272,6 @@ Effective tax management via the T1 General return demands a thorough understand
 
 > **Explanation:** If the taxpayer expects a higher marginal tax rate in the future, carrying forward RRSP deductions for use in future years can yield a larger tax savings.
 
----
 
 ### Canadian financial institutions and advisory firms must comply with which national self-regulatory organization as of 2025?
 

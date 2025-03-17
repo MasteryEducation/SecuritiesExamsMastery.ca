@@ -180,7 +180,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** Mortgage mutual funds pool investor capital in various mortgages (residential, commercial, insured) to generate interest income. They are different from bond funds or equity hedge funds.
 
----
 
 ### 2. What is a key advantage of investing in mortgage mutual funds?
 
@@ -191,7 +190,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** The main benefit is real estate exposure through mortgages without property ownership. Default risk cannot be fully eliminated, and the fund’s value may fluctuate.
 
----
 
 ### 3. Which of the following is a major type of mortgage included in many Canadian mortgage mutual funds?
 
@@ -202,7 +200,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** Common mortgage types in funds are residential, commercial, and often insured mortgages (e.g., insured by CMHC). Cryptocurrency-based mortgages or personal loan pools aren’t typical in mortgage mutual funds.
 
----
 
 ### 4. Why might a mortgage mutual fund face prepayment risk?
 
@@ -213,7 +210,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** Mortgage borrowers have the right to prepay. This can reduce the interest income if the fund has to reinvest at lower rates.
 
----
 
 ### 5. Which of the following strategies might help a mortgage mutual fund manager mitigate interest rate sensitivity?
 
@@ -224,7 +220,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** Diversification by maturity can reduce sensitivity to one interest rate environment. Opting for all or only long-term mortgages could amplify interest rate risk. Insuring mortgages helps reduce default risk but does not address all aspects of interest rate sensitivity.
 
----
 
 ### 6. Which term refers to the ratio of a mortgage loan’s amount to the value of the property?
 
@@ -235,7 +230,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** Loan-to-Value (LTV) ratio measures the mortgage’s amount relative to the property’s value. It’s a key factor in determining the borrower’s equity and default risk.
 
----
 
 ### 7. A mortgage that is insured by CMHC is best described as:
 
@@ -246,7 +240,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** CMHC-insured mortgages protect the lender (and indirectly fund investors) against borrower default, particularly for high-LTV mortgages. They often carry a slightly higher rate because of insurance premiums, although default risks are considerably decreased.
 
----
 
 ### 8. When real estate market conditions deteriorate and property values decline, which of the following outcomes is most likely for a mortgage mutual fund?
 
@@ -257,7 +250,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** A declining real estate market can increase defaults and reduce fund returns, especially if the property must be sold for less than the loan amount. Funds are not fully immune, and liquidity can become constrained.
 
----
 
 ### 9. What is a prudent measure for investors considering mortgage mutual funds?
 
@@ -268,7 +260,6 @@ Carefully reviewing these resources can help clarify mortgage-based investment s
 
 > **Explanation:** One of the best practices is to read the fund’s prospectus before investing. Blindly relying on past performance or overconcentrating in one product is risky.
 
----
 
 ### 10. A mortgage mutual fund is generally considered a conservative investment product, but can it still experience significant losses?
 

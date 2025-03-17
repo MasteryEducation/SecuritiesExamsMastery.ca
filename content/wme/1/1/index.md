@@ -219,7 +219,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** â€œHolistic financial planningâ€ captures the integrated approach that covers all aspects of a clientâ€™s financial life.
 
----
 
 ### Which of the following best explains how Canadian wealth management has evolved to reach a broader audience?
 
@@ -230,7 +229,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** Digital innovation has lowered minimum investment requirements and expanded access, enabling mass affluent and emerging affluent segments to benefit from comprehensive wealth management.
 
----
 
 ### How do Canadian wealth managers typically categorize their client segments?
 
@@ -241,7 +239,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** Client segmentation is commonly based on the volume of investable assets, ensuring tailored service levels and product offerings.
 
----
 
 ### How does CIRO fit into the regulatory landscape of Canadian wealth management?
 
@@ -252,7 +249,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** CIRO is the merged entity (formerly MFDA and IIROC) that oversees dealers and market integrity; the CSA remains an umbrella organization of provincial and territorial securities regulators.
 
----
 
 ### What is a common pitfall when focusing strictly on portfolio returns without considering other factors?
 
@@ -263,7 +259,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** Centering solely on returns risks missing other crucial components like tax-efficient strategies and proper estate structuring.
 
----
 
 ### Which layer of Canadian wealth management often involves specialized banking services and high levels of personalization?
 
@@ -274,7 +269,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** Private banking provides tailored lending, customized account structures, and exclusive offerings specifically for affluent and HNW clients.
 
----
 
 ### Which of the following statements accurately describes fintechâ€™s role in wealth management?
 
@@ -285,7 +279,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** Fintech tools automate and enhance many aspects of investment and client servicing, including data analytics, portfolio rebalancing, and risk management, all within regulatory boundaries.
 
----
 
 ### Which organizationâ€™s guidelines must Canadian wealth managers follow in addition to provincial regulations?
 
@@ -296,7 +289,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** Canadian wealth managers must adhere to guidelines set by CIRO, in addition to provincial securities commissions, ensuring consistent investor protection across Canada.
 
----
 
 ### What is one of the primary ways wealth management contributes to the Canadian economy?
 
@@ -307,7 +299,6 @@ Thinking about how you might apply these principles in your own or your clientsâ
 
 > **Explanation:** By facilitating investment into both Canadian and global enterprisesâ€”from SMEs to publicly traded firmsâ€”wealth management helps drive growth and innovation in the economy.
 
----
 
 ### True or False: A wealth managerâ€™s role is limited to financial product distribution without any requirement for ongoing advisory relationships.
 

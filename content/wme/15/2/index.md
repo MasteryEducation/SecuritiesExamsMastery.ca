@@ -226,7 +226,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** Marriage or divorce can dramatically change the distribution of assets and guardianship decisions within a will, making an update essential.
 
----
 
 ### What is the purpose of naming a contingency beneficiary?
 
@@ -237,7 +236,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** A contingency beneficiary is a backup individual (or entity) who inherits if the primary beneficiary dies or is otherwise disqualified.
 
----
 
 ### Which Canadian regulatory body oversees the conduct of wealth advisors as of 2025?
 
@@ -248,7 +246,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) is the current self-regulatory organization overseeing investment dealers and mutual fund dealers in Canada. MFDA and IIROC no longer exist as separate entities.
 
----
 
 ### Why is testamentary capacity crucial when drafting a will?
 
@@ -259,7 +256,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** Testamentary capacity ensures the testator is mentally capable of understanding and approving the distribution of their assets, reducing the risk of legal challenges.
 
----
 
 ### Which of the following Canadian legal documents typically provides non-binding instructions for personal belongings with sentimental value?
 
@@ -270,7 +266,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** Letters of Wishes often guide executors on distributing sentimental items but generally lack the same legal binding power as a formal will.
 
----
 
 ### In Canada, how is the deceased’s final tax liability usually calculated?
 
@@ -281,7 +276,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** Canada imposes no estate or inheritance tax at the federal level. Instead, a deemed disposition may create capital gains that apply to the final tax return.
 
----
 
 ### What is a possible consequence of failing to name an alternate executor in a will?
 
@@ -292,7 +286,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** If the primary executor declines or becomes unable to serve and there is no alternate named, the court may appoint an administrator.
 
----
 
 ### Which of the following best practices reduces potential conflicts over personal items?
 
@@ -303,7 +296,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** Outlining specific instructions for personal or sentimental items can help prevent disputes among heirs.
 
----
 
 ### Which of the following financial strategies might help reduce the tax burden on an estate?
 
@@ -314,7 +306,6 @@ For advisors, ongoing discussions and reviews around will planning exemplify a c
 
 > **Explanation:** Trust structures and spousal rollovers are common strategies that can reduce or defer taxes and preserve estate value.
 
----
 
 ### True or False: Under Canadian law, holograph (handwritten) wills are invalid in every province.
 

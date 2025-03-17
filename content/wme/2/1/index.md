@@ -195,7 +195,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** Ethics builds trust among investors and is a foundation of investor protection. Without strong ethical standards, the financial system’s integrity suffers.
 
----
 
 ### 2. Which self-regulatory organization currently oversees investment dealers and mutual fund dealers in Canada?
 
@@ -206,7 +205,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) formed after the amalgamation of IIROC and MFDA, effective June 1, 2023.
 
----
 
 ### 3. What does placing the "client’s best interest first" imply for an advisor?
 
@@ -217,7 +215,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** Client-first conduct means all advice and recommendations must be suitable and aligned with the client’s financial situation, goals, and risk tolerance.
 
----
 
 ### 4. A key component of ethical leadership within a Canadian wealth management firm is:
 
@@ -228,7 +225,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** Ethical leadership promotes a speak-up culture and continuous ethics training, ensuring concerns are addressed and misconduct is minimized.
 
----
 
 ### 5. Which of the following is an example of due diligence?
 
@@ -239,7 +235,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** Advisors must gather and review detailed client information and research proposed investments to ensure suitability and alignment with client objectives.
 
----
 
 ### 6. What is a common pitfall to avoid in ethical financial advising?
 
@@ -250,7 +245,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** Without transparent communication of fees, conflicts of interest may arise, damaging client trust and violating ethical norms.
 
----
 
 ### 7. In Canadian financial services, which entity coordinates provincial securities regulations?
 
@@ -261,7 +255,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** The CSA supports collaboration among provincial securities regulators, setting harmonized standards and policies.
 
----
 
 ### 8. Confidentiality in financial services means:
 
@@ -272,7 +265,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** Maintaining confidentiality protects client data and complies with Canadian privacy regulations.
 
----
 
 ### 9. A practical step for promoting ethical conduct within a Canadian bank is:
 
@@ -283,7 +275,6 @@ By adopting high ethical standards, Canadian financial professionals strengthen 
 
 > **Explanation:** A whistleblower mechanism allows employees to report concerns without fear, reinforcing the firm’s ethical culture.
 
----
 
 ### 10. True or False: Upholding ethical standards can attract more clients and lead to long-term career success.
 

@@ -209,7 +209,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** The first step involves recognizing and defining the ethical dilemma. Without identifying the ethical issue, the subsequent steps cannot be executed effectively.
 
----
 
 ### Which stakeholder group is typically the most directly affected by an advisor's ethical decision?
 - [x] The client  
@@ -219,7 +218,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** Although multiple stakeholders can be involved, the client is usually the foremost concern, as the advisor’s duty is to act in the client’s best interest.
 
----
 
 ### Which of the following actions best demonstrates proactive conflict management?
 - [x] Disclosing to the client any commission-based compensation structures  
@@ -229,7 +227,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** Full disclosure of potential conflicts of interest, including fee structures, ensures clients understand how compensation might impact recommendations.
 
----
 
 ### When is the ideal time to engage a firm's ethics hotline or compliance department?
 - [ ] Only after a formal complaint has been filed  
@@ -239,7 +236,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** Early intervention is key to preventing escalation and potential harm to both the client and the advisor.
 
----
 
 ### Which of the following is a common pitfall that may lead to an ethical breach?
 - [x] Allowing bonus incentives to overshadow client interests  
@@ -249,7 +245,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** Misaligned incentives and lack of proper documentation are major risk factors for ethical misconduct.
 
----
 
 ### What is the primary purpose of documenting the ethical decision-making process?
 - [x] To provide evidence of due diligence and compliance  
@@ -259,7 +254,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** Detailed documentation serves as a vital paper trail to prove that proper steps were taken, which can protect both client and advisor.
 
----
 
 ### How does a “speak-up culture” benefit a financial advisory firm?
 - [ ] It eliminates the need for compliance officers  
@@ -269,7 +263,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** A speak-up culture reduces the fear of retaliation and ensures that potential misconduct or breaches are flagged and addressed early.
 
----
 
 ### When considering a new investment strategy for a client, which factor should hold the highest priority?
 - [x] The client’s best interests  
@@ -279,7 +272,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** Adhering to fiduciary duties dictates that the client’s best interest must always come first, outweighing business or personal incentives.
 
----
 
 ### Which of the following resources remain relevant for Canadian advisors seeking guidance on ethical and regulatory compliance?
 - [x] CIRO bylaws and rules  
@@ -289,7 +281,6 @@ By systematically applying these principles and resources, advisors safeguard th
 
 > **Explanation:** CIRO now oversees what the MFDA and IIROC once covered. The Canadian Securities Administrators also provide ongoing national-level guidance.
 
----
 
 ### True or False: Reflecting on the outcomes of past ethical decisions helps improve future ethical decision-making.
 - [x] True  

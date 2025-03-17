@@ -178,7 +178,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** CIPF protection kicks in only if the member firm is truly insolvent and can’t return client property. It does not cover market losses, tax liabilities, or trade delays.
 
----
 
 ### Which organization(s) was/were consolidated to create CIRO? 
 - [x] The Mutual Fund Dealers Association (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC).
@@ -188,7 +187,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** On January 1, 2023, IIROC and the MFDA amalgamated to form a single self-regulatory organization, now known as CIRO.
 
----
 
 ### Under current regulations, which fund provides coverage for clients of both investment dealers and mutual fund dealers? 
 - [x] Canadian Investor Protection Fund (CIPF).
@@ -198,7 +196,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** After the MFDA IPC merged into CIPF in 2023, CIPF became the single investor protection fund for all CIRO member firms, including both investment dealers and mutual fund dealers.
 
----
 
 ### True or False: CIPF coverage fully guarantees you will never lose money on your investments.
 - [x] False
@@ -206,7 +203,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** CIPF doesn’t protect against market losses. It only covers missing property if your member firm becomes insolvent.
 
----
 
 ### Which of the following best describes insolvency? 
 - [x] A firm’s inability to meet its financial obligations.
@@ -216,7 +212,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** Insolvency occurs when a firm can’t meet its debts or financial obligations. It’s not just a rebranding or a temporary suspension of trading.
 
----
 
 ### Which statement about CIPF is correct? 
 - [x] CIPF operates separately from CIRO yet serves member firms of CIRO.
@@ -226,7 +221,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** CIPF is an independent organization that protects investors whose dealers are CIRO members. Coverage has certain limits and is not provided by the government directly.
 
----
 
 ### If your investment dealer is not a CIPF member, which is most likely correct? 
 - [x] You are not covered by CIPF protection in the event of insolvency.
@@ -236,7 +230,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** CIPF only covers clients of its member firms. If a dealer isn’t a member, CIPF coverage won’t apply and you may have to rely on normal legal channels to try to recover assets.
 
----
 
 ### Which of the following does CIPF NOT cover?
 - [x] Negative investment returns due to market fluctuations.
@@ -246,7 +239,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** CIPF purely covers shortfalls related to a dealer’s insolvency. Standard investment losses due to market price declines are not included.
 
----
 
 ### When verifying coverage, which step should an investor generally take first?
 - [x] Confirm the dealer’s membership with CIPF on the CIPF website.
@@ -256,7 +248,6 @@ But remember, CIPF is not your replacement for intelligent investing. It won’t
 
 > **Explanation:** The immediate step is to check CIPF membership. CIPF’s official website even has tools to locate member firms and confirm coverage status.
 
----
 
 ### CIPF coverage typically applies:
 - [x] Per account category, with specific limits.

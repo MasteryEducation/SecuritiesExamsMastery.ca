@@ -163,7 +163,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** Credit planning ensures that borrowing decisions support a client’s long-term financial objectives and are suitable for their risk profile.
 
----
 
 ### 2. Which of the following is a key step when gathering client information for credit planning?
 
@@ -174,7 +173,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** Understanding both the client’s credit history and overall financial picture is critical to accurate credit planning.
 
----
 
 ### 3. What does the Gross Debt Service (GDS) ratio measure?
 
@@ -185,7 +183,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** GDS focuses on housing-related costs relative to a client’s monthly gross income.
 
----
 
 ### 4. In Canadian lending, which ratio generally must stay below 40%–42% to ensure comfortable debt levels?
 
@@ -196,7 +193,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** Most lenders in Canada aim to keep TDS at or below 40%–42% as a measure of responsible credit capacity.
 
----
 
 ### 5. Which of the following is an example of revolving credit?
 
@@ -207,7 +203,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** A line of credit is considered revolving because the borrower can draw and repay repeatedly up to a certain limit.
 
----
 
 ### 6. Which organization’s guidelines should advisors consult for up-to-date self-regulatory information regarding credit suitability in Canada?
 
@@ -218,7 +213,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** In 2023, the MFDA and IIROC amalgamated into the new self-regulatory organization known as CIRO, which provides current guidance.
 
----
 
 ### 7. How can leveraging credit be advantageous within a wealth management strategy?
 
@@ -229,7 +223,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** Strategic use of leverage can help clients expand their investment reach and may offer tax advantages, but it must be managed prudently.
 
----
 
 ### 8. Which of the following represents a common risk of excessive debt?
 
@@ -240,7 +233,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** Missing payments or taking on too much debt can drastically reduce a borrower’s ability to secure future credit at favorable terms.
 
----
 
 ### 9. What is a recommended best practice in effective credit planning?
 
@@ -251,7 +243,6 @@ Credit planning is not merely about accessing funds; it is about leveraging debt
 
 > **Explanation:** Stress-testing helps ensure clients can handle potential economic changes, such as rising interest rates, without financial strain.
 
----
 
 ### 10. True or False: Credit insurance can cover a borrower’s debt obligations in the event of death, disability, or serious illness.
 

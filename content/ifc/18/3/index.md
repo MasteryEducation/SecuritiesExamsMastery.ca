@@ -260,7 +260,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** When analyzing a scenario, the most important first step is to thoroughly understand the facts: the players, potential conflicts, and relevant regulations. These details shape the rest of the analysis.
 
----
 
 ### In a case study where a client’s risk tolerance and the representative’s bonus structure conflict, which rule typically takes priority?
 
@@ -271,7 +270,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Regulatory frameworks in Canada emphasize the client’s best interest over sales incentives. Representatives must align with CIRO and CSA rules to avoid conflicts of interest and respect risk tolerance.
 
----
 
 ### What is a “stakeholder” in the context of an ethical dilemma?
 
@@ -282,7 +280,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Stakeholders include the client, the firm, the representative, the market, and others potentially impacted by a financial decision. Understanding each stakeholder’s perspective is key to ethical judgments.
 
----
 
 ### One common ethical dilemma involves “omission.” Which statement best defines omission?
 
@@ -293,7 +290,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Omission is the act of leaving out necessary details, which can mislead a client as much as actively providing false information. Representatives must avoid such omissions.
 
----
 
 ### Consider a case study where a representative forges a client’s signature. Which approach is most aligned with the correct ethical framework?
 
@@ -304,7 +300,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Forging a client signature undermines client protection, trust, and regulatory compliance. The correct ethical and legal standpoint is to refuse such a request and escalate to compliance if necessary.
 
----
 
 ### After analyzing a case study, why is reflection important?
 
@@ -315,7 +310,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Reflection allows professionals to look back and see if there were other valid approaches or missed details. It fosters continuous learning and improves decision-making for future scenarios.
 
----
 
 ### If your firm’s guidelines are stricter than CIRO’s baseline requirements, how should you proceed?
 
@@ -326,7 +320,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Firms often have internal policies stricter than baseline regulations to protect clients and the firm from legal and reputational risks. Representatives must comply with the higher standard.
 
----
 
 ### Which of the following is an example of a potential conflict of interest?
 
@@ -337,7 +330,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** A conflict of interest arises when a representative’s motives—such as higher commissions—possibly undermine the client’s best interest. The scenario where in-house funds are pushed despite better external options illustrates such a conflict.
 
----
 
 ### When unsure about an ethical or regulatory matter, what is the recommended best practice?
 
@@ -348,7 +340,6 @@ So the next time you read about a hypothetical scenario where someone is “just
 
 > **Explanation:** Firms have compliance professionals specifically for guiding representatives through complex or uncertain regulatory scenarios. Official regulatory materials like CIRO’s site can also clarify best practices.
 
----
 
 ### True or False: Little omissions, such as failing to mention a small fee, are acceptable if they speed up a client meeting.
 

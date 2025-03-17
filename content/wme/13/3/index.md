@@ -280,7 +280,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Marginal tax rate refers to the rate charged on the next (or last) dollar of income earned. Understanding your marginal tax rate is crucial for determining the impact of additional income sources.
 
----
 
 ### Which strategy can help a retiree avoid drastic increases in their marginal tax rate?
 
@@ -291,7 +290,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Deferring or timing withdrawals to align with lower-income years can help retirees remain in a lower marginal tax bracket and reduce their total tax burden.
 
----
 
 ### Which of the following Canadian retirement accounts allows for tax-free withdrawals?
 
@@ -302,7 +300,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** TFSA withdrawals are not taxed and do not affect other government benefits such as OAS or GIS. RRIF and RRSP withdrawals are included in taxable income, while non-registered accounts may result in taxable interest, dividends, or capital gains.
 
----
 
 ### When converting an RRSP to a RRIF, what penalty or immediate tax is typically triggered?
 
@@ -313,7 +310,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Converting an RRSP to an RRIF does not itself trigger an immediate tax event. Only withdrawals taken from the RRIF afterward are included in income and subject to tax.
 
----
 
 ### What is the primary advantage of a spousal RRSP?
 
@@ -324,7 +320,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Spousal RRSPs are designed to achieve income splitting, allowing withdrawals to be taxed in the lower-income spouse’s hands in retirement, thereby reducing overall family taxation.
 
----
 
 ### Which type of investor typically benefits most from pension income splitting?
 
@@ -335,7 +330,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Pension income splitting is particularly advantageous when one spouse has substantially higher taxable pension or RRIF income, thereby reducing combined revenue for the higher-income spouse.
 
----
 
 ### Which statement best describes the benefit of the pension income tax credit?
 
@@ -346,7 +340,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** The pension income tax credit reduces the amount of federal and provincial taxes due on eligible pension income. In many cases, 15% is a guideline for federal tax savings, but actual credits vary at the provincial level. Hence, both statements on the credit’s function are valid.
 
----
 
 ### Which factor is a common pitfall leading to unexpectedly high taxation in retirement?
 
@@ -357,7 +350,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Mandatory RRIF withdrawals can be significant if retirees begin taking them late, potentially combining with other income streams and inflating total taxable income.
 
----
 
 ### Which estate-planning measure helps mitigate taxation on leftover RRSP/RRIF funds at death?
 
@@ -368,7 +360,6 @@ Tax planning plays a focal role in the Canadian retirement process. By carefully
 
 > **Explanation:** Leaving RRSP/RRIF balances to a spouse or a qualified dependent (e.g., a financially dependent child with a disability) allows for a tax-deferred rollover. Otherwise, the registered assets are deemed fully withdrawn at death, triggering an income inclusion and potential high taxation.
 
----
 
 ### True or False: TFSA withdrawals are added to your taxable income, potentially increasing your marginal tax bracket.
 

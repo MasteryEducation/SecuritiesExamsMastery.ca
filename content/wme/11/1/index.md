@@ -221,7 +221,6 @@ flowchart LR
 
 > **Explanation:** DB plans promise a predetermined benefit upon retirement, typically calculated by years of service, a benefit multiplier, and an average salary figure. Investment risk is largely borne by the employer.
 
----
 
 ### In a Defined Contribution (DC) plan: 
 - [ ] The employer guarantees employees a fixed income in retirement. 
@@ -231,7 +230,6 @@ flowchart LR
 
 > **Explanation:** DC plans confer the investment choice—and thus risk—to the employee. The final pension amount depends on contribution totals plus investment returns.
 
----
 
 ### Which regulatory body oversees most federally regulated pension plans in Canada? 
 - [ ] Canada Revenue Agency (CRA) 
@@ -241,7 +239,6 @@ flowchart LR
 
 > **Explanation:** OSFI supervises and regulates pension plans subject to the PBSA, which primarily covers federally regulated industries like banking and telecommunications.
 
----
 
 ### Vesting refers to: 
 - [x] The point at which the employee gains a non-forfeitable right to the pension benefit. 
@@ -251,7 +248,6 @@ flowchart LR
 
 > **Explanation:** Vesting is the stage when an employee becomes legally entitled to future pension benefits under the plan rules.
 
----
 
 ### In a Locked-In Retirement Account (LIRA), funds: 
 - [x] Generally cannot be withdrawn until retirement, apart from a few special exemptions. 
@@ -261,7 +257,6 @@ flowchart LR
 
 > **Explanation:** A LIRA is designed to preserve pension funds until retirement, although limited access may be allowed for hardship or other special circumstances.
 
----
 
 ### Which of the following can reduce RRSP contribution room? 
 - [x] Pension Adjustment (PA) 
@@ -271,7 +266,6 @@ flowchart LR
 
 > **Explanation:** The Pension Adjustment (PA) reported on an employee’s T4 reflects the deemed value of benefits accrued in an RPP; it effectively reduces next year’s RRSP contribution room.
 
----
 
 ### A commuted value in a DB pension plan is: 
 - [x] The lump-sum present value of future pension benefits. 
@@ -281,7 +275,6 @@ flowchart LR
 
 > **Explanation:** When an employee leaves a DB plan, one choice may be transferring the commuted value (representing the present value of future pension payments) to a LIRA or new employer plan, if permitted.
 
----
 
 ### A bridging benefit in a pension plan provides: 
 - [ ] Additional life insurance coverage post-retirement. 
@@ -291,7 +284,6 @@ flowchart LR
 
 > **Explanation:** Bridging benefits offer a short-term supplement to bridge retirees from their initial pension start date until they qualify for government benefits like CPP.
 
----
 
 ### Why is ongoing actuarial valuation crucial for Defined Benefit (DB) plans? 
 - [ ] It only affects employees’ ability to commute pensions. 
@@ -301,7 +293,6 @@ flowchart LR
 
 > **Explanation:** In DB plans, actuarial valuations measure funding adequacy, ensuring the plan can honor its guaranteed benefits over the long term.
 
----
 
 ### True or False: CIRO primarily focuses on regulating employer-sponsored pension plans across Canada. 
 - [ ] True 

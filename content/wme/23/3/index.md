@@ -181,7 +181,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** Wrap products bundle various services—advice, transaction costs, and reporting—into one overarching fee, simplifying the client experience.
 
----
 
 ### 2. In Canada, wrap accounts are most commonly regulated by:
 
@@ -192,7 +191,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** CIRO became the single self-regulatory organization overseeing investment and mutual fund dealers in 2023. OSFI regulates banks’ solvency, but it does not directly oversee client accounts in this context.
 
----
 
 ### 3. How is a typical wrap fee usually calculated?
 
@@ -203,7 +201,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** The hallmark of wrap accounts is charging clients an annual fee based on the total value of assets managed, rather than per-transaction costs.
 
----
 
 ### 4. Which of the following is NOT a potential benefit of wrap accounts?
 
@@ -214,7 +211,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** While wrap accounts offer numerous services and expertise, they do not safeguard investors from market losses.
 
----
 
 ### 5. Why might a high-net-worth investor prefer a wrap product with a separately managed account (SMA)?
 
@@ -225,7 +221,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** SMAs in a wrap structure permit customized security selection and flexible tax strategies. While they can be cost-effective for large portfolios, they do not eliminate market risk.
 
----
 
 ### 6. What is one key consideration when comparing wrap fees to buying individual funds separately?
 
@@ -236,7 +231,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** The primary cost question is whether the wrap fee, which may seem streamlined, is more cost-effective than managing a do-it-yourself or separate-fund portfolio.
 
----
 
 ### 7. Which statement about wrap accounts and rebalancing is most accurate?
 
@@ -247,7 +241,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** Wrap fees usually include ongoing rebalancing, which helps keep the portfolio’s risk profile aligned with the client’s original objectives.
 
----
 
 ### 8. Which Canadian institution insures investors against broker insolvency in wrap accounts?
 
@@ -258,7 +251,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** CIPF protects client accounts if a member firm fails. OSFI oversees financial institutions’ solvency, but not client account protection.
 
----
 
 ### 9. Which of the following best describes the administrative advantage of a wrap account?
 
@@ -269,7 +261,6 @@ Wrap products offer a convenient, holistic way to manage a portfolio by consolid
 
 > **Explanation:** Wrap accounts streamline client reporting by combining detailed information across multiple managers or funds into a single statement.
 
----
 
 ### 10. True or False: Wrap products are generally suitable for every type of investor regardless of portfolio size or investment strategy.
 

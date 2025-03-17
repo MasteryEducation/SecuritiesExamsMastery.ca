@@ -211,7 +211,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** Performance attribution analysis specifically identifies the sources of a fund's returns, including asset allocation, sector weighting, and individual security selection.
 
----
 
 ### Which of these ratios uses beta to measure risk-adjusted returns?
 
@@ -222,7 +221,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** The Treynor Ratio uses the fund’s beta (market-related risk) in its calculation, whereas the Sharpe Ratio uses standard deviation.
 
----
 
 ### Why might it be important to assess a fund’s drawdown?
 
@@ -233,7 +231,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** Drawdown highlights how much a fund can lose from peak to trough, giving an investor a sense of downside risk.
 
----
 
 ### Which of the following is a key qualitative factor in evaluating a mutual fund’s performance?
 
@@ -244,7 +241,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** While Sharpe and Treynor ratios and standard deviations are quantitative measures, manager consistency and approach are part of qualitative evaluation.
 
----
 
 ### Which official Canadian SRO currently oversees mutual fund and investment dealers?
 
@@ -255,7 +251,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** Effective 2023, the Mutual Fund Dealers Association of Canada (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC) merged into the Canadian Investment Regulatory Organization (CIRO). CIPF is the investor protection fund, independent from CIRO.
 
----
 
 ### In ratio analysis, what type of risk does the Sharpe Ratio measure?
 
@@ -266,7 +261,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** The Sharpe Ratio uses a portfolio’s total standard deviation—encompassing both systematic and unsystematic risk—to measure risk-adjusted returns.
 
----
 
 ### Which statement is true regarding benchmark comparisons?
 
@@ -277,7 +271,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** Benchmark comparisons over multiple timeframes are standard practice. Fixed-income funds often compare themselves to bond indexes, while equity funds compare themselves to equity indexes.
 
----
 
 ### Why is it important to consider performance persistence?
 
@@ -288,7 +281,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** Performance persistence helps you assess if a fund’s positive results are a recurring theme or a one-off fluke, thereby giving insight into long-term predictability.
 
----
 
 ### What role does qualitative assessment play in performance evaluation?
 
@@ -299,7 +291,6 @@ So, yes, keep an eye on the numbers, but never ignore the story behind them.
 
 > **Explanation:** Qualitative factors, such as manager skill, adherence to strategy, and operational consistency, are vital complements to quantitative metrics in any thorough performance assessment.
 
----
 
 ### True or False: The Global Investment Performance Standards (GIPS) are designed to provide a standardized, ethical way for firms to calculate and present investment performance.
 

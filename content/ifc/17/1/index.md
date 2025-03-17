@@ -221,7 +221,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** The CSA primarily focuses on safeguarding investors and promoting confidence in the markets, not on providing profit-making opportunities or direct investment advice.
 
----
 
 ### What is the key focus of a prospectus review by provincial or territorial regulators?
 
@@ -232,7 +231,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** Prospectus reviews emphasize transparent and fair disclosure so investors can make informed decisions. Maximizing profits and checking credit scores are not the duties of securities regulators.
 
----
 
 ### Which of the following is one of the main responsibilities of securities regulators?
 
@@ -243,7 +241,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** Regulators investigate and take enforcement action against violations of securities laws. They don’t provide loans, conduct trade negotiations, or assign valuations for private deals.
 
----
 
 ### What is the primary goal of National Instrument 31-103?
 
@@ -254,7 +251,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** NI 31-103 standardizes registration requirements and guidance for ongoing compliance, particularly for mutual fund dealers, investment fund managers, and others.
 
----
 
 ### In Canada’s securities regulatory framework, which entity emerged after merging the MFDA and IIROC?
 
@@ -265,7 +261,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** The MFDA and IIROC amalgamated on January 1, 2023, and the new organization was officially renamed the Canadian Investment Regulatory Organization (CIRO) effective June 1, 2023.
 
----
 
 ### What role does the Canadian Investor Protection Fund (CIPF) play in relation to CIRO-member firms?
 
@@ -276,7 +271,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** CIPF covers client assets if a CIRO-member firm goes bankrupt. It does not set fees or act as an investment vehicle.
 
----
 
 ### Which of the following responsibilities underscores the importance of securities commissions for mutual fund dealers?
 
@@ -287,7 +281,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** Regulators enforce disclosure standards and compliance requirements that mutual fund dealers must follow. They do not directly provide grants, marketing materials, or preset investment strategies.
 
----
 
 ### What should a mutual fund dealer do if they plan to conduct business in multiple provinces?
 
@@ -298,7 +291,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** Dealers must register in each jurisdiction where they do business, though the process is typically aligned through CSA-coordinated instruments.
 
----
 
 ### What is one common pitfall related to investor disclosure?
 
@@ -309,7 +301,6 @@ Below is a quiz to help you test your knowledge of the mandate and scope of secu
 
 > **Explanation:** Not disclosing conflicts of interest can result in significant regulatory action and harm the trust between representative and client.
 
----
 
 ### True or False: The CSA exists primarily to centralize Canada’s federal securities legislation into a single code.
 

@@ -222,7 +222,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** Suitability is the core principle that requires recommendations to align with the client’s KYC data, including their objectives, risk tolerance, and personal circumstances.
 
----
 
 ### What is the main objective of KYC (Know Your Client) rules?
 
@@ -233,7 +232,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** KYC rules focus on gathering all relevant client information so that suitable investment recommendations can be made and compliance requirements are satisfied.
 
----
 
 ### Which of the following documents or concepts best demonstrates a documented history of suitability analyses and client communications?
 
@@ -244,7 +242,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** An audit trail provides a clear record of recommendations, disclosures, and rationales, proving the advisor has followed regulations and client instructions.
 
----
 
 ### Under the Client Focused Reforms, when a conflict of interest is identified, advisors must:
 
@@ -255,7 +252,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** CFRs require advisors to put client interests above personal or professional interests. If a conflict cannot be avoided, it must be clearly disclosed so the client can make an informed choice.
 
----
 
 ### True or False: A client’s time horizon should play a major role in determining the risk level of recommended investments.
 
@@ -264,7 +260,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** A longer time horizon often allows greater risk-taking capacity, while a shorter horizon typically warrants more conservative investments.
 
----
 
 ### During ongoing monitoring, which scenario often requires an immediate update to the client’s KYC information?
 
@@ -275,7 +270,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** Major life changes can alter the client’s financial situation, risk tolerance, or goals, which must be reflected in updated KYC data.
 
----
 
 ### Which regulatory body now oversees mutual fund dealers and investment dealers in Canada, replacing the historical MFDA and IIROC?
 
@@ -286,7 +280,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** As of 2023, the MFDA and IIROC amalgamated into the Canadian Investment Regulatory Organization (CIRO), which now regulates both mutual fund and investment dealers.
 
----
 
 ### Which of the following best describes “continuous disclosure”?
 
@@ -297,7 +290,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** Continuous disclosure requires advisors to keep clients informed of any significant developments regarding their investments or changes in the advisor’s services.
 
----
 
 ### In the context of Suitability, which factor is least likely to cause a recommended product to become unsuitable?
 
@@ -308,7 +300,6 @@ Remember: It’s not just about ticking off boxes; it’s about working in a cli
 
 > **Explanation:** External factors unrelated to a client’s financial circumstances—like a sports team winning—won’t have a bearing on the Suitability determination.
 
----
 
 ### True or False: Canadian regulations require that clear and plain-language disclosure be provided so clients can truly understand the risks, fees, and potential conflicts of interest associated with their investments.
 

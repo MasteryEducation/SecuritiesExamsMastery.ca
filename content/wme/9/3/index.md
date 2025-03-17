@@ -209,7 +209,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** For RESPs, contributions are not tax-deductible. However, the investment growth accumulates on a tax-deferred basis until it is withdrawn to pay for the beneficiary’s education.
 
----
 
 ### What is a main advantage of an RDSP for individuals with disabilities?
 
@@ -220,7 +219,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** The Canada Disability Savings Grant and Canada Disability Savings Bond programs can substantially increase an RDSP’s value, helping secure long-term financial security for persons with disabilities.
 
----
 
 ### Under the Home Buyers’ Plan (HBP), how long does a participant generally have to repay funds withdrawn from their RRSP?
 
@@ -231,7 +229,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** HBP withdrawals must be repaid to an RRSP over a 15-year schedule, starting the second year after the withdrawal.
 
----
 
 ### Which of the following statements regarding the Lifelong Learning Plan (LLP) is true?
 
@@ -242,7 +239,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** The LLP offers RRSP holders (or their spouses/common-law partners) the ability to withdraw funds for qualifying full-time studies. Withdrawn amounts must be repaid.
 
----
 
 ### What is one primary benefit of opening an RESP soon after a child’s birth?
 
@@ -253,7 +249,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** By starting an RESP account early, the child has more time to benefit from the power of compounding and to collect the annual Canada Education Savings Grant.
 
----
 
 ### What is the maximum amount two eligible spouses could withdraw under the HBP for a single home purchase?
 
@@ -264,7 +259,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** Each spouse can withdraw up to $35,000 if they both qualify as first-time homebuyers, for a combined total of $70,000.
 
----
 
 ### Which of the following must be in place for an individual to open an RDSP?
 
@@ -275,7 +269,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** The RDSP is specifically for those eligible for the Disability Tax Credit, ensuring the plan targets financial security for people with disabilities.
 
----
 
 ### If an RESP beneficiary does not pursue post-secondary education, what may happen to the contributions?
 
@@ -286,7 +279,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** Subscribers typically receive their original contributions back tax-free, but the government grant portion may need to be returned unless another eligible beneficiary is designated.
 
----
 
 ### How do government matching programs under the RDSP and RESP primarily benefit investors?
 
@@ -297,7 +289,6 @@ For mid-career professionals who wish to pursue an MBA or specialized certificat
 
 > **Explanation:** Government grants and bonds directly add extra funds to the investor’s plan—RESP or RDSP—thereby enhancing long-term growth potential without incurring personal out-of-pocket contributions.
 
----
 
 ### In a Lifelong Learning Plan (LLP), is it true that withdrawals can be used for part-time studies?
 

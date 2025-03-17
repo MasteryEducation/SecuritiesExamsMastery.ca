@@ -222,7 +222,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** By translating desired lifestyles into monthly or annual expenses, advisors can better pinpoint appropriate savings rates, investment strategies, and tax planning approaches.
 
----
 
 ### Which of the following factors most directly affects the accuracy of retirement cost projections?
 
@@ -233,7 +232,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Inflation and market volatility are two significant variables that can quickly alter cost projections and require ongoing monitoring.
 
----
 
 ### When considering spousal RRSPs, why might income splitting be advantageous?
 
@@ -244,7 +242,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Income splitting reduces overall family tax liability by distributing retirement income between spouses in a more balanced manner.
 
----
 
 ### How can part-time work during retirement affect a retiree’s financial plan?
 
@@ -255,7 +252,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Part-time or consulting income can lessen the withdrawal rate from retirement accounts, helping preserve capital over a longer horizon.
 
----
 
 ### Which of the following best describes forced retirement?
 
@@ -266,7 +262,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Forced retirement typically arises from unforeseeable events such as corporate downsizing or emerging health problems that accelerate the transition out of employment.
 
----
 
 ### Why should estate plans be regularly updated during retirement?
 
@@ -277,7 +272,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Life changes (e.g., marriage, divorce, births, or deaths) require corresponding updates to estate documents to keep them legally valid and aligned with the client’s intentions.
 
----
 
 ### What is a contingency option in retirement planning?
 
@@ -288,7 +282,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Contingency options prepare clients for unforeseen circumstances, like early job loss or health issues, to maintain financial stability.
 
----
 
 ### Why is it important to incorporate longevity risk into retirement planning?
 
@@ -299,7 +292,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Longer life expectancies increase the duration for which retirement income must last, mandating strategies that ensure sustainable cash flow over many years.
 
----
 
 ### How often should clients typically review and adjust their retirement plan?
 
@@ -310,7 +302,6 @@ An effective retirement plan goes beyond a simple calculation of investments and
 
 > **Explanation:** Retirement planning is dynamic. Annual or semi-annual reviews—and immediate reviews after significant changes—keep the plan up to date and relevant.
 
----
 
 ### True or False: Income splitting is only allowable if both spouses are the same age.  
 

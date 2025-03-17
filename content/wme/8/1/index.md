@@ -217,7 +217,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** Effective tax planning ensures that both current and future tax liabilities align with a client’s broader financial goals. Estate planning and registered accounts are factors but not the sole focal points.
 
----
 
 ### What is a key tax advantage of holding eligible Canadian dividends (e.g., from RBC shares) in a non-registered account?
 
@@ -228,7 +227,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** Eligible Canadian dividends receive tax credits that offset the investor’s tax payable, resulting in a lower effective tax rate relative to other forms of income.
 
----
 
 ### Which of the following is true about the timing of capital gains realizations?
 
@@ -239,7 +237,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** Delaying the realization of capital gains to years with lower income can reduce the capital gains tax payable. Currently, 50% of a capital gain is included in taxable income.
 
----
 
 ### Which registered account in Canada allows contributions with after-tax dollars and tax-free withdrawals on qualified distributions?
 
@@ -250,7 +247,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** A TFSA uses after-tax dollars for contributions, and qualified withdrawals (including any investment growth) remain tax-free.
 
----
 
 ### What is one primary advantage of spousal RRSPs for a high-income earner?
 
@@ -261,7 +257,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** Spousal RRSPs can split retirement income by having the lower-income spouse hold funds, thus often reducing a couple’s combined tax liability upon withdrawal.
 
----
 
 ### If an individual’s marginal tax rate on interest income is 30%, and they expect to earn a 5% return annually, which simplified formula approximates their after-tax return, assuming no other income types?
 
@@ -272,7 +267,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** The simplified after-tax return formula is After-Tax Return = r × (1 – t), which gives 3.5% in the example above.
 
----
 
 ### Which strategy can help an investor minimize taxes when rebalancing a portfolio in a non-registered account?
 
@@ -283,7 +277,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** Harvesting capital losses can offset gains, reducing net taxable capital gains. Conducting frequent trades in registered accounts also defers or eliminates immediate taxation on trading profits.
 
----
 
 ### Which organization currently oversees both investment dealers and mutual fund dealers in Canada?
 
@@ -294,7 +287,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** As of 2023, the Canadian Investment Regulatory Organization (CIRO) is the national self-regulatory organization for investment and mutual fund dealers, replacing IIROC and MFDA.
 
----
 
 ### Why is it important to review an individual’s Notice of Assessment (NOA) when conducting a tax analysis?
 
@@ -305,7 +297,6 @@ Tax-aware financial planning ensures clients keep more of what they earn and inv
 
 > **Explanation:** A Notice of Assessment from the CRA validates the taxpayer’s reported income, tax credits, and potential RRSP contribution room. This is critical for accurate ongoing tax planning.
 
----
 
 ### True or False: Advisor recommendations should remain static because Canadian tax legislation rarely changes.
 

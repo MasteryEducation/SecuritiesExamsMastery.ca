@@ -228,7 +228,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** While wealth management covers a broad scope of financial services (e.g., investments, estate planning, tax optimization), it generally does not include specialized non-financial services like undergraduate admissions consulting.
 
----
 
 ### Which body currently serves as Canada’s national self-regulatory organization for investment dealers and mutual fund dealers?
 
@@ -239,7 +238,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** As of January 1, 2023, the MFDA and IIROC amalgamated into the Canadian Investment Regulatory Organization (CIRO). The CSA remains an umbrella organization of provincial and territorial regulators rather than a single SRO.
 
----
 
 ### A comprehensive wealth management approach often includes which of the following?
 
@@ -250,7 +248,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** Effective wealth management invests in long-term planning, dynamic portfolio adjustments, and balancing multiple client objectives. It cannot guarantee specific returns.
 
----
 
 ### In Canada, fee disclosure is important primarily because:
 
@@ -261,7 +258,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** Fee disclosure fosters transparency by helping clients understand direct and indirect costs. It supports, but does not replace, other obligations like ensuring suitability and managing conflicts of interest.
 
----
 
 ### Which is a key advantage of an integrated wealth management model?
 
@@ -272,7 +268,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** Integrated models bring together legal experts, tax specialists, and portfolio managers under the same roof. This often simplifies communication for the client. Costs vary by institution and level of customization.
 
----
 
 ### What is one common pitfall if an advisor neglects a client’s personal values or family dynamics?
 
@@ -283,7 +278,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** Overlooking fundamental personal considerations can result in strategies that ignore the client’s core values, potentially undermining the plan’s effectiveness.
 
----
 
 ### Which of the following best describes a “hybrid advice model”?
 
@@ -294,7 +288,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** Hybrid advice merges digital platforms (often for routine tasks) with personalized advice from financial professionals.
 
----
 
 ### According to Canadian regulations, an investment recommendation must be:
 
@@ -305,7 +298,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** Under CIRO guidance, suitability is paramount, ensuring that each recommendation aligns with the client’s individual profile and objectives.
 
----
 
 ### Which Canadian institution can provide consumer information regarding financial products and budgeting?
 
@@ -316,7 +308,6 @@ Canadian wealth management services form a multi-faceted ecosystem designed to h
 
 > **Explanation:** The FCAC offers educational resources and guidance to help consumers understand various financial products and improve their money management skills.
 
----
 
 ### True or False: Ongoing monitoring and periodic reviews are critical components of a robust wealth management plan.
 

@@ -247,7 +247,6 @@ How do you decide what to do?
 
 > **Explanation:** An ethical dilemma arises when you face competing ethical values and must choose among options with no obviously correct path, often involving conflicts of interest or conflicting duties toward different stakeholders.
 
----
 
 ### Which of the following is a key step in resolving ethical dilemmas?
 
@@ -258,7 +257,6 @@ How do you decide what to do?
 
 > **Explanation:** A critical step in the decision-making process for ethical dilemmas is carefully gathering the facts and determining who may be affected by potential decisions.
 
----
 
 ### What is one of the most common ethical dilemmas in finance?
 
@@ -269,7 +267,6 @@ How do you decide what to do?
 
 > **Explanation:** Conflicts of interest are extremely prevalent because the financial professional’s personal/firm interests may conflict with the client’s best interests.
 
----
 
 ### How does documenting the decision-making process help when facing an ethical dilemma?
 
@@ -280,7 +277,6 @@ How do you decide what to do?
 
 > **Explanation:** Thorough documentation shows that you thought through the dilemma carefully, considered alternatives, and acted in good faith, which enhances both accountability and transparency.
 
----
 
 ### Which of the following is true about insider trading?
 
@@ -291,7 +287,6 @@ How do you decide what to do?
 
 > **Explanation:** Insider trading is both illegal and unethical. Even if a client or supervisor “approves,” it does not excuse the behavior, as regulations prohibit trading on non-public, price-sensitive information.
 
----
 
 ### If you are uncertain whether a certain situation is an ethical dilemma, what should you do first?
 
@@ -302,7 +297,6 @@ How do you decide what to do?
 
 > **Explanation:** Consulting with trusted individuals or resources (like compliance) can clarify whether the situation actually constitutes an ethical dilemma and guide you on next steps.
 
----
 
 ### Why is recognizing an ethical dilemma promptly so critical?
 
@@ -313,7 +307,6 @@ How do you decide what to do?
 
 > **Explanation:** Catching a dilemma early helps prevent small issues from developing into major violations or reputational damage, thereby safeguarding both the firm and client interests.
 
----
 
 ### Which of the following best illustrates a potential conflict of interest?
 
@@ -324,7 +317,6 @@ How do you decide what to do?
 
 > **Explanation:** If an advisor’s compensation is higher for certain products, there’s a direct incentive to push that product, leading to a conflict between the advisor’s interests and the client’s best interests.
 
----
 
 ### What is the role of organizational culture in managing ethical dilemmas?
 
@@ -335,7 +327,6 @@ How do you decide what to do?
 
 > **Explanation:** A healthy organizational culture promotes transparency, training, and safe reporting channels, all of which are crucial for effectively addressing ethical dilemmas.
 
----
 
 ### True or False: Delegating an ethical issue to a subordinate absolves you of responsibility.
 

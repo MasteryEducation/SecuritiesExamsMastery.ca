@@ -241,7 +241,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Financial statement analysis revolves around evaluating a company’s performance, identifying trends, and aiding investment decisions—whether for equity, debt, or mutual fund holdings.
 
----
 
 ### When performing ratio analysis, which of the following ratio categories is primarily focused on a company’s short-term obligations?  
 - [ ] Profitability  
@@ -251,7 +250,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Liquidity ratios (like the current ratio and quick ratio) measure a company’s ability to meet short-term obligations as they come due.
 
----
 
 ### In common-size analysis of an income statement, each line item is typically expressed as a percentage of:  
 - [x] Revenue  
@@ -261,7 +259,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Common-size analysis for an income statement expresses each line item (such as cost of goods sold or operating expenses) as a percentage of total revenue, making it easier to compare different-sized companies.
 
----
 
 ### Benchmarking a company’s financial ratios primarily involves comparing them:  
 - [ ] Only to the company’s historical averages  
@@ -271,7 +268,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Benchmarking compares a company’s performance with that of peers in the same industry or with recognized standards, revealing whether the company is outperforming, underperforming, or simply in line with its competitors.
 
----
 
 ### Which statement best reflects a core insight gained from trend analysis?  
 - [x] It reveals whether the company’s performance is improving, declining, or holding steady over time  
@@ -281,7 +277,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Trend analysis looks at multiple reporting periods to identify a pattern or trajectory in financial performance, which can help investors spot growth opportunities or emerging risks.
 
----
 
 ### What is Return on Equity (ROE) a measure of?  
 - [x] A company’s ability to generate profits per dollar of shareholders’ equity  
@@ -291,7 +286,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** ROE evaluates how effectively shareholders’ equity is employed to generate profits, so a high ROE typically indicates efficient use of equity capital, although it can also be driven by high leverage, which carries risk.
 
----
 
 ### Which resource primarily dictates the continuous disclosure obligations that companies in Canada must meet?  
 - [x] The Canadian Securities Administrators (CSA)  
@@ -301,7 +295,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Continuous disclosure obligations are primarily overseen by the CSA, ensuring that companies regularly file updated financial statements and MD&A, maintaining transparency for investors. (Note: The MFDA is a historical self-regulatory body that merged into CIRO.)
 
----
 
 ### Which item is most likely to be found in the Management Discussion and Analysis (MD&A) section rather than on the financial statements?  
 - [x] Explanations for unusual variances or strategic developments  
@@ -311,7 +304,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** The MD&A often provides the narrative behind the numbers, explaining material changes, strategic direction, and other qualitative insights you won’t typically see in raw financial data.
 
----
 
 ### Which of the following is an example of a leverage ratio?  
 - [ ] Asset Turnover  
@@ -321,7 +313,6 @@ Remember, effective financial statement analysis is like shining a spotlight on 
 
 > **Explanation:** Debt-to-Equity compares a company’s total debt to shareholders’ equity, indicating the degree of financial leverage in the company’s capital structure.
 
----
 
 ### Trend analysis looks at financial statement data across multiple reporting periods. True or False?  
 - [x] True  

@@ -206,7 +206,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Responsible Investment aims to balance financial performance and broader ESG considerations to support both investor returns and societal well-being.
 
----
 
 ### Which approach excludes companies based on activities deemed unethical or unsustainable?
 
@@ -217,7 +216,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Negative screening removes companies from a portfolio if they participate in business ventures or practices considered unethical or unsustainable (e.g., tobacco, weapons manufacturing).
 
----
 
 ### Which of the following is an example of Thematic Investing in Canada?
 
@@ -228,7 +226,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Thematic investing targets specific ESG-related themes, such as clean energy or sustainable agriculture, aligning investments with a particular social or environmental focus.
 
----
 
 ### What is the role of Shareholder Engagement in ESG investing?
 
@@ -239,7 +236,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Shareholder Engagement is about influencing corporate behaviour through active participation and advocacy, including voting on shareholder resolutions and conversing with management teams.
 
----
 
 ### Which major Canadian institution provides guidelines and oversight for ESG-labeled investments today?
 
@@ -250,7 +246,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** CIRO, formed from the amalgamation of IIROC and MFDA, is now the national self-regulatory body for investment dealers, mutual fund dealers, and market integrity, providing updated guidelines for ESG disclosures and suitability.
 
----
 
 ### In Canadian markets, a significant challenge when evaluating a company’s “green” claims is:
 
@@ -261,7 +256,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Greenwashing is a common pitfall. Investors and advisors must perform due diligence to ensure that a company or fund genuinely meets the stated ESG criteria.
 
----
 
 ### If an investor prioritizes board diversity, fair labor practices, and strong executive accountability, which ESG pillar(s) are most directly impacted?
 
@@ -272,7 +266,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Board diversity and executive accountability predominantly align with governance, while fair labor practices fall under the social dimension.
 
----
 
 ### What is a recommended practice for advisors when recommending ESG investments to clients?
 
@@ -283,7 +276,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** Thorough evaluation of ESG methodologies ensures the ratings or labels accurately reflect the underlying practices and performance of the company, balanced with financial viability.
 
----
 
 ### Which real-world Canadian investor is known for integrating ESG considerations, particularly climate change, into their investment strategy?
 
@@ -294,7 +286,6 @@ Responsible Investment has emerged as a powerful framework that aligns financial
 
 > **Explanation:** CPPIB incorporates ESG—and especially climate-related—disclosures as part of its long-term approach to risk management and responsible asset allocation.
 
----
 
 ### True or False: Responsible Investment aims to generate a financial return while also considering non-financial factors that can affect long-term outcomes.
 

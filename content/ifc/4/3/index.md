@@ -213,7 +213,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** Clearly outlining both the scope of services and the responsibilities of each party is the initial and foundational step.
 
----
 
 ### During data gathering, which factor is most critical to uncover?  
 - [ ] The client’s favourite sports team  
@@ -223,7 +222,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** While many types of information are useful, understanding the client’s risk tolerance is especially vital in shaping suitable recommendations.
 
----
 
 ### What best describes the purpose of analyzing and evaluating the client’s data?  
 - [x] Determining gaps in the client’s financial situation relative to their goals  
@@ -233,7 +231,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** Analysis aims to pinpoint discrepancies or shortfalls between the client’s current status and desired outcomes.
 
----
 
 ### Presenting recommendations to a client effectively involves:  
 - [ ] Using as much industry jargon as possible to show expertise  
@@ -243,7 +240,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** The recommended strategies must align with the client’s unique risk profile and objectives, and should be explained transparently.
 
----
 
 ### Which regulatory body oversees compliance for Canadian investment dealers and mutual fund dealers as of 2025?  
 - [x] CIRO  
@@ -253,7 +249,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** As of January 1, 2023, the Mutual Fund Dealers Association (MFDA) and IIROC merged into CIRO (Canadian Investment Regulatory Organization).
 
----
 
 ### In the implementation phase, advisors should:  
 - [x] Conduct all necessary transactions and maintain clear records  
@@ -263,7 +258,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** Executing necessary actions (e.g., opening accounts, purchasing policies), plus keeping thorough documentation, is key to a transparent and efficient implementation process.
 
----
 
 ### One best practice for monitoring a financial plan is:  
 - [x] Scheduling regular reviews and updating the plan as needed  
@@ -273,7 +267,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** Periodic reviews ensure that changes in market conditions or personal circumstances can be integrated. Also, it’s vital to keep the lines of communication open.
 
----
 
 ### Which of the following is a potential pitfall in the data-gathering stage?  
 - [x] Overlooking certain liabilities or expenses  
@@ -283,7 +276,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** Missing liabilities or expenses can severely distort the client’s true financial picture, leading to flawed recommendations.
 
----
 
 ### A client’s time horizon primarily influences:  
 - [x] The types of investment products recommended  
@@ -293,7 +285,6 @@ Now that you have a better idea of the entire process, I hope you feel encourage
 
 > **Explanation:** Short- vs. long-term investment goals directly affect the selection of appropriate financial products, from bonds to equities and beyond.
 
----
 
 ### Under CIRO guidelines, adhering to Know Your Client (KYC) and suitability rules means:  
 - [x] Regularly updating a client’s profile to ensure the recommended products are aligned with their needs  

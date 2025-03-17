@@ -182,7 +182,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Going beyond KYC means capturing qualitative data such as personal values, future goals, and unique lifestyle needs, which exceed the typical regulatory checklists.
 
----
 
 ### What is an example of a qualitative factor to discuss during the client discovery process?
 
@@ -193,7 +192,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Understanding how a client reacts to market swings and their personal experiences is a deeper qualitative measure that helps in customizing the portfolio.
 
----
 
 ### How does scenario analysis help in financial planning?
 
@@ -204,7 +202,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Scenario analysis examines how changes in the market or personal circumstances might impact a portfolio, allowing advisors to make more informed, robust plans.
 
----
 
 ### Why is maintaining open communication after the initial discovery phase important?
 
@@ -215,7 +212,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Continuous communication ensures the advisor remains aware of any new developments—such as an inheritance or shifting risk tolerances—and can adjust the plan accordingly.
 
----
 
 ### What is a holistic approach in wealth management?
 
@@ -226,7 +222,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** A holistic approach goes beyond numerical assets and liabilities, integrating broader life goals, personal values, and aspirations for a more customized financial plan.
 
----
 
 ### Which of the following tools is often used to visualize different outcomes based on varied market conditions?
 
@@ -237,7 +232,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Scenario analysis is a forecasting technique that shows how multiple inputs (e.g., inflation, job changes, market slumps) could affect a client’s strategy.
 
----
 
 ### When disclosing fee structures, which of the following is best practice?
 
@@ -248,7 +242,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Clarity around fees, including how they are calculated and any embedded commissions, is essential to maintain transparency and trust.
 
----
 
 ### How do Canadian pension funds commonly utilize scenario analysis?
 
@@ -259,7 +252,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** Canadian pension funds (e.g., CPPIB, OTPP) often employ scenario analysis to measure possible portfolio outcomes and maintain robust risk management protocols.
 
----
 
 ### What resource does the Canadian Securities Administrators (CSA) provide to assist clients?
 
@@ -270,7 +262,6 @@ By following these insights, you’ll elevate your client relationships, differe
 
 > **Explanation:** CSA’s online investor tools help clients become more knowledgeable about various aspects of investing, risk management, and products.
 
----
 
 ### True or False: Going beyond regulatory requirements can help advisors build more personalized and enduring relationships with their clients.
 

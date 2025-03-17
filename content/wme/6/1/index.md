@@ -216,7 +216,6 @@ flowchart LR
 
 > **Explanation:** Canadian jurisdictions typically require cohabitation in a conjugal relationship for a defined length of time. This establishes rights and obligations similar to married couples.
 
----
 
 ### Which of the following should generally be updated after a major family event such as a divorce?
 
@@ -227,7 +226,6 @@ flowchart LR
 
 > **Explanation:** Beneficiary designations often override will instructions. They must be updated to reflect changed family circumstances (e.g., removal of a former spouse).
 
----
 
 ### Which Canadian federal statute primarily governs divorce and spousal support?
 
@@ -238,7 +236,6 @@ flowchart LR
 
 > **Explanation:** The Divorce Act is federal legislation that sets out spousal support and other mandates for legally married couples undergoing divorce in Canada.
 
----
 
 ### In wealth management, what is one of the main challenges posed by blended families?
 
@@ -249,7 +246,6 @@ flowchart LR
 
 > **Explanation:** Blended families introduce complexity in determining how assets are passed to children from previous relationships and new family members. Estate documents often require additional attention to ensure equity and avoid disputes.
 
----
 
 ### What is a primary advantage of referring clients to a specialized family lawyer?
 
@@ -260,7 +256,6 @@ flowchart LR
 
 > **Explanation:** Family lawyers are adept at managing the legal aspects of marriage, separation, or divorce. By collaborating with them, advisors ensure that their client’s financial plan aligns with legal requirements and adequately protects involved parties.
 
----
 
 ### True or False: When creating a will, a client’s beneficiary designations for registered plans are always superseded by the will if there is a discrepancy.
 
@@ -269,7 +264,6 @@ flowchart LR
 
 > **Explanation:** In many cases, beneficiary designations on registered plans or insurance policies can override will provisions. Advisors must encourage clients to keep both in sync.
 
----
 
 ### A key difference between married and common-law couples in certain provinces is:
 
@@ -280,7 +274,6 @@ flowchart LR
 
 > **Explanation:** Laws differ across provinces, but the division of property in a common-law relationship often does not align exactly with that of a legally married couple. Advisors need to be aware of the variations.
 
----
 
 ### What is one recommended step if clients inform you they plan to marry?
 
@@ -291,7 +284,6 @@ flowchart LR
 
 > **Explanation:** Changes in marital status warrant a review of existing wills, insurance policies, and plan beneficiaries to reflect the new relationship.
 
----
 
 ### Which Canadian regulator oversees compliance related to investment advisors and can offer guidance on handling family-related account structures?
 
@@ -302,7 +294,6 @@ flowchart LR
 
 > **Explanation:** CIRO is Canada’s current (post-amalgamation) national self-regulatory body for investment dealers and mutual fund dealers. They offer guidance on handling accounts, including those impacted by changing family situations.
 
----
 
 ### In guiding a client with aging parents requiring eldercare, which approach is most appropriate?
 

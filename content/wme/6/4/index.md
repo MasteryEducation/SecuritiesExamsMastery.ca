@@ -192,7 +192,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** Pension benefits accrued during a marriage are typically considered family property. Gifts or inheritances kept separate may remain excluded property, and the status of certain assets depends on the jurisdiction and usage.
 
----
 
 ### When dividing the matrimonial home, which statement is generally true in many provinces?
 
@@ -203,7 +202,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** In many provinces, each spouse has an equal right to possess the matrimonial home and its value is often shared, regardless of ownership or timing of acquisition.
 
----
 
 ### Which of the following documents facilitates tax-free transfer of RRSP assets between separating spouses?
 
@@ -214,7 +212,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** The T2220 form from the CRA allows spouses to transfer RRSP or RRIF holdings on a tax-deferred basis upon separation.
 
----
 
 ### Identify a key reason why proper record-keeping is crucial during a relationship breakdown:
 
@@ -225,7 +222,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** Comprehensive documentation helps legally establish which assets are divisible, their value at various points in time, and how they may be excluded or included.
 
----
 
 ### Which scenario best illustrates an excluded property that remains excluded?
 
@@ -236,7 +232,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** An inheritance typically remains excluded if it is segregated from family purposes. Salary and stock options earned during the marriage are usually considered family property.
 
----
 
 ### How can spousal pension splitting be carried out most effectively?
 
@@ -247,7 +242,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** Pension splitting, especially with defined benefit plans, often requires actuarial valuation. Advisors and clients must follow provincial rules and obtain legal documentation.
 
----
 
 ### Which best describes the property transfer tax during marital breakdown in certain provinces?
 
@@ -258,7 +252,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** Some provinces levy a property transfer tax, but exemptions may apply for transfers resulting from separation or divorce. Advisors should verify specific provincial rules.
 
----
 
 ### What is a primary tax concern when transferring corporate shares between separating spouses?
 
@@ -269,7 +262,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** Under the Income Tax Act, transferring corporate shares may create immediate capital gains unless properly structured with recognized rollover or deferral provisions.
 
----
 
 ### How do provincial timelines and deadlines impact property claims if not met?
 
@@ -280,7 +272,6 @@ Below is a selection of references and tools to help you dive deeper into provin
 
 > **Explanation:** Every province has distinct deadlines. Missing these can jeopardize the right to claim excluded property or force a lower equalization settlement.
 
----
 
 ### True or False: Pension splitting rules are generally the same in every Canadian province.
 

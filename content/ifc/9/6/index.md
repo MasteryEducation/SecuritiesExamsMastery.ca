@@ -201,7 +201,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** The Notes to the Financial Statements generally include detailed disclosures about complex transactions (e.g., share-based compensation), accounting policies (e.g., revenue recognition), contingent liabilities (e.g., lawsuits), and other info not evident in the primary statements.
 
----
 
 ### 2. Why are contingent liabilities often described in the notes rather than on the balance sheet?
 
@@ -212,7 +211,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** Contingent liabilities are uncertain and depend on the outcome of a future event, so they may not meet the criteria for actual recognition as a liability. Although they're not hidden, the full details are often disclosed in the notes rather than recognized on the balance sheet.
 
----
 
 ### 3. What term describes methods and assumptions chosen by management with a material impact on the company's results?
 
@@ -223,7 +221,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** Significant Accounting Policies are precisely those methods, rules, and assumptions management adopts when preparing financial statements.
 
----
 
 ### 4. Which of the following is NOT typically included among the Notes to the Financial Statements?
 
@@ -234,7 +231,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** The notes usually address items like segment reporting, share-based compensation, and other accounting estimates. However, personal blog recommendations from the CFO are not a standard disclosure.
 
----
 
 ### 5. Why might the Notes to the Financial Statements discuss an ongoing lawsuit?
 
@@ -245,7 +241,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** Ongoing lawsuits create contingent liabilities and potential financial risk. The company must disclose these details in the notes so that investors and stakeholders are aware of the future financial implications.
 
----
 
 ### 6. In Canada, publicly accountable companies generally follow which accounting standards?
 
@@ -256,7 +251,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** Canadian public companies typically use IFRS (International Financial Reporting Standards) for their financial reporting.
 
----
 
 ### 7. What is the value of segment reporting in the notes?
 
@@ -267,7 +261,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** Segment reporting breaks down the activities by line of business, allowing readers to see which portions of the company are thriving or struggling.
 
----
 
 ### 8. According to IFRS Practice Statement on Materiality, what is the primary consideration for including information in the notes?
 
@@ -278,7 +271,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** Materiality focuses on whether the omission or misstatement could influence the decisions of the users, making it essential for the notes.
 
----
 
 ### 9. Why should mutual fund representatives pay attention to a company’s Notes to the Financial Statements?
 
@@ -289,7 +281,6 @@ So, next time you crack open a financial statement, don’t just rely on the big
 
 > **Explanation:** For mutual fund reps, understanding the details in the notes helps evaluate the risk and suitability of the underlying investments in a fund portfolio.
 
----
 
 ### 10. True or False: Reading only the main statements (e.g., Income Statement, Balance Sheet) without the notes can lead to an incomplete understanding of the company’s financial health.
 

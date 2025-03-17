@@ -204,7 +204,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** A security is essentially a tradable financial asset—this could be a stock, bond, derivative, etc. Insurance policies are not typically considered “securities” in the same sense of publicly traded assets.
 
----
 
 ### Which market is used when a company issues new shares to the public?
 
@@ -215,7 +214,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** The primary market is where securities are sold to the public for the very first time, such as through an Initial Public Offering (IPO). Once issued, they trade on the secondary market.
 
----
 
 ### After a security has been issued, where does it continue to trade?
 
@@ -226,7 +224,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** Once securities like stocks or bonds are initially sold, they move into the secondary market, where investors buy and sell them amongst themselves.
 
----
 
 ### Which organization is responsible for overseeing mutual fund dealers and investment dealers in Canada, post-2023?
 
@@ -237,7 +234,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** As of January 1, 2023, IIROC and the MFDA merged to form the Canadian Investment Regulatory Organization (CIRO). IIROC and MFDA are now defunct predecessor SROs.
 
----
 
 ### What is the key focus of the Canadian Securities Administrators (CSA)?
 
@@ -248,7 +244,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** The CSA is a forum of provincial and territorial regulators that seek to coordinate rules and reduce fragmentation in Canadian securities regulation. They do not set interest rates or insure deposits.
 
----
 
 ### Which of the following is a major step when assessing a client’s investment suitability?
 
@@ -259,7 +254,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** Suitability hinges on matching the right product with the investor’s unique risk tolerance, time horizon, and objectives. Speedy recommendations often ignore these crucial factors, jeopardizing compliance and client trust.
 
----
 
 ### In investment terms, what does "volatility" refer to?
 
@@ -270,7 +264,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** Volatility measures how much the price of an asset moves up or down. Higher volatility often indicates higher risk.
 
----
 
 ### What is the primary purpose of the Canadian Investor Protection Fund (CIPF)?
 
@@ -281,7 +274,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** The CIPF safeguards investor assets in the event that a CIPF-member brokerage or dealer becomes insolvent. It is separate from CIRO but works closely to ensure investor protection.
 
----
 
 ### Diversification in investing is primarily used to:
 
@@ -292,7 +284,6 @@ In the upcoming sections, we’ll dig deeper into each family of investment prod
 
 > **Explanation:** Diversification is about spreading your investments among various assets to reduce the impact of a poor performance in any one area. It doesn’t guarantee returns, but it can reduce downside risk.
 
----
 
 ### True or False: It is essential for mutual fund representatives to understand the underlying securities within their funds.
 

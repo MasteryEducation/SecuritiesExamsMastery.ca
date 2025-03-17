@@ -212,7 +212,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** Lowering the policy rate lowers borrowing costs throughout the economy, encouraging consumers and businesses to take on loans for spending, expansion, or investment.
 
----
 
 ### Which term describes how the Bank of Canada tries to keep inflation near 2%?
 
@@ -223,7 +222,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** The Bank of Canada uses inflation targeting to maintain price stability. This approach allows them to adjust the policy rate to keep inflation around a specific target range.
 
----
 
 ### What is the primary reason bond prices tend to decrease when interest rates rise?
 
@@ -234,7 +232,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** When new bonds offer higher rates, existing bonds paying lower coupons must sell at a discount to provide a similar yield for buyers.
 
----
 
 ### A “normal” or upward-sloping yield curve generally indicates:
 
@@ -245,7 +242,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** A normal yield curve shows higher long-term rates than short-term rates, suggesting optimism about future economic conditions.
 
----
 
 ### Which of the following statements is correct regarding mutual funds in a rising interest rate environment?
 
@@ -256,7 +252,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** Bond funds with longer maturities generally suffer larger losses when rates rise. Meanwhile, short-term bond funds are less affected, and money market funds can quickly adjust their yields.
 
----
 
 ### Why do central banks typically raise interest rates?
 
@@ -267,7 +262,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** Central banks hike rates primarily to cool spending and investment, which can help check inflationary pressures.
 
----
 
 ### Which factor explains why the Canadian dollar might strengthen when interest rates in Canada rise?
 
@@ -278,7 +272,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** Higher domestic rates attract foreign capital looking for better yields, driving up demand for (and thus the value of) the Canadian dollar.
 
----
 
 ### In which market environment would you expect a mortgage to be the cheapest for a first-time homebuyer?
 
@@ -289,7 +282,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** A low interest rate environment reduces the cost of borrowing, making monthly mortgage payments more affordable.
 
----
 
 ### What is one potential pitfall of “timing the market” based on interest rate forecasts?
 
@@ -300,7 +292,6 @@ Stay open to learning more. Keep reading those Bank of Canada announcements. Div
 
 > **Explanation:** Predicting interest rate moves precisely is very difficult, and trying to time it can lead to missed opportunities or excessive risk-taking.
 
----
 
 ### A central bank’s decision to raise interest rates is most closely related to which statement?
 

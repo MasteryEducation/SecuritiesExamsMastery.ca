@@ -203,7 +203,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Properly opening an account not only complies with regulations but ensures accurate documentation and alignment with the client’s risk tolerance and objectives.
 
----
 
 ### When collecting information on corporate or trust accounts, why is beneficial ownership an important factor?
 
@@ -214,7 +213,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Identifying beneficial owners helps firms comply with AML and ATF rules by preventing criminals from hiding behind corporate or trust structures.
 
----
 
 ### Which of the following accounts typically permits borrowing to purchase securities?
 
@@ -225,7 +223,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Margin accounts allow investors to borrow from the brokerage to buy securities, amplifying gains but also increasing potential losses.
 
----
 
 ### What key purpose does the New Account Application Form (NAAF) serve?
 
@@ -236,7 +233,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** The NAAF provides essential details on KYC information and forms the cornerstone of compliance checks.
 
----
 
 ### Which of the following statements about AML and ATF regulations is true?
 
@@ -247,7 +243,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Firms must comply with comprehensive AML and ATF rules, including monitoring suspicious transactions, verifying identities, and reporting any issues to FINTRAC.
 
----
 
 ### Why must advisors disclose fees and risk disclosure statements during account opening?
 
@@ -258,7 +253,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Clients have to be fully informed of any charges, risks, and obligations to make an educated decision about the account.
 
----
 
 ### Which of the following is a common pitfall during the account opening process?
 
@@ -269,7 +263,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Firms must follow strict processes. Trading without compliance approval and failing to document beneficial ownership are major infractions that can lead to regulatory penalties.
 
----
 
 ### Which type of account arrangement is commonly preferred by spouses wanting shared ownership with full survivorship rights?
 
@@ -280,7 +273,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Married couples often choose a joint account with rights of survivorship, allowing the surviving spouse to automatically inherit the shares.
 
----
 
 ### What is a direct outcome of failing to perform proper identity verification?
 
@@ -291,7 +283,6 @@ Opening an account is more than just a handshake—it's the cornerstone of the e
 
 > **Explanation:** Weak identity checks can enable illegal activities and put the firm in violation of CIRO rules and FINTRAC guidelines.
 
----
 
 ### The Canadian Investor Protection Fund (CIPF) typically protects clients’ assets in the event that a member firm becomes insolvent.
 

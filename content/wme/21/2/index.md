@@ -204,7 +204,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Government bonds are generally considered to have the lowest default risk, especially those issued by the Government of Canada.
 
----
 
 ### Which bond feature allows the issuer to repay the debt before its maturity?
 
@@ -215,7 +214,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Callable (or redeemable) bonds allow the issuer to call back the bonds before maturity, often at a premium.
 
----
 
 ### What is a key advantage of zero-coupon (strip) bonds for certain investors?
 
@@ -226,7 +224,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Strip bonds pay no coupons but are discounted heavily. Investors know exactly how much they will receive at maturity, useful for matching known future liabilities, although imputed interest is taxable annually.
 
----
 
 ### Which of the following bond types is most suitable if an investor expects interest rates to rise?
 
@@ -237,7 +234,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Floating rate notes periodically reset coupons to reflect current rates, mitigating interest rate risk in a rising rate environment.
 
----
 
 ### Which regulatory body oversees Canada’s investment dealers and mutual fund dealers?
 
@@ -248,7 +244,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Since June 1, 2023, CIRO (the Canadian Investment Regulatory Organization) has been Canada’s national self-regulatory body receiving regulatory functions from the defunct IIROC and MFDA.
 
----
 
 ### Convertible bonds offer which of the following key advantages?
 
@@ -259,7 +254,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Convertible bonds may be converted into the issuer’s shares, giving investors the potential for stock price appreciation plus the security of coupon payments.
 
----
 
 ### Why might an issuer call a callable bond?
 
@@ -270,7 +264,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** When interest rates drop, issuers may "call" existing bonds and reissue new ones at lower rates, reducing financing costs. An issuer can also choose to reduce debt obligations ahead of schedule if desired.
 
----
 
 ### Which of the following is true about putable bonds?
 
@@ -281,7 +274,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Putable bonds provide investors a right—but not an obligation—to “put” or sell the bond back at par (or a pre-agreed price) prior to maturity.
 
----
 
 ### When analyzing corporate bonds for default risk, investors should primarily consult:
 
@@ -292,7 +284,6 @@ Canadian debt securities come in many forms, each with distinct features, risk-r
 
 > **Explanation:** Credit rating agencies conduct thorough evaluations of a corporation’s financial stability and the likelihood of default, providing a key reference point for investors.
 
----
 
 ### A floating rate note (FRN) ties its coupon payments to a benchmark interest rate. True or False?
 

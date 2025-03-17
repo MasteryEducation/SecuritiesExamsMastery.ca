@@ -188,7 +188,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** The MER captures management fees, operating expenses, and taxes. It gives investors an overview of how much is deducted from a fund’s returns to cover ongoing expenses.
 
----
 
 ### Which of the following might be a disadvantage of a performance/incentive fee structure?
 
@@ -199,7 +198,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** Performance fees charge investors extra when the fund does better than a stated benchmark. This can become costly for investors when returns are high.
 
----
 
 ### Which statement about front-end load funds is most accurate?
 
@@ -210,7 +208,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** A front-end load is charged when you buy into the fund, reducing the money that actually goes to work in the market.
 
----
 
 ### Deferred Sales Charges (DSCs) typically:
 
@@ -221,7 +218,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** DSCs begin with a higher redemption fee that decreases, usually to zero, after a set number of years.
 
----
 
 ### Trailing commissions are:
 
@@ -232,7 +228,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** Trailing commissions are embedded in the MER and paid to dealers or representatives over time. If there is insufficient disclosure, it can create a conflict of interest.
 
----
 
 ### Which fee would be most likely linked to a fund outperforming its set benchmark?
 
@@ -243,7 +238,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** Funds that charge performance fees do so when they beat a specific benchmark or hurdle rate.
 
----
 
 ### Why is it important to compare MERs among funds in the same category?
 
@@ -254,7 +248,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** Each category (e.g., bond, equity, money market) has a typical range for fees and performance benchmarks, so within-category comparison is most relevant.
 
----
 
 ### Which statement best describes the relationship between net returns and fees?
 
@@ -265,7 +258,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** Fees reduce what you actually earn, so net return is the remainder of your gross return after fees are deducted.
 
----
 
 ### How do front-end and deferred sales charges primarily differ?
 
@@ -276,7 +268,6 @@ In the end, every fraction of a percent you pay in fees must be justified by the
 
 > **Explanation:** Front-end loads are paid at the time of buying fund shares, whereas DSCs are charged if the investor redeems shares before a certain time elapses.
 
----
 
 ### True or False: A slightly higher gross return can still produce a lower net return if the fees are significantly higher.
 

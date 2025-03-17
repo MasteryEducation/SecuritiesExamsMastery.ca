@@ -198,7 +198,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** The IRR measures how much of your pre-retirement income you need to replace to keep up your lifestyle after retirement.
 
----
 
 ### 2. What is a typical range for the IRR suggested by many industry guidelines?
 
@@ -209,7 +208,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** While individual circumstances vary, many experts suggest planning for an IRR between 60% and 80% of pre-retirement income.
 
----
 
 ### 3. Why is it essential to incorporate inflation assumptions into retirement income calculations?
 
@@ -220,7 +218,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** Over a lengthy retirement, inflation gradually reduces how much a fixed income can buy, making it critical to account for rising costs.
 
----
 
 ### 4. Which of the following Canadian government programs provides a monthly benefit subject to potential clawbacks if income exceeds a certain threshold?
 
@@ -231,7 +228,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** OAS benefits may be reduced (clawed back) if your retirement income exceeds specific thresholds set by the CRA.
 
----
 
 ### 5. How does taking CPP/QPP before the age of 65 typically affect benefit payments?
 
@@ -242,7 +238,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** Opting for early CPP/QPP results in reduced monthly benefits, but you may receive payments for a longer overall period.
 
----
 
 ### 6. What is the usual purpose of maintaining a contingency fund during retirement?
 
@@ -253,7 +248,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** A contingency fund ensures that retirees can handle emergencies without forcing the sale of income-generating assets at an inopportune time.
 
----
 
 ### 7. For what main reason should retirees ensure liquidity in their portfolios?
 
@@ -264,7 +258,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** Liquidity is crucial so retirees can easily access cash when needed (due to a large purchase or emergency) without having to sell assets at potentially unfavourable prices.
 
----
 
 ### 8. How do scenario modeling tools assist in retirement planning?
 
@@ -275,7 +268,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** Scenario modeling allows you to test different “what-if” situations, illuminating the impact of changes in key planning variables.
 
----
 
 ### 9. Which of the following would typically be categorized as a discretionary expense during retirement?
 
@@ -286,7 +278,6 @@ By systematically analyzing these factors and modeling different scenarios, you 
 
 > **Explanation:** Discretionary expenses include lifestyle pursuits such as vacations, hobbies, and entertainment. Housing and medical costs generally fall into essential expenses.
 
----
 
 ### 10. True or False: The recommended range of three to six months for an emergency or contingency fund never changes for retirees.
 

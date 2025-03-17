@@ -210,7 +210,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** Zero-coupon bonds pay no periodic interest; they are sold at a discount and redeemed at face value at maturity.
 
----
 
 ### 2. Which of the following issuers would typically have the lowest credit risk?
 
@@ -221,7 +220,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** The Government of Canada is considered to have the lowest default risk among Canadian issuers, generally resulting in lower yields on its bonds.
 
----
 
 ### 3. Which factor most directly affects bond yields in Canada?
 
@@ -232,7 +230,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** The Bank of Canada’s policy decisions (e.g., overnight rate) heavily influence interest rates, which in turn affect bond yields.
 
----
 
 ### 4. What does the term “credit quality” refer to?
 
@@ -243,7 +240,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** Credit quality or creditworthiness measures the issuer’s ability to meet its obligations without default.
 
----
 
 ### 5. Which strategy is often used by large Canadian pension funds to manage interest rate risk?
 
@@ -254,7 +250,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** Laddering maturities distributes reinvestment and price risks across time horizons, commonly used by pension funds for stability.
 
----
 
 ### 6. Why might an investor choose a floating-rate bond?
 
@@ -265,7 +260,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** Floating-rate bonds adjust coupon payments with interest rate changes, mitigating interest rate risk.
 
----
 
 ### 7. Which statement is true regarding Canadian corporate bonds?
 
@@ -276,7 +270,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** Corporate bonds typically carry more risk than government bonds, prompting issuers to offer higher yields.
 
----
 
 ### 8. What is one advantage of buy-and-hold investing in bonds?
 
@@ -287,7 +280,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** Buy-and-hold strategies provide consistent coupon income and avoid losses from short-term price fluctuations.
 
----
 
 ### 9. Which resource would provide official regulatory guidance on trading and selling debt securities in Canada?
 
@@ -298,7 +290,6 @@ Debt securities are a critical element of wealth management, offering investors 
 
 > **Explanation:** As of 2023, CIRO is Canada’s self-regulatory organization for investment dealers, guiding best practices for debt securities trading.
 
----
 
 ### 10. True or False: A bond selling at a discount always indicates that the issuer’s credit rating has been downgraded.
 

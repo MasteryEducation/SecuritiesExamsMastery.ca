@@ -181,7 +181,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** Mutual funds originated as pooled investment vehicles that allowed individuals to combine their resources and benefit from professional money management.
 
----
 
 ### What is one major reason why regulators in Canada require fund companies to provide a simplified prospectus?
 
@@ -192,7 +191,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** Simplified prospectuses increase transparency and make it easier for everyday investors to grasp essential information about a fund.
 
----
 
 ### During which period did the mutual fund industry in Canada witness a surge in the number of product offerings, including sector-specific funds?
 
@@ -203,7 +201,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** By the 1990s, the proliferation of specialty and global funds greatly expanded product offerings beyond traditional equity and bond funds.
 
----
 
 ### Which regulatory body currently oversees mutual fund dealers and investment dealers in Canada?
 
@@ -214,7 +211,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** MFDA and IIROC are no longer separate entities. They amalgamated and formed CIRO, the new self-regulatory organization for investment and mutual fund dealers.
 
----
 
 ### What key benefit do robo-advisors bring to the mutual fund landscape?
 
@@ -225,7 +221,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** Robo-advisors offer user-friendly digital platforms and automated investment decisions, making it easier to select and monitor mutual fund portfolios.
 
----
 
 ### In Canada, which organization offers protection to investors if a member dealer becomes insolvent?
 
@@ -236,7 +231,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** CIPF safeguards the assets of clients if their regulated dealer fails, subject to specified coverage limits.
 
----
 
 ### Which is a primary reason the mutual fund industry continues to introduce new, specialized products?
 
@@ -247,7 +241,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** By innovating and offering specialty or structured products, fund companies meet investors’ changing requirements and keep pace with competition.
 
----
 
 ### Why did the mutual fund industry experience substantial growth in Canada during the 1970s–1980s?
 
@@ -258,7 +251,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** Enhanced regulation and broader awareness of mutual funds played pivotal roles in boosting investor confidence and industry growth in that era.
 
----
 
 ### How have online brokerages changed the way Canadians access mutual funds?
 
@@ -269,7 +261,6 @@ Keep this evolution in mind as you move through the subsequent sections of this 
 
 > **Explanation:** Digital platforms have democratized access to mutual funds, enabling users at all capital levels to transact conveniently.
 
----
 
 ### True or False: ETFs eliminated the need for mutual funds entirely.
 

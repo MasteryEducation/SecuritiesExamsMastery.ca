@@ -181,7 +181,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Standard deviation measures how far returns may deviate from the average. A high standard deviation indicates greater fluctuations (i.e., volatility), not necessarily guaranteed higher returns.
 
----
 
 ### 2. In Canadian markets, a beta greater than 1 suggests:
 
@@ -192,7 +191,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Beta above 1 indicates that the security or portfolio’s returns are likely to exceed market movements (both up and down) in magnitude.
 
----
 
 ### 3. Value at Risk (VaR) is best described as:
 
@@ -203,7 +201,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** VaR calculates how much loss a portfolio could experience, given normal market conditions, within a specific timeframe at a specified confidence level.
 
----
 
 ### 4. Stress testing a portfolio means:
 
@@ -214,7 +211,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Stress testing involves modeling abnormal or extreme market conditions (such as large interest rate shocks or severe economic downturns) to see how the portfolio might behave.
 
----
 
 ### 5. Which of the following best describes concentration risk?
 
@@ -225,7 +221,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Concentration risk occurs when a portfolio is too heavily exposed to one security, sector, or asset class, heightening vulnerability if that area declines.
 
----
 
 ### 6. When analyzing drawdowns, an advisor is primarily looking at:
 
@@ -236,7 +231,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Drawdown refers to the magnitude of a single or multiple declines from a peak portfolio value, offering insight into the severity of losses during downturns.
 
----
 
 ### 7. What is the benefit of scenario analysis?
 
@@ -247,7 +241,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Scenario analysis tests the portfolio under multiple conditions, improving clients’ understanding of potential outcomes without guaranteeing performance or removing uncertainty.
 
----
 
 ### 8. Why is continuous monitoring of portfolio risk crucial?
 
@@ -258,7 +251,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** Since markets, regulations, and personal goals are dynamic, ongoing monitoring ensures the portfolio remains aligned with the client’s needs and risk tolerance.
 
----
 
 ### 9. Under current Canadian regulations (as overseen by CIRO):
 
@@ -269,7 +261,6 @@ By adopting a comprehensive risk measurement framework, advisors can guide clien
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) requires advisors to maintain appropriate knowledge of their clients’ risk profile and to disclose relevant risks throughout the advisory relationship.
 
----
 
 ### 10. True or False: Higher volatility is always undesirable.
 

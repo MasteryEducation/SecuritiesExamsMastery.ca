@@ -167,7 +167,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** Effective 2023, MFDA and IIROC amalgamated into the Canadian Investment Regulatory Organization (CIRO). The CSA is a coordinating body for provincial and territorial regulators.
 
----
 
 ### Under the compliance framework, which requirement ensures that financial products align with an investor’s risk tolerance and objectives?
 
@@ -178,7 +177,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** The suitability obligation mandates that advisors present investment options consistent with their client’s objectives, timelines, and risk capacity.
 
----
 
 ### Which umbrella organization coordinates Canada’s provincial and territorial securities regulators?
 
@@ -189,7 +187,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** The CSA works to harmonize policies and regulations across all Canadian jurisdictions, each of which has its own securities commission.
 
----
 
 ### What is a core function of the Canadian Investor Protection Fund (CIPF)?
 
@@ -200,7 +197,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** CIPF provides coverage up to prescribed limits when investors’ assets are lost due to a member firm’s insolvency.
 
----
 
 ### Which of the following practices helps maintain effective documentation and meets regulatory obligations?
 
@@ -211,7 +207,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** Frequent updating of KYC data and detailed record-keeping are crucial for compliance with CIRO regulations.
 
----
 
 ### What is a potential penalty from regulators if an advisor fails to meet their suitability obligations?
 
@@ -222,7 +217,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** Regulators can impose serious penalties, including fines, suspensions, and bans, to enforce compliance.
 
----
 
 ### When regulators refer to an “assessment-centric model” for wealth advisor proficiency, they emphasize:
 
@@ -233,7 +227,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** An assessment-centric approach focuses on verifying that advisors possess the necessary skills rather than just fulfilling completion hours.
 
----
 
 ### Which of the following accurately describes Canada’s regulatory environment?
 
@@ -244,7 +237,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** Canada’s fragmented but cooperative model assigns primary responsibility to provincial/territorial regulators, coordinated by the CSA and enforced through CIRO.
 
----
 
 ### Which best practice can wealth advisors adopt to stay informed about regulatory changes?
 
@@ -255,7 +247,6 @@ By embracing continuous learning, complying with prescribed standards, and engag
 
 > **Explanation:** Direct engagement with official regulatory communications and professional development opportunities ensures advisors remain current.
 
----
 
 ### True or False: Wealth advisors must maintain regular continuing education to keep abreast of evolving regulations in Canada.
 

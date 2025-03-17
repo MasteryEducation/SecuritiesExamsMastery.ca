@@ -174,7 +174,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Growth investing emphasizes companies with rapid growth prospects, often reinvesting profits rather than paying dividends.
 
----
 
 ### Which trait is generally associated with value investing?
 
@@ -185,7 +184,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Value investing focuses on buying undervalued stocks trading below their fair or intrinsic value in the hope that the market will eventually recognize their true worth.
 
----
 
 ### Dividend investing primarily seeks to:
 
@@ -196,7 +194,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Dividend investing revolves around finding companies with stable or increasing dividend payouts, aiming for continuous income and possibly lower volatility.
 
----
 
 ### In passive (index) equity investing, the main objective is:
 
@@ -207,7 +204,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Index or passive investing involves replicating an index to achieve a return close to the market average, typically with minimal expenses and lower trading activity.
 
----
 
 ### Which of the following describes tactical asset allocation (TAA)?
 
@@ -218,7 +214,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** TAA entails adjusting the portfolio in the short run to capture anticipated market opportunities, which can include sector or style rotation.
 
----
 
 ### What metric measures how sensitive an equity or portfolio is to overall market movements?
 
@@ -229,7 +224,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Beta indicates the degree to which an asset’s returns move relative to the broader market.
 
----
 
 ### Which of the following is an advantage of holding dividend-paying Canadian stocks?
 
@@ -240,7 +234,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Canadian investors benefit from a dividend tax credit, and dividend-paying stocks often feature more stable price movements and ongoing income.
 
----
 
 ### When measuring portfolio performance, drawdown refers to:
 
@@ -251,7 +244,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** Drawdown reveals how steeply an investment or portfolio falls from its peak value, highlighting downside risk.
 
----
 
 ### According to CSA National Instruments (e.g., NI 81-101/81-102), ETFs and mutual funds:
 
@@ -262,7 +254,6 @@ By understanding the breadth of equity strategies and how they interact with mar
 
 > **Explanation:** National Instruments 81-101 and 81-102 regulate the prospectus disclosure requirements and operations for mutual funds and ETFs, promoting investor protection and transparency.
 
----
 
 ### True or False: From 2023 onward, the Canadian Investment Regulatory Organization (CIRO) replaced both IIROC and the MFDA, consolidating regulatory oversight.
 

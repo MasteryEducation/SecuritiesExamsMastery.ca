@@ -232,7 +232,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Government of Canada bonds are typically considered to have the lowest credit risk in the Canadian bond market, given the federal government’s ability to tax and manage monetary policy.
 
----
 
 ### What happens to bond prices when interest rates rise?
 
@@ -243,7 +242,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** There is an inverse relationship between bond prices and interest rates. When rates go up, existing bonds become less attractive, so their prices fall.
 
----
 
 ### Strip bonds differ from traditional coupon bonds because strip bonds:
 
@@ -254,7 +252,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Strip bonds are zero-coupon bonds that have had their coupon payments removed (“stripped”), and they trade at a discount to face value.
 
----
 
 ### In evaluating a bond fund’s sensitivity to changes in interest rates, investors should examine:
 
@@ -265,7 +262,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Duration measures the percentage change in a bond’s price for a 1% change in interest rates. The higher the duration, the more sensitive the bond (or bond portfolio) is to rate changes.
 
----
 
 ### Which of the following statements is correct about “credit spreads”?
 
@@ -276,7 +272,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Credit spreads typically widen when the market perceives higher risk in corporate bonds compared to government bonds. They measure the yield gap between these securities.
 
----
 
 ### A bond fund that invests primarily in below-BBB-rated securities is known as:
 
@@ -287,7 +282,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Below-BBB indicates a non-investment-grade or high-yield rating, often referred to as junk bonds.
 
----
 
 ### Which strategy might a bond fund manager use to reduce interest rate risk?
 
@@ -298,7 +292,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Shorter duration and hedging tools like interest rate swaps are common methods to manage or reduce interest rate risk.
 
----
 
 ### Which best practice should bond fund investors follow?
 
@@ -309,7 +302,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Assessing credit quality is crucial in understanding default risk. Meanwhile, ignoring duration or overweighting a single issuer can lead to unbalanced and risky portfolios.
 
----
 
 ### One potential “common pitfall” for bond investors is:
 
@@ -320,7 +312,6 @@ By understanding the types of bonds, the impact of interest rates, how credit sp
 
 > **Explanation:** Many new bond investors assume that bonds are risk-free and can be caught off-guard when rising rates push bond prices down.
 
----
 
 ### Bond funds are entirely free from risk. True or False?
 

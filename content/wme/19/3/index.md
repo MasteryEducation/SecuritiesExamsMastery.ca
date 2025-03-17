@@ -201,7 +201,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** SAA involves defining a target asset allocation (e.g., 60% equity, 35% fixed income, 5% cash) focused on meeting long-term financial goals with a risk profile suited to the investor.  
 
----
 
 ### What statement about rebalancing within a Canadian context is most accurate?
 
@@ -212,7 +211,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** In Canada, trades within RRSPs and TFSAs do not generally incur immediate tax consequences, making these accounts advantageous for rebalancing. Non-registered accounts trigger capital gains tax.  
 
----
 
 ### Which of the following terms refers to the tendency of different asset classes to move together?
 
@@ -223,7 +221,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** Correlation measures the degree to which two asset classes move in tandem. Diversification benefits arise when assets have lower or negative correlations.  
 
----
 
 ### In strategic asset allocation, how often is the portfolio typically changed?
 
@@ -234,7 +231,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** SAA involves relatively infrequent changes, triggered by major shifts in the client’s financial situation or significant changes in market assumptions.  
 
----
 
 ### Which Canadian entity regulates mutual fund dealers and investment dealers under one umbrella organization?
 
@@ -245,7 +241,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** Effective January 1, 2023, the MFDA and IIROC amalgamated and formed CIRO, the current regulatory authority for both mutual fund dealers and investment dealers in Canada.  
 
----
 
 ### Markowitz’s Modern Portfolio Theory primarily helps investors:
 
@@ -256,7 +251,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** MPT offers a framework to structure portfolios in a way that optimizes risk-adjusted returns by combining assets that behave differently under various market conditions.  
 
----
 
 ### Which of the following best describes the “efficient frontier?”
 
@@ -267,7 +261,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** In Modern Portfolio Theory, the efficient frontier represents the boundary of all optimal portfolios. Any portfolio on this frontier offers the highest possible expected return for its level of risk.  
 
----
 
 ### Which factor is most closely associated with adopting a strategic asset allocation?
 
@@ -278,7 +271,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** Strategic asset allocation emphasizes a stable mix of asset classes over extended periods, adjusting slowly based on life events, market assumptions, and fundamental data.  
 
----
 
 ### An investor with a conservative risk tolerance and a shorter time horizon typically places more emphasis on:
 
@@ -289,7 +281,6 @@ Staying informed of economic developments, maintaining consistent monitoring pra
 
 > **Explanation:** Conservative investors focus on preserving capital and mitigating volatility, hence favoring fixed income and cash.  
 
----
 
 ### True or False: Under CIRO regulations, an advisor is obligated to ensure a client’s asset allocation remains suitable over time, adjusting if the client’s circumstances change.
 

@@ -200,7 +200,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** Spousal RRSPs are commonly reassessed during divorce settlement negotiations. The funds often get split or transferred according to property division rules.
 
----
 
 ### What is a common result of dividing pensions or RRSPs during a divorce?
 
@@ -211,7 +210,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** Splitting pension or RRSP assets commonly reduces total investable retirement capital, often requiring adjustments such as delayed retirement or a revised contribution strategy.
 
----
 
 ### From a tax perspective, which statement is true for support payments?
 
@@ -222,7 +220,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** Under CRA rules, properly structured spousal support is deductible to the payer and taxable to the recipient (subject to certain conditions), whereas child support is not generally taxable or deductible.
 
----
 
 ### Which of the following documents is often updated to remove or alter spousal designations after divorce?
 
@@ -233,7 +230,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** Divorce frequently triggers changes to legal estate documents and any beneficiary designations to ensure assets are distributed as intended.
 
----
 
 ### What is a primary reason clients may seek additional insurance coverage post-divorce?
 
@@ -244,7 +240,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** If support payments are central to a client’s financial well-being, life insurance coverage on the payer becomes critical in mitigating the risk associated with the payer’s premature death.
 
----
 
 ### Why might a post-divorce budget be essential for a newly separated client?
 
@@ -255,7 +250,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** A post-divorce budget is crucial because separation brings changes to housing costs, income, support payments, and essential living expenses.
 
----
 
 ### How might a client’s risk tolerance change after divorce?
 
@@ -266,7 +260,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** The emotional toll of divorce can lead to more conservative or impulsive behavior in financial decisions, changing how clients perceive and manage investment risks.
 
----
 
 ### In Canada, how is child support typically taxed?
 
@@ -277,7 +270,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** Child support payments in Canada are generally neither taxable to the recipient nor deductible to the payer.
 
----
 
 ### What is a potential pitfall of failing to consult multiple professionals (e.g., lawyer, tax specialist, therapist) during divorce?
 
@@ -288,7 +280,6 @@ Divorce is a critical juncture that reshapes a client’s entire financial pictu
 
 > **Explanation:** Having a multidisciplinary team provides crucial legal, financial, and emotional support. Overlooking these experts can result in suboptimal or incomplete solutions.
 
----
 
 ### The Financial Consumer Agency of Canada (FCAC) can help divorcing individuals by:
 

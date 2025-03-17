@@ -243,7 +243,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** A residential mortgage is a secured loan where the property acts as collateral, giving the lender the right to seize it if the borrower fails to make payments.
 
----
 
 ### 2. What is the most common amortization period for residential mortgages in Canada?
 
@@ -254,7 +253,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** The standard amortization period for most new mortgages in Canada is 25 years, although some lenders may offer extended periods up to 30 years.
 
----
 
 ### 3. Which ratio considers a borrower’s total borrowing costs, including credit cards, car loans, and mortgage-related expenses?
 
@@ -265,7 +263,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** TDS includes all monthly debt obligations (e.g., car loans, credit cards) plus housing expenses relative to gross income.
 
----
 
 ### 4. Under what condition is mortgage default insurance typically required in Canada?
 
@@ -276,7 +273,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** Mortgages with a down payment of less than 20% (high-ratio) generally require default insurance from providers like CMHC, Sagen, or Canada Guaranty.
 
----
 
 ### 5. Which of the following is an advantage of a fixed-rate mortgage?
 
@@ -287,7 +283,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** A fixed-rate mortgage locks in an interest rate, facilitating predictable payments and insulating borrowers from rate increases during the term. Renewal is not automatic at the same rate; a new agreement is typically required.
 
----
 
 ### 6. Which Canadian regulator oversees the underwriting standards for federally regulated financial institutions?
 
@@ -298,7 +293,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** OSFI publishes guidelines (like B-20) concerning mortgage underwriting practices for institutions such as RBC or TD. FSRA, CIPF, and CMHC serve different functions.
 
----
 
 ### 7. When might a borrower benefit from a mortgage with portability features?
 
@@ -309,7 +303,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** Portability lets borrowers transfer their mortgage to a new property, retaining terms and avoiding breakage penalties. It’s attractive for those moving mid-term.
 
----
 
 ### 8. What is one of the main advantages of working with a mortgage broker?
 
@@ -320,7 +313,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** Mortgage brokers compare mortgage options from various lenders, often finding more competitive rates or specialized solutions for clients.
 
----
 
 ### 9. Which government agency commonly provides default insurance for high-ratio mortgages in Canada?
 
@@ -331,7 +323,6 @@ Given the dynamism of Canada’s mortgage market—driven by interest rate envir
 
 > **Explanation:** CMHC, along with Sagen and Canada Guaranty, is a main provider of default insurance for high-ratio residential mortgages. 
 
----
 
 ### 10. True or False: One of the biggest pitfalls in mortgage planning is over-leveraging, where clients borrow to their maximum limit without considering potential rate hikes or life changes.
 

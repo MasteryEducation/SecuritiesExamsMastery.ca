@@ -198,7 +198,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** Bond quotes in Canada typically reference the “clean price,” which excludes accrued interest. When an investor buys the bond, they pay the clean price plus accrued interest—the “dirty price.”
 
----
 
 ### 2. Yield to Maturity (YTM) generally assumes:
 
@@ -209,7 +208,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** YTM presumes the bond is held until maturity and coupons are reinvested at the bond’s current yield.
 
----
 
 ### 3. Which of the following yields is important for assessing embedded call features?
 
@@ -220,7 +218,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** Yield to Call (YTC) is essential when evaluating callable bonds, as it estimates the return if the issuer exercises the call option.
 
----
 
 ### 4. Which organization is now responsible for overseeing Canadian investment dealers after the amalgamation of MFDA and IIROC?
 
@@ -231,7 +228,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** Since January 1, 2023, the Canadian Investment Regulatory Organization (CIRO) is the self-regulatory body that oversees investment dealers, replacing the former IIROC and MFDA.
 
----
 
 ### 5. What is one benefit of bond laddering for a Canadian investor?
 
@@ -242,7 +238,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** A bond ladder includes bonds with staggered maturities, so some portion of the portfolio matures regularly. This approach reduces exposure to one particular interest rate environment.
 
----
 
 ### 6. Which best defines Yield to Worst (YTW)?
 
@@ -253,7 +248,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** YTW is the lowest yield possible among all call dates and other embedded options in the bond, offering a conservative projection of returns.
 
----
 
 ### 7. If a bond’s annual coupon rate is 4% and it’s paid semi-annually, what is the coupon amount per period on a $1,000 face value bond?
 
@@ -264,7 +258,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** A 4% coupon on a $1,000 face value pays $40 per year. Since coupons are paid semi-annually, each payment is $20. (Note that both $20 and $14 appeared above; the correct answer is $20. Only one correct answer can be marked [x].)
 
----
 
 ### 8. Which day-count convention is often used to calculate accrued interest in Canada?
 
@@ -275,7 +268,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** Canada often uses an Actual/365 or Actual/365 Fixed convention for bond accrued interest calculations.
 
----
 
 ### 9. How does credit risk primarily affect bond pricing?
 
@@ -286,7 +278,6 @@ Bond market pricing involves understanding how expected coupon payments and prin
 
 > **Explanation:** Higher perceived credit risk demands a higher yield (discount rate), which lowers the bond’s present market price.
 
----
 
 ### 10. True or False: The Bank of Canada publishes daily updates on benchmark bond yields and yield curves.
 

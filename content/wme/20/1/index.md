@@ -212,7 +212,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** Limited liability shields shareholders from personal liability beyond their initial investment in the event of company losses or bankruptcy.
 
----
 
 ### Common shareholders typically have:
 - [x] Voting rights on significant corporate matters.  
@@ -222,7 +221,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** Common shareholders ordinarily receive voting rights but are last in the liquidation order and do not have guaranteed dividends.
 
----
 
 ### Which of the following is a distinguishing feature of preferred shares?
 - [ ] They always offer voting rights on corporate policy.  
@@ -232,7 +230,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** Preferred shares promise a fixed or formula-based dividend and carry priority in dividend distribution but typically offer limited or no voting rights.
 
----
 
 ### In the event of corporate liquidation, which group is typically last to receive any remaining assets?
 - [ ] Bondholders  
@@ -242,7 +239,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** The payout order generally starts with creditors and bondholders, then preferred shareholders, and finally common shareholders.
 
----
 
 ### What is one benefit Canadian investors often receive on dividends paid by taxable Canadian corporations?
 - [ ] No income tax obligation for dividends.  
@@ -252,7 +248,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** The Canadian tax system offers the dividend tax credit to reduce double taxation on dividends.
 
----
 
 ### Which of the following describes a stock split?
 - [x] An increase in the number of shares outstanding, with a proportionate drop in share price.  
@@ -262,7 +257,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** A stock split increases the number of shares outstanding and decreases the share price proportionally, leaving overall shareholder equity unchanged.
 
----
 
 ### Which Canadian regulatory body replaced the former MFDA and IIROC to oversee investment dealers and mutual fund dealers?
 - [ ] CSA  
@@ -272,7 +266,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** CIRO (Canadian Investment Regulatory Organization) was formed on January 1, 2023, by amalgamating the Mutual Fund Dealers Association (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC).
 
----
 
 ### When applying the Dividend Discount Model (DDM), which of the following is NOT typically required as an input?
 - [ ] The expected dividend next year ($D_1$)  
@@ -282,7 +275,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** The DDM formula focuses on expected future dividends, growth, and the investor’s required rate of return. The share’s “face value” does not factor into this model.
 
----
 
 ### Which statement about corporate actions is correct?
 - [x] Rights issues allow existing shareholders to purchase more shares at a discount.  
@@ -292,7 +284,6 @@ Equity securities form an essential component of many investors’ portfolios in
 
 > **Explanation:** Rights issues grant current shareholders the right to buy additional shares at a set price, generally lower than the market price.
 
----
 
 ### True or False: CIPF (Canadian Investor Protection Fund) covers losses in the market value of equity securities.
 - [x] True  

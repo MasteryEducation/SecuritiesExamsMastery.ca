@@ -193,7 +193,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** Testamentary freedom allows individuals to decide how to distribute their assets, provided provincial or territorial rules protecting dependents are respected.
 
----
 
 ### Which of the following assets typically bypass probate in Canada?
 
@@ -204,7 +203,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** Jointly held assets and registered accounts with named beneficiaries often transfer directly to survivors or designated recipients, avoiding probate.
 
----
 
 ### What role does the executor (estate trustee) primarily perform?
 
@@ -215,7 +213,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** The executor collects assets, pays liabilities, and distributes the remaining estate as outlined in the will, often with oversight from provincial courts.
 
----
 
 ### Which statement is most accurate regarding beneficiary designations for registered accounts?
 
@@ -226,7 +223,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** Properly designated beneficiaries on registered accounts (e.g., RRSPs, TFSAs) generally override will instructions, preventing probate delays.
 
----
 
 ### Which of the following might reduce probate fees in certain provinces?
 
@@ -237,7 +233,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** Assets with valid beneficiary designations and joint ownership usually remain outside the deceased’s probate estate, potentially lowering probate fees.
 
----
 
 ### In a will, who typically validates its legality when probate is required?
 
@@ -248,7 +243,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** Probate grants official recognition that the will is valid under provincial or territorial laws, giving the executor authority to act.
 
----
 
 ### Which Canadian regulatory body oversees investment dealers and mutual fund dealers today?
 
@@ -259,7 +253,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** As of 2023, MFDA and IIROC are defunct and have amalgamated into CIRO, which oversees both investment dealers and mutual fund dealers.
 
----
 
 ### Which of the following could lead to disputes among beneficiaries?
 
@@ -270,7 +263,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** Conflicts often arise when a will isn’t updated, is not clearly drafted, or when it conflicts with other ownership forms.
 
----
 
 ### Selecting a trustee for a trust often requires considering which factor?
 
@@ -281,7 +273,6 @@ Estate distribution in Canada hinges on properly executed will and trust documen
 
 > **Explanation:** An effective trustee needs competence and integrity, ensuring the trust’s assets are managed according to the settlor’s instructions.
 
----
 
 ### True or False: Designated beneficiaries named on a TFSA always override conflicting instructions in a will.
 

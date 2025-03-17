@@ -251,7 +251,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** While a will is central to estate planning, many other arrangements (e.g., trusts, guardianships, and beneficiary designations) are equally crucial.
 
----
 
 ### What is a key advantage of a buy-sell agreement for a privately held business?
 
@@ -262,7 +261,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** A buy-sell agreement establishes clear processes and valuation methods to transfer ownership upon certain events, offering financial clarity and stability.
 
----
 
 ### Why might an estate freeze be beneficial for business owners in Canada?
 
@@ -273,7 +271,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** By freezing the share value, owners control the tax liability on those shares at the time of the freeze and attribute subsequent growth to other stakeholders, often family members.
 
----
 
 ### Which ownership structure automatically transfers property to the surviving co-owner in Canada?
 
@@ -284,7 +281,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** Under JTWROS, the surviving joint tenant(s) receive the entire property interest automatically upon one owner’s death.
 
----
 
 ### Which factor is most critical to address for a minor beneficiary in an estate plan?
 
@@ -295,7 +291,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** Minors typically cannot manage their inheritances. Creating a trust and naming a guardian ensures proper oversight and care.
 
----
 
 ### What is the primary reason for regularly reviewing beneficiary designations?
 
@@ -306,7 +301,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** Beneficiary designations may take precedence over a will; reviewing them ensures they still match the individual’s wishes and current life circumstances.
 
----
 
 ### Which charitable giving instrument allows a donor to receive income for life, then leaves the remaining capital to a charity?
 
@@ -317,7 +311,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** A charitable remainder trust provides an income stream to a named beneficiary (often the donor), with final residual assets being donated to charity.
 
----
 
 ### Where can Canadians find online resources for making wills and power of attorney documents?
 
@@ -328,7 +321,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** CLEO offers accessible legal information and template documents. The IIROC is defunct; it was integrated into CIRO.
 
----
 
 ### What is a common risk of overly relying on joint tenancy to avoid probate?
 
@@ -339,7 +331,6 @@ Estate planning in Canada requires attention to legal frameworks, tax rules, fam
 
 > **Explanation:** Joint tenancy can lead to complications if the intentions of the parties are unclear, creating disputes among family members or creditors.
 
----
 
 ### True or False: An executor must consider digital assets in a modern Canadian estate plan.
 

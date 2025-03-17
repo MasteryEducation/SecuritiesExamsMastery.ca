@@ -193,7 +193,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Markowitz showed that combining assets with low correlation can help minimize variance and achieve higher returns for a given risk level.
 
----
 
 ### 2. Which of the following portfolios is considered suboptimal in the context of MPT?
 
@@ -204,7 +203,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Portfolios below the frontier do not maximize returns for the level of risk undertaken and can thus be improved further.
 
----
 
 ### 3. In the CAPM formula, E(R_i) = R_f + β_i [E(R_m) – R_f], what does β_i represent?
 
@@ -215,7 +213,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Beta measures how much a security’s returns vary with the overall market.
 
----
 
 ### 4. Which of the following correctly distinguishes systematic risk from unsystematic risk?
 
@@ -226,7 +223,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Systematic risk is market-wide; unsystematic risk is specific to an issuer or sector.
 
----
 
 ### 5. In a Canadian context, which of the following statements regarding taxes is correct?
 
@@ -237,7 +233,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** In Canada, interest income is fully taxed, whereas only 50% of realized capital gains is added to an individual’s income. Eligible Canadian dividends are taxed with a dividend tax credit, and certain exemptions may apply.
 
----
 
 ### 6. Why is correlation important when selecting assets for a portfolio?
 
@@ -248,7 +243,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Correlation measures how asset returns move together. Diversifying among uncorrelated or negatively correlated assets helps reduce portfolio risk.
 
----
 
 ### 7. Which of the following is the best example of systematic risk for a Canadian investor?
 
@@ -259,7 +253,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Systematic risk includes factors that impact the entire market or economy, such as broad monetary policy changes.
 
----
 
 ### 8. Under CAPM, if a security’s β = 1.5 with the market risk premium at 5% and the risk-free rate at 2%, what is the expected return?
 
@@ -270,7 +263,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** E(R_i) = 2% + 1.5 × (5%) = 2% + 7.5% = 9.5%.
 
----
 
 ### 9. Which of these is a real-world constraint that may cause a theoretically optimal portfolio to be adjusted?
 
@@ -281,7 +273,6 @@ Embracing portfolio theory with practical constraints in mind can help investors
 
 > **Explanation:** Real-world constraints such as liquidity needs, transaction fees, and taxes often necessitate adjustments to purely theoretical (MPT-derived) portfolios.
 
----
 
 ### 10. True or False: Behavioral biases like loss aversion can cause clients to deviate from the strategies suggested by Modern Portfolio Theory.
 

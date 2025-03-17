@@ -173,7 +173,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** Financial losses can erode clients’ assets and disrupt retirement or education plans. Advisors must uphold ethics to minimize risks.
 
----
 
 ### 2. What is one possible disciplinary action imposed by CIRO for ethical breaches?
 
@@ -184,7 +183,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** CIRO can impose fines, suspensions, and even permanent bans, depending on the severity of the offence.
 
----
 
 ### 3. How do unethical practices harm the firm itself?
 
@@ -195,7 +193,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** Clients often leave firms involved in scandals, damaging the firm’s brand and diminishing future revenue.
 
----
 
 ### 4. Which Canadian legislation primarily governs the protection of personal information?
 
@@ -206,7 +203,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** PIPEDA sets rules on how private-sector organizations collect, use, and disclose personal information across Canada.
 
----
 
 ### 5. Which of the following actions can qualify as insider trading?
 
@@ -217,7 +213,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** Insider trading involves using undisclosed information for a trading advantage, which is illegal.
 
----
 
 ### 6. Why is public trust so important in the Canadian financial system?
 
@@ -228,7 +223,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** When trust is eroded, confidence in the entire market can suffer, reducing participation and liquidity.
 
----
 
 ### 7. Which of the following is a common sign of a Ponzi scheme?
 
@@ -239,7 +233,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** Ponzi schemes often promise unrealistic returns and use incoming investments to pay out earlier participants, lacking real underlying profits.
 
----
 
 ### 8. How can advisors mitigate the risk of ethical violations?
 
@@ -250,7 +243,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** Thorough documentation and strict adherence to compliance processes help prevent misinformation and demonstrate ethical diligence.
 
----
 
 ### 9. Which organization handles criminal fraud investigations in Canada?
 
@@ -261,7 +253,6 @@ Ignoring ethics in wealth management can trigger client losses, professional san
 
 > **Explanation:** The RCMP investigates and prosecutes criminal matters, including complex fraud cases.
 
----
 
 ### 10. Unethical practices in wealth management often result in:
 

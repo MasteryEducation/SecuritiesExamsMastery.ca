@@ -275,7 +275,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** An annuity’s fundamental role is to supply a reliable income stream, typically for life, which helps guard retirees against outliving their savings.
 
----
 
 ### 2. Which regulatory body oversees federally incorporated insurance companies in Canada?
 
@@ -286,7 +285,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** The Office of the Superintendent of Financial Institutions (OSFI) oversees federally incorporated insurers, ensuring their solvency and compliance with regulations.
 
----
 
 ### 3. In Canada, how are annuity payments from RRSP or registered funds typically taxed?
 
@@ -297,7 +295,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** All annuity payments from registered assets (e.g., RRSP) are taxed as regular income. Insurers issue a T4A slip, and you include the payments in your tax return.
 
----
 
 ### 4. Which of the following describes a “prescribed annuity” in Canada?
 
@@ -308,7 +305,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** A prescribed annuity equalizes the total tax payable over the payment period by splitting each payment into a fixed taxable portion (interest) and a return of capital.
 
----
 
 ### 5. What is a key benefit of choosing a life annuity?
 
@@ -319,7 +315,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** Life annuities ensure income does not run out if the annuitant lives longer than expected. This reduces longevity risk significantly, although liquidity is constrained.
 
----
 
 ### 6. Which organization provides coverage to policyholders if a life insurance company in Canada fails?
 
@@ -330,7 +325,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** Assuris covers Canadian life insurance policies, including annuities, if the provider fails. CIPF covers investment accounts with CIRO-registered dealers.
 
----
 
 ### 7. Which factor most directly affects the amount of the annuity payout?
 
@@ -341,7 +335,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** Annuity payouts rise and fall primarily with interest rates and mortality assumptions. The longer the expected payout period or the lower the interest rate, the smaller the payment.
 
----
 
 ### 8. What is the primary drawback of an annuity related to liquidity?
 
@@ -352,7 +345,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** Funds used to purchase annuities are typically inaccessible, or only accessible with substantial surrender fees, limiting liquidity.
 
----
 
 ### 9. What should an investor consider if they are worried about rising prices over time?
 
@@ -363,7 +355,6 @@ As always, align your annuity choices to your broader wealth management strategy
 
 > **Explanation:** If inflation is a concern, picking an annuity that provides cost-of-living increases helps maintain purchasing power, though such products usually start with lower initial payments.
 
----
 
 ### 10. True or False: Taxes on non-registered annuities may only apply to the interest portion of each payment.
 

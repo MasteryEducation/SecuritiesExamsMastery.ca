@@ -214,7 +214,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** A buy-and-hold strategy involves purchasing bonds and holding them until maturity, collecting coupon payments along the way with minimal trading.
 
----
 
 ### In a bond ladder strategy, how is reinvestment risk typically managed?
 
@@ -225,7 +224,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** Bond laddering staggers maturities, ensuring that proceeds from each maturing bond are reinvested gradually rather than all at once, helping to manage reinvestment risk.
 
----
 
 ### Which one of the following is most characteristic of a barbell bond strategy?
 
@@ -236,7 +234,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** The barbell strategy focuses on combining short-term and long-term bonds, leaving out the intermediate segment to achieve a unique interest rate risk profile.
 
----
 
 ### When might a bullet strategy be most appropriate?
 
@@ -247,7 +244,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** A bullet strategy is designed to have bonds mature near a specific date, aligning well with predictable, lump-sum capital needs.
 
----
 
 ### What is a potential downside of active bond management?
 
@@ -258,7 +254,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** Active strategies often involve more frequent trading, which raises transaction costs and can erode returns if trades are not carefully timed.
 
----
 
 ### Which statement about credit strategies in bond investing is correct?
 
@@ -269,7 +264,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** Credit strategies focus on bonds with spreads that may be mispriced, hoping to profit when the spreads narrow, but ongoing monitoring is critical due to default risk.
 
----
 
 ### Which tool could Canadian advisors use to model bond strategies for a retirement plan?
 
@@ -280,7 +274,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** Professionals frequently utilize comprehensive planning software, such as NaviPlan or Snap Projections, which allow scenario testing and align strategies with retirement objectives.
 
----
 
 ### If interest rates rise unexpectedly, which bond segment in a barbell strategy might provide some immediate flexibility?
 
@@ -291,7 +284,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** The short-term portion of a barbell strategy matures sooner, enabling reinvestment at higher rates, providing immediate flexibility in a rising-rate environment.
 
----
 
 ### How do Canadian pension funds commonly use bond laddering?
 
@@ -302,7 +294,6 @@ Ultimately, understanding the interplay between interest rates, credit quality, 
 
 > **Explanation:** Canadian pension funds frequently ladder maturities so that bond proceeds align with ongoing pension payment obligations, managing liquidity and reinvestment risk effectively.
 
----
 
 ### True or False: Changing market conditions affect both the market value of bonds and their reinvestment opportunities.
 

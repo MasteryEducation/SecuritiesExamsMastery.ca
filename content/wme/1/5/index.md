@@ -210,7 +210,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** Technical proficiency underpins all aspects of the advisor’s role, from securities analysis to ensuring compliance with Canadian regulations.
 
----
 
 ### 2. Why are interpersonal skills crucial for successful wealth advisors?
 
@@ -221,7 +220,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** Transparent communication and empathy help an advisor understand clients’ needs and translate financial jargon into actionable advice, building trust over time.
 
----
 
 ### 3. Under CIRO guidelines, which of the following is an example of ethical conduct?
 
@@ -232,7 +230,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** CIRO requirements oblige advisors to act in the client’s best interest and protect their confidentiality. Transparency and honesty are essential.
 
----
 
 ### 4. Which of the following statements best describes the role of continuous education for wealth advisors?
 
@@ -243,7 +240,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** The financial industry evolves rapidly, and continuous education ensures that advisors remain competent and informed.
 
----
 
 ### 5. Which technology tool is commonly leveraged by Canadian wealth advisors for efficient client management?
 
@@ -254,7 +250,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** CRM software is vital for securely managing client data, scheduling reviews, and tracking interactions in a centralized system.
 
----
 
 ### 6. What is a practical demonstration of relationship management in wealth advising?
 
@@ -265,7 +260,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** Relationship management extends beyond transactional interactions. Proactive reviews and a holistic approach align an advisor’s services with clients’ evolving needs.
 
----
 
 ### 7. What is a potential outcome if a wealth advisor lacks strong problem-solving and analytical skills?
 
@@ -276,7 +270,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** Without rigorous analysis, advisors risk presenting suboptimal or ill-fitting solutions, undermining trust and performance.
 
----
 
 ### 8. Which of the following best illustrates personal branding and credibility for a wealth advisor?
 
@@ -287,7 +280,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** Formal designations and sharing credible insights elevate an advisor’s professional standing and fosters confidence.
 
----
 
 ### 9. Which organization in Canada oversees the CFP® designation and is known for its emphasis on ethical standards?
 
@@ -298,7 +290,6 @@ Advisors who engage in frequent professional development, adopt powerful technol
 
 > **Explanation:** FP Canada oversees the Certified Financial Planner (CFP®) designation, with a strong focus on ethics and professionalism.
 
----
 
 ### 10. True or False: A holistic client approach focuses exclusively on equity investments in an effort to maximize returns.
 

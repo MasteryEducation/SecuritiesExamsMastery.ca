@@ -192,7 +192,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** Porter’s Five Forces framework analyzes the competitive forces—including buyers, suppliers, new entrants, substitutes, and rivalry—that shape an industry’s profitability.
 
----
 
 ### What stage of the industry life cycle typically exhibits high growth and expanding market share?
 
@@ -203,7 +202,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** During the growth stage, an industry experiences a rapid increase in demand, revenue, and market penetration.
 
----
 
 ### Which of the following is the current self-regulatory organization overseeing Canadian investment dealers and mutual fund dealers?
 
@@ -214,7 +212,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** As of June 1, 2023, IIROC and MFDA have been amalgamated into CIRO, making it Canada’s national self-regulatory body.
 
----
 
 ### What role does the Bank of Canada play that can directly impact industry analysis?
 
@@ -225,7 +222,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** The Bank of Canada’s monetary policy decisions, including interest rate changes, can significantly affect borrowing costs, consumer spending, and overall business conditions.
 
----
 
 ### In the context of Canadian markets, which of the following industries is most notably impacted by both federal and provincial regulations?
 
@@ -236,7 +232,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** Energy projects often require federal and provincial environmental and regulatory approvals, especially in resource-rich provinces like Alberta.
 
----
 
 ### Which of the following best describes a “secular trend”?
 
@@ -247,7 +242,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** Secular trends, such as digitization or aging demographics, unfold independently of short business cycles and can redefine entire industries over time.
 
----
 
 ### Which step is essential when applying industry analysis for portfolio construction in Canada?
 
@@ -258,7 +252,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** Classifying an industry using NAICS codes and monitoring interest rate policies are both important for making precise and informed investment decisions.
 
----
 
 ### How might advisors factor in Canadian pension fund strategies when performing industry analysis?
 
@@ -269,7 +262,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** Canadian pension funds, due to their size and influence, often set trends in how they allocate capital, especially in regulated or capital-intensive industries.
 
----
 
 ### Which of the following is a common pitfall in industry analysis?
 
@@ -280,7 +272,6 @@ Industry analysis is a critical component of effective equity research and wealt
 
 > **Explanation:** Mixing up cyclical shifts with secular, long-term changes can result in inaccurate forecasting and misaligned investment strategies.
 
----
 
 ### True or False: In Canada, a monopoly implies that government regulations do not apply to the single dominant firm.
 

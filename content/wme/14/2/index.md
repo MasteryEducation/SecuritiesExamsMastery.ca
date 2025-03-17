@@ -240,7 +240,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** Immediate annuities begin payments within about one year of purchase, often the next month or quarter, making them ideal for retirees who need a quick income start.
 
----
 
 ### 2. When purchasing a deferred annuity, which of the following is a key advantage?
 
@@ -251,7 +250,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** Deferred annuities offer a period of tax-deferred growth. Payments begin later, usually at retirement.
 
----
 
 ### 3. A life annuity that covers only one individual and does not continue payments to any beneficiary is called:
 
@@ -262,7 +260,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** A single life annuity stops making payments when the one annuitant passes away, unless a guarantee period is included.
 
----
 
 ### 4. In a joint and survivor annuity, what typically happens to the income payments after the primary annuitant dies?
 
@@ -273,7 +270,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** Joint and survivor annuities continue payments after the death of the first annuitant, usually at a specified percentage for the surviving spouse.
 
----
 
 ### 5. Which annuity is designed to provide payments for a specific number of years, regardless of the annuitant’s life?
 
@@ -284,7 +280,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** A term-certain annuity pays out for a fixed period (e.g., 10 or 20 years), with any remaining payments going to beneficiaries if the annuitant dies early.
 
----
 
 ### 6. One of the greatest advantages of indexed annuities is:
 
@@ -295,7 +290,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** Indexed annuities offer inflation protection, but typically start with slightly lower payments relative to equivalent non-indexed annuities.
 
----
 
 ### 7. If market performance directly impacts your annuity payouts, you are most likely dealing with:
 
@@ -306,7 +300,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** Variable annuities (and similar segregated funds in Canada) fluctuate based on investment results, meaning the payout amount can vary.
 
----
 
 ### 8. What is one potential pitfall of buying an annuity when interest rates are very low?
 
@@ -317,7 +310,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** Purchasing an annuity in a low-rate environment can lock in lower payouts, which do not automatically increase if interest rates rise later.
 
----
 
 ### 9. Which Canadian regulator oversees federally regulated insurers that issue annuities?
 
@@ -328,7 +320,6 @@ Clients and advisors should tailor annuity selection to individual circumstances
 
 > **Explanation:** OSFI supervises Canada’s federally regulated insurers, ensuring solvency and compliance with federal insurance regulations.
 
----
 
 ### 10. In general, what is the primary benefit of adding an indexing feature (e.g., 2% annual escalation) to an annuity?
 

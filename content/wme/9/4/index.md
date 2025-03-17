@@ -238,7 +238,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** A CCPC is a private corporation controlled by Canadian residents. It enjoys certain tax benefits like the small business deduction.
 
----
 
 ### 2. Which is NOT a potential tax advantage of incorporation for a small business owner in Canada?
 
@@ -249,7 +248,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** Corporations always face some corporate income tax. The small business deduction reduces, but does not eliminate, corporate taxes.
 
----
 
 ### 3. Which of the following is a main advantage of retaining income within a corporation?
 
@@ -260,7 +258,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** Retaining funds inside the corporation can defer personal taxes until they are eventually withdrawn, allowing more funds to potentially compound.
 
----
 
 ### 4. Why is professional advice crucial when structuring an optimal salary/dividend mix for shareholders?
 
@@ -271,7 +268,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** Each shareholder’s situation differs, and professional input helps identify the most tax-efficient mix of salary vs. dividends.
 
----
 
 ### 5. Which of the following statements about professional corporations is correct?
 
@@ -282,7 +278,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** Professional corporations often follow specific rules set by regulatory bodies on share ownership, directorship, and practice standards.
 
----
 
 ### 6. When selling shares in a qualified small business corporation (QSBC), the seller may benefit from:
 
@@ -293,7 +288,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** QSBC shares can qualify for the LCGE, which reduces or eliminates tax on capital gains up to a set threshold.
 
----
 
 ### 7. Which of the following is a primary difference between a salary and a dividend from a corporation?
 
@@ -304,7 +298,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** A salary is deductible for corporate tax purposes, whereas dividends are not. Dividends come out of after-tax corporate profits.
 
----
 
 ### 8. What is one potential downside of distributing exclusively dividends to a shareholder over many years?
 
@@ -315,7 +308,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** Dividends do not create RRSP contribution room. A shareholder relying exclusively on dividends might reduce their future retirement contributions.
 
----
 
 ### 9. Which Canadian regulatory organization currently oversees investment dealers and mutual fund dealers?
 
@@ -326,7 +318,6 @@ Incorporation can be a powerful tool for tax management, asset protection, and b
 
 > **Explanation:** CIRO is the national self-regulatory organization that replaced IIROC and MFDA (both now defunct).
 
----
 
 ### 10. True or False: Incorporating a small business guarantees lower overall taxes in every situation.
 

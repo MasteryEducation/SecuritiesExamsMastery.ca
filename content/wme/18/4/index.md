@@ -196,7 +196,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Global diversification expands the investor’s set of opportunities, potentially exposing them to faster-growing or differently performing markets. Although it can help reduce overall portfolio volatility, it does not completely remove risk nor eliminate Canadian tax obligations.
 
----
 
 ### When investing in foreign markets, which risk refers to fluctuations in exchange rates that affect realized returns for Canadian investors?
 
@@ -207,7 +206,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Currency risk arises from changes in exchange rates between the Canadian dollar and foreign currencies, influencing the final CAD value of an investment.
 
----
 
 ### Which statement correctly describes American Depositary Receipts (ADRs)?
 
@@ -218,7 +216,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** ADRs are certificates that allow investors to trade foreign stocks on U.S. exchanges in U.S. dollars, simplifying cross-border equity investing.
 
----
 
 ### What is one common approach to mitigate currency risk in international portfolios?
 
@@ -229,7 +226,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Currency-hedged ETFs or forward contracts can help reduce or eliminate the impact of currency fluctuations on a portfolio, enabling investors to focus on the underlying asset performance.
 
----
 
 ### Which of the following would be the best example of an ongoing monitoring process for a globally diversified portfolio?
 
@@ -240,7 +236,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Ongoing monitoring involves reviewing macroeconomic conditions, political risks, and correlations between holdings, ensuring the portfolio remains aligned with the client’s strategy.
 
----
 
 ### If a client’s foreign holdings exceed mandated CRA thresholds, they must complete which form?
 
@@ -251,7 +246,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Canadian residents must file a T1135 form when they hold specified foreign property with a total cost amount above the CRA’s designated limit.
 
----
 
 ### Which of the following is a potential advantage of investing in global balanced funds for Canadian investors?
 
@@ -262,7 +256,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Global balanced funds combine international equities and bonds, offering a managed, diversified approach. However, investors remain subject to taxes and volatility risks.
 
----
 
 ### What is the primary purpose of the term “Emerging Markets”?
 
@@ -273,7 +266,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** Emerging markets are typically characterized by higher growth prospects but also greater risk due to political, regulatory, and market uncertainties.
 
----
 
 ### What Canadian regulatory body (as of 2025) oversees investment and mutual fund dealers after the amalgamation of MFDA and IIROC?
 
@@ -284,7 +276,6 @@ By integrating these insights into your practice, you can better guide clients t
 
 > **Explanation:** CIRO (the Canadian Investment Regulatory Organization) formed in 2023 by merging the MFDA and IIROC, becoming the primary SRO for investment and mutual fund dealers in Canada.
 
----
 
 ### True or False: Currency movements never impact the total return when a Canadian investor holds U.S.-based ADRs.
 

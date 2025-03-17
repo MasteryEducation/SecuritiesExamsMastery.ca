@@ -205,7 +205,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** Technical analysis relies on price, volume, and other market data to forecast future movements, unlike fundamental analysis, which focuses on intrinsic factors of a company.
 
----
 
 ### 2. Which chart type displays the open, high, low, and close all in one bar?
 
@@ -216,7 +215,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** Bar charts show the opening and closing prices with a vertical line indicating the high and low. Candlestick charts also show these points but emphasize open-close relationships visually.
 
----
 
 ### 3. When a stock consistently bounces upward after reaching a certain price level, that level is commonly referred to as:
 
@@ -227,7 +225,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** A support level is a price point where buying pressure often halts or reverses a downward trend.
 
----
 
 ### 4. A Relative Strength Index (RSI) reading above 70 typically suggests:
 
@@ -238,7 +235,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** An RSI above 70 signals a potential overbought condition.
 
----
 
 ### 5. Which of the following is NOT true about Bollinger Bands?
 
@@ -249,7 +245,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** Bollinger Bands rely on a moving average and measure volatility through standard deviations of price, not volume alone.
 
----
 
 ### 6. What is the primary purpose of a stop-loss order?
 
@@ -260,7 +255,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** A stop-loss order automatically sells (or buys for a short position) a security once it reaches a specific price, limiting further losses or safeguarding profits.
 
----
 
 ### 7. Which entity is responsible for overseeing investment dealers and mutual fund dealers in Canada as of 2025?
 
@@ -271,7 +265,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** The Mutual Fund Dealers Association (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC) amalgamated into the Canadian Investment Regulatory Organization (CIRO).
 
----
 
 ### 8. Which statement best describes the view of the Efficient Market Hypothesis (EMH) on technical analysis?
 
@@ -282,7 +275,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** EMH holds that markets incorporate all known information into prices, thereby reducing or negating any advantage from analyzing past prices and patterns.
 
----
 
 ### 9. What is a practical step for risk management when using technical analysis in a Canadian equity portfolio?
 
@@ -293,7 +285,6 @@ Proponents of EMH argue that historical price data and chart patterns are alread
 
 > **Explanation:** Implementing stop-loss orders and prudent position sizing are key practices to manage risk effectively.
 
----
 
 ### 10. True or False: Major Canadian pension funds may combine technical and fundamental analysis to optimize investment decisions.
 

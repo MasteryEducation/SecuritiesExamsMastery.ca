@@ -232,7 +232,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** Both CPP and QPP offer retirement, disability, and survivor benefits to contributors, ensuring some income security but not necessarily full salary replacement.
 
----
 
 ### 2. How do CPP/QPP early pension commencement rules generally affect monthly benefits?
 
@@ -243,7 +242,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** Claiming CPP/QPP benefits early (before age 65) leads to permanent monthly reductions, aligned with actuarial adjustments.
 
----
 
 ### 3. Under pension sharing, why might a higher-income spouse allocate part of their CPP/QPP benefits to a lower-income spouse?
 
@@ -254,7 +252,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** Pension sharing can reduce the family’s overall tax burden by distributing income more evenly.
 
----
 
 ### 4. Which organization currently oversees the conduct of investment dealers and mutual fund dealers in Canada?
 
@@ -265,7 +262,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** As of 2023, the MFDA and IIROC merged into CIRO, making it the national self-regulatory organization.
 
----
 
 ### 5. What does the child-rearing dropout provision accomplish?
 
@@ -276,7 +272,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** The child-rearing dropout excludes child-rearing years, thereby preventing those low-income years from reducing future pension benefits.
 
----
 
 ### 6. Why might an individual choose to defer CPP/QPP benefits until age 70?
 
@@ -287,7 +282,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** Deferring benefits increases monthly pensions, often making sense for those who expect longer lifespans and have other sources of income.
 
----
 
 ### 7. What is a common pitfall for individuals who choose to start CPP/QPP too early?
 
@@ -298,7 +292,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** Early commencement locks in a lower monthly amount, and combining that income with other sources can elevate an individual’s tax bracket.
 
----
 
 ### 8. Which factor is generally NOT considered when deciding whether to take CPP/QPP benefits early or defer them?
 
@@ -309,7 +302,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** Factors such as health, longevity, taxes, and additional income streams matter, whereas personal possessions like a car do not impact pension decisions.
 
----
 
 ### 9. Which official body is primarily responsible for collecting CPP contributions outside Quebec?
 
@@ -320,7 +312,6 @@ Wealth advisors under CIRO have a responsibility to help clients navigate these 
 
 > **Explanation:** The CRA collects CPP contributions on behalf of Service Canada. Retraite Québec collects QPP contributions.
 
----
 
 ### 10. Under the Quebec Pension Plan, Retraite Québec is responsible for:
 

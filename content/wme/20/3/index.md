@@ -195,7 +195,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** Fundamental analysis focuses on real data, such as financial statements, economic indicators, and management quality, to estimate a company’s intrinsic value.
 
----
 
 ### When calculating the P/E ratio, an unusually high ratio generally suggests:
 
@@ -206,7 +205,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** A high P/E ratio can indicate positive investor expectations about future earnings or, conversely, a sign of overvaluation.
 
----
 
 ### Which macroeconomic factor is most directly linked to borrowing costs for companies?
 
@@ -217,7 +215,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** Interest rates, set in part by the Bank of Canada, directly influence corporate borrowing costs and can thereby impact a firm’s profitability.
 
----
 
 ### Which type of sector tends to be more resistant to economic fluctuations?
 
@@ -228,7 +225,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** Defensive sectors like consumer staples provide essential products that remain in demand regardless of the economic cycle.
 
----
 
 ### A company with a high ROE typically indicates:
 
@@ -239,7 +235,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** A strong ROE shows efficiency in using shareholders’ equity to generate net income, attracting investors seeking robust return potential.
 
----
 
 ### How does technical analysis complement fundamental analysis?
 
@@ -250,7 +245,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** Technical analysis focuses on price patterns and market trends, while fundamental analysis focuses on intrinsic value; combining both can enhance a well-timed investment strategy.
 
----
 
 ### If a company’s P/B ratio is significantly below 1, it might suggest:
 
@@ -261,7 +255,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** A low P/B ratio often suggests undervaluation relative to assets, or potential operational or sector-specific concerns. Further analysis is crucial.
 
----
 
 ### Which source is most relevant for obtaining accurate and timely financial statements of Canadian public companies?
 
@@ -272,7 +265,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** Companies file continuous disclosure documents on SEDAR+, ensuring publicly available, government-regulated financial data.
 
----
 
 ### Why might high financial leverage increase a company’s risk?
 
@@ -283,7 +275,6 @@ Equity analysis in the Canadian market requires a balanced blend of qualitative 
 
 > **Explanation:** While leverage can boost returns when times are good, it also increases the risk of default during downturns, as debt obligations remain fixed.
 
----
 
 ### True or False: CIRO replaced IIROC and MFDA as the national self-regulatory body overseeing investment dealers and mutual fund dealers in Canada.
 

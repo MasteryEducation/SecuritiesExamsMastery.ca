@@ -214,7 +214,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** Deemed disposition means the CRA assumes an immediate sale of all capital property at fair market value before death, triggering potential capital gains or losses.
 
----
 
 ### Which of the following strategies could help defer or reduce tax on private corporation shares at death? (Select all that apply)
 
@@ -225,7 +224,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** Estate freezes and post-mortem pipeline strategies are common methods to defer and reduce taxation. Gifting shares but retaining control is generally not feasible after death, and TFSAs have strict contribution limits and are not a vehicle for converting corporate shares directly.
 
----
 
 ### How long does a testamentary trust typically benefit from graduated tax rates before moving to the highest marginal rate?
 
@@ -236,7 +234,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** Under current rules, a testamentary trust is considered a “graduated rate estate” (GRE) for a maximum of 36 months following the death of the testator.
 
----
 
 ### Which of the following registered accounts, if properly structured with a successor holder, can potentially continue tax-free growth after the owner’s death?
 
@@ -247,7 +244,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** TFSAs can maintain their tax-free status if there is a designated successor holder, typically a spouse or common-law partner.
 
----
 
 ### In Canada, which portion of capital gains is typically taxable?
 
@@ -258,7 +254,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** Currently, 50% of realized capital gains are included in taxable income, known as the capital gains inclusion rate.
 
----
 
 ### What primary tax advantage does the principal residence exemption provide?
 
@@ -269,7 +264,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** The principal residence exemption exempts the capital gain on a qualifying property from tax, providing significant savings upon sale or deemed disposition at death.
 
----
 
 ### Which filing requirement typically applies to an estate that continues to hold assets in a trust after the testator’s death?
 
@@ -280,7 +274,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** Estates holding assets in a trust must file a T3 Trust Return to report income earned within the trust.
 
----
 
 ### Why is collaboration with tax professionals essential when planning to minimize estate tax liabilities?
 
@@ -291,7 +284,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** Keeping current with legislation and applying technical knowledge of tax rules is critical, and working with qualified tax specialists ensures estate plans remain compliant and efficient.
 
----
 
 ### Which of the following presents a common pitfall in estate taxation?
 
@@ -302,7 +294,6 @@ Taxation is a principal factor in estate planning, substantially impacting the f
 
 > **Explanation:** A frequently encountered pitfall is missing the CRA’s filing deadlines, leading to late-filing penalties and interest on owed taxes.
 
----
 
 ### True or False: A testamentary trust loses its graduated tax rate status 36 months after the testator’s death.
 

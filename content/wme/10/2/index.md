@@ -241,7 +241,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** The main advantage of an RRSP is that contributions reduce your current taxable income and the investment growth is tax-deferred until withdrawal.
 
----
 
 ### 2. Which of the following is typically TRUE about tax-deferred growth?
 
@@ -252,7 +251,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** “Tax-deferred” means you don't pay taxes on the annual earnings inside the plan, but you do pay tax when you ultimately withdraw the funds.
 
----
 
 ### 3. Which statement accurately describes a Spousal RRSP?
 
@@ -263,7 +261,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** In a Spousal RRSP, one spouse contributes into the other spouse’s plan to facilitate taxation benefits in retirement.
 
----
 
 ### 4. Which type of RRSP is generally offered by employers?
 
@@ -274,7 +271,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** Many employers offer a Group RRSP where contributions are conveniently deducted from payroll, often with additional employer matching.
 
----
 
 ### 5. Why might withdrawing funds from your RRSP before retirement be a drawback?
 
@@ -285,7 +281,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** Early withdrawals are added to your taxable income that year and reduce your future contribution room permanently. (Note: Exceptions like the Home Buyers’ Plan and Lifelong Learning Plan require repayment.)
 
----
 
 ### 6. How do RRSPs typically compare to TFSAs?
 
@@ -296,7 +291,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** An RRSP offers a tax deduction at contribution but is taxable at withdrawal, while a TFSA has no initial deduction but tax-free withdrawals.
 
----
 
 ### 7. What is the main purpose of having a limit on RRSP contributions?
 
@@ -307,7 +301,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** The CRA sets annual RRSP limits to maintain fairness and sustainability within Canada’s retirement savings framework.
 
----
 
 ### 8. Which of the following best describes RRSP “tax-deductible contributions”?
 
@@ -318,7 +311,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** RRSP contributions serve as a direct deduction from taxable income for the year in which you claim them, reducing your overall tax liability.
 
----
 
 ### 9. Which institution enforces regulations and best practices for investment dealers in Canada as of 2025?
 
@@ -329,7 +321,6 @@ By taking advantage of an RRSP’s tax benefits and investment flexibility, Cana
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) is Canada’s sole self-regulatory body overseeing investment dealers and mutual fund dealers since the amalgamation of MFDA and IIROC.
 
----
 
 ### 10. True or False: A person must convert their RRSP into a RRIF or annuity by the end of the year they turn 71.
 

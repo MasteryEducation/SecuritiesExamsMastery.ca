@@ -142,7 +142,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** The standard RRSP contribution limit is 18% of the previous year’s earned income, subject to an annual maximum set by the federal government.
 
----
 
 ### Which statement accurately describes unused contribution room?
 
@@ -153,7 +152,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** Individuals can carry forward any unused RRSP contribution room to future years. This allows them to surpass the usual limit if they did not fully contribute in past years.
 
----
 
 ### What is the allowable over-contribution buffer for RRSPs before incurring penalty taxes?
 
@@ -164,7 +162,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** The CRA permits RRSP over-contributions of up to CA$2,000 without immediate penalty. Any amount above that is subject to monthly penalty taxes on the overage.
 
----
 
 ### True or False: Contributing to a spousal RRSP still uses the contributor’s own RRSP contribution room.
 
@@ -173,7 +170,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** Contributions made to a spouse’s RRSP are counted against the *contributor’s* RRSP limit, even though the account itself is in the spouse’s name.
 
----
 
 ### Which of the following methods is typically advised for clients with regular cash flow who prefer predictable investing?
 
@@ -184,7 +180,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** Payroll deductions offer a systematic way to invest small amounts regularly, making them ideal for steady, predictable contributions.
 
----
 
 ### When is the usual deadline each year to make RRSP contributions that apply to the previous calendar year?
 
@@ -195,7 +190,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** The RRSP contribution deadline generally falls 60 days after the calendar year-end, which is often around March 1.
 
----
 
 ### What can an individual do if they anticipate being in a significantly higher tax bracket next year?
 
@@ -206,7 +200,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** An RRSP deduction can be carried forward and claimed in a later tax year, which can be beneficial if the individual expects higher income and taxes in the future.
 
----
 
 ### Which of the following is a main advantage of spousal RRSPs?
 
@@ -217,7 +210,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** Spousal RRSPs help shift future income to the spouse with lower anticipated retirement income, thereby potentially lowering the household’s overall tax burden.
 
----
 
 ### How can an individual verify their accurate RRSP contribution room before making additional deposits?
 
@@ -228,7 +220,6 @@ Mastering RRSP contribution rules is paramount for any comprehensive Canadian we
 
 > **Explanation:** The most reliable way to confirm precise RRSP contribution room is by examining the CRA-issued Notice of Assessment, which includes the calculation of remaining room.
 
----
 
 ### When does the 1% over-contribution penalty roughly begin to apply?
 

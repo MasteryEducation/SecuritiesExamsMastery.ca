@@ -179,7 +179,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Robo-advisors rely on algorithms to automate portfolio management, including investment selection, monitoring, and rebalancing.
 
----
 
 ### 2. What is a primary reason robo-advisors can offer lower fees?
 - [ ] They use more expensive fund management companies.  
@@ -189,7 +188,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Automated processes keep costs low, which is reflected in reduced management fees for clients.
 
----
 
 ### 3. Which regulatory body is responsible for overseeing robo-advisory services across Canada?
 - [ ] The defunct MFDA  
@@ -199,7 +197,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** As of 2023, the Canadian Investment Regulatory Organization (CIRO) oversees investment dealers and mutual fund dealers in Canada.
 
----
 
 ### 4. What is a common challenge for robo-advisors when it comes to personalizing client portfolios?
 - [ ] Booking the next available advisor appointment.  
@@ -209,7 +206,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Robo-advisors often rely on standardized asset allocations, making it difficult to address complex personal factors.
 
----
 
 ### 5. Which investment products are most commonly used by robo-advisors for portfolio construction?
 - [ ] Complex derivatives and commodity futures.  
@@ -219,7 +215,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Robo-advisors primarily build diversified portfolios using low-cost ETFs or mutual funds, aligning with passive investment strategies.
 
----
 
 ### 6. How do robo-advisors typically handle rebalancing?
 - [ ] They never rebalance once the portfolio is set up.  
@@ -229,7 +224,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** One of the main appeals of robo-advisors is automatic portfolio rebalancing when the allocation drifts from target levels.
 
----
 
 ### 7. What is a hallmark feature of hybrid robo-advisory models?
 - [ ] Complete reliance on manual trades with no algorithmic input.  
@@ -239,7 +233,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Hybrid models pair automated solutions for day-to-day investing with human guidance for complex scenarios.
 
----
 
 ### 8. How might Canadian tax considerations affect robo-advisor allocations?
 - [ ] All income from robo-advisors is tax-free in Canada.  
@@ -249,7 +242,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Strategic use of registered and non-registered accounts is essential for maximizing after-tax returns.
 
----
 
 ### 9. Which institution’s investment strategies do robo-advisors often emulate in a simplified way for diversification?
 - [ ] Canada Mortgage and Housing Corporation (CMHC)  
@@ -259,7 +251,6 @@ As technology continues to evolve and regulatory frameworks adapt, robo-advisory
 
 > **Explanation:** Canadian pension funds employ broad diversification approaches that robo-advisors mimic with simpler ETF-driven portfolios.
 
----
 
 ### 10. True or False? By using a robo-advisor, an investor completely removes all emotional biases from their investing decisions.
 - [x] True

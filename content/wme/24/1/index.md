@@ -186,7 +186,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** Portfolio monitoring is an ongoing task to keep track of changing markets and client situations, ensuring alignment with the Investment Policy Statement.
 
----
 
 ### What is the key regulatory body overseeing investment dealers and mutual fund dealers in Canada as of 2025?
 
@@ -197,7 +196,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** As of 2023, IIROC and MFDA amalgamated to form CIRO, making CIRO the national self-regulatory body for investment dealers and mutual fund dealers.
 
----
 
 ### Which statement is true regarding portfolio rebalancing?
 
@@ -208,7 +206,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** Rebalancing re-aligns the portfolio with its target allocation and typically factors in tax and transaction cost considerations.
 
----
 
 ### In threshold-based rebalancing, which scenario would most likely trigger a rebalancing action for a 60/40 equity/fixed income portfolio with a ±5% rule?
 
@@ -219,7 +216,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** A 66% equity portion exceeds the ±5% deviation from 60%, triggering the threshold-based rebalancing.
 
----
 
 ### What does “suitability” primarily require from an advisor?
 
@@ -230,7 +226,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** Suitability mandates that advisors recommend products and strategies fitting the client’s overall profile while also adhering to regulatory standards.
 
----
 
 ### Which of the following is NOT an example of market conditions an advisor would monitor?
 
@@ -241,7 +236,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** While clothing preferences may be relevant for budget planning in certain contexts, it is not typically part of market conditions for investment portfolios.
 
----
 
 ### How does maintaining detailed records assist with portfolio monitoring?
 
@@ -252,7 +246,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** Accurate record-keeping helps both performance tracking and compliance but does not replace ongoing client engagement or IPS updates.
 
----
 
 ### Which Canadian institution provides resources on macroeconomic indicators that can help guide portfolio decisions?
 
@@ -263,7 +256,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** The Bank of Canada publishes economic research, interest rate decisions, and other indicators relevant to Canadian portfolios.
 
----
 
 ### According to the GIPS (Global Investment Performance Standards) by the CFA Institute, what is the primary benefit of adopting these standards?
 
@@ -274,7 +266,6 @@ Canadian advisors should also remain informed about CIRO regulations, CSA polici
 
 > **Explanation:** GIPS help ensure investors receive consistent and transparent information regarding performance but do not guarantee returns or override local regulations.
 
----
 
 ### Monitoring a portfolio helps an advisor stay ahead of changes in a client’s life circumstances that could affect investment decisions.
 

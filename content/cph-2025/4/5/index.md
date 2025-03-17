@@ -264,7 +264,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** PIPEDA (Personal Information Protection and Electronic Documents Act) is designed to govern the collection, use, and disclosure of personal information by private-sector organizations, ensuring clients’ data is handled responsibly.
 
----
 
 ### Which of the following is an example of a cybersecurity threat?
 
@@ -275,7 +274,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** Phishing emails are a classic type of cyber threat, targeting individuals to divulge sensitive information.
 
----
 
 ### According to PIPEDA, which principle requires organizations to only collect information warranted to fulfill specified purposes?
 
@@ -286,7 +284,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** The “Limiting Collection” principle ensures that the organization only gathers data truly needed for the stated purpose, preventing the unnecessary or excessive collection of sensitive information.
 
----
 
 ### Which action is considered best practice when sending sensitive client data electronically?
 
@@ -297,7 +294,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** Encryption is essential to protect data transmitted over the internet. Simply labeling an email “confidential” does not encrypt the contents against unauthorized access.
 
----
 
 ### Select the measures that typically form part of a firm’s cybersecurity policy.
 
@@ -308,7 +304,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** A robust cybersecurity policy includes tools and processes such as multi-factor authentication and intrusion detection systems. Open Wi-Fi networks and extremely delayed password updates are vulnerabilities, not protections.
 
----
 
 ### Which step typically comes first in an Incident Response Plan (IRP)?
 
@@ -319,7 +314,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** The first step in responding to a security incident is identifying or detecting the incident. Only afterward can containment, notification, and recovery steps occur.
 
----
 
 ### Why is ongoing training important for RRs regarding cybersecurity?
 
@@ -330,7 +324,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** Cyber threats continually change. Regular training ensures RRs recognize emerging scams and practice stronger defense measures, thus reducing human error.
 
----
 
 ### Which of the following could be a red flag for a phishing email?
 
@@ -341,7 +334,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** Cybercriminals often create a sense of urgency or break normal contact patterns to trick targets into divulging personal information or credentials.
 
----
 
 ### Which of the following might a firm be required to do if a data breach poses significant harm to individuals?
 
@@ -352,7 +344,6 @@ If you do these things, you’ll be miles ahead in fulfilling your role responsi
 
 > **Explanation:** PIPEDA and provincial laws often require that if there is a breach creating a “real risk of significant harm,” organizations must notify the affected clients and relevant regulatory bodies.
 
----
 
 ### True or False: Using only the word "Confidential" in the subject line provides complete encryption for an email.
 

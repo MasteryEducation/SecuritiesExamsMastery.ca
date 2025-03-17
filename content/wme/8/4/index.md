@@ -196,7 +196,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Lump-sum car allowances are generally considered taxable, while actual reimbursed business expenses and certain counseling services may qualify as non-taxable if within CRA guidelines.
 
----
 
 ### How does an employer’s contribution to a Registered Pension Plan (RPP) typically affect an employee’s taxes?
 
@@ -207,7 +206,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Employer RPP contributions do not show up in taxable income; instead, they create a Pension Adjustment, which directly reduces the RRSP contribution limit for that year.
 
----
 
 ### What is the main difference between an allowance and a reimbursement regarding tax treatment?
 
@@ -218,7 +216,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Under CRA rules, an allowance is considered a taxable benefit as it is typically paid out without needing receipts or proof of expenses. A reimbursement for business expenses, however, is usually non-taxable if properly documented.
 
----
 
 ### If an employer pays life insurance premiums for an employee, how is this benefit generally reported?
 
@@ -229,7 +226,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Employer-paid group life insurance premiums are typically taxable to the employee and appear on the employee’s T4 slip as a taxable benefit.
 
----
 
 ### Which of the following might qualify as a non-taxable employer-provided benefit?
 
@@ -240,7 +236,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Employer contributions to private health services plans and the reimbursement of job-required training costs can commonly be non-taxable. Cash bonuses or gift cards are usually considered taxable if they exceed certain CRA thresholds.
 
----
 
 ### What is one of the primary reasons advisors must monitor how clients use an employer-provided vehicle?
 
@@ -251,7 +246,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Personal mileage increases the standby charge and operating benefit amounts, which are taxable to the employee, potentially affecting overall tax liability.
 
----
 
 ### Why is it essential to distinguish between personal and business expenses for employee reimbursements?
 
@@ -262,7 +256,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Maintaining accurate records differentiating personal from legitimate business expenses is crucial to ensure compliance and avoid reclassification of reimbursements as taxable income.
 
----
 
 ### Which of the following best describes a “Pension Adjustment” (PA)?
 
@@ -273,7 +266,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** The Pension Adjustment (PA) reduces an individual’s RRSP contribution room to account for accrued benefits under RPPs or Deferred Profit Sharing Plans.
 
----
 
 ### Which resource from the CRA is most helpful for detailed guidance on taxable benefits?
 
@@ -284,7 +276,6 @@ As an advisor, understanding the interplay between taxable and non-taxable emplo
 
 > **Explanation:** Guide T4130 is a comprehensive resource defining taxable benefits, allowances, and CRA rules for employment-related compensation.
 
----
 
 ### An advisor who ignores stand-by charges and operating benefits when analyzing a client’s employment income could risk creating:
 

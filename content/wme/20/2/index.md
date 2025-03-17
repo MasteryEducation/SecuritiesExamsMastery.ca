@@ -204,7 +204,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** The Toronto Stock Exchange (TSX) is Canada’s largest traditional marketplace, typically hosting established and large-cap companies.
 
----
 
 ### What is the main characteristic of a primary market transaction?
 
@@ -215,7 +214,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** Primary market transactions provide fresh capital to companies by issuing new shares, often through an IPO, with mandatory disclosure documents like a prospectus.
 
----
 
 ### Which of the following describes the secondary market?
 
@@ -226,7 +224,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** In the secondary market, shares already in circulation change hands between investors, without the company receiving additional capital.
 
----
 
 ### Why might an advisor warn clients about investing in OTC equity markets?
 
@@ -237,7 +234,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** OTC securities can be riskier due to lower liquidity, reduced disclosure, and fewer regulatory requirements, increasing potential for price volatility and fraud.
 
----
 
 ### Which best describes the TSX Venture Exchange (TSXV) compared to the TSX?
 
@@ -248,7 +244,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** The TSXV is intended for smaller issuers not yet meeting TSX requirements, aiming to provide a venue to raise venture capital.
 
----
 
 ### Which Canadian regulator oversees investment dealers and marketplace integrity across equity markets?
 
@@ -259,7 +254,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** As of 2023, the former IIROC and MFDA merged into CIRO, now the national self-regulatory organization overseeing dealers and marketplace integrity.
 
----
 
 ### According to common Canadian practice, what is the usual settlement period (in business days) for equity trades on the TSX?
 
@@ -270,7 +264,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** Following global trends, Canada adopted a T+2 settlement period, ensuring trade settlement within two business days after execution.
 
----
 
 ### Which of the following factors most directly influences short-term equity market price fluctuations?
 
@@ -281,7 +274,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** While all these factors affect a stock’s price, short-term fluctuations often reflect supply and demand, heavily influenced by market sentiment and trading volume.
 
----
 
 ### Which statement about market orders is correct?
 
@@ -292,7 +284,6 @@ Staying informed of continuously evolving regulations, adopting disciplined inve
 
 > **Explanation:** Market orders prioritize immediate execution at current market prices, potentially leading to slippage in volatile or illiquid stocks.
 
----
 
 ### True or False: Capital gains from equity investments must generally be reported to the CRA, but using registered accounts like TFSAs can shield gains from taxation.
 

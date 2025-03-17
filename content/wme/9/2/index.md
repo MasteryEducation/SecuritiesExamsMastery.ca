@@ -269,7 +269,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** TFSAs permit after-tax contributions but allow tax-free growth and withdrawals.
 
----
 
 ### When does a withdrawal from a TFSA free up new contribution room?
 
@@ -280,7 +279,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** The amount withdrawn will be added back to your TFSA contribution room on January 1 of the following year.
 
----
 
 ### What penalty applies if you over-contribute to your TFSA?
 
@@ -291,7 +289,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** Over-contributions result in a 1% monthly penalty, according to CRA rules.
 
----
 
 ### Which of the following is NOT a qualified investment for a TFSA?
 
@@ -302,7 +299,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** Shares of private corporations in which you hold a controlling interest are generally prohibited.
 
----
 
 ### What is a key advantage of TFSAs for retirees?
 
@@ -313,7 +309,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** TFSA withdrawals are not taxed and do not reduce income-tested government benefits such as OAS or GIS.
 
----
 
 ### Which statement about TFSA and RRSP integration is correct?
 
@@ -324,7 +319,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** RRSP contributions lower taxable income, while TFSAs provide tax-free withdrawals. Balancing the two accounts can be strategically beneficial.
 
----
 
 ### Which organization oversees regulatory guidance for TFSA advisors as of 2025?
 
@@ -335,7 +329,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** The MFDA and IIROC amalgamated into CIRO on January 1, 2023, making CIRO Canada’s self-regulatory organization. CIPF is the investor protection fund.
 
----
 
 ### What should an advisor do to avoid their client incurring a TFSA over-contribution penalty?
 
@@ -346,7 +339,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** Tracking contribution room precisely and deferring re-contributions until the following year if needed are key to avoiding over-contributions.
 
----
 
 ### Why do many Canadians use TFSAs for emergency funds?
 
@@ -357,7 +349,6 @@ Despite their straightforward appeal, TFSAs require mindful administration:
 
 > **Explanation:** TFSAs provide hassle-free, tax-free withdrawals, making them excellent for short-term or emergency savings.
 
----
 
 ### True or False: TFSA holders must include withdrawn amounts as taxable income when filing taxes.
 

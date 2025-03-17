@@ -196,7 +196,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Fundamental analysis zeroes in on a security’s intrinsic value by examining the company’s underlying financials, industry circumstances, and economic conditions.
 
----
 
 ### 2. In technical analysis, a “support level” is best described as:  
 - [ ] A price level where traders usually sell a security in large volumes  
@@ -206,7 +205,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Technical analysts watch support levels as price points where buying pressure tends to emerge, potentially halting a downward trend.
 
----
 
 ### 3. Quantitative analysis typically involves:  
 - [ ] Evaluating the social media presence of a company’s CEO and brand image exclusively  
@@ -216,7 +214,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Quantitative approaches commonly rely on big data, algorithms, and statistical models to spot trends or inefficiencies in the market.
 
----
 
 ### 4. In a top-down approach, an investor generally starts by:  
 - [ ] Narrowing down a single security, then examining its financial statements  
@@ -226,7 +223,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** As the name implies, top-down begins with the “big picture”—the overall economy and broad market factors—before narrowing to specific sectors or securities.
 
----
 
 ### 5. Which of the following is a bottom-up consideration?  
 - [x] Analyzing a company’s financial metrics, management quality, and business model first  
@@ -236,7 +232,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Bottom-up focuses on the individual securities’ details (like company fundamentals) before zooming out to consider industry or economic factors.
 
----
 
 ### 6. What might a technical analyst look for when deciding on entry or exit points?  
 - [x] Moving Average or RSI signals that indicate trend shifts  
@@ -246,7 +241,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Technical analysis relies on chart patterns and indicators (like Moving Averages or RSI) to forecast short- to medium-term price movements.
 
----
 
 ### 7. How do modern quantitative fund managers often manage portfolio risk?  
 - [x] They use continuous algorithmic modeling and rebalancing based on new market data  
@@ -256,7 +250,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Quantitative managers actively recalculate and balance positions using large data sets, aiming to keep the portfolio aligned with their risk models.
 
----
 
 ### 8. Which Canadian self-regulatory organization oversees mutual fund dealers and investment dealers?  
 - [x] CIRO (Canadian Investment Regulatory Organization)  
@@ -266,7 +259,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** As of June 1, 2023, the Mutual Fund Dealers Association of Canada (MFDA) and IIROC have amalgamated into CIRO, Canada’s new single SRO. The MFDA and IIROC no longer exist as separate entities.
 
----
 
 ### 9. “Security Analysis” by Graham and Dodd is primarily associated with:  
 - [x] Fundamental Analysis  
@@ -276,7 +268,6 @@ Ultimately, whether top-down or bottom-up, fundamental or technical, or a combin
 
 > **Explanation:** Benjamin Graham and David Dodd’s work is a cornerstone of fundamental value investing, focusing on an asset’s intrinsic worth.
 
----
 
 ### 10. True or False: Blending multiple methods of analysis can help reduce overreliance on any single strategy.  
 - [x] True  

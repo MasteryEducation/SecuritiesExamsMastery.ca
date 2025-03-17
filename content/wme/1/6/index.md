@@ -165,7 +165,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Holistic planning covers all aspects of a client’s financial life, ensuring long-term alignment of goals, taxes, insurance, and estate planning.
 
----
 
 ### What is one major advantage of conducting regular portfolio reviews?
 
@@ -176,7 +175,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Frequent reviews help spot discrepancies, manage risk effectively, and update strategies in response to changing circumstances or objectives.
 
----
 
 ### When presenting a wealth management plan, why is client feedback essential?
 
@@ -187,7 +185,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Gathering client feedback highlights areas needing clarification or adjustment, ensuring the plan is truly client-focused.
 
----
 
 ### What is the primary function of compliance documentation?
 
@@ -198,7 +195,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Proper documentation shows regulators that advisors have followed KYC and suitability rules throughout the wealth management process.
 
----
 
 ### Why do Canadian advisors often consider registered plans (e.g., RRSP, TFSA) in their clients’ strategies?
 
@@ -209,7 +205,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Registered plans like RRSPs and TFSAs allow tax-sheltered or tax-deferred saving, playing a critical role in holistic financial strategies.
 
----
 
 ### How do liquidity requirements influence asset selection?
 
@@ -220,7 +215,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** When clients need timely access to funds, advisors prioritize more liquid investments, ensuring minimal penalty and price impact.
 
----
 
 ### What is one example of an external factor that may prompt plan adjustments?
 
@@ -231,7 +225,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Significant regulatory or tax changes can materially impact investment strategies and require immediate revisions to maintain efficiency.
 
----
 
 ### Which statement about risk tolerance is accurate?
 
@@ -242,7 +235,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Risk tolerance varies by individual and situation, greatly influencing asset allocation and portfolio design.
 
----
 
 ### What is the main reason for engaging tax and legal specialists during the implementation phase?
 
@@ -253,7 +245,6 @@ _This flowchart shows the sequential steps from Client Discovery to Implementati
 
 > **Explanation:** Specialists help solidify the comprehensive plan legally and fiscally, providing expertise in areas like trust setups, corporate structures, and tax optimization.
 
----
 
 ### True or False: The Canadian Investment Regulatory Organization (CIRO) replaced IIROC and MFDA as separate entities.
 

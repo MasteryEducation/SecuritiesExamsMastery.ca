@@ -200,7 +200,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** As of January 1, 2023, the MFDA and IIROC amalgamated into CIRO, Canada’s national self-regulatory body.
 
----
 
 ### What is the primary purpose of the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA)?
 
@@ -211,7 +210,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** The PCMLTFA obligates financial institutions and advisors to identify, report, and monitor suspicious transactions.
 
----
 
 ### Which of the following best exemplifies a key component in collecting a client’s financial profile?
 
@@ -222,7 +220,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** While date of birth, marital status, and PEP checks are important elements of KYC, the financial profile centers on income, net worth, assets, and liabilities to assess capacity and suitability.
 
----
 
 ### Under PIPEDA, which of the following obligations do advisors have regarding personal data?
 
@@ -233,7 +230,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** PIPEDA requires that organizations only collect and use personal data with the individual’s knowledge and consent, and data must be protected from unauthorized use.
 
----
 
 ### What is a major risk if KYC data is left outdated for a long time?
 
@@ -244,7 +240,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** Outdated KYC data leads to potential mismatches between the client’s real financial goals and any recommended investments, risking regulatory and legal consequences.
 
----
 
 ### Which approach best ensures ongoing monitoring of client profiles for AML compliance?
 
@@ -255,7 +250,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** AML laws require continuous oversight of suspicious or unusual transactions; a combination of technology and human review is a strong approach.
 
----
 
 ### Which time horizon would likely be most suitable for a client planning to retire in 20 years?
 
@@ -266,7 +260,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** A time horizon can span both medium term (3–10 years) and long term (10+ years). For a retirement plan 20 years away, the strategy often incorporates a long-term perspective.
 
----
 
 ### In the context of Canadian KYC requirements, which piece of client information is typically NOT required at account opening?
 
@@ -277,7 +270,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** While it may be collected by some advisors, a credit score is not a mandatory KYC element. Legal name, contact details, and financial data such as annual income are essential.
 
----
 
 ### Which example describes a suspicious activity that might trigger an AML investigation?
 
@@ -288,7 +280,6 @@ By diligently collecting and updating KYC data, complying with AML obligations, 
 
 > **Explanation:** Multiple deposits just below mandatory reporting limits is a common red flag suggesting potential money laundering.
 
----
 
 ### The main protection offered by Canada’s privacy laws, such as PIPEDA, is:
 

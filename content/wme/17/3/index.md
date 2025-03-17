@@ -175,7 +175,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Smart Beta ETFs differ from traditional market-cap-weighted strategies by employing rules-based approaches that target specific factors or alternative weighting methods.
 
----
 
 ### Among the following, which is an example of a classic Smart Beta factor?
 - [ ] Market capitalization  
@@ -185,7 +184,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Low-volatility ETFs are a common Smart Beta factor strategy, focusing on stocks with historically lower price fluctuations.
 
----
 
 ### Why might a Smart Beta ETF generate higher turnover compared to a standard index ETF?
 - [x] Factor screening and frequent rebalancing for alignment with factor objectives  
@@ -195,7 +193,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Because Smart Beta ETFs follow rules-based factor exposures, they may trigger more frequent buying/selling as the strategies rebalance to maintain their desired factor tilt.
 
----
 
 ### Which Canadian regulatory authority provides ongoing guidelines for recommending Smart Beta products?
 - [ ] The defunct Mutual Fund Dealers Association (MFDA)  
@@ -205,7 +202,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** MFDA and IIROC merged into CIRO effective January 1, 2023. CIRO now oversees and provides guidance on best practices for Smart Beta product recommendations.
 
----
 
 ### Which of the following is a common pitfall with implementing a single-factor Smart Beta strategy?
 - [x] Overexposure to a narrow set of characteristics leading to periods of underperformance  
@@ -215,7 +211,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Single-factor strategies are prone to cycles. If the factor underperforms, an investor concentrating solely on that characteristic may endure extended periods of lagging returns.
 
----
 
 ### A client wants to invest in a Smart Beta ETF but is concerned about taxation. Which strategy might help mitigate capital gains distributions?
 - [x] Holding the ETF in a tax-sheltered account like an RRSP or TFSA  
@@ -225,7 +220,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Placing ETFs in tax-sheltered accounts (RRSP or TFSA) helps shield investors from immediate capital gains taxes and can be an effective way to manage tax implications of higher turnover ETFs.
 
----
 
 ### What is the primary advantage of using a multi-factor Smart Beta ETF rather than a single-factor approach?
 - [x] Spreading risk across multiple factor exposures to reduce cyclical underperformance  
@@ -235,7 +229,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Multi-factor approaches combine factors like value, momentum, and quality to help reduce the likelihood of prolonged underperformance when any single factor lags.
 
----
 
 ### In Canada, which institution protects investor assets if a member firm offering Smart Beta ETFs becomes insolvent?
 - [ ] Canada Pension Plan Investment Board (CPPIB)  
@@ -245,7 +238,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** CIPF safeguards client assets of insolvent member firms, ensuring coverage for securities, cash balances, and other eligible investments (subject to CIPF limits).
 
----
 
 ### To ensure compliance with CSA regulations, an advisor recommending a Smart Beta ETF should:
 - [x] Provide clients with an ETF Facts document summarizing fees, strategy, and risks  
@@ -255,7 +247,6 @@ Smart Beta ETFs offer a powerful option for enhancing and diversifying an invest
 
 > **Explanation:** Canadian Securities Administrators (CSA) require that ETF Facts be delivered to clients, providing them with essential information regarding the product’s structure, fees, and associated risks.
 
----
 
 ### True or False: Smart Beta ETFs are always the lowest-cost option compared to traditional cap-weighted ETFs.
 - [x] True  

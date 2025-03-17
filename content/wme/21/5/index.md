@@ -184,7 +184,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** The term structure or yield curve shows how yields change with different maturities for bonds of comparable credit quality, such as Government of Canada bonds.
 
----
 
 ### 2. Which yield curve shape is most commonly associated with an economic slowdown or recession signals?
 
@@ -195,7 +194,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** An inverted yield curve, where long-term yields are lower than short-term yields, often predicts recessions because it suggests investors expect future interest rates (and economic growth) to decline.
 
----
 
 ### 3. According to the Expectations Theory, what primarily drives the shape of the yield curve?
 
@@ -206,7 +204,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** The Expectations Theory states that the long-term rates reflect anticipated future short-term rates—if investors expect higher short-term rates, the yield curve becomes upward sloping.
 
----
 
 ### 4. How does Liquidity Preference Theory differ from Expectations Theory?
 
@@ -217,7 +214,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** Liquidity Preference Theory suggests investors require additional yield (liquidity premium) for assuming the higher risk of longer maturities.
 
----
 
 ### 5. Which of the following is a key insight from Market Segmentation Theory?
 
@@ -228,7 +224,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** Market Segmentation Theory argues that investors tend to prefer particular maturity ranges (e.g., short, medium, or long). Differences in supply and demand within each maturity segment help define the yield curve structure.
 
----
 
 ### 6. What is the general relationship between bond duration and sensitivity to interest rate changes?
 
@@ -239,7 +234,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** Duration measures how much a bond’s price is likely to change when interest rates fluctuate. A high duration means more price volatility for a given change in rates.
 
----
 
 ### 7. Which of the following strategies combines short-term and long-term bonds while leaving out intermediate maturities?
 
@@ -250,7 +244,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** In a barbell strategy, investors hold both short-duration and long-duration bonds but avoid mid-range maturities, aiming to benefit from changes at the extremes of the yield curve.
 
----
 
 ### 8. Why might an investor favor a laddered bond portfolio?
 
@@ -261,7 +254,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** A laddered strategy staggers bond maturities over time—this helps manage reinvestment risk and provides regular opportunities to reinvest principal at prevailing rates.
 
----
 
 ### 9. Which organization in Canada oversees investment dealers and mutual fund dealers under the current regulatory framework?
 
@@ -272,7 +264,6 @@ For Canadian investors, yield curves not only indicate broader economic transiti
 
 > **Explanation:** Effective in 2023, the Mutual Fund Dealers Association (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC) amalgamated into CIRO, Canada’s new national self-regulatory body.
 
----
 
 ### 10. True or False: An inverted yield curve has historically been considered a reliable forecasting tool for economic recessions.
 

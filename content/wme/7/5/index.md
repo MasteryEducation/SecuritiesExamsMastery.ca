@@ -222,7 +222,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** Young adults primarily rely on their ability to earn. Disability insurance protects against unexpected loss of income due to illness or injury.
 
----
 
 ### 2. What is a significant financial consideration when a couple first marries or partners?
 
@@ -233,7 +232,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** Marriage typically requires updating all beneficiary designations to avoid potential conflicts or unintended beneficiaries.
 
----
 
 ### 3. Which statement best describes the â€œsandwich generationâ€?
 
@@ -244,7 +242,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** The sandwich generation refers to individuals simultaneously caring for older parents and dependent children, creating complex financial challenges.
 
----
 
 ### 4. Why might an advisor recommend an RESP to clients with young children?
 
@@ -255,7 +252,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** RESPs offer the Canada Education Savings Grant (CESG) and allow investments to grow tax-deferred, making them an attractive education funding vehicle.
 
----
 
 ### 5. Which financial tool is appropriate for an individual seeking to cap asset value for tax planning purposes?
 
@@ -266,7 +262,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** Estate freezes can lock in the value of certain assets for tax or estate planning, a strategy often used by business owners or those with significant investments.
 
----
 
 ### 6. Why is insurance coverage adjustment important after children move out and become financially independent?
 
@@ -277,7 +272,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** As responsibilities change, individuals may no longer need as much life insurance or disability coverage. Adjusting coverage can reduce costs and redirect funds to other priorities.
 
----
 
 ### 7. What best characterizes CIROâ€™s role in the Canadian financial industry (as of 2025)?
 
@@ -288,7 +282,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** Following the amalgamation of MFDA and IIROC, CIRO now sets national standards for dealers and marketplaces, ensuring client protection and transparency.
 
----
 
 ### 8. What is a key risk management concern in the pre-retirement stage?
 
@@ -299,7 +292,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** As individuals near retirement, preserving capital and ensuring stability becomes paramount, prompting more conservative asset allocations.
 
----
 
 ### 9. If an older adult wants to ensure a guaranteed monthly income through retirement, which product might an advisor suggest?
 
@@ -310,7 +302,6 @@ The family life cycle offers a valuable lens for understanding how individualsâ€
 
 > **Explanation:** A life annuity provides a guaranteed income stream for the life of the annuitant, addressing longevity risk concerns.
 
----
 
 ### 10. True or False: A trust can be used to protect family wealth and facilitate a smooth transition of assets across generations.
 

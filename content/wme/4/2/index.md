@@ -190,7 +190,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** TVM states that a dollar today can be invested and earn returns, making it more valuable than the same dollar at a future date.
 
----
 
 ### A key reason a dollar today is worth more than a dollar in the future is because:
 - [x] You can invest it and earn a return.
@@ -200,7 +199,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** The potential to invest and earn interest or returns is the fundamental driver behind TVM.
 
----
 
 ### Which formula correctly represents the future value of a present sum?
 - [ ] PV = FV × (1 − i)ⁿ
@@ -210,7 +208,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** The correct future value formula for a single present sum is FV = PV × (1 + i)ⁿ.
 
----
 
 ### In Canada, which organization oversees guidelines on rate-of-return presentations for investment advisors?
 - [ ] MFDA (Mutual Fund Dealers Association)
@@ -220,7 +217,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** Effective January 1, 2023, the MFDA and IIROC were amalgamated into the new self-regulatory organization, CIRO, which sets industry standards regarding performance and return presentations.
 
----
 
 ### For which scenario would discounting be most relevant?
 - [ ] Calculating how much a client will have after five years of monthly deposits.
@@ -230,7 +226,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** Discounting finds the present value of a future sum, applied when reversing future cash flows back to current dollars.
 
----
 
 ### Which of the following describes an ordinary annuity?
 - [ ] Payments made continuously at any random time.
@@ -240,7 +235,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** In an ordinary annuity, payments occur at the end of each payment period.
 
----
 
 ### A pension plan that pays an equal amount each year indefinitely exemplifies:
 - [ ] An ordinary annuity.
@@ -250,7 +244,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** A perpetuity is a stream of equal payments that lasts forever.
 
----
 
 ### If the annual nominal interest rate is 6% with monthly compounding, the effective annual rate is:
 - [ ] Exactly 6%.
@@ -260,7 +253,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** Monthly compounding yields an effective annual rate higher than the stated nominal rate because interest is earned on previous interest throughout the year.
 
----
 
 ### Which Canadian government organization’s policies directly affect the taxes you pay on investment returns, influencing net present value calculations?
 - [ ] CIRO
@@ -270,7 +262,6 @@ The time value of money is central to effective financial planning, reminding us
 
 > **Explanation:** The Canada Revenue Agency (CRA) administers tax laws that significantly impact after-tax returns and, consequently, TVM calculations.
 
----
 
 ### True or False: “Starting to save or invest early can significantly magnify overall returns due to compounding.”
 - [x] True
