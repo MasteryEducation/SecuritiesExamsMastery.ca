@@ -5,7 +5,8 @@ description: |
   Master the CSC Mock Exams and the Canadian Securities Course with our comprehensive CSC® Exam Prep Guides—Volumes 1 & 2—and the innovative Securities CA: Mock Exams mobile app. Enjoy in-depth content, realistic practice questions, expert strategies, and CIRO 2025–compliant updates whether you study online or on the go!
 keywords: "CSC Mock Exams, Canadian Securities Course, CSC Exam Prep, Canadian Securities, CIRO 2025, Financial Exam Prep"
 draft: false
-layout: landing
+#layout: landing
+type: docs
 full_width: false
 canonical: "https://securitiesexamsmastery.ca/14"
 license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
