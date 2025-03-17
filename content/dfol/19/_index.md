@@ -4,7 +4,7 @@ description: "Discover strategic approaches to profit or hedge in declining mark
 linkTitle: "Chapter 19: Bearish Option Strategies"
 date: 2025-02-07
 type: docs
-nav_weight: 19000
+nav_weight: 190000
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
