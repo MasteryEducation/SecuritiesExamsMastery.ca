@@ -4,7 +4,7 @@ description: "Explore how exchanges list options, maintain orderly markets, and 
 linkTitle: "Chapter 28: The Role of Exchanges in Listed Options Trading"
 date: 2025-02-07
 type: docs
-nav_weight: 28000
+nav_weight: 280000
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
