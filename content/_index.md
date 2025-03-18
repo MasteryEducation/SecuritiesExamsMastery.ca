@@ -93,12 +93,14 @@ Pinpoint shaky areas and monitor improvement in real time—both online and in-a
 > “Your app is significantly more detailed than anything else I tried—the free first week was a no-brainer. I learned more from each question’s explanation than from rereading the textbook!”  
 > **– Amanda S. (March 2025)**
 
-> “Fantastic study aid! My CSC completion timeline has been effectively cut in half. The questions are practical, and the explanations are clear.”
-> **– G.G., Udemy**
-
 > “This resource has been a lifesaver. The concepts are explained with much greater clarity than the textbook.” 
 > **– T.K. (February 2025)**
 
+> “Fantastic study aid! My CSC completion timeline has been effectively cut in half. The questions are practical, and the explanations are clear.”
+> **– G.G., (January 2025)**
+
+> “I passed the exam with a 70%. This course was very helpful in getting the repertoire of general questions ingrained in your mind. There are a few questions that are repeated many times but for the most part this course offers a wide coverage of general questions that I saw on the actual exam.“
+> **– O.C., (March 2025)**
 
 ---
 
