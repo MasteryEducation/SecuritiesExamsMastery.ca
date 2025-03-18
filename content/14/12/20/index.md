@@ -77,7 +77,7 @@ graph TD;
     B --> C[Calculate Eligible Sharing Amount];
     C --> D[Redistribute Benefits];
     D --> E[Monitor and Adjust];
-    E --> F[End Sharing (if applicable)];
+    E --> F["End Sharing (if applicable)"];
 ```
 
 ### Challenges and Considerations
