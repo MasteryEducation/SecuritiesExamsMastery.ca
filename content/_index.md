@@ -23,22 +23,30 @@ Get ready to ace the Canadian Securities Course exams with our comprehensive stu
 
 ---
 
-## 1-Week Free Trial • Unlock 8,000 Questions
+## Unlock 8,000 Exam-Style Questions with a FREE Trial!
 
-All premium app features are **FREE** in your first week. Access the complete 8,000-question bank, including in-depth, vignette-style items, detailed rationales, and advanced analytics. Cancel anytime during the free trial to avoid subscription fees.
+**Get a head start on your exam prep! For new subscribers, all premium app features are unlocked:**
 
-### Simple, Flexible Subscriptions  
-- CA$39.00 Monthly  
-- CA$99.99 Quarterly  
-- CA$294.99 Yearly  
-**► First Week FREE!** Cancel anytime.
+* **7-Day FREE Trial (Quarterly & Annual):** Explore our full 8,000-question bank, including in-depth, vignette-style items, detailed explanations, and advanced analytics.
+* **3-Day FREE Trial (Monthly):** Try our monthly plan and experience the difference.
+
+**Cancel anytime during your free trial to avoid subscription fees.**
+
+### Choose Your Plan:
+
+* **CA$14.00 Monthly:** Our most flexible plan, with a 3-day FREE trial for new subscribers.
+* **CA$39.99 Quarterly:** Get 3 months of access with a 7-day FREE trial for new subscribers.
+* **CA$129.99 Yearly:** Best value! Enjoy a full year of access with a 7-day FREE trial for new subscribers.
+
+**Start your FREE trial today and supercharge your exam preparation!**
+
 
 ---
 
 ## Why Choose Our CSC® Exam Prep Tools?
 
 ### 1) 5,000 Free Questions On Our Website  
-Explore topic-specific quizzes (10 questions per page) to practice key concepts from both Volume 1 and Volume 2 of the Canadian Securities Course. Get free, basic explanations after each question.
+Explore topic-specific quizzes (10 questions per webpage **right here on this website, FREE!**) to practice key concepts from both Volume 1 and Volume 2 of the Canadian Securities Course. Get free, basic explanations after each question.
 
 ### 2) 8,000 Advanced Questions in the App  
 Upgrade to the app for deeper, scenario-based and vignette-style queries. Tackle exam-level difficulty with step-by-step clarifications you can read instantly, even offline.
