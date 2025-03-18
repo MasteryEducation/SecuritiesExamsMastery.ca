@@ -2,11 +2,12 @@
 title: FP1 Mock Exams & Guide
 linkTitle: FP1 Mock Exams & Guide
 type: docs
-nav_weight: 
+nav_weight: 501
+description: Deliver effective financial plans for clients with our FP I course. Learn budgeting, mortgages, tax, and insurance. Prepare with mock exams and develop key financial analysis skills.
 menu:
   main:
     parent: exams
-    weight: 
+    weight: 501
     params:
       description: Financial Planning (I)
       icon:
