@@ -1,6 +1,6 @@
 ---
-title: WME-FP
-linkTitle: WME-FP
+title: WME-FP Mock Exams & Guide
+linkTitle: WME-FP Mock Exams & Guide
 type: docs
 nav_weight: 10
 menu:

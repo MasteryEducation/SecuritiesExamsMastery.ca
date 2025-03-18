@@ -1,8 +1,8 @@
 ---
 title: |
-  CPH®
+  CPH® Mock Exams & Guide
 linkTitle: |
-  CPH®
+  CPH® Mock Exams & Guide
 description: |
   Master CIRO & provincial securities regulations with our CPH® Conduct and Practices Handbook Course. Gain a clear understanding of rules, ethics, and practices for a successful investment career.
 type: docs

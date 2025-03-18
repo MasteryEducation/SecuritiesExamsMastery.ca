@@ -1,6 +1,6 @@
 ---
-title: DFOL
-linkTitle: DFOL
+title: DFOL Mock Exams & Guide
+linkTitle: DFOL Mock Exams & Guide
 type: docs
 nav_weight: 
 menu:

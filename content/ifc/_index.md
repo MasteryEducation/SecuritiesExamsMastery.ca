@@ -1,6 +1,6 @@
 ---
-title: IFC
-linkTitle: IFC
+title: IFC Mock Exams & Guide
+linkTitle: IFC Mock Exams & Guide
 type: docs
 nav_weight: 
 menu:

@@ -1,6 +1,6 @@
 ---
-title: CSC® 2025
-linkTitle: CSC® 2025
+title: CSC® Mock Exams & Guide 2025
+linkTitle: CSC® Mock Exams & Guide 2025
 type: docs
 nav_weight: 3
 menu:

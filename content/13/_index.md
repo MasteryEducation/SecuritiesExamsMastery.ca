@@ -1,8 +1,8 @@
 ---
 title: |
-  CSC® Vol.1
+  CSC® Vol.1 Mock Exams
 linkTitle: |
-  CSC® Vol.1
+  CSC® Vol.1 Mock Exams
 description: |
   Whether you're aspiring to become a licensed financial advisor, investment analyst, or simply looking to enhance your understanding of the securities market, **CSC Exam 1** is your first crucial step. Our **Volume 1 Book & Exam Prep Guide** is meticulously designed to equip you with the knowledge, strategies, and confidence needed to ace this foundational exam and pave the way for your success in the dynamic world of finance.
 type: docs

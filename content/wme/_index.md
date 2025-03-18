@@ -1,6 +1,6 @@
 ---
-title: WME®
-linkTitle: WME®
+title: WME® Mock Exams & Guide
+linkTitle: WME® Mock Exams & Guide
 type: docs
 nav_weight: 4
 menu:
