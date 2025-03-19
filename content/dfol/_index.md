@@ -1,6 +1,6 @@
 ---
-title: DFOL Mock Exams & Guide
-linkTitle: DFOL Mock Exams & Guide
+title: DFOL
+linkTitle: DFOL - Derivatives Fundamentals and Options Licensing
 type: docs
 nav_weight: 
 menu:

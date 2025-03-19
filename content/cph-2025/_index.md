@@ -1,8 +1,6 @@
 ---
-title: |
-  CPH® Mock Exams & Guide 2025
-linkTitle: |
-  CPH® Mock Exams & Guide 2025
+title: CPH 2025
+linkTitle: CPH® - Conduct and Practices Handbook, 2025
 description: |
   Master CIRO 2025 regulations. Our CPH® Course, updated for 2025 requirements, provides clear guidance on securities rules, ethics, and practices for investment success.
 type: docs

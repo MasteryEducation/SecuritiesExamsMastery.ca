@@ -1,6 +1,6 @@
 ---
-title: IFC Mock Exams & Guide
-linkTitle: IFC Mock Exams & Guide
+title: IFC
+linkTitle: IFC - Investment Funds in Canada
 type: docs
 nav_weight: 
 menu:

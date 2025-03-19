@@ -1,6 +1,6 @@
 ---
-title: FP2 Mock Exams & Guide
-linkTitle: FP2 Mock Exams & Guide
+title: FP 2
+linkTitle: FP 2 - Financial Planning II
 type: docs
 nav_weight: 502
 description: Master Canadian financial planning with our FP 2 course. Learn mortgages, investments, retirement, and more. Prepare with realistic mock exams and excel.

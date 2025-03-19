@@ -1,6 +1,6 @@
 ---
-title: CSC® Mock Exams & Guide 2025
-linkTitle: CSC® Mock Exams & Guide 2025
+title: CSC
+linkTitle: CSC® - Canadian Securities Course, 2025
 type: docs
 nav_weight: 3
 menu:

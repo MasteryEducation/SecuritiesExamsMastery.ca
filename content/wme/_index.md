@@ -1,6 +1,6 @@
 ---
-title: WME® Mock Exams & Guide
-linkTitle: WME® Mock Exams & Guide
+title: WME
+linkTitle: WME® - Wealth Management Essentials
 type: docs
 nav_weight: 4
 menu:
