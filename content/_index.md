@@ -108,9 +108,7 @@ Pinpoint shaky areas and monitor improvement in real time—both online and in-a
 
 ## Ready to Elevate Your CSC® Prep?
 
-- Practice **5,000 free sample exam questions** on our site.  
-- Download the Securities CA: Mock Exams app for in-depth content, scenario-based items, and advanced features.  
-- Begin your 1-week trial—risk-free—and master the Canadian Securities Course faster than ever.
+**Download Now!**
 
 [<img src="Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)[<img src="google-play-badge.png" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
 
