@@ -62,7 +62,7 @@ hb:
         recent_posts: 0
         list_style: vertical
       taxonomies:
-        count: true
+        count: false
         limit: 1000
         separate: false
         style: pills
@@ -72,17 +72,17 @@ hb:
         #  limit: 100
         #  weight: 4
         categories:
-          disable: false
+          disable: true
           weight: 1
           title: Categories
           limit: 1000
         series:
-          disable: false
+          disable: true
           limit: 100
           title: Series
           weight: 2
         tags:
-          disable: false
+          disable: true
           limit: 1000
           title: Tags
           weight: 3

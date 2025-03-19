@@ -20,8 +20,8 @@ outputs:
     - WebAppManifest # required by PWA module to make your site installable.
 
 taxonomies:
-  tags: tags
-  categories: categories
+  # tags: tags
+  # categories: categories
   # series: series
   # authors: authors      # multiple authors.
 
