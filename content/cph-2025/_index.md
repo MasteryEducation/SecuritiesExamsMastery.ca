@@ -4,11 +4,11 @@ linkTitle: CPH® - Conduct and Practices Handbook, 2025
 description: |
   Master CIRO 2025 regulations. Our CPH® Course, updated for 2025 requirements, provides clear guidance on securities rules, ethics, and practices for investment success.
 type: docs
-nav_weight: 4
+nav_weight: 332
 menu:
   main:
     parent: exams
-    weight: 4
+    weight: 332
     params:
       description: Conduct and Practices Handbook
       icon:

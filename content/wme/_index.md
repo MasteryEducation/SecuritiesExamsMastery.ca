@@ -2,11 +2,11 @@
 title: WME
 linkTitle: WME® - Wealth Management Essentials
 type: docs
-nav_weight: 4
+nav_weight: 900
 menu:
   main:
     parent: exams
-    weight: 3
+    weight: 900
     params:
       description: 
       icon:

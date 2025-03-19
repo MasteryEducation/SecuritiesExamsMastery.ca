@@ -4,11 +4,11 @@ linkTitle: CSC® - Canadian Securities Course, Volume 1
 description: |
   Whether you're aspiring to become a licensed financial advisor, investment analyst, or simply looking to enhance your understanding of the securities market, **CSC Exam 1** is your first crucial step. Our **Volume 1 Book & Exam Prep Guide** is meticulously designed to equip you with the knowledge, strategies, and confidence needed to ace this foundational exam and pave the way for your success in the dynamic world of finance.
 type: docs
-nav_weight: 300
+nav_weight: 371
 menu:
   main:
     parent: exams
-    weight: 300
+    weight: 371
     params:
       description: Canadian Securities Course
       icon:

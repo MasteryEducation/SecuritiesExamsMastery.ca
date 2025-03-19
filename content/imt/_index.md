@@ -2,13 +2,13 @@
 title: IMT
 linkTitle: IMT® - Investment Management Techniques
 type: docs
-nav_weight: 900
+nav_weight: 510
 description: | 
   Elevate your career with IMT®, the essential course by the Canadian Securities Institute that prepares you to excel in portfolio management, asset allocation, performance evaluation, and more. Stay ahead of the curve with CIRO’s compliance and transform the way you serve your clients.
 menu:
   main:
     parent: exams
-    weight: 900
+    weight: 510
     params:
       description: Investment Management Techniques
       icon:

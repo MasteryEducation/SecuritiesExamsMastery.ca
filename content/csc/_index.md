@@ -2,11 +2,11 @@
 title: CSC
 linkTitle: CSC® - Canadian Securities Course, 2025
 type: docs
-nav_weight: 3
+nav_weight: 373
 menu:
   main:
     parent: exams
-    weight: 3
+    weight: 373
     params:
       description: Foundational financial services credential (CIRO, CSI)
       icon:

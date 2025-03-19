@@ -2,11 +2,11 @@
 title: DFOL
 linkTitle: DFOL - Derivatives Fundamentals and Options Licensing
 type: docs
-nav_weight: 
+nav_weight: 401
 menu:
   main:
     parent: exams
-    weight: 
+    weight: 401
     params:
       description: Derivatives Fundamentals and Options Licensing
       icon:

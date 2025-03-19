@@ -4,11 +4,11 @@ linkTitle: CPH® - Conduct and Practices Handbook
 description: |
   Master CIRO & provincial securities regulations with our CPH® Conduct and Practices Handbook Course. Gain a clear understanding of rules, ethics, and practices for a successful investment career.
 type: docs
-nav_weight: 4
+nav_weight: 331
 menu:
   main:
     parent: exams
-    weight: 4
+    weight: 331
     params:
       description: Conduct and Practices Handbook
       icon:

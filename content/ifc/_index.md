@@ -2,11 +2,11 @@
 title: IFC
 linkTitle: IFC - Investment Funds in Canada
 type: docs
-nav_weight: 
+nav_weight: 505
 menu:
   main:
     parent: exams
-    weight: 
+    weight: 505
     params:
       description: Investment Funds in Canada
       icon:
