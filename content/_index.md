@@ -16,7 +16,7 @@ Build exam confidence with our comprehensive study tools. Access 12,000+ scenari
 
 **Claim Your Free Week Today!**
 
-[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)[<img src="google-play-badge.png" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
+[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/app/apple-store/id1667869674?pt=125644195&ct=SecuritiesExamsMastery&mt=8)[<img src="google-play-badge.png" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
 
 
 - Over **5,000 FREE** CSC practice questions right here on the website.  
@@ -110,7 +110,7 @@ Pinpoint shaky areas and monitor improvement in real time—both online and in-a
 
 **Download Now!**
 
-[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)[<img src="google-play-badge.png" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
+[<img src="Download_on_the_App_Store_Badge_US-UK_RGB_wht_092917.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/app/apple-store/id1667869674?pt=125644195&ct=SecuritiesExamsMastery&mt=8)[<img src="google-play-badge.png" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
 
 
 ---
