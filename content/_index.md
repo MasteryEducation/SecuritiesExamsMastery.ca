@@ -36,7 +36,7 @@ Build exam confidence with our comprehensive study tools. Access 12,000+ scenari
 
 ### Choose Your Plan:
 
-* **CA$14.00 Monthly:** Our most flexible plan, with a 3-day FREE trial for new subscribers.
+* **CA$14.99 Monthly:** Our most flexible plan, with a 3-day FREE trial for new subscribers.
 * **CA$39.99 Quarterly:** Get 3 months of access with a 7-day FREE trial for new subscribers.
 * **CA$129.99 Yearly:** Best value! Enjoy a full year of access with a 7-day FREE trial for new subscribers.
 
