@@ -1,14 +1,14 @@
 ---
 title: "Exchange-Traded Funds (ETFs)"
 description: "Explore how Exchange-Traded Funds (ETFs) combine the diversification of mutual funds with the real-time trading of stocks, featuring Canadian regulatory insights, cost structures, and best practices for portfolio construction."
-linkTitle: "1.4 Exchange-Traded Funds (ETFs)"
+linkTitle: "23.4 Exchange-Traded Funds (ETFs)"
 date: 2025-02-07
 type: docs
 nav_weight: 23400
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.4 Exchange-Traded Funds (ETFs)
+## 23.4 Exchange-Traded Funds (ETFs)
 
 Exchange-Traded Funds (ETFs) are investment vehicles that combine features of both mutual funds and individual stocks. Investors purchase ETF units on a stock exchange, gaining exposure to a diversified basket of assets without needing to hold each security directly. In Canada, ETFs have become increasingly popular among individual investors, financial advisors, and institutional players—such as major pension funds—seeking competitive returns and cost-effective diversification.
 

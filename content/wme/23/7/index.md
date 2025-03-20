@@ -1,14 +1,14 @@
 ---
 title: "Overlay Management"
 description: "An in-depth exploration of overlay management within the Canadian wealth management landscape, focusing on coordinating trades and hedging risks across multiple strategies using derivatives and advanced portfolio solutions."
-linkTitle: "1.7 Overlay Management"
+linkTitle: "23.7 Overlay Management"
 date: 2025-02-07
 type: docs
 nav_weight: 23700
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.7 Overlay Management
+## 23.7 Overlay Management
 
 Overlay management is a specialized portfolio management technique that helps coordinate multiple investment strategies, mandates, or sub-portfolios within a broader investment framework. By using derivatives such as futures, swaps, and options, overlay managers can adjust market exposure, hedge specific risks, and maintain asset allocation targets. This section examines the benefits, applications, and key considerations of overlay management, especially within the Canadian context.
 

@@ -1,14 +1,14 @@
 ---
 title: "Wrap Products in Canadian Wealth Management"
 description: "Learn how wrap accounts bundle investments, fees, and advisory expertise into a streamlined wealth management solution in Canada."
-linkTitle: "1.3 Wrap Products"
+linkTitle: "23.3 Wrap Products"
 date: 2025-02-07
 type: docs
 nav_weight: 23300
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.3 Wrap Products
+## 23.3 Wrap Products
 
 Wrap products, sometimes referred to as “wrap accounts,” consolidate multiple investment vehicles—such as mutual funds, exchange-traded funds (ETFs), or separately managed accounts (SMAs)—under a single fee structure. This approach grants investors a comprehensive, ongoing wealth management service, often including asset allocation guidance, rebalancing, performance reporting, and the expertise of an advisory team or portfolio manager. Below, we delve deeper into the core components of wrap products, their benefits, potential pitfalls, and the considerations unique to the Canadian regulatory environment.
 

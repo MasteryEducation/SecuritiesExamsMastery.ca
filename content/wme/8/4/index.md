@@ -86,7 +86,7 @@ Below is a simple Mermaid diagram illustrating how different types of benefits c
 
 ```mermaid
 flowchart LR
-    A[Employer] --> B[Taxable Benefits (T4)]
+    A[Employer] --> B["Taxable Benefits (T4)"]
     A --> C[Non-Taxable Benefits]
     B --> D[Increased Employment Income]
     C --> E[No Direct Impact on Taxable Income]

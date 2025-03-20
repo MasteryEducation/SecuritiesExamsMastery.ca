@@ -1,14 +1,14 @@
 ---
 title: "Hedge Funds"
 description: "Explore how hedge funds operate in Canada, including their structure, fee models, regulatory considerations, and how advisors can assess suitability for investors seeking alternative strategies."
-linkTitle: "1.5 Hedge Funds"
+linkTitle: "23.5 Hedge Funds"
 date: 2025-02-07
 type: docs
 nav_weight: 23500
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.5 Hedge Funds
+## 23.5 Hedge Funds
 
 Hedge funds are pooled investment vehicles that use advanced investment strategies—such as short selling, leverage, and derivatives—to seek returns that can be uncorrelated with traditional equity or fixed income markets. In many cases, hedge fund managers aim for “absolute returns,” trying to generate positive performance regardless of the overall direction of the capital markets.
 

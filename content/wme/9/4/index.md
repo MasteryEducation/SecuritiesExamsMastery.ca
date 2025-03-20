@@ -105,9 +105,12 @@ The choice typically hinges on ensuring that total tax paid (corporate + persona
 > **Formula**  
 > Theoretical “integration” aims for a neutral overall tax outcome—whether an individual earns personally or via a corporation. However, differences in timing and provincial rules can create or diminish tax benefits. A simplified representation of dividend tax cost for an individual can be shown as:  
 >
-> $$
-> \text{Effective Tax} = \text{Corporate Tax} + \left(\text{Personal Tax on Dividends} - \text{Dividend Tax Credit}\right).
-> $$
+
+$$
+\text{Effective Tax} = \text{Corporate Tax} + \left(\text{Personal Tax on Dividends} - \text{Dividend Tax Credit}\right).
+$$
+
+{{< katex />}}
 
 ---
 
@@ -188,11 +191,11 @@ Eventually, the corporation may be sold, wound up, or transferred upon retiremen
 
 ```mermaid
 flowchart LR
-    A[Small Business Owner] --> B[Incorporated Entity (CCPC)]
+    A[Small Business Owner] --> B["Incorporated Entity (CCPC)"]
     B --> C[(Retained Earnings)]
     C --> D[Reinvest at Lower Corporate Tax Rate]
     B --> E[Dividend Payout to Shareholders]
-    E --> F[Personal Tax on Dividends <br>(Dividend Tax Credit)]
+    E --> F["Personal Tax on Dividends <br>(Dividend Tax Credit)"]
 ```
 
 The above diagram shows how, once a business owner incorporates, they can either retain earnings within the Canadian-controlled private corporation (CCPC) at a lower corporate tax rate (to fuel growth or investments) or pay out dividends to shareholders, who then pay personal tax at potentially reduced rates thanks to the dividend tax credit. This highlights the duality of corporate vs. personal income flows.

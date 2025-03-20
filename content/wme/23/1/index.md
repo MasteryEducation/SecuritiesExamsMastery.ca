@@ -1,14 +1,14 @@
 ---
 title: "The Role of Managed Products in Investment Management"
 description: "Explore how professionally overseen investment vehicles help Canadian investors achieve diversified portfolios, benefit from economies of scale, and stay aligned with regulatory requirements."
-linkTitle: "1.1 The Role of Managed Products in Investment Management"
+linkTitle: "23.1 The Role of Managed Products in Investment Management"
 date: 2025-02-07
 type: docs
 nav_weight: 23100
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.1 The Role of Managed Products in Investment Management
+## 23.1 The Role of Managed Products in Investment Management
 
 Managed products are professionally overseen investment solutions designed to simplify and enhance portfolio construction for both retail and institutional investors. In Canada, these products are closely monitored by the Canadian Securities Administrators (CSA) and the Canadian Investment Regulatory Organization (CIRO) to ensure they meet stringent standards of disclosure, transparency, and investor protection.
 

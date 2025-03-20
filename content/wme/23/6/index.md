@@ -1,14 +1,14 @@
 ---
 title: "Fees, Portfolio Turnover, and Taxes in Canadian Managed Products"
 description: "Discover how fees, portfolio turnover, and taxes interact in Canadian managed products, and learn practical strategies for minimizing costs and maximizing after-tax returns."
-linkTitle: "1.6 Fees, Portfolio Turnover, and Taxes"
+linkTitle: "23.6 Fees, Portfolio Turnover, and Taxes"
 date: 2025-02-07
 type: docs
 nav_weight: 23600
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.6 Fees, Portfolio Turnover, and Taxes
+## 23.6 Fees, Portfolio Turnover, and Taxes
 
 Effective wealth management requires a solid understanding of how fees, portfolio turnover, and taxation interact to influence the performance of managed products. In Canada, mutual funds, exchange-traded funds (ETFs), wrap accounts, and hedge funds have distinct fee structures, turnover profiles, and tax implications. This section explains these critical components, illustrates how they affect investment returns, and highlights strategies to help clients optimize their after-tax outcomes.
 

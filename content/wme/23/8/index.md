@@ -1,14 +1,14 @@
 ---
 title: "Outcome-Based Investments"
 description: "Explore the structure, benefits, and challenges of outcome-based investments, focusing on how they are designed to meet specific objectives rather than simply outperforming benchmarks. Discover how these products work, relevant Canadian regulations, and best practices for integrating them into a comprehensive wealth management plan."
-linkTitle: "1.8 Outcome-Based Investments"
+linkTitle: "23.8 Outcome-Based Investments"
 date: 2025-02-07
 type: docs
 nav_weight: 23800
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.8 Outcome-Based Investments
+## 23.8 Outcome-Based Investments
 
 ### Introduction
 Outcome-based investments aim to deliver specific objectives—such as principal protection, a defined income level, or a pre-set return target—rather than simply outperforming a benchmark index. These solutions often appeal to clients who have very clear and time-sensitive financial goals. For instance, a soon-to-retire investor who wants to protect principal while still seeking modest growth might find outcome-based strategies attractive.

@@ -57,7 +57,7 @@ flowchart LR
     B --> C[Training & Communication]
     C --> D[Daily Ethical Decision-Making]
     D --> E[Monitoring & Compliance Reviews]
-    E --> F[Disciplinary Actions (If Violations)]
+    E --> F["Disciplinary Actions (If Violations)"]
 ```
 
 - A → B: Leadership must decide on ethical priorities.  

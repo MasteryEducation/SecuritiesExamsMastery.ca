@@ -1,14 +1,14 @@
 ---
 title: "Mutual Funds"
 description: "Explore the fundamentals of mutual funds in Canada, covering their structures, types, fees, regulatory frameworks, and practical tips for wealth management professionals."
-linkTitle: "1.2 Mutual Funds"
+linkTitle: "23.2 Mutual Funds"
 date: 2025-02-07
 type: docs
 nav_weight: 23200
 license: "© 2024 Tokenizer Inc. CC BY-NC-SA 4.0"
 ---
 
-## 1.2 Mutual Funds
+## 23.2 Mutual Funds
 
 Mutual funds play a pivotal role in Canadian wealth management, offering clients an efficient way to invest in a diversified portfolio of securities. This section provides a comprehensive look at how mutual funds operate, their fees and expenses, the regulatory requirements in Canada, and best practices when recommending or selecting funds. Real-world examples and practical insights will help you guide clients based on their unique goals and risk profiles.
 
