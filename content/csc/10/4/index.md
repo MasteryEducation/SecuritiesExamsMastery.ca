@@ -146,8 +146,8 @@ The Canadian Derivatives Clearing Corporation (CDCC) handles the clearing of equ
 ```mermaid
 flowchart LR
    A((Option Buyer)) -->|Pays Premium| B[Option Seller]
-   B -->|Issues Option Contract| C[Canadian Derivatives Clearing Corporation (CDCC)]
-   C -->|Clears & Settles| D[Montréal Exchange (MX)]
+   B -->|Issues Option Contract| C["Canadian Derivatives Clearing Corporation (CDCC)"]
+   C -->|Clears & Settles| D["Montréal Exchange (MX)"]
 ```
 
 This simplified diagram shows how the option buyer purchases a standardized option from the writer through the exchange, with the CDCC ensuring the position is effectively guaranteed.

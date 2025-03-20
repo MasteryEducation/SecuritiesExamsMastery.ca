@@ -82,7 +82,7 @@ graph TD;
     A[Start] --> B[Determine Future Value and Price];
     B --> C[Calculate Difference: Future Value - Price];
     C --> D[Divide by Price];
-    D --> E[Multiply by (365/Term Days)];
+    D --> E["Multiply by (365/Term Days)"];
     E --> F[Multiply by 100];
     F --> G[Yield in Percentage];
     G --> H[End];

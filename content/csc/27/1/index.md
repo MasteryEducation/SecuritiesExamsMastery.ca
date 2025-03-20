@@ -143,8 +143,8 @@ Below is a simplified visualization of how sell-side and buy-side institutions i
 
 ```mermaid
 flowchart LR
-    A[Issuers (Governments, Corporations)] -->|Underwriting, Advisory| B(Sell Side<br>(Investment Dealers))
-    B -->|Research, Trading Services| C(Buy Side<br>(Asset Managers))
+    A["Issuers (Governments, Corporations)"] -->|Underwriting, Advisory| B("Sell Side<br>(Investment Dealers)")
+    B -->|Research, Trading Services| C("Buy Side<br>(Asset Managers)")
     C -->|Order Flow, Capital Provision| B
     B -->|Securities Distribution| D[Retail Investors & Institutional Clients]
 ```

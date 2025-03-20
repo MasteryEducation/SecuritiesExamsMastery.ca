@@ -132,7 +132,7 @@ flowchart LR
     A --> D[Convertible Bonds]
     A --> E[Callable Bonds]
     A --> F[Putable Bonds]
-    A --> G[Strip Bonds <br>(Zero-Coupon)]
+    A --> G["Strip Bonds <br>(Zero-Coupon)"]
     A --> H[Floating Rate Notes]
 
 ```

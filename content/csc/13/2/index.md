@@ -85,18 +85,16 @@ A popular approach to navigating macroeconomic cycles is sector rotation, which 
 Below is a simplified flow diagram illustrating a typical sector rotation approach:
 
 ```mermaid
-flowchart LR
-    A([Economic Expansion]) --> B[High GDP Growth]
-    B --> C[Increased Corporate Earnings]
-    C --> D[Sector Focus: Cyclicals (Industrials, Discretionary)]
-    D --> E[Equity Prices Rise in Growth Sectors]
-    E --> F([Possible Overheating or Peak])
+flowchart TD
+    subgraph Economic Expansion
+        A([Economic Expansion]) --> B[High GDP Growth] --> C[Increased Corporate Earnings] --> D["Sector Focus: Cyclicals (Industrials, Discretionary)"] --> E[Equity Prices Rise in Growth Sectors] --> F([Possible Overheating or Peak])
+    end
 
-    F --> G[Bank of Canada Raises Interest Rates]
-    G --> H[Slowing Corporate Earnings]
-    H --> I[Sector Focus: Defensive (Utilities, Consumer Staples)]
-    I --> J[Equity Performance Shift to Defensive Sectors]
-    J --> K([Economic Contraction or Recession])
+    subgraph Economic Contraction
+        G[Bank of Canada Raises Interest Rates] --> H[Slowing Corporate Earnings] --> I["Sector Focus: Defensive (Utilities, Consumer Staples)"] --> J[Equity Performance Shift to Defensive Sectors] --> K([Economic Contraction or Recession])
+    end
+
+    F --> G
 ```
 
 ### International Considerations

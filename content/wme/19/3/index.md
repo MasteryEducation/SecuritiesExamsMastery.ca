@@ -138,7 +138,7 @@ flowchart LR
     A[Client Profile] --> B[Define Long-Term Goals]
     B --> C[Assess Risk Tolerance]
     C --> D[Determine Asset Class Expectations]
-    D --> E[Optimize Mix (SAA)]
+    D --> E["Optimize Mix (SAA)"]
     E --> F[Portfolio Construction]
     F --> G[Monitor & Rebalance]
 ```

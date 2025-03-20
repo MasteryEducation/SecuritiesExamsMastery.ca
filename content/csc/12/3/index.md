@@ -32,10 +32,10 @@ Below is a simple Mermaid diagram illustrating the flow of funds (green arrows) 
 
 ```mermaid
 flowchart LR
-    A[Issuer] -- issues new securities --> B[Investors<br>(Primary Market)]
+    A[Issuer] -- issues new securities --> B["Investors<br>(Primary Market)"]
     B -- pays subscription price --> A
 
-    B -- trades existing securities --> C[Other Investors<br>(Secondary Market)]
+    B -- trades existing securities --> C["Other Investors<br>(Secondary Market)"]
     C -- pays market price --> B
 ```
 

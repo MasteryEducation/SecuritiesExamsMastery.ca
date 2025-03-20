@@ -96,7 +96,7 @@ graph TD;
     C --> D[Banks and Financial Institutions];
     D --> E[Regulators];
     E --> B;
-    A --> F[Over-the-Counter (OTC) Market];
+    A --> F["Over-the-Counter (OTC) Market"];
     F --> D;
 ```
 

@@ -150,7 +150,7 @@ In a deferred annuity, the accumulation (or build-up) phase may last several yea
 ```mermaid
 flowchart LR
     A[Annuitant] -->|Pays Premium / Lump Sum| B[Insurance Company]
-    B --> C[Accumulation Phase<br>(Deferred Annuity)]
+    B --> C["Accumulation Phase<br>(Deferred Annuity)"]
     C -->|Eventually Converts to| D[Payout Phase]
     D -->|Periodic Payments| A
 ```

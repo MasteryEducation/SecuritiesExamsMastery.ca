@@ -88,12 +88,12 @@ To enhance understanding, consider the following diagram illustrating the expend
 
 ```mermaid
 graph TD;
-    A[Consumer Spending (C)] --> GDP[Gross Domestic Product];
-    B[Investment (I)] --> GDP;
-    C[Government Spending (G)] --> GDP;
-    D[Exports (X)] --> GDP;
-    E[Imports (M)] --> GDP;
-    GDP --> F[Net Exports (X-M)];
+    A["Consumer Spending (C)"] --> GDP[Gross Domestic Product];
+    B["Investment (I)"] --> GDP;
+    C["Government Spending (G)"] --> GDP;
+    D["Exports (X)"] --> GDP;
+    E["Imports (M)"] --> GDP;
+    GDP --> F["Net Exports (X-M)"];
 ```
 
 ### Best Practices and Common Pitfalls

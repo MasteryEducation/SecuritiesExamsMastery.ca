@@ -104,8 +104,8 @@ Below is a simple Mermaid.js flowchart illustrating how a Smart Beta ETF screens
 
 ```mermaid
 flowchart LR
-    A[Universe of Stocks] --> B[Factor Screening<br>(e.g., Value, Momentum)]
-    B --> C[Alternative Weighting<br>(e.g., Equal, Fundamental)]
+    A[Universe of Stocks] --> B["Factor Screening<br>(e.g., Value, Momentum)"]
+    B --> C["Alternative Weighting<br>(e.g., Equal, Fundamental)"]
     C --> D[Construct Smart Beta ETF<br>Based on Rules-Based Index]
 ```
 

@@ -96,7 +96,7 @@ Below is a simplified representation of the relationship between the settlor, tr
 
 ```mermaid
 flowchart LR
-    A[Settlor (Grantor)] -->|Transfers Assets| B[Trust]
+    A["Settlor (Grantor)"] -->|Transfers Assets| B[Trust]
     B --> C[Trustee]
     C --> D[Beneficiaries]
 ```

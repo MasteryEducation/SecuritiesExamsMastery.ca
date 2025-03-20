@@ -183,3 +183,8 @@ See [LICENSE](LICENSE.md) for more information.
     hugo mod get -u ./...
     git add -A && git commit -am. && git push
 
+### RegEx to find mistakes in charts
+
+```
+[A-Z]\[[^"\]]*\(
+```

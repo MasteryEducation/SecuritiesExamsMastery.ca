@@ -41,9 +41,9 @@ Below is a simple diagram illustrating how these statements interconnect:
 
 ```mermaid
 flowchart LR
-   A[Statement of Financial Position<br>(Balance Sheet)] --> B[Statement of Comprehensive Income<br>(Income Statement)]
+   A["Statement of Financial Position<br>(Balance Sheet)"] --> B["Statement of Comprehensive Income<br>(Income Statement)"]
    B --> C[Statement of Changes in Equity]
-   C --> D[Statement of Financial Position<br>(Equity Section)]
+   C --> D["Statement of Financial Position<br>(Equity Section)"]
    C --> E[Statement of Cash Flows]
    E --> A
 ```

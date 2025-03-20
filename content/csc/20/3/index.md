@@ -35,8 +35,8 @@ Below is a simplified diagram illustrating the relationship between GPs, LPs, an
 
 ```mermaid
 flowchart LR
-    A[Limited Partners (LPs)\nInvestors] -->|Capital Contributions| B(General Partner\n(GP))
-    B -->|Invests in| C[Portfolio Companies\nProperties\nHedge Fund Strategies]
+    A["Limited Partners (LPs)<br>Investors"] -->|Capital Contributions| B("General Partner<br>(GP)")
+    B -->|Invests in| C[Portfolio Companies<br>Properties<br>Hedge Fund Strategies]
     C -->|Returns / Gains| B
     B -->|Distributes Profits/Losses| A
 ```

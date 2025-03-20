@@ -126,7 +126,7 @@ flowchart LR
     A[Initial Meeting] --> B[Intake Form & Basic Data]
     B --> C[Risk Questionnaire & Goal Setting]
     C --> D[Analyze & Summarize Findings]
-    D --> E[Client Profile (Statement of Understanding)]
+    D --> E["Client Profile (Statement of Understanding)"]
     E --> F[Ongoing Review & Update]
 ```
 

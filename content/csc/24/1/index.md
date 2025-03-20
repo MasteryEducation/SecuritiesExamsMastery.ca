@@ -31,8 +31,8 @@ Below is a simple diagram showing how the CRA interacts with taxpayers:
 
 ```mermaid
 flowchart LR
-    A[Taxpayers<br>(Individuals<br>& Businesses)] -->|File Tax Returns<br>Pay Taxes| B(Canada Revenue Agency<br>(CRA))
-    B -->|Provides Assessments<br>Issues Refunds/Benefits| A
+    A["Taxpayers<br>(Individuals<br>& Businesses)"] -->|"File Tax Returns<br>Pay Taxes"| B("Canada Revenue Agency<br>(CRA)")
+    B -->|"Provides Assessments<br>Issues Refunds/Benefits"| A
 ```
 
 ### Provincial and Territorial Taxes

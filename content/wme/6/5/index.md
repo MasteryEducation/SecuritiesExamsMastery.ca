@@ -143,12 +143,12 @@ Key aspects affected by divorce include:
 ```mermaid
 flowchart TD
     A((Pre-Divorce Financial Plan)) --> B{Divorce Agreement}
-    B --> C[Retirement Splits (RRSPs,\nPensions)]
-    B --> D[Insurance Policy\nUpdates]
-    B --> E[Estate Adjustments\n(Will & POA)]
-    B --> F[Tax Support\n& Credits]
-    B --> G[Liquidity\nRequirements]
-    B --> H[Revised\nRisk Tolerance]
+    B --> C["Retirement Splits (RRSPs,<br>Pensions)"]
+    B --> D[Insurance Policy<br>Updates]
+    B --> E["Estate Adjustments<br>(Will & POA)"]
+    B --> F[Tax Support<br>& Credits]
+    B --> G[Liquidity<br>Requirements]
+    B --> H[Revised<br>Risk Tolerance]
     H --> I((Post-Divorce Financial Plan))
 ```
 

@@ -66,8 +66,8 @@ Below is a simple mermaid diagram illustrating the distinction between nominal a
 
 ```mermaid
 flowchart LR
-    A[Total Output (All Goods & Services)] --> B[Nominal GDP (Current Prices)]
-    A --> C[Real GDP (Prices Adjusted For Inflation)]
+    A["Total Output (All Goods & Services)"] --> B["Nominal GDP (Current Prices)"]
+    A --> C["Real GDP (Prices Adjusted For Inflation)"]
 ```
 
 Real GDP is often viewed as the more accurate metric when assessing true economic growth, as it reveals whether the economy’s production is genuinely expanding, holding prices steady for consistent comparison.

@@ -27,7 +27,7 @@ Each segment has distinct characteristics, participants, and regulations. Below 
 flowchart LR
     A[Corporation or Government Issues Bond] --> B[Primary Market]
     B --> C[Initial Investors]
-    C --> D[Secondary Market (OTC / Exchange)]
+    C --> D["Secondary Market (OTC / Exchange)"]
     D --> E[Subsequent Investors]
 ```
 

@@ -163,7 +163,7 @@ flowchart LR
     B[Stock B <br> Market Cap] --> M[Sum of Market Caps]
     C[Stock C <br> Market Cap] --> M[Sum of Market Caps]
     D[Stock D <br> Market Cap] --> M[Sum of Market Caps]
-    M --> E[Index Value <br>(= Sum of Market Caps ÷ Divisor)]
+    M --> E["Index Value <br>(= Sum of Market Caps ÷ Divisor)"]
 ```
 
 Explanation:  

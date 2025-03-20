@@ -173,7 +173,7 @@ Below is a Mermaid diagram representing different funds plotted against risk (x-
 flowchart LR
     A[Funds] -- Risk --> B((Standard Deviation))
     B -- Return --> C((Excess Return vs. Risk-Free Rate))
-    C --> D[Risk-Adjusted Metrics (Sharpe, Treynor)]
+    C --> D["Risk-Adjusted Metrics (Sharpe, Treynor)"]
 ```
 
 Explanation:  

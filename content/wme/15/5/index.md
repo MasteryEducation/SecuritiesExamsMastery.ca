@@ -123,7 +123,7 @@ Below is a simplified illustration of the parties involved in protecting a vulne
 ```mermaid
 flowchart LR
     A[Client] -- Potential Vulnerability --> B[Advisor]
-    B --> C[Trusted Contact Person (TCP)]
+    B --> C["Trusted Contact Person (TCP)"]
     B --> D[Compliance Department]
     B --> E[Professional POA or Legal Counsel]
 ```

@@ -42,9 +42,9 @@ Below is a simple diagram illustrating how these components fit together:
 ```mermaid
 flowchart LR
     A[Investor Purchases PPN] --> B[Issuer Structures PPN]
-    B --> C[Zero-Coupon Bond<br>(to guarantee principal)]
-    B --> D[Derivative/Option<br>(to provide upside exposure)]
-    C --> E[Principal Returned<br> at Maturity]
+    B --> C["Zero-Coupon Bond<br>(to guarantee principal)"]
+    B --> D["Derivative/Option<br>(to provide upside exposure)"]
+    C --> E["Principal Returned<br> at Maturity"]
     D --> E[Potential Gains]
 ```
 

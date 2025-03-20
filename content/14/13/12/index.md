@@ -77,7 +77,7 @@ Below is a diagram illustrating the structure of a multi-mandate managed account
 
 ```mermaid
 graph TD;
-    A[Unified Managed Account (UMA)] --> B[Mandate 1: Canadian Equities]
+    A["Unified Managed Account (UMA)"] --> B[Mandate 1: Canadian Equities]
     A --> C[Mandate 2: International Equities]
     A --> D[Mandate 3: Fixed Income]
     A --> E[Mandate 4: Alternative Investments]

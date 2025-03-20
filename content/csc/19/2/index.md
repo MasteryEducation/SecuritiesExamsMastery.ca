@@ -68,7 +68,7 @@ Below is a simplified Mermaid diagram illustrating the ETF creation/redemption m
 flowchart LR
     A[Authorized Participant] -->|Buys underlying securities| B[ETF Sponsor]
     B --> |Issues Creation Units| A
-    A --> |Sells ETF Units on Exchange| C[(Market)]
+    A --> |Sells ETF Units on Exchange| C["(Market)"]
 
     C --> |Buys ETF Units| A
     A --> |Returns ETF Units| B

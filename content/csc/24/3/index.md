@@ -42,9 +42,9 @@ The flow of contributions, growth, and eventual withdrawals can be visualized in
 
 ```mermaid
 flowchart LR
-    A(Contributions) --> B[RRSP / RPP / RESP / RDSP<br>(Tax-Deferred Growth)]
+    A(Contributions) --> B["RRSP / RPP / RESP / RDSP<br>(Tax-Deferred Growth)"]
     B --> C(Taxed on Withdrawal)
-    A --> D[TFSA<br>(Tax-Free Growth)]
+    A --> D["TFSA<br>(Tax-Free Growth)"]
     D --> E(No Tax on Withdrawal)
 ```
 

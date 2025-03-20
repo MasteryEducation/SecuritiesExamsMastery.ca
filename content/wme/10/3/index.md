@@ -82,7 +82,7 @@ flowchart LR
     B --> C[Compare with Annual RRSP Limit]
     C --> D[Review Carried Forward Room]
     D --> E[Decide Contribution Amount]
-    E --> F[Choose Contribution Method (Payroll or Lump-Sum)]
+    E --> F["Choose Contribution Method (Payroll or Lump-Sum)"]
     F --> G[Make Contribution before Deadline]
 ```
 

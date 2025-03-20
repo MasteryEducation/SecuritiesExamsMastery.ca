@@ -196,10 +196,10 @@ By selecting Strategy B, they collectively reduce their overall tax liability an
 
 ```mermaid
 flowchart LR
-    A[Retiree] --> B[RRIF Withdrawals (Taxable)]
-    A --> C[TFSA Withdrawals (Tax-Free)]
-    A --> D[Non-Registered Investments (Partial/Full Tax)]
-    B --> E[(Total Taxable Income)]
+    A[Retiree] --> B["RRIF Withdrawals (Taxable)"]
+    A --> C["TFSA Withdrawals (Tax-Free)"]
+    A --> D["Non-Registered Investments (Partial/Full Tax)"]
+    B --> E["(Total Taxable Income)"]
     D --> E
     E --> F[Marginal Tax Rate Applied]
     C --> G[No Tax Impact / No OAS Clawback]

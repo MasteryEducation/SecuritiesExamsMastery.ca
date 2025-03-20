@@ -114,7 +114,7 @@ Below is a step-by-step approach that Canadian advisors can integrate into daily
 
 ```mermaid
 flowchart LR
-    A[Client (Principal)] --> B[Advisor (Agent)]
+    A["Client (Principal)"] --> B["Advisor (Agent)"]
     B --> C[Fiduciary Duty]
     C --> D[Client's Best Interests]
 ```

@@ -64,7 +64,7 @@ Passive management, often known as index investing, involves mirroring the compo
 flowchart LR
     A[Index Selection] --> B[Construct Portfolio to Match Index]
     B --> C[Minimal Trading & Rebalancing]
-    C --> D[Matches Index Performance (Minus Fees)]
+    C --> D["Matches Index Performance (Minus Fees)"]
 ```
 
 In this simplified flowchart:  

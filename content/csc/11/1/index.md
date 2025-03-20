@@ -72,8 +72,8 @@ A corporation’s governance is built upon a clear hierarchy. Understanding thes
 
 ```mermaid
 flowchart TB
-    A[Shareholders<br>(Owners)] --> B[Board of Directors<br>(Elected by Shareholders)]
-    B --> C[Senior Management<br>(Appointed by Board)]
+    A["Shareholders<br>(Owners)"] --> B["Board of Directors<br>(Elected by Shareholders)"]
+    B --> C["Senior Management<br>(Appointed by Board)"]
     C --> D[Employees]
 ```
 

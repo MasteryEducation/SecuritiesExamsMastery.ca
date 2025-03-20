@@ -22,7 +22,7 @@ flowchart LR
     A[Equity Strategy] --> B[Growth Investing]
     A --> C[Value Investing]
     A --> D[Dividend Investing]
-    A --> E[Index (Passive) Investing]
+    A --> E["Index (Passive) Investing"]
 ```
 
 **Diagram Explanation:** This flowchart highlights four broad categories of equity strategies. Each branch represents a distinct style of stock selection and management. In practice, Canadian investors often blend or rotate among these styles, depending on market conditions and personal objectives.

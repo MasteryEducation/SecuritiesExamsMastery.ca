@@ -50,9 +50,6 @@ Below is a simplified illustration of a T-Bill’s cash flow over time:
 flowchart LR
     A((Purchase T-Bill)) --> B[Hold for 90 days]
     B --> C((Receive Face Value))
-    style A fill:#e6f7ff,stroke:#0ea5e9,stroke-width:2px
-    style B fill:#fff7ed,stroke:#f97316,stroke-width:2px
-    style C fill:#e6f7ff,stroke:#0ea5e9,stroke-width:2px
 ```
 
 #### Risk Profile  
@@ -92,10 +89,6 @@ flowchart LR
     A((RRB Issuance)) --> B[Inflation Adjustments to Principal]
     B --> C[(Higher Coupon Payments)]
     C --> D((Maturity: Principal + Inflation Adjustments))
-    style A fill:#e6f7ff,stroke:#0ea5e9,stroke-width:2px
-    style B fill:#fff7ed,stroke:#f97316,stroke-width:2px
-    style C fill:#fff7ed,stroke:#f97316,stroke-width:2px
-    style D fill:#e6f7ff,stroke:#0ea5e9,stroke-width:2px
 ```
 
 • Risk Considerations: RRBs still carry interest rate risk and can experience price fluctuations if market rates rise or fall significantly. However, they reduce inflation risk by preserving purchasing power over the bond’s lifetime.

@@ -73,10 +73,10 @@ Below is a simple flowchart to visualize the monitoring process:
 
 ```mermaid
 flowchart LR
-    A[Client Updates\n(e.g., life events)] --> D[Identify Portfolio\nAdjustments]
-    B[Market Analysis\n(e.g., valuations,\ninterest rates)] --> D
-    C[Economic Indicators\n(e.g., GDP, inflation)] --> D
-    D --> E[Implement Rebalancing\nor Strategy Changes]
+    A["Client Updates<br/>(e.g., life events)"] --> D["Identify Portfolio<br/>Adjustments"]
+    B["Market Analysis<br/>(e.g., valuations,\ninterest rates)"] --> D
+    C["Economic Indicators<br/>(e.g., GDP, inflation)"] --> D
+    D --> E["Implement Rebalancing<br/>or Strategy Changes"]
 ```
 
 ### Reassessment Cycle

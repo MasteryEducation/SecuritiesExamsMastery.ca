@@ -36,13 +36,9 @@ Below is a simplified visualization of a company’s capital structure, depictin
 
 ```mermaid
 flowchart TB
-    A[Senior Debt (Bonds)] --> B[Subordinated Debt]
+    A["Senior Debt (Bonds)"] --> B[Subordinated Debt]
     B --> C[Preferred Shares]
     C --> D[Common Shares]
-    style A fill:#cde8f7,stroke:#3892d3,stroke-width:1px
-    style B fill:#e2efff,stroke:#3892d3,stroke-width:1px
-    style C fill:#f9fce8,stroke:#c8c800,stroke-width:1px
-    style D fill:#fdf1f0,stroke:#f77b7b,stroke-width:1px
 ```
 
 ---

@@ -147,9 +147,9 @@ flowchart LR
     A[Client Data Collection] --> B[Retirement Goals & Budget]
     B --> C[Estimate Income Sources<br>CPP/QPP, OAS, Pensions]
     C --> D[Identify Retirement Income Gap]
-    D --> E[Investment & Savings Strategy<br>(RRSP, TFSA, etc.)]
-    E --> F[Contingency Options<br>(Insurance, Emergency Fund)]
-    F --> G[Regular Plan Review<br>(Annual or Semi-annual)]
+    D --> E["Investment & Savings Strategy<br>(RRSP, TFSA, etc.)"]
+    E --> F["Contingency Options<br>(Insurance, Emergency Fund)"]
+    F --> G["Regular Plan Review<br>(Annual or Semi-annual)"]
 ```
 
 **Diagram Explanation:**  

@@ -51,7 +51,7 @@ Robo-advisory platforms rely on algorithms to build and rebalance diversified po
 ```mermaid
 flowchart LR
     A[Client Inputs Risk Profile] --> B[Algorithmic Asset Allocation]
-    B --> C[Portfolio Construction (ETFs, Funds)]
+    B --> C["Portfolio Construction (ETFs, Funds)"]
     C --> D[Ongoing Monitoring]
     D --> E[Periodic Rebalancing]
     E --> D

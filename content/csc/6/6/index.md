@@ -26,7 +26,7 @@ Below is a simplified visual diagram illustrating how an FRN’s coupon resets:
 
 ```mermaid
 flowchart LR
-    A[Market Reference Rate (e.g., CDOR)] --> B[+ Spread]
+    A["Market Reference Rate (e.g., CDOR)"] --> B[+ Spread]
     B --> C(Coupon Payment Calculation)
     C --> D[Coupon Paid to Investors]
     D --> E[Next Reset Cycle]

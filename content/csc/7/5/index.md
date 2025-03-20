@@ -75,7 +75,7 @@ Below is a simplified diagram illustrating the rebalancing process for a bond in
 flowchart LR
     A[Start: Existing Index] --> B[Identify New Issues Meeting Criteria]
     B --> C[Remove Bonds No Longer Eligible]
-    C --> D[Recalculate Weights (Market Cap or Alternative)]
+    C --> D["Recalculate Weights (Market Cap or Alternative)"]
     D --> E[Publish Updated Index Composition]
     E --> F[Monitor Market Changes]
     F --> A[Next Rebalancing Cycle]

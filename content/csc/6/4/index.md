@@ -127,8 +127,8 @@ Below is a simplified mermaid diagram illustrating the relationship between the 
 flowchart LR
     A[Provincial or Municipal Issuer] --> B(Investment Dealer/Underwriter)
     B --> C(Primary Market)
-    C --> D[Institutional Investors (Pension Funds, Banks, etc.)]
-    C --> E[Retail Investors (Advisors/Individuals)]
+    C --> D["Institutional Investors (Pension Funds, Banks, etc.)"]
+    C --> E["Retail Investors (Advisors/Individuals)"]
     
     A --> F[Crown Corp Issuer]
     F --> B

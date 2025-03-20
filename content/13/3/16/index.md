@@ -77,10 +77,10 @@ To better understand the structure of securities regulation in Canada, consider 
 
 ```mermaid
 graph TD;
-    A[Canadian Securities Administrators (CSA)] --> B[Ontario Securities Commission (OSC)];
-    A --> C[British Columbia Securities Commission (BCSC)];
-    A --> D[Alberta Securities Commission (ASC)];
-    A --> E[Autorité des marchés financiers (AMF)];
+    A["Canadian Securities Administrators (CSA)"] --> B["Ontario Securities Commission (OSC)"];
+    A --> C["British Columbia Securities Commission (BCSC)"];
+    A --> D["Alberta Securities Commission (ASC)"];
+    A --> E["Autorité des marchés financiers (AMF)"];
     A --> F[Other Provincial and Territorial Regulators];
 ```
 

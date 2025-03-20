@@ -96,7 +96,7 @@ To further enhance understanding, consider the following diagram illustrating th
 
 ```mermaid
 graph TD;
-    A[Canadian Securities Administrators (CSA)] --> B[National Instruments and Policies];
+    A["Canadian Securities Administrators (CSA)"] --> B[National Instruments and Policies];
     B --> C[Market Transparency];
     B --> D[Market Fairness];
     B --> E[Systemic Risk Protection];

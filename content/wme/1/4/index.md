@@ -27,7 +27,7 @@ flowchart TB
     A[Investor] --> B[Wealth Advisor]
     B --> C[CIRO Oversight]
     C --> D[Securities Acts & Provincial Regulators]
-    B --> E[Compliance (KYC, Suitability)]
+    B --> E["Compliance (KYC, Suitability)"]
 ```
 
 **Diagram Explanation:** This flowchart illustrates how the investor’s relationship with a wealth advisor is framed by CIRO’s oversight, which operates in alignment with provincial securities regulations.

@@ -60,9 +60,8 @@ The best way to see this is with a simple payoff chart. Let’s illustrate a van
 flowchart LR
     A["Underlying Price <br/> at Expiration"] --> B["Option Contract Payoff"]
     A --> C["Forward Contract Payoff"]
-
-    B[ "Call Option<br/> Asymmetric Payoff" ]
-    C[ "Long Forward<br/> Symmetric Payoff" ]
+    B["Call Option <br/> Asymmetric Payoff"]
+    C["Long Forward <br/> Symmetric Payoff"]
 ```
 
 In a call option’s payoff diagram, you see a flat line (loss capped at premium paid) until you hit the strike price. Then the payoff line slopes upward steadily if the underlying price goes above the strike.

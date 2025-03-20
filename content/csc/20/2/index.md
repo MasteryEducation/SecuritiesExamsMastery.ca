@@ -133,13 +133,13 @@ The following diagram illustrates how various alternative strategies can fit int
 
 ```mermaid
 flowchart LR
-    A((Traditional Assets)) --> B[Equities<br>(Domestic & International)]
-    A((Traditional Assets)) --> C[Bonds<br>(Gov't & Corporate)]
+    A((Traditional Assets)) --> B["Equities<br>(Domestic & International)"]
+    A((Traditional Assets)) --> C["Bonds<br>(Gov't & Corporate)"]
     B --> D((Alternatives))
     C --> D((Alternatives))
-    D((Alternatives)) --> E[Hedge Funds<br>(Long/Short, Global Macro)]
-    D((Alternatives)) --> F[Private Equity<br>(Venture Capital, LBO)]
-    D((Alternatives)) --> G[Real Assets<br>(Real Estate, Infrastructure)]
+    D((Alternatives)) --> E["Hedge Funds<br>(Long/Short, Global Macro)"]
+    D((Alternatives)) --> F["Private Equity<br>(Venture Capital, LBO)"]
+    D((Alternatives)) --> G["Real Assets<br>(Real Estate, Infrastructure)"]
 ```
 
 By strategically blending alternatives with core equity and bond holdings, investors may achieve better diversification and risk-adjusted returns.

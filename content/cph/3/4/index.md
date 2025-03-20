@@ -76,11 +76,11 @@ Here's a simple diagram illustrating how CIRO and CIPF interact:
 
 ```mermaid
 graph TD
-A[ "Investor" ] -->|Invests through| B[ "CIRO Member Firm" ]
-B -->|Becomes Insolvent| C[ "CIPF Steps In" ]
+A["Investor"] -->|Invests through| B["CIRO Member Firm"]
+B -->|Becomes Insolvent| C["CIPF Steps In"]
 C -->|Protects Assets up to $1M per Account Type| A
-D[ "CIRO" ] -->|Regulates & Oversees| B
-E[ "CIPF" ] -->|Independent Protection Fund| B
+D["CIRO"] -->|Regulates & Oversees| B
+E["CIPF"] -->|Independent Protection Fund| B
 ```
 
 ### Informing Clients About CIPF Coverage

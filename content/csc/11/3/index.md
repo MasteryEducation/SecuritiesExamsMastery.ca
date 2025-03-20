@@ -35,10 +35,10 @@ Below is a Mermaid diagram illustrating the main sections of a typical Canadian 
 
 ```mermaid
 flowchart TB
-    A[Letter to Shareholders] --> B[Management's Discussion & Analysis (MD&A)]
+    A[Letter to Shareholders] --> B["Management's Discussion & Analysis (MD&A)"]
     B --> C[Audited Financial Statements & Notes]
     C --> D[Auditor's Report]
-    D --> E[Corporate Social Responsibility (CSR)/ESG Disclosures]
+    D --> E["Corporate Social Responsibility (CSR)/ESG Disclosures"]
     E --> F[Forward-Looking Statements]
 ```
 

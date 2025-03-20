@@ -40,7 +40,7 @@ SEDAR+ promotes transparency by facilitating universal and immediate access to c
 
 ```mermaid
 flowchart LR
-    A[Public Company] --files documents--> B[SEDAR+ (CSA)]
+    A[Public Company] --files documents--> B["SEDAR+ (CSA)"]
     B --makes filings accessible--> C[Investors/ Public]
 ```
 

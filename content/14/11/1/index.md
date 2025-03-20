@@ -75,7 +75,7 @@ Securitization is the process of transforming illiquid assets into tradable secu
 
 ```mermaid
 graph TD;
-    A[Originator] -->|Sells Assets| B[Special Purpose Vehicle (SPV)];
+    A[Originator] -->|Sells Assets| B["Special Purpose Vehicle (SPV)"];
     B -->|Issues| C[Asset-Backed Securities];
     C -->|Sold to| D[Investors];
     D -->|Receive Cash Flows| B;

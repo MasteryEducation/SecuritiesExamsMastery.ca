@@ -46,9 +46,9 @@ Below is a simplified diagram illustrating the basic structure and investment fl
 
 ```mermaid
 flowchart LR
-    A[Investor Purchases LSVCC Shares] --> B[LSVCC (Mutual Fund Corporation)]
+    A[Investor Purchases LSVCC Shares] --> B["LSVCC (Mutual Fund Corporation)"]
     B --> C[Venture Capital Investments in SME or Start-up]
-    C --> B[Returns/Gains (if any)]
+    C --> B["Returns/Gains (if any)"]
     B --> A[Capital Appreciation, Dividends, or Return of Capital]
 ```
 

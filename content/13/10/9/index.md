@@ -93,7 +93,7 @@ graph LR
     A[Stock Price at Expiration] --> B[Below Strike Price]
     A --> C[Above Strike Price]
     B --> D[Profit = Premium]
-    C --> E[Profit = Premium + (Stock Price - Strike Price)]
+    C --> E["Profit = Premium + (Stock Price - Strike Price)"]
     E --> F[Profit Capped]
 ```
 

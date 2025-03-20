@@ -139,7 +139,7 @@ Below is a simplified diagram illustrating how distributions flow from ETF holdi
 flowchart TB
     A[ETF's Underlying Holdings] -->|Generates Dividends/Interest| B[ETF Structure]
     B -->|Applies In-Kind Creations/Redemptions| C[Minimized Capital Gains Distribution]
-    B --> D[Foreign Withholding Tax (If Any)]
+    B --> D["Foreign Withholding Tax (If Any)"]
     D -->|Net Distribution| E[Investor Receives Distribution]
     C --> E
     E -->|Investor Reports on Tax Return| F[CRA - Final Tax Calculation]

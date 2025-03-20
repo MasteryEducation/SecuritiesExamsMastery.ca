@@ -105,7 +105,7 @@ flowchart LR
     A[Exports of Goods & Services] --> B((Current Account))
     C[Imports of Goods & Services] --> B
     D[Net Income from Abroad] --> B
-    E[Net Transfers (Remittances)] --> B
+    E["Net Transfers (Remittances)"] --> B
     
     B --> F((Capital Account))
     G[Transfer of Assets e.g. Patents] --> F

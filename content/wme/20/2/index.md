@@ -87,9 +87,9 @@ The Canadian equity market’s infrastructure ensures that trades are executed a
 ```mermaid
 flowchart LR
     A[Investor Places Order] --> B[Broker/Dealers]
-    B --> C[Exchange (TSX)]
+    B --> C["Exchange (TSX)"]
     C --> D[Trade Matching & Clearing]
-    D --> E[Settlement (T+2)]
+    D --> E["Settlement (T+2)"]
     E --> F[Ownership Transfer to Investor]
 ```
 

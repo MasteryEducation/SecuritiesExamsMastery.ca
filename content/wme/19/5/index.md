@@ -41,8 +41,8 @@ Strategic Asset Allocation (SAA) is the long-term, baseline mix designed to meet
 
 ```mermaid
 flowchart LR
-    A[Strategic Asset Allocation (SAA)] -->|Annual/Biennial Review| B[Long-Term Policy Mix]
-    B -->|Tactical Shift| C[Tactical Asset Allocation (TAA)]
+    A["Strategic Asset Allocation (SAA)"] -->|Annual/Biennial Review| B[Long-Term Policy Mix]
+    B -->|Tactical Shift| C["Tactical Asset Allocation (TAA)"]
     C -->|Frequent Adjustments| D[Portfolio Return Enhancement]
 ```
 

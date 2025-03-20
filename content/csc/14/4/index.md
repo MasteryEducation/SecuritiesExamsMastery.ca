@@ -148,11 +148,11 @@ Below is a simplified process diagram for assessing a preferred share’s invest
 ```mermaid
 flowchart TB
     A[Identify Preferred Share] --> B[Check Issuer Credit Rating and Financial Stability]
-    B --> C[Analyze Dividend Terms (Cumulative, Non-Cumulative, etc.)]
+    B --> C["Analyze Dividend Terms (Cumulative, Non-Cumulative, etc.)"]
     C --> D[Calculate Dividend Coverage & Free Cash Flow]
-    D --> E[Assess Tax Implications (Dividend Tax Credit, RRSP, TFSA)]
+    D --> E["Assess Tax Implications (Dividend Tax Credit, RRSP, TFSA)"]
     E --> F[Evaluate Yield vs. Risk]
-    F --> G[Determine Interest Rate Sensitivity (Fixed, Floating, Rate-Reset)]
+    F --> G["Determine Interest Rate Sensitivity (Fixed, Floating, Rate-Reset)"]
     G --> H[Make an Informed Buy/Hold/Sell Decision]
 ```
 

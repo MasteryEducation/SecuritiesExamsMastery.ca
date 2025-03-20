@@ -32,8 +32,8 @@ Below is a simplified mermaid diagram illustrating how an index-based ETF tracks
 
 ```mermaid
 flowchart LR
-    A[Index Provider<br>(e.g., S&P)] --> B[Publishes Index Components]
-    B --> C[ETF Provider<br>(e.g., RBC iShares)]
+    A["Index Provider<br>(e.g., S&P)"] --> B[Publishes Index Components]
+    B --> C["ETF Provider<br>(e.g., RBC iShares)"]
     C --> D[Buys underlying securities<br> in the same proportion as the index]
     D --> E[ETF Created and Listed on Exchange]
     E --> F[Investors buy/sell ETF shares]

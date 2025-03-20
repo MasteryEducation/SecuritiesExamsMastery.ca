@@ -224,7 +224,7 @@ Below is a simple diagram illustrating the flow of mutual fund pricing at the en
 flowchart LR
     A[Assets: Stocks, Bonds, Cash, etc.] --> B[Total Assets]
     B --> C[Liabilities: Fees, Expenses, etc.]
-    C --> D[(NAVPS Calculation]]
+    C --> D[(NAVPS Calculation)]
     D --> E[Divide by # of Units Outstanding]
     E --> F[NAVPS for Purchases and Redemptions]
 ```
