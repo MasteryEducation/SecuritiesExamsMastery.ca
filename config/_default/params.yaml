@@ -12,14 +12,9 @@ code_block_panel:
   max_lines: 100
 
 
-meta: 
-  date: false
-  reading_time: false
+
   
 hb:
-  meta: 
-    date: false
-    reading_time: false
   revision:
     repo_service: github
     repo_owner: MasteryEducation
@@ -117,7 +112,9 @@ hb:
       input_position: top
       reactions: true
       lazy_loading: true
-
+    meta: 
+      date: false
+      reading_time: false
 
   # https://hbstack.dev/modules/components/content-panel/
   content_panel:
