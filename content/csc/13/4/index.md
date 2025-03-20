@@ -289,23 +289,6 @@ Below are some references and tools that Canadian investors and advisors may fin
 
 ---
 
-## For Additional Practice and Deeper Preparation
-
-**Elevate your exam readiness with our comprehensive app, "Securities CA: Mock Exams," designed to challenge and refine your skills.**
-
-* **Master Challenging Questions:** Dive into expertly crafted sample exam questions that go beyond standard references.
-* **Scenario-Driven Learning:** Experience scenario-driven case questions and in-depth solutions to build practical expertise.
-* **Sharpen Exam Strategies:** Build confidence with step-by-step explanations designed to refine your exam-day tactics.
-* **Gain Real-World Insights:** Acquire practical tips and detailed rationales that demystify complex concepts.
-* **CIRO and CSI Alignment:** Stay current with CIRO guidelines and CSI’s exam structure, with questions intentionally more challenging than the actual exam.
-
-**Download the App Today:**
-
-[<img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="50" alt="Download CSC Mock Exams: Securities CA on the App Store">](https://apps.apple.com/us/app/securities-ca-mock-exams/id1667869674)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" alt="Download CSC Mock Exams: Securities CA on Google Play">](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
-
-
-> Note: While these courses are specifically crafted to align with the CSC® exams outlines, they are independently developed and not endorsed by CSI or CIRO.
 
 ---
 
