@@ -164,7 +164,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** Derivatives can have multi-layered costs (premiums, commissions, margin interest, etc.) and carry substantial risks. CRM helps ensure transparency and suitability, which is essential where complexity abounds.
 
----
 
 ### Which statement is the best example of “fee transparency” in a derivatives trade confirmation?
 
@@ -175,7 +174,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** The point of fee transparency is to show investors each individual cost, including commissions, embedded leveraging costs, and clearing or exchange fees. An itemized list provides clarity.
 
----
 
 ### A client with minimal risk tolerance wants to engage in an uncovered (naked) call strategy anyway. How does CRM affect the advisor’s actions?
 
@@ -186,7 +184,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** Under CRM requirements, the advisor must ensure the product is suitable, clearly explain all costs and risks, and maintain adequate documentation. Allowing a high-risk trade when the client has low tolerance could spark serious regulatory and compliance issues.
 
----
 
 ### In the context of derivatives, how do regulators generally view the importance of frequent performance reporting?
 
@@ -197,7 +194,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** CRM enhancements and modern best practices emphasize providing more frequent and more detailed statements, ensuring clients with open derivative positions are always aware of emerging risks and evolving performance.
 
----
 
 ### Which of the following describes a key purpose of the “Know-Your-Product” (KYP) rule in a derivatives context?
 
@@ -208,7 +204,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** KYP requires that advisors study and understand each product thoroughly. In derivatives, knowing how an option or swap behaves is crucial before recommending it to clients.
 
----
 
 ### Which of the following is NOT typically considered a “hidden cost” in derivatives trading under CRM?
 
@@ -219,7 +214,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** Government sales tax on groceries is completely unrelated to derivatives trading. The rest are legitimate hidden or indirect costs that must be disclosed to clients.
 
----
 
 ### Which scenario best demonstrates the benefits of a robust CRM approach in a derivatives context?
 
@@ -230,7 +224,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** A robust CRM approach ensures that clients receive clear, detailed disclosure of all derivative trades, costs, and associated risks on a regular basis.
 
----
 
 ### Which of the following best illustrates a “case study” scenario where inadequate CRM disclosures led to issues?
 
@@ -241,7 +234,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** In the example, the deficiency in explaining margin calls resulted in the client’s confusion and dissatisfaction. That scenario leads to a breach of CRM requirements and sows distrust.
 
----
 
 ### Which of these is an example of layering communication in derivatives under CRM?
 
@@ -252,7 +244,6 @@ Frankly, derivatives can be powerful tools, but they come with formidable risks.
 
 > **Explanation:** Layering means providing an easy summary (the “short version”) and also offering a more comprehensive breakdown for clients who want details. This approach meets diverse client needs and fosters transparency.
 
----
 
 ### True or False: Derivatives can actually benefit from CRM enhancements because it creates more transparency around unique cost structures and risk profiles.
 

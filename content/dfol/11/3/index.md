@@ -203,7 +203,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** At inception, dealers set the swap terms so that the PV of incoming and outgoing cash flows nets to zero, ensuring neither side gains nor loses value initially.
 
----
 
 ### When discounting CAD-denominated cash flows in a currency swap, which reference rate is most commonly used under current market conventions in Canada?
 
@@ -214,7 +213,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** Short-term swaps in Canada often use CORRA OIS for discounting, reflecting near-risk-free rates.
 
----
 
 ### In a fixed-for-floating USD/CAD currency swap, a fixed rate is set on the CAD leg. Which of the following mainly determines that fixed CAD swap rate?
 
@@ -225,7 +223,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** The CAD fixed swap rate is determined by market-based yield curves, plus or minus any credit or liquidity spread that applies to the counterparties.
 
----
 
 ### What happens to the mark-to-market (MTM) value of a currency swap if the domestic currency suddenly appreciates versus the foreign currency?
 
@@ -236,7 +233,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** When the domestic currency strengthens, any foreign currency payments are worth fewer domestic units, affecting the swap’s MTM value.
 
----
 
 ### Which data sources are often used to project the floating leg of a currency swap?
 
@@ -247,7 +243,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** The floating leg is based on forward estimates, usually compiled from futures and swap market quotes for the relevant benchmark (e.g., SOFR, CORRA).
 
----
 
 ### When do counterparties typically post collateral for a currency swap?
 
@@ -258,7 +253,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** Under many ISDA Master Agreements, counterparties post collateral if their position has negative market value beyond a threshold set in the Credit Support Annex.
 
----
 
 ### Which statement is correct regarding the discounting approach in modern currency swap markets?
 
@@ -269,7 +263,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** In practice, each leg is discounted using the respective OIS curve (e.g., SOFR for USD, CORRA for CAD) to capture near-risk-free valuations.
 
----
 
 ### If an institution wants to hedge its existing USD liability using a CAD/USD currency swap where it pays USD and receives CAD, what is the primary benefit?
 
@@ -280,7 +273,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** By paying USD and receiving CAD, the institution is effectively offsetting risk related to its USD liabilities.
 
----
 
 ### What role does the foreign exchange (FX) forward rate play in pricing a currency swap?
 
@@ -291,7 +283,6 @@ Practice often, experiment in sandbox environments, and keep an eye on real swap
 
 > **Explanation:** The FX forward rate is used to translate future foreign currency flows into domestic currency terms or vice versa, a crucial step in calculating PV and fair value.
 
----
 
 ### A currency swap’s value can become positive or negative to one party over time primarily due to which factor?
 

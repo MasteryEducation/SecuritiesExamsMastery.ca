@@ -71,7 +71,7 @@ imports:
   - path: github.com/hbstack/docs
   - path: github.com/hbstack/docs/modules/breadcrumb
   #- path: github.com/hbstack/docs/modules/featured-image
-  - path: github.com/hbstack/docs/modules/heading-sign
+  # - path: github.com/hbstack/docs/modules/heading-sign
   - path: github.com/hbstack/docs/modules/doc-nav
   - path: github.com/hbstack/blog
   - path: github.com/hbstack/blog/modules/breadcrumb

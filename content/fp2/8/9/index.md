@@ -197,7 +197,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** An SDA is specifically about deferring income from one year to another. Other options are either unrelated or don’t match the definition.
 
----
 
 ### Which of the following is a legitimate reason for setting up a Salary Deferral Arrangement?
 
@@ -208,7 +207,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** SDAs are sometimes used for timing income more tax efficiently. They are not designed to remove taxes forever or evade lawful reporting.
 
----
 
 ### Under the Income Tax Act, why is the CRA particularly watchful of SDAs?
 
@@ -219,7 +217,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** The key risk from the CRA's perspective is that individuals might use SDAs to artificially shift taxable income in a way that avoids or reduces obligations. They’re not about permanent exemptions or skipping CPP contributions.
 
----
 
 ### When can the CRA require immediate taxation of a deferred amount under an SDA?
 
@@ -230,7 +227,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** The CRA can “look through” an SDA and tax the deferred amount right away if they classify it as an avoidance measure.
 
----
 
 ### Which of the following is the best practice to avoid an SDA being classified as an avoidance scheme?
 
@@ -241,7 +237,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** Transparency and proper documentation of a genuine business rationale helps ensure your SDA is recognized as legitimate rather than an avoidance scheme.
 
----
 
 ### What might be a disadvantage of a Salary Deferral Arrangement?
 
@@ -252,7 +247,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** Deferral sometimes results in larger lump sums in future years, potentially bumping you into a higher bracket. Salaries vesting in the future or CIPF premiums don’t directly apply here.
 
----
 
 ### Which program is often used by companies to defer compensation until retirement or termination, without triggering immediate SDA taxation?
 
@@ -263,7 +257,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** DSUs and RRSPs can both be used for deferring compensation under the right circumstances, though DSUs specifically link to share values. RRSPs have their own set of rules, but can also be a vehicle for deferring tax on earned income within regulatory limits.
 
----
 
 ### What type of document or record is critical in ensuring an SDA holds up under CRA scrutiny?
 
@@ -274,7 +267,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** Proper, detailed, and official documentation is crucial. A phone call or a casual memo isn’t enough.
 
----
 
 ### How might an SDA influence Old Age Security (OAS) payments?
 
@@ -285,7 +277,6 @@ By balancing potential tax advantages against the complexity and risk associated
 
 > **Explanation:** OAS is income-tested. A large deferred payment in a retirement year could cause or increase a clawback.
 
----
 
 ### True or False: SDAs never integrate with other types of retirement plans, such as IPPs or RPPs.
 

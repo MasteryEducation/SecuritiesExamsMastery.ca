@@ -181,7 +181,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** When a LEAPS® call option is exercised, the premium is incorporated into the ACB of the underlying shares. No immediate gain or loss is realized at exercise under normal capital treatment.
 
----
 
 ### What is the primary reason that LEAPS® can complicate year-end tax reporting?
 - [x] They can cross multiple tax years, requiring detailed tracking of open and closed positions.
@@ -191,7 +190,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** Because LEAPS® often extend beyond one calendar year, investors must keep track of positions that might remain open for a long time, making recordkeeping more complex.
 
----
 
 ### If you write a LEAPS® put and it is exercised against you, how is the premium generally treated?
 - [ ] Treated as an immediate capital gain upon exercise.
@@ -201,7 +199,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** For a written put, the premium you receive is typically folded into your overall cost for the shares, effectively reducing the cost base.
 
----
 
 ### When factoring in the time value decay (Theta) in LEAPS®, which of the following is correct from a tax standpoint?
 - [x] Time value decay is not separately reported; it is embedded in your eventual gain or loss.
@@ -211,7 +208,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** While Theta influences the option's price, it isn’t separately reported on Canadian tax returns. Gains or losses from time decay are just reflected in your ultimate profit or loss on the option.
 
----
 
 ### What happens if a LEAPS® you purchased expires worthless?
 - [ ] You pay an additional penalty tax to the CRA.
@@ -221,7 +217,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** If a LEAPS® expires worthless, a capital loss normally arises (assuming you’re not classified as a trader in the business sense). The loss equals the premium you initially paid, plus any related transaction costs.
 
----
 
 ### If you close your LEAPS® position by selling the option before expiration, when is the tax event recognized?
 - [x] On the date you dispose of the option.
@@ -231,7 +226,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** In Canada, gains or losses on securities are realized on the trade date, not the settlement date. The closing transaction triggers the final tax event.
 
----
 
 ### Which CRA interpretation bulletin provides guidance on capital vs. business income for securities transactions, including options?
 - [ ] IT-234R: Commodity Futures and Trading
@@ -241,7 +235,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** IT-479R is the interpretation bulletin dealing with securities transactions, which can help investors determine if their trades should be treated on capital or business grounds.
 
----
 
 ### If you are considered a “trader in securities” by the CRA, how would long-term LEAPS® profits typically be taxed?
 - [ ] As capital gains at the 50% inclusion rate.
@@ -251,7 +244,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** Traders in securities usually have their profits (including LEAPS®) taxed as business income, which does not benefit from the 50% capital gains inclusion rate.
 
----
 
 ### You write a LEAPS® call for $600 premium on stock XYZ. A year later, it expires worthless. Assuming capital treatment, what is the result?
 - [ ] A realized capital loss of $600
@@ -261,7 +253,6 @@ If you keep your documents organized and know how your option activities fit int
 
 > **Explanation:** If the call you wrote expires worthless, the premium you received is recognized as a capital gain in that tax year.
 
----
 
 ### True or False: When exercising a LEAPS® call, you incur an immediate capital gain equal to the difference between the strike price and the market value of the shares.
 - [ ] True

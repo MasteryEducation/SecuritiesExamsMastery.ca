@@ -218,7 +218,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** The CPP is primarily funded by mandatory contributions from employees and employers, and the funds are invested by the Canada Pension Plan Investment Board.
 
----
 
 ### 2. Which of the following best describes Old Age Security (OAS)?
 
@@ -229,7 +228,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** OAS is funded from general tax revenues and is available at age 65 if residency requirements are met. There are no direct employee/employer premiums for OAS. 
 
----
 
 ### 3. The Guaranteed Income Supplement (GIS) is:
 
@@ -240,7 +238,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** The GIS is designed as an income-tested benefit to assist low-income OAS pensioners.
 
----
 
 ### 4. One notable difference between the Canada Pension Plan (CPP) and the Quebec Pension Plan (QPP) is:
 
@@ -251,7 +248,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** The QPP is Quebec’s equivalent to CPP, administered separately by Retraite Québec, though both plans function similarly in terms of contribution and benefit structures.
 
----
 
 ### 5. Early CPP/QPP retirement can begin:
 
@@ -262,7 +258,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** You can begin CPP/QPP as early as 60 at a reduced rate, or defer until age 70 for an increased monthly benefit.
 
----
 
 ### 6. An OAS “clawback” occurs when:
 
@@ -273,7 +268,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** If your annual income surpasses the clawback threshold, you may have to repay some of your OAS via the Recovery Tax.
 
----
 
 ### 7. Which strategy might help minimize OAS clawback?
 
@@ -284,7 +278,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** By lowering one’s taxable income—perhaps via TFSA withdrawals or pension splitting—you can reduce or eliminate the OAS clawback.
 
----
 
 ### 8. For a Canadian who worked in Ontario for 20 years and then moved to Quebec for 15 years, their public pension:
 
@@ -295,7 +288,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** CPP and QPP have mechanisms to ensure your contributory record is properly recognized across provinces. The contributions are integrated for those who have worked in multiple provinces.
 
----
 
 ### 9. The main purpose of the Guaranteed Income Supplement (GIS) for seniors is:
 
@@ -306,7 +298,6 @@ At the end of the day, government pension programs act as a reliable baseline of
 
 > **Explanation:** GIS exists to protect seniors with limited financial resources.
 
----
 
 ### 10. Under normal circumstances, OAS becomes available at age 65 in Canada. True or False?
 

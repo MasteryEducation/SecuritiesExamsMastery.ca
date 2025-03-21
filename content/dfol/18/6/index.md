@@ -220,7 +220,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** Delta quantifies the expected change in the option’s premium for each $1 move in the underlying stock.
 
----
 
 ### A bullish option strategy with a net long call position typically has:
 
@@ -231,7 +230,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** Long calls have positive Delta (they profit from upward moves) and positive Gamma (Delta increases as the underlying price rises).
 
----
 
 ### When you hold a long call, which Greek usually works against you over time?
 
@@ -242,7 +240,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** Theta represents time decay, which reduces the option’s extrinsic value each day.
 
----
 
 ### If implied volatility unexpectedly drops after an earnings announcement, how does it typically impact a bullish long call?
 
@@ -253,7 +250,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** When implied volatility falls, the option’s premium typically decreases, even if the underlying price doesn’t change much.
 
----
 
 ### Which of the following best describes Gamma?
 
@@ -264,7 +260,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** Gamma shows how Delta shifts as the underlying price changes, meaning it tracks the curvature of the option’s price response.
 
----
 
 ### In a bullish strategy, you want to benefit from an upward move in the underlying. Which Greek indicates your sensitivity to implied volatility changes?
 
@@ -275,7 +270,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** Vega measures an option’s sensitivity to changes in implied volatility.
 
----
 
 ### What is the most common approach to mitigate the negative effects of Theta in a bullish call strategy?
 
@@ -286,7 +280,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** A bull call spread offsets some of the Theta erosion by reducing the net premium paid, as you also sell an option to partially fund the long call.
 
----
 
 ### You buy a call with a Delta of +0.50. If the underlying moves up by $1, all else being equal, how much should the call’s premium change?
 
@@ -297,7 +290,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** A Delta of +0.50 means for every $1 upward move in the underlier, the option’s premium would be expected to rise by $0.50.
 
----
 
 ### Which of the following is true about Gamma scalping?
 
@@ -308,7 +300,6 @@ For readers seeking more advanced insights:
 
 > **Explanation:** Gamma scalping is used by active or professional traders who regularly rebalance their delta exposure to capture gains from intraday volatility.
 
----
 
 ### True or False: Buying calls ahead of a major announcement when implied volatility is very high always guarantees a profit if the underlying moves up.
 

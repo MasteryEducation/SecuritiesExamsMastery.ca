@@ -227,7 +227,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** Robo-advisors use algorithms to analyze a client’s answers relating to risk tolerance, goals, and time horizon, then recommend a suitable portfolio accordingly.
 
----
 
 ### Which organization currently oversees Canadian investment dealers and mutual fund dealers as of 2025?
 
@@ -238,7 +237,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** MFDA and IIROC no longer exist as separate entities. They merged into CIRO on January 1, 2023. CIRO now regulates all investment dealers, mutual fund dealers, and market integrity activities in Canada.
 
----
 
 ### What is a common limitation when relying solely on online questionnaires for KYC (Know Your Client)?
 
@@ -249,7 +247,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** A simple questionnaire might not fully capture complex nuances of a client’s financial life or emotional tolerance for market volatility.
 
----
 
 ### In a robo-advisor setting, which core activity does “rebalancing” refer to?
 
@@ -260,7 +257,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** Rebalancing involves buying or selling certain assets to maintain the intended allocation (e.g., 60% equities and 40% bonds) as market prices fluctuate.
 
----
 
 ### Which term describes the legal and ethical requirement for advisors to act in their clients’ best interest?
 
@@ -271,7 +267,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** Fiduciary duty requires the advisor or platform to put the client’s interests above their own, disclosing any conflicts of interest.
 
----
 
 ### Which of the following is NOT typically considered a drawback of using a robo-advisor?
 
@@ -282,7 +277,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** Robo-advisors are not designed to provide personal counseling or therapy. The other options—limited personalization, reliance on algorithms, and potential communication gaps—are recognized drawbacks.
 
----
 
 ### A hybrid advisory model best suits which type of client?
 
@@ -293,7 +287,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** A hybrid model is ideal if you want convenience and cost advantages of digital platforms but also value having an advisor to handle complex or nuanced situations.
 
----
 
 ### If an automated platform invests solely in one provider’s funds without disclosure, this could be a breach of what principle?
 
@@ -304,7 +297,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** Not disclosing potential conflicts of interest—like investing exclusively in proprietary funds—may breach the duty to act in the client’s best interest.
 
----
 
 ### What type of clients typically get the most value from pure robo-advisory services?
 
@@ -315,7 +307,6 @@ The big takeaway: Robo-advisors aren’t a threat to human advisors; they’re t
 
 > **Explanation:** Investors with typical or less complex goals (saving for retirement, paying for education, etc.) often benefit the most from low-cost, automated solutions.
 
----
 
 ### True or False: Low fees, automated portfolios, and easy onboarding are common advantages of robo-advisory.
 

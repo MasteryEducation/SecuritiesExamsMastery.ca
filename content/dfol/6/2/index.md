@@ -236,7 +236,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** A put option buyer has the right— not the obligation— to sell the underlying asset at the strike if it is advantageous, highlighting the optionality feature.
 
----
 
 ### What is the strike price of an option?
 
@@ -247,7 +246,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** The strike price (or exercise price) is the set price at which the holder can buy (call) or sell (put) the underlying asset.
 
----
 
 ### Which of the following statements is true regarding a short call position?
 
@@ -258,7 +256,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** The writer of a short call (especially if uncovered) faces potentially unlimited risk if the price rises. The writer received a premium, but is obliged to deliver shares if the buyer exercises.
 
----
 
 ### If a call option is at-the-money (ATM), that means:
 
@@ -269,7 +266,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** An ATM call means the market price of the underlying matches the strike price. Thus, it has no intrinsic value but still retains time value.
 
----
 
 ### Which best describes an “American-style” option?
 
@@ -280,7 +276,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** American-style options can be exercised at any point before expiration, offering more flexibility compared to European-style options.
 
----
 
 ### In which scenario is a put option most likely to expire in-the-money?
 
@@ -291,7 +286,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** Puts go in-the-money if the underlying’s price is less than the strike price.
 
----
 
 ### An investor who writes a put option without owning any offsetting position:
 
@@ -302,7 +296,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** A put writer must purchase the underlying if assigned, which can be risky if the underlying’s price dives.
 
----
 
 ### Which term describes the cash paid to an option writer in exchange for granting the buyer rights?
 
@@ -313,7 +306,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** The premium is the upfront cost a buyer pays; the writer receives this premium but assumes the contract’s obligation.
 
----
 
 ### A call option with a strike price of $20 on a stock currently trading at $25 is considered:
 
@@ -324,7 +316,6 @@ If you find yourself scratching your head—maybe you forgot the difference betw
 
 > **Explanation:** In a call option, if the stock price (25) is above the strike (20), the option is ITM by $5 of intrinsic value.
 
----
 
 ### True or False: European-style options can be exercised at any time before they expire.
 

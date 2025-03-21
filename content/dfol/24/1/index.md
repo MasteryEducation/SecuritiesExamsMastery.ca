@@ -212,7 +212,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** An investor’s birth date, while part of broader KYC documents, is not specifically required on the order ticket. The other details are crucial to executing an option trade accurately.
 
----
 
 ### What is the primary reason for specifying “opening” or “closing” in an option order?
 
@@ -223,7 +222,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** “Opening” vs. “closing” tells the broker and clearing system whether you’re initiating a new position or offsetting an existing one. This distinction affects margin and position records.
 
----
 
 ### If a client places a market order in a thinly traded option series, what is the main risk?
 
@@ -234,7 +232,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** In a thinly traded market, executing a market order can lead to a fill at a far worse price than expected due to the wide bid-ask spread.
 
----
 
 ### Which statement best describes the role of a stop order?
 
@@ -245,7 +242,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** A stop order is activated once the market price reaches the specified stop level. It can convert into a market or limit order, depending on the order instructions.
 
----
 
 ### Why might a dealer request additional documentation before placing a new option trade for a client?
 
@@ -256,7 +252,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** Dealers must ensure each new option trade aligns with the client’s approval tier and risk tolerance as outlined in KYC records.
 
----
 
 ### In a margin account, which of the following trades typically requires higher margin?
 
@@ -267,7 +262,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** Selling a naked call has potentially unlimited risk, so the margin requirement is higher compared to buying options or selling a covered call.
 
----
 
 ### Which entity in Canada generally handles the clearing of listed option trades?
 
@@ -278,7 +272,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** The CDCC is responsible for clearing and settling listed derivative trades, including options, in Canada.
 
----
 
 ### What is the possible consequence of placing an order with an incorrect strike price?
 
@@ -289,7 +282,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** An incorrect strike price can lead to holding a position that doesn’t match your intended strategy, potentially causing unexpected risk or losses.
 
----
 
 ### Which resource would you consult to confirm specific rules covering the addition or deletion of option series on the Bourse de Montréal?
 
@@ -300,7 +292,6 @@ In practice, an options trade is a collaboration between you, your broker (the i
 
 > **Explanation:** The Bourse de Montréal Rulebook details the operational procedures and rules for listed options and derivatives in Canada.
 
----
 
 ### True or False: A limit order will always be filled at your specified price level once the market touches your limit price.
 

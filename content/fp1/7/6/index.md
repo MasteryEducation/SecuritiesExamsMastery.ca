@@ -240,7 +240,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** A Power of Attorney is a legal document that designates someone else to make decisions on your behalf during your lifetime, typically in the event of incapacity or absence.
 
----
 
 ### What is one of the primary objectives of creating a Power of Attorney?
 - [ ] Ensuring an executor is in place after your death.
@@ -250,7 +249,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** Continuity of financial and personal care in case of incapacitation is a key goal of a POA. The executor and will come into play after death, not before.
 
----
 
 ### Which of the following is a potential advantage of having a valid POA?
 - [x] Avoiding expensive and time-consuming court proceedings for guardianship.
@@ -260,7 +258,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** A valid POA can help you sidestep court applications for guardianship or trusteeship. It also provides peace of mind because a trusted individual can step in if you cannot manage your affairs.
 
----
 
 ### In Ontario, the legislation that governs POAs is known as:
 - [ ] The Powers of Attorney Act.
@@ -270,7 +267,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** Ontario’s Substitute Decisions Act governs both the Power of Attorney for Property and Power of Attorney for Personal Care.
 
----
 
 ### Which statement best describes a “limited” (or specific) Power of Attorney?
 - [x] It grants authority for a particular action or limited time period.
@@ -280,7 +276,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** A limited POA restricts the attorney’s authority to a specific task or timeframe. This can include selling property, handling certain bank accounts, or other narrow duties.
 
----
 
 ### True or False: A POA ends immediately upon the principal’s death.
 - [x] True
@@ -288,7 +283,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** A POA is only valid during the lifetime of the principal. After the principal passes away, the executor named in the will takes over.
 
----
 
 ### Which office in each province can step in if there is a dispute or misuse of a POA?
 - [x] The Public Guardian and Trustee.
@@ -298,7 +292,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** The Public Guardian and Trustee typically oversees alleged misuse or conflict in POAs. CIRO oversees investment dealers and markets, and the Canadian Bankers Association provides guidelines but doesn’t enforce disputes.
 
----
 
 ### What is a common pitfall if you do NOT keep your POA updated after moving to a new province?
 - [ ] No consequences, as all POAs are perfectly valid across provinces.
@@ -308,7 +301,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** Because of varying provincial laws, an outdated POA may not meet legal requirements in a new province, possibly causing refusal or confusion at banks and other institutions.
 
----
 
 ### Which of the following best describes the “Enduring” or “Continuing” POA?
 - [ ] A POA that terminates as soon as the principal is declared incapacitated.
@@ -318,7 +310,6 @@ Ultimately, the objective is to protect you from the chaos that can arise when l
 
 > **Explanation:** An Enduring or Continuing POA is drafted to remain valid (or become valid) when the principal loses capacity, thereby helping to manage affairs without interruption.
 
----
 
 ### True or False: POA legislation is governed solely by federal law in Canada.
 - [ ] True

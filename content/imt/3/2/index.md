@@ -217,7 +217,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** Asset allocation helps investors manage risk by spreading investments across various asset classes, reducing overall volatility. It does not, however, guarantee outperformance or the elimination of all losses.
 
----
 
 ### What is the primary difference between Strategic Asset Allocation and Tactical Asset Allocation?
 
@@ -228,7 +227,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** Strategic Asset Allocation sets a long-term, policy-driven mix, whereas Tactical Asset Allocation involves short-term or opportunistic adjustments.
 
----
 
 ### Rebalancing a portfolio generally involves:
 
@@ -239,7 +237,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** Rebalancing brings a portfolio’s actual allocation back in line with the baseline or target percentages. It does not require eliminating an entire asset class or moving everything to cash.
 
----
 
 ### Which entity now oversees investment dealers and mutual fund dealers in Canada, replacing MFDA and IIROC?
 
@@ -250,7 +247,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** Effective 2023, the MFDA and IIROC were consolidated into a new self-regulatory organization, now called CIRO.
 
----
 
 ### How does an Investment Policy Statement (IPS) support the asset allocation process?
 
@@ -261,7 +257,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** The IPS lays out the client’s goals, risk tolerance, and constraints, acting as a road map. It supports rebalancing and ensures compliance with guidelines like KYC and suitability.
 
----
 
 ### In which scenario might Tactical Asset Allocation be most beneficial?
 
@@ -272,7 +267,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** Tactical Asset Allocation aims to take advantage of short-term market or economic conditions to deviate (temporarily) from the strategic baseline.
 
----
 
 ### What function do Value-at-Risk (VaR) and stress testing serve in the asset allocation process?
 
@@ -283,7 +277,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** VaR and stress testing can model worst-case or extreme scenarios, highlighting areas of vulnerabilities and helping investors adjust allocations accordingly.
 
----
 
 ### Why might an investor consider placing interest-paying bonds in a registered account (e.g., RRSP or TFSA) in Canada?
 
@@ -294,7 +287,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** Bonds typically generate interest income subject to higher taxation in non-registered accounts, so holding them in an RRSP or TFSA can reduce or defer taxes, optimizing after-tax returns.
 
----
 
 ### Which regulatory guidance focuses on matching an investor’s profile to suitable investments?
 
@@ -305,7 +297,6 @@ Stay informed, stay balanced, and remember that no single asset class or approac
 
 > **Explanation:** KYC and Suitability requirements ensure that investments align with the client’s objectives, risk tolerance, and financial situation, which is foundational to asset allocation.
 
----
 
 ### True or False: A disciplined asset allocation strategy guarantees protection from all market volatility.
 

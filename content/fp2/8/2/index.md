@@ -219,7 +219,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** OAS is funded by general tax revenues and does not require contributions. To qualify for the full OAS payout, individuals typically must reside in Canada for 40 years after turning 18.
 
----
 
 ### Which of the following best describes the OAS clawback (OAS Recovery Tax)?
 
@@ -230,7 +229,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** OAS has an income threshold. If your net income surpasses that threshold, you may be required to repay part or all of your OAS, commonly referred to as the clawback.
 
----
 
 ### What is the primary reason someone might choose to defer receiving OAS beyond age 65?
 
@@ -241,7 +239,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** Deferring OAS increases the monthly payout. This strategy can be beneficial for those expecting a longer lifespan or wanting to reduce potential clawback while they still have high employment income.
 
----
 
 ### Which of the following income sources would NOT typically affect OAS clawback?
 
@@ -252,7 +249,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** Income from a TFSA is not taxed and does not count towards net income for the purposes of calculating the OAS clawback, whereas other sources (employment pension, RRIF, taxable investment income) do count.
 
----
 
 ### Why might spousal income splitting be beneficial concerning the OAS clawback?
 
@@ -263,7 +259,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** By shifting eligible pension income from one spouse to another, you can keep each individual’s net income in a lower tax bracket and below the OAS clawback threshold.
 
----
 
 ### If a client continues to work full-time at age 65 and is likely to trigger a clawback, one recommended strategy is:
 
@@ -274,7 +269,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** Deferring OAS until the client reduces their working hours or stops working can help them avoid clawback during those high-income years.
 
----
 
 ### Which of the following statements is TRUE about partial OAS?
 
@@ -285,7 +279,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** It’s possible to receive a partial OAS if you don’t have enough residency years for a full benefit. The benefit amount is proportional to the number of residency years.
 
----
 
 ### One key benefit of using financial planning software like RazorPlan or Snap Projections is:
 
@@ -296,7 +289,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** By using such tools, advisors can efficiently create multiple scenarios to decide on the best timing for OAS or the optimal split of pension income. This ensures data-driven retirement strategies.
 
----
 
 ### Which of the following is the best description of the “break-even point” in the context of OAS deferral?
 
@@ -307,7 +299,6 @@ It might seem overwhelming, but OAS intricacies are just another piece of the re
 
 > **Explanation:** When deferring OAS, the break-even point is when the additional amounts you receive from deferring surpass the total OAS you would have collected had you started earlier.
 
----
 
 ### The OAS program is funded by:
 

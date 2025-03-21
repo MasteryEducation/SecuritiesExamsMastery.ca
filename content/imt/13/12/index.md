@@ -215,7 +215,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** Private equity funds typically focus on more mature businesses, sometimes using leveraged buyouts. Venture capital funds, on the other hand, focus on early-stage or high-growth startups.
 
----
 
 ### Which statement best describes the “capital call” process in private equity or venture capital?
 
@@ -226,7 +225,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** Private equity and VC funds operate by calling down capital from investors as needed to invest in deals, rather than collecting the entire commitment upfront.
 
----
 
 ### Which of the following is most closely associated with direct early-stage investments, often in return for convertible debt or equity?
 
@@ -237,7 +235,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** Angel investors focus on seed or early-stage companies, often investing in exchange for convertible notes or ownership shares.
 
----
 
 ### What is a key characteristic of private market investments compared to public market investments?
 
@@ -248,7 +245,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** A hallmark of private market investments is their illiquidity and longer lock-up periods. While oversight does exist, it’s not as standardized as in public markets.
 
----
 
 ### In Canada, which entity oversees investment dealers and market integrity after the amalgamation of IIROC and the MFDA?
 
@@ -259,7 +255,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) became the unified self-regulatory organization, effective June 1, 2023. IIROC and MFDA are now defunct.
 
----
 
 ### The “J-curve” in private equity typically refers to:
 
@@ -270,7 +265,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** The J-curve illustrates how PE returns might be negative or low in the early years, then ramp up as exits occur and value is realized.
 
----
 
 ### Which of the following is a reason investors sometimes sell an LP interest on the secondary market?
 
@@ -281,7 +275,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** Liquidity needs and dissatisfaction with a manager can drive an investor to seek the secondary market, typically at a discount. (Note that multiple statements here can be correct in practical scenarios: needing liquidity or wanting to exit a poor manager.)
 
----
 
 ### When investing directly in a private business, which document commonly governs voting rights and liquidation preferences?
 
@@ -292,7 +285,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** In direct private company investments, shareholders’ agreements typically outlines the voting rights and liquidation preferences of shareholders.
 
----
 
 ### In the Canadian context, which legislative act primarily governs the incorporation and governance of federally registered businesses?
 
@@ -303,7 +295,6 @@ The private capital markets in Canada are affected by a patchwork of provincial 
 
 > **Explanation:** The CBCA provides the legal framework for creating and governing federally incorporated companies in Canada.
 
----
 
 ### True or False: The Canadian Investor Protection Fund (CIPF) functions as a performance guarantee for private equity investments.
 

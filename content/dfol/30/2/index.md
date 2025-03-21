@@ -205,7 +205,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** Each call has a delta of +0.45, but the market maker is short these calls, so delta is -0.45 per option. Each contract is 100 shares: 100 × 0.45 = 45 delta per contract. For 100 contracts, total = 100 × 45 = 4,500. Because it is a short position, total delta is -4,500. To hedge negative delta, the market maker buys 4,500 shares.
 
----
 
 ### Gamma exposure primarily affects which aspect of an option’s risk profile?
 
@@ -216,7 +215,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** Gamma measures how an option’s delta changes as the underlying price fluctuates. A position with high gamma exposure will see large swings in delta.
 
----
 
 ### Which of the following best describes why market makers strive to maintain a delta-neutral portfolio?
 
@@ -227,7 +225,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** Delta-neutral strategies help market makers reduce immediate price risk. It doesn’t guarantee profit, but it minimizes the impact of small fluctuations in the underlying price.
 
----
 
 ### If a market maker has a large short put position on a stock that surges higher, how does the delta of the short puts change?
 
@@ -238,7 +235,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** For a short put, as the stock price rises, the put’s delta moves closer to zero (less negative). That means the short put becomes less sensitive to price increases.
 
----
 
 ### Which regulatory entity in Canada oversees net capital requirements and risk management guidelines for market makers?
 
@@ -249,7 +245,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** CIRO sets net capital requirements and related guidelines for Canadian investment dealers, including market makers. MFDA and IIROC are historical predecessor SROs now amalgamated under CIRO.
 
----
 
 ### When a market maker’s real-time monitoring system alerts them of a negative gamma position before a major earnings announcement, which action might they take to mitigate risk?
 
@@ -260,7 +255,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** A prudent approach is to buy a call or put spread (or other offsetting strategy) to reduce negative gamma exposure when large market moves are expected.
 
----
 
 ### A market maker is short 2,000 calls on ABC Inc. with significant negative gamma. The stock price starts to rise quickly. How does the market maker typically respond?
 
@@ -271,7 +265,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** In response to a rising stock price that increases negative delta, the market maker buys underlying shares to rebalance back to a delta-neutral position.
 
----
 
 ### If underlying shares become scarce or expensive to borrow, what is a possible alternate hedging solution?
 
@@ -282,7 +275,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** When the actual underlying is not available or costly, a market maker might seek a correlated instrument (e.g., an index future) to partially hedge their exposure.
 
----
 
 ### Which of the following is a common pitfall when attempting to hedge option positions intraday?
 
@@ -293,7 +285,6 @@ Anyway, I hope this gave a solid look into how these unsung heroes of market liq
 
 > **Explanation:** Over-hedging can lead to too many trades and high transaction fees, eating into profitability.
 
----
 
 ### True or False: Market makers typically aim to profit primarily from directional price moves in the underlying.
 

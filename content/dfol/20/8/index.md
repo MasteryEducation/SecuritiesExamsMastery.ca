@@ -201,7 +201,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** American-style options can be exercised anytime up to (and including) the expiration date. This introduces a layer of unpredictability known as early assignment risk, especially if there are dividends or other factors at play.
 
----
 
 ### According to CIRO guidelines, why is focusing on client suitability crucial when recommending a short straddle?
 
@@ -212,7 +211,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** Under CIRO, ensuring a trade aligns with the client’s risk tolerance, financial situation, and investment goals is mandatory. A short straddle carries unlimited risk if the underlying moves dramatically in either direction.
 
----
 
 ### When monitoring implied vs. realized volatility over the life of a trade, which of the following best describes realized volatility?
 
@@ -223,7 +221,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** Realized volatility measures how much the underlying price actually moved over a specific period. Implied volatility is forward-looking, reflecting the market’s views about future price fluctuations.
 
----
 
 ### Which resource would be most appropriate for getting official Canadian margin requirements for options strategies?
 
@@ -234,7 +231,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** CIRO is the recognized self-regulatory organization in Canada. Its site is the definitive source for margin requirements in Canadian markets.
 
----
 
 ### Suppose you enter a short call on a Canadian equity that pays a dividend next month. What is a key reason the position might face early assignment?
 
@@ -245,7 +241,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** American-style options grant the holder the right to exercise at any time. If the stock is paying a dividend, holders of calls might exercise early to become shareholders and capture that dividend.
 
----
 
 ### Which of the following best describes the concept of Portable Alpha in the context of volatility trading?
 
@@ -256,7 +251,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** Portable Alpha involves separating alpha (excess returns from skillful active management) from the beta (market exposure), often by using volatility overlays or other derivatives to generate returns irrespective of the core portfolio’s beta.
 
----
 
 ### One notable difference between Reg-T margin in the U.S. and CIRO margin in Canada is:
 
@@ -267,7 +261,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** While conceptually similar, margin rules can differ between the two jurisdictions. Traders in Canada must reference CIRO and Bourse de Montréal guidelines rather than relying solely on U.S. Reg-T rules.
 
----
 
 ### If the implied volatility of an option is significantly higher than the recent realized volatility of the underlying, which strategy might a volatility trader consider?
 
@@ -278,7 +271,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** When implied volatility exceeds realized volatility by a large margin, some traders interpret that as an opportunity to sell (write) options, assuming implied volatility may revert to more typical levels.
 
----
 
 ### Which of the following is a practical way to stress test a volatility-based portfolio?
 
@@ -289,7 +281,6 @@ As you move forward, remember that the Canadian derivatives market is well-regul
 
 > **Explanation:** Scenario analyses that incorporate changes in volatility, potential underlying price shocks, and early assignment risks are essential to robust stress testing. Focusing on a single dimension (like price only) is insufficient.
 
----
 
 ### True or False: A short straddle has limited upside risk since the premium collected serves as a cushion.
 

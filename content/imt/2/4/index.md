@@ -204,7 +204,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Confirmation Bias specifically involves filtering out information that doesn’t match your preconceived notions, and seizing on data that reinforces what you already believe.
 
----
 
 ### Recency Bias influences an investor to:
 
@@ -215,7 +214,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Recency Bias leads individuals to weigh recent information or market events too heavily, often resulting in rushed judgments.
 
----
 
 ### What is the Disposition Effect?
 
@@ -226,7 +224,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** The Disposition Effect describes the tendency to lock in gains quickly due to fear of losing them, but to hold onto losing investments hoping they’ll recover.
 
----
 
 ### Which technique can help mitigate Confirmation Bias?
 
@@ -237,7 +234,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Challenging your belief, such as reading negative analyses or consulting with impartial advisors, helps overcome Confirmation Bias.
 
----
 
 ### In overcoming Recency Bias, which strategy would be most effective?
 
@@ -248,7 +244,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Recency Bias can be mitigated by adopting a longer-term viewpoint and setting guidelines in an IPS, so that short-term swings don’t derail your strategy.
 
----
 
 ### CIRO (Canadian Investment Regulatory Organization) replaced:
 
@@ -259,7 +254,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** As of January 2023, CIRO became the main self-regulatory body in Canada, taking over from these former entities.
 
----
 
 ### Which of the following is a recommended best practice for managing a client’s Exposure to the Disposition Effect?
 
@@ -270,7 +264,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Setting clear exit strategies and re-evaluating positions through a fresh lens ensures that emotional attachment to the original purchase price does not cloud judgment.
 
----
 
 ### How might a robo-advisor help combat biases?
 
@@ -281,7 +274,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Many robo-advisors are programmed to detect spikes in emotional or reactive trading, and they can prompt users to re-think decisions before proceeding.
 
----
 
 ### An investor strongly believes a promising tech startup will succeed and overlooks all negative news. This is a direct example of:
 
@@ -292,7 +284,6 @@ In your journey as an investor or advisor, remember it takes ongoing self-awaren
 
 > **Explanation:** Ignoring negative information in favor of reaffirming evidence is the hallmark of Confirmation Bias.
 
----
 
 ### True or False: The Disposition Effect often leads investors to hold onto losing investments to avoid realizing a loss.
 

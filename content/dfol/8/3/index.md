@@ -214,7 +214,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** Path dependence means that what happens at every point (or certain points) in time can affect the option's eventual payoff, unlike a standard vanilla option.
 
----
 
 ### Which of the following is the fundamental characteristic of a barrier option?
 
@@ -225,7 +224,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** Barrier options have “knock-in” or “knock-out” features tied to specific trigger prices. Crossing that threshold either creates or cancels the option.
 
----
 
 ### Which technology or software library is commonly used in pricing complex exotic options through Monte Carlo simulations?
 
@@ -236,7 +234,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** QuantLib is an open-source library widely used to price a range of derivatives, including exotics, via simulation and other numerical methods.
 
----
 
 ### In an Asian option, the payoff is determined by:
 
@@ -247,7 +244,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** Asian options take an average (arithmetic or geometric) of the underlying's price across a pre-defined timeframe to determine the final payoff.
 
----
 
 ### What is a key regulatory concern for exotic options trading in Canada's OTC market?
 
@@ -258,7 +254,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** The CSA and CIRO emphasize robust risk management and mandatory reporting for OTC derivatives under Canada’s regulatory framework.
 
----
 
 ### Which best describes a digital (binary) option?
 
@@ -269,7 +264,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** Binary (digital) options provide a fixed payoff if the underlying meets or exceeds a specific threshold, often making them “all or nothing.”
 
----
 
 ### What is the main benefit of using an Asian option for a commodity hedger?
 
@@ -280,7 +274,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** By using an average price, Asian options moderate the impact of sudden price movements, which is beneficial for certain hedging strategies.
 
----
 
 ### Which statement about exotics is correct?
 
@@ -291,7 +284,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** Path dependency and customized triggers introduce modeling complexity for exotic options, making advanced computational methods essential.
 
----
 
 ### What is a common pitfall with barrier options?
 
@@ -302,7 +294,6 @@ No matter your motivation—hedging, speculating, or just geeky curiosity—the 
 
 > **Explanation:** Barrier triggers can be subject to disputes if contract terms or market data (e.g., intraday ticks vs. closing prices) aren’t established clearly.
 
----
 
 ### True or False: An ISDA Master Agreement is rarely used for documenting exotic options.
 

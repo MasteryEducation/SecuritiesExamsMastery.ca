@@ -267,7 +267,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** The CRA continually releases updated guidance (interpretation bulletins) to address new developments in derivative products, from weekly options to crypto-linked ETFs, ensuring taxes are applied correctly.
 
----
 
 ### A Canadian crypto-linked ETF uses futures on a U.S. exchange as its underlying. Which step does the CRA require?
 
@@ -278,7 +277,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** Under section 261 of the Income Tax Act, amounts must be calculated in Canadian dollars. If the underlying trades in USD, the CRA requires currency conversion for both cost base and proceeds.
 
----
 
 ### What aspect may trigger T1135 foreign reporting obligations for Canadian taxpayers trading derivatives?
 
@@ -289,7 +287,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** The T1135 form must be filed if the total cost of foreign property exceeds $100,000 CAD at any time during the year. This can include foreign-listed options if the cost base alone or combined with other foreign property hits the threshold.
 
----
 
 ### A short-term weekly option is most likely to be considered business income if:
 
@@ -300,7 +297,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** Frequent, short-term option transactions are often viewed by the CRA as business income rather than capital gains, reflecting a speculative or “day-trading” approach.
 
----
 
 ### When an option expires worthless, this triggers:
 
@@ -311,7 +307,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** If your option expires worthless, that moment is considered a realization event—the entire loss (or gain) is recognized.
 
----
 
 ### How does the CRA typically distinguish between a hedge transaction and speculation?
 
@@ -322,7 +317,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** The CRA looks at the link between the derivative and the underlying capital asset. If it’s genuinely used to offset risk on a capital asset, it can be considered a hedge, potentially resulting in capital gains or losses.
 
----
 
 ### In a covered call scenario, which event may lead to a capital gain on the underlying?
 
@@ -333,7 +327,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** If a covered call is exercised, the shares are effectively sold at the strike price, creating a capital gain or loss on the underlying shares.
 
----
 
 ### Why has the CRA shown particular interest in cryptocurrency-linked ETF options?
 
@@ -344,7 +337,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** Cryptocurrency-linked ETF options can involve offshore futures and large price swings. This can complicate how gains, losses, or currency conversions are reported.
 
----
 
 ### Which is a best practice for Canadian taxpayers trading options with underlying U.S. stocks?
 
@@ -355,7 +347,6 @@ In a nutshell, the CRA’s latest interpretations on derivatives reflect how qui
 
 > **Explanation:** It’s essential to convert all trades to CAD under ITA section 261 and to watch for T1135 thresholds. Relying solely on month-end statements without proper conversion can lead to inaccuracies.
 
----
 
 ### True or False: Rolling an option position to a new expiry can create a separate realization event for tax purposes.
 

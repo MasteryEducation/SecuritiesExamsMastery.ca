@@ -162,7 +162,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** Currency risk arises when exchange rate fluctuations affect the conversion of foreign investments back into the investor’s home currency. A weakening British Pound relative to the Canadian Dollar can hurt a Canadian investor’s returns when the investor converts GBP proceeds back into CAD.
 
----
 
 ### What term describes the difference between the highest price a buyer is willing to pay and the lowest price a seller is willing to accept?
 
@@ -173,7 +172,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** The bid-ask spread is the difference between the bid (buyer’s offer) and the ask (seller’s offer) and directly affects transaction costs, particularly in illiquid international markets.
 
----
 
 ### Which one of the following is a recommended resource for understanding political and credit risk across countries?
 
@@ -184,7 +182,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** The OECD Country Risk Classification (https://www.oecd.org) provides assessments of political and credit risk, helping investors gauge the stability and reliability of various markets.
 
----
 
 ### How can exchange rate fluctuations cause even a foreign investment that has performed well locally to yield a lower home-country return?
 
@@ -195,7 +192,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** If the foreign currency depreciates relative to the home currency, the home-country equivalent of returns may be reduced, even if the asset’s local value rose.
 
----
 
 ### What does “information asymmetry” mean in the context of international investing?
 
@@ -206,7 +202,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** Information asymmetry occurs when one party holds advantageous knowledge the other lacks, leading to imbalanced decision-making and potentially less efficient market prices.
 
----
 
 ### Which regulatory body oversees investment dealers and mutual fund dealers in Canada as of 2025?
 
@@ -217,7 +212,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** As of 2025, the Canadian Investment Regulatory Organization (CIRO) is Canada’s self-regulatory authority for investment dealers and mutual fund dealers, having succeeded the now-defunct MFDA and IIROC.
 
----
 
 ### Which of the following can be considered a key component of political risk?
 
@@ -228,7 +222,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** Political risk involves factors such as government expropriation or significant regulatory changes that can directly affect the viability and profitability of foreign investments.
 
----
 
 ### Which strategy can help manage currency risk in an international portfolio?
 
@@ -239,7 +232,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** Currency hedging programs, using instruments like forwards or futures, can help lock in an exchange rate and mitigate undesirable currency fluctuations.
 
----
 
 ### What is one reason that liquidity risk can be higher in certain international markets?
 
@@ -250,7 +242,6 @@ If you’re still weighing your options, it’s okay to test the waters incremen
 
 > **Explanation:** In some countries, the market trading volume is significantly lower, making it harder to sell holdings quickly or at a fair price, which in turn increases the possibility of liquidity risk.
 
----
 
 ### True or False: High operational costs on international transactions can sometimes negate the diversification benefits of investing overseas.
 

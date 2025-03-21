@@ -222,7 +222,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** The Mutual Fund Dealers Association (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC) combined to form CIRO on January 1, 2023. CIRO now oversees both mutual fund dealers and investment dealers.
 
----
 
 ### According to the portfolio management process, which of the following is the primary goal of developing an Investment Policy Statement (IPS)?
 
@@ -233,7 +232,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** The IPS is designed to capture the client’s unique situation and formalize how the portfolio should be managed. It’s not just marketing material, nor does it replace official KYC documents.
 
----
 
 ### In the context of asset allocation strategies, what is “tactical asset allocation” generally meant to do?
 
@@ -244,7 +242,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** Tactical asset allocation involves making short-term, opportunistic changes around a core strategic mix. It doesn’t eliminate the need to rebalance, nor does it guarantee zero risk.
 
----
 
 ### Which of the following is NOT typically included as a constraint in the portfolio management process?
 
@@ -256,7 +253,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** Daily leveraged trading requirements are uncommon constraints for most individual investors, although institutions might have specialized constraints. Time horizon, tax considerations, liquidity needs, and legal/regulatory limitations are standard constraints.
 
----
 
 ### When choosing a security or product, the “suitability requirement” in Canada is regulated mainly by:
 
@@ -267,7 +263,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** CIRO is the self-regulatory organization that enforces rules related to suitability in Canada. CIPF protects client assets if a member firm becomes insolvent; CFA Institute is a professional body, and the New SRO is simply a past or informal reference to CIRO.
 
----
 
 ### What is the benefit of rebalancing a portfolio periodically?
 
@@ -278,7 +273,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** Rebalancing periodically ensures the portfolio doesn’t drift away from its intended risk/return profile. It doesn’t guarantee higher returns or remove systemic risks.
 
----
 
 ### Which statement about diversification is accurate?
 
@@ -289,7 +283,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** Diversification helps manage unsystematic risk across sectors and geographies, but it can’t remove systemic or market-wide risk. It’s relevant to both conservative and aggressive investors.
 
----
 
 ### One key advantage of writing an IPS is that:
 
@@ -300,7 +293,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** An IPS ensures the advisor and client are aligned on objectives, constraints, and evaluation methods. It doesn’t replace regulatory documents, guarantee returns, or limit the client’s autonomy.
 
----
 
 ### In the portfolio management process, gathering both qualitative and quantitative data to build a client profile is referred to as which step?
 
@@ -311,7 +303,6 @@ Anyway, I hope this breakdown has demystified what can be an intimidating topic.
 
 > **Explanation:** Understanding the client’s profile is the first stage in the process, encompassing the collection of financial data (quantitative) and personal preferences (qualitative).
 
----
 
 ### True or False: Implementing a chosen investment strategy should consider transaction costs and market conditions.
 

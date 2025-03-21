@@ -202,7 +202,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** The core function of P&C insurance is to provide financial support when unforeseen accidents, fires, theft, or liability claims occur.
 
----
 
 ### Which of these policy elements outlines the coverage limits, premiums, and insured parties?
 
@@ -213,7 +212,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** The declarations page usually includes the insurer’s name, the policyholder’s name, coverage limits, premiums, and the policy term.
 
----
 
 ### How does increasing your deductible generally affect your insurance premium?
 
@@ -224,7 +222,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** Higher deductibles typically reduce premiums because policyholders are taking on more out-of-pocket risk, thus lowering risk exposure for insurers.
 
----
 
 ### If a policyholder requires additional protection against sewer backup, which policy feature would they likely seek?
 
@@ -235,7 +232,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** Endorsements or riders enhance the coverage of a base policy to include perils or situations not automatically covered.
 
----
 
 ### What is the difference between “replacement cost” and “actual cash value (ACV)”?
 
@@ -246,7 +242,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** Replacement cost indemnifies you for the full cost to repair or replace items at current prices, while ACV takes depreciation into account. Policy requirements around proof of purchase can vary, but typically both forms of coverage require documentation.
 
----
 
 ### Automobile insurance is mandatory in every Canadian province. Which aspect does it typically include?
 
@@ -257,7 +252,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** Provincial laws require at least third-party liability coverage; collision, comprehensive, and belongings coverage are usually optional or separate endorsements.
 
----
 
 ### In the context of small-business insurance, what is the primary benefit of having Commercial General Liability (CGL) coverage?
 
@@ -268,7 +262,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** A CGL policy is the first layer of defense against claims where your business’s operations, services, or products cause harm or damage.
 
----
 
 ### Which of the following is an example of a common pitfall in general insurance?
 
@@ -279,7 +272,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** Underinsurance is a real risk if you don’t update your policy after significant life changes or renovations.  
 
----
 
 ### Why might regular policy reviews be essential in a financial plan?
 
@@ -290,7 +282,6 @@ So, the next time you discuss a client’s financial plan, give due attention to
 
 > **Explanation:** Life circumstances change; so do insurance needs. Regular reviews help prevent coverage gaps.  
 
----
 
 ### True or False: The Insurance Bureau of Canada (IBC) provides resources primarily focused on consumer education and policy information.
 

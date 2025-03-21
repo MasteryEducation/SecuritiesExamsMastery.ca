@@ -225,7 +225,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** When key data like annual income or net worth is missing, the brokerage firm usually must contact the client to gather the missing information. Lacking this, regulatory standards require a delay or even account restriction.
 
----
 
 ### Which best describes a “compliance red flag” in the context of incomplete account applications?
 
@@ -236,7 +235,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** A compliance red flag indicates that something in the client’s account file may not meet regulatory standards. Missing information in the KYC file often triggers these compliance flags.
 
----
 
 ### A client who refuses to disclose net worth wants to trade advanced option strategies. Under Canadian regulations and CIRO guidelines, what might the firm do?
 
@@ -247,7 +245,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** Without net worth data, the firm can’t confirm the client’s capacity to absorb potential losses from advanced option strategies. They often must restrict or deny such requests until the information is provided.
 
----
 
 ### In practice, how would a broker typically document follow-up attempts for missing KYC information?
 
@@ -258,7 +255,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** Demonstrating compliance often involves detailed logs of each follow-up attempt, complete with timestamps and summaries of the conversation or correspondence.
 
----
 
 ### If a client consistently refuses to answer multiple key KYC questions, which statement is most accurate?
 
@@ -269,7 +265,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** The firm may have to restrict or close any new account application that doesn’t meet minimum KYC thresholds. Regulators require a complete suitability assessment for advanced trading privileges.
 
----
 
 ### Which of the following might be considered a best practice for an advisor who encounters a missing net worth field on an option account application?
 
@@ -280,7 +275,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** Advisors should explain why specific data is required and highlight confidentiality measures. Open communication helps gather essential info while alleviating client concerns.
 
----
 
 ### How does documenting follow-up attempts benefit both the firm and the client?
 
@@ -291,7 +285,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** Detailed record-keeping helps the firm show regulators they performed due diligence. It also supports the client by ensuring the firm fully understood their situation—or attempted to—before finalizing decisions.
 
----
 
 ### If missing KYC information is discovered mid-application, which step is typically taken first?
 
@@ -302,7 +295,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** Firms generally attempt to rectify missing KYC information through direct client contact. Immediate denial only follows if that attempt fails or if the client outright refuses.
 
----
 
 ### A client left the income field blank but tries to place a multi-leg debit spread. The firm:
 
@@ -313,7 +305,6 @@ Yes, the forms can feel intrusive. And yes, it may be a bit of a nuisance to rum
 
 > **Explanation:** Complex strategies often require thorough knowledge of the client’s financial background to ensure suitability. The missing information must be gathered first.
 
----
 
 ### True or False: Incomplete KYC data can lead to delayed account approval, restricted trading privileges, or even denial of the account.
 

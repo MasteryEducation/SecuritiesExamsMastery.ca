@@ -173,7 +173,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** Companies often use currency swaps to take advantage of interest rate disparities between different currencies. By borrowing in a cheaper market and then swapping that currency for one in which financing costs are typically more expensive, they can reduce their overall borrowing cost.
 
----
 
 ### How can currency swaps help a company with foreign currency obligations?
 
@@ -184,7 +183,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** When a Canadian firm faces recurring USD obligations, using a currency swap can lock in the effective exchange rate, protecting against adverse movements and providing predictable payment amounts.
 
----
 
 ### Why might a financial institution use currency swaps for Asset-Liability Management (ALM)?
 
@@ -195,7 +193,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** Financial institutions often rely on currency swaps to align the currency of their assets (loans, investments) with the currency of their liabilities (deposits, insurance payables). This reduces mismatch risk and stabilizes earnings.
 
----
 
 ### When converting cash flows using currency swaps, what is a primary risk factor?
 
@@ -206,7 +203,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** A key risk in swaps is that the counterparty may default, leaving a company unable to convert or hedge its payments effectively. Monitoring credit quality and requiring collateral can help mitigate this.
 
----
 
 ### Which of the following scenarios best illustrates refinancing existing debt via a currency swap?
 
@@ -217,7 +213,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** Refinancing debt through a swap means you keep the original bond outstanding (thus, you still pay principal and interest there) but overlay it with a currency swap that effectively changes the cost structure to a different currency or interest rate type.
 
----
 
 ### What is one major draw for hedge funds using currency swaps?
 
@@ -228,7 +223,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** Hedge funds often use swaps to take leveraged positions on interest rate markets or currencies. This speculation can yield profitable trades if done correctly, although it carries considerable risk.
 
----
 
 ### How can a currency swap strengthen a strategic partnership between two cross-border companies?
 
@@ -239,7 +233,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** A currency swap can let each partner leverage its home-market borrowing advantage and collaborate for more favorable financing, thereby deepening financial ties.
 
----
 
 ### Which best describes the regulatory landscape for currency swaps in Canada post-2023?
 
@@ -250,7 +243,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** After the amalgamation of the MFDA and IIROC, CIRO became the national self-regulatory organization in Canada. The CSA also issues regulatory guidance for derivatives, including currency swaps.
 
----
 
 ### What is a potential pitfall of relying solely on currency swaps for risk management?
 
@@ -261,7 +253,6 @@ If you’re a curious soul, or if you’re prepping for licensing exams, diving 
 
 > **Explanation:** While currency swaps can be powerful hedging tools, they also introduce credit risk (default by the counterparty) and liquidity risk (the possibility of not being able to close or transition the swap easily). Hence, they must be monitored carefully.
 
----
 
 ### True or False: A currency swap can help a Canadian company stabilize USD payments for raw materials, even if the underlying spot USD/CAD exchange rate continues to fluctuate daily.
 

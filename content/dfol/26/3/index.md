@@ -212,7 +212,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Confirming an institution’s legal authority to trade derivatives is central to KYC. If an entity lacks the legal capacity, the dealer can’t open the account safely.
 
----
 
 ### What is a primary reason for dealers to request financial statements from institutional clients?
 
@@ -223,7 +222,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Financial statements are typically used to evaluate an institution’s net worth, liquidity profile, and overall capacity to handle the risks associated with derivatives trades.
 
----
 
 ### Which statement most accurately reflects a “risk-based approach” to AML/ATF for institutional clients?
 
@@ -234,7 +232,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Under a risk-based approach, dealers apply more vigorous checks to clients from high-risk sectors or jurisdictions and more streamlined checks for well-regulated entities.
 
----
 
 ### During the KYC process for a small private hedge fund with unclear ownership, what is a key question a dealer should ask?
 
@@ -245,7 +242,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Dealers must identify ultimate beneficial owners to mitigate AML/ATF exposure, particularly if the fund’s ownership is not transparent.
 
----
 
 ### How often should large institutions’ KYC information generally be reviewed by dealers?
 
@@ -256,7 +252,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Large or complex institutions can change their operations quickly, so best practices suggest an annual or semi-annual review, with additional reviews if material changes occur in the interim.
 
----
 
 ### Which of the following statements best describes the role of a board resolution in institutional KYC?
 
@@ -267,7 +262,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** A board resolution is a formal document that outlines who has the authority to act on the institution’s behalf, which is crucial for verifying signatories.
 
----
 
 ### Why is understanding the client’s risk management framework critical in institutional KYC?
 
@@ -278,7 +272,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** A client’s risk management framework indicates its capacity to handle market volatility, margin calls, and evolving exposures—essential for KYC and suitability.
 
----
 
 ### What is the primary goal of verifying whether an institutional client is using derivatives for hedging or speculation?
 
@@ -289,7 +282,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Determining the reason behind a derivative transaction (hedging vs. speculation) helps you evaluate if the product suits the client’s objectives, thus aligning with overall KYC and suitability obligations.
 
----
 
 ### When dealing with a government entity as an institutional client, which step is typically reduced or simplified?
 
@@ -300,7 +292,6 @@ And, of course, each year brings new rules, new guidance, and new ways of thinki
 
 > **Explanation:** Recognized government entities typically pose lower AML risks, so dealers often streamline that part of the process.
 
----
 
 ### True or False: An institution’s KYC data may remain static over time, eliminating the need for periodic reviews.
 

@@ -247,7 +247,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** The core distinction is that critical illness insurance pays a lumpsum benefit upon diagnosis of a covered condition, while disability insurance usually pays a periodic benefit if you cannot work due to disability.
 
----
 
 ### What is the usual purpose of the “waiting (survival) period” in a critical illness policy?
 
@@ -258,7 +257,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** Most critical illness policies require the insured to survive a certain period (often 30 days) after the diagnosis to receive the benefit.
 
----
 
 ### Which of the following conditions is most commonly considered part of basic critical illness coverage?
 
@@ -269,7 +267,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** The “big three” typically covered are heart attack, stroke, and cancer, though many policies now include more conditions.
 
----
 
 ### If you add a Return-of-Premium (ROP) rider to your CI policy, what is the primary effect?
 
@@ -280,7 +277,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** An ROP rider allows the insured to get some or all of their premiums returned at a certain point if no claim has been filed.
 
----
 
 ### In general, how can partial payouts in a CI policy benefit the insured?
 
@@ -291,7 +287,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** Partial payouts often apply for early or lower-severity forms of covered illnesses. Some policies allow you to still keep a portion of your coverage intact for future claims.
 
----
 
 ### Which of the following factors typically impacts critical illness insurance premiums?
 
@@ -302,7 +297,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** Premiums are usually influenced by age, gender, smoking status, family medical history, and the scope of coverage requested.
 
----
 
 ### What is typically the main advantage of combining critical illness insurance with disability insurance?
 
@@ -313,7 +307,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** Critical illness insurance provides immediate lumpsum funding after a covered diagnosis, while disability insurance replaces a portion of your lost income. Together, they address different (but complementary) financial needs.
 
----
 
 ### Why might an advisor recommend an extended coverage CI policy containing over 20 conditions?
 
@@ -324,7 +317,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** Extended coverage can offer reassurance for clients who want a larger net of protection, though it often leads to higher premiums.
 
----
 
 ### Which regulatory body provides standardized definitions for critical illnesses in Canada?
 
@@ -335,7 +327,6 @@ We never hope to make a claim on our insurance. But that’s exactly the point: 
 
 > **Explanation:** CLHIA offers guidelines and definitions of common critical illnesses, making it easier to compare coverage from various insurers.
 
----
 
 ### In Canada, critical illness insurance typically pays out tax-free. Is this statement true or false?
 

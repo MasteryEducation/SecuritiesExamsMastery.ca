@@ -218,7 +218,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** ISDA’s core role is in developing standardized documentation and definitions that market participants can rely on for clarity and uniformity.
 
----
 
 ### Which of the following is a key reason index-based CDS instruments are popular?
 
@@ -229,7 +228,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** Index-based CDS provide exposure to a basket of issuers, which typically enhances liquidity and diversification.
 
----
 
 ### What is one potential pitfall when using an index-based CDS to hedge a portfolio of corporate bonds?
 
@@ -240,7 +238,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** When the bonds in one’s portfolio do not match the index’s reference entities, the hedge may be less effective.
 
----
 
 ### How does electronic trading impact credit derivatives markets?
 
@@ -251,7 +248,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** Electronic platforms streamline trading, facilitate real-time quotes, and automate post-trade processes, improving overall market efficiency.
 
----
 
 ### Which Canadian regulatory body is primarily responsible for overseeing investment dealers and derivatives market integrity today?
 
@@ -262,7 +258,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** As of 2025, CIRO is the self-regulatory organization in Canada responsible for market integrity and oversight of investment dealers. The MFDA and IIROC no longer exist as separate entities.
 
----
 
 ### In an index CDS transaction, how is the rebalancing typically handled?
 
@@ -273,7 +268,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** Index CDS are periodically “rolled” to reflect updated constituent lists, typically based on rules set by the index administrators.
 
----
 
 ### What key document from ISDA governs the events and terms in a credit derivative?
 
@@ -284,7 +278,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** The ISDA “Credit Derivatives Definitions” specify essential terms such as credit events, settlement types, and relevant procedures for CDS.
 
----
 
 ### Which of the following best describes the role of central clearing in an index-based CDS?
 
@@ -295,7 +288,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** Central clearing involves a clearinghouse standing between buyers and sellers, managing daily margin and mitigating bilateral credit risk.
 
----
 
 ### What is one function of CIRO’s trade reporting requirements for credit derivatives?
 
@@ -306,7 +298,6 @@ As you continue exploring credit derivatives, remember: standardization doesn’
 
 > **Explanation:** CIRO’s reporting requirements enhance transparency, giving regulators a clearer picture of systemic risk and market participants’ exposures.
 
----
 
 ### True or False: Standardization via ISDA means all CDS now have zero risk.
 

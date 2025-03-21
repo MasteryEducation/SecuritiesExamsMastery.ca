@@ -226,7 +226,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** The classification of “call” vs. “put” is the very definition of the option class, distinguishing whether it conveys the right to buy or to sell the underlying.
 
----
 
 ### Which of the following is most likely to happen if you mistakenly type a much higher premium (e.g., $20 instead of $2) when placing a buy order on an option?  
 - [ ] The order automatically corrects to $2.00 based on an alert.  
@@ -236,7 +235,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** If the order is within the exchange’s permissible price ranges, it may be filled at or near that mistakenly high price, resulting in a severe overpayment.
 
----
 
 ### A weekly option typically differs from a standard monthly option primarily in which dimension?  
 - [x] The shorter time until expiry  
@@ -246,7 +244,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** A weekly option typically expires on the closest Friday, offering a significantly shorter life span compared to standard monthly options.
 
----
 
 ### Which best describes the “Opening or Closing Designation” on an options order ticket?  
 - [ ] A reference to whether the stock market is open or closed  
@@ -256,7 +253,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** “Opening” and “Closing” designate whether you are establishing a new position or offsetting an existing one.
 
----
 
 ### Which of the following special instructions ensures an order is valid only for that day’s trading session?  
 - [x] Day Order  
@@ -266,7 +262,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** A Day Order expires at the end of the current trading day if it is not executed.
 
----
 
 ### Which item on an order ticket indicates the agreed-on price at which a call or put may be exercised?  
 - [ ] Premium  
@@ -276,7 +271,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** The strike price is the contractual price upon which the call or put buyer has the right to buy or sell the underlying asset.
 
----
 
 ### Day orders, GTC, FOK, and IOC are considered which type of order ticket detail?  
 - [ ] Pricing details  
@@ -286,7 +280,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** These are special duration and execution instructions which accompany an order to specify how and when it can be filled.
 
----
 
 ### Which of the following focuses on ensuring that the position limits are not exceeded and that each trade is properly reported?  
 - [ ] The short-seller  
@@ -296,7 +289,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** Both the exchange (e.g., Bourse de Montréal) and CIRO enforce position limits, margin rules, and appropriate trade reporting.
 
----
 
 ### If you place an order to buy an option but designate it as a “closing” transaction by mistake, which of the following might occur?  
 - [ ] No issue since the system always corrects this automatically  
@@ -306,7 +298,6 @@ Take comfort that many modern systems are designed to help avoid mistakes. Dropd
 
 > **Explanation:** Marking an order incorrectly as “closing” can cause discrepancies in margin usage and position records, since the system believes you’re offsetting a position you may not actually have.
 
----
 
 ### True or False: Major Canadian market participants like the Bourse de Montréal or CDCC typically assign a distinct symbol to each option contract, reflecting underlying symbol, call/put indicator, expiry date, and strike price.  
 - [x] True  

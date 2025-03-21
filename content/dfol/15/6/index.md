@@ -187,7 +187,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** OTC derivatives generally lack centralized exchange-based pricing and often rely on dealer quotes or in-house models, increasing valuation complexity.
 
----
 
 ### Which of these factors most commonly contributes to “model risk” in a valuation process?
 
@@ -198,7 +197,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** Model risk arises when key assumptions or inputs (e.g., volatility, correlation, credit risk) are flawed or misapplied, potentially leading to large pricing inaccuracies.
 
----
 
 ### What is one key reason alternative mutual funds maintain a “liquidity buffer”?
 
@@ -209,7 +207,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** A liquidity buffer allows funds with daily (or frequent) redemptions to meet investor outflows without selling illiquid assets at distressed prices.
 
----
 
 ### Which term refers to a mechanism hedge funds may use to limit large-scale redemptions during volatile markets?
 
@@ -220,7 +217,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** Gates are provisions that allow hedge funds to restrict or delay redemptions if they exceed a certain percentage of the fund’s net assets, helping to prevent forced selling of illiquid assets.
 
----
 
 ### Which of the following best describes the primary goal of stress testing in alternative fund management?
 
@@ -231,7 +227,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** Stress testing checks how the fund’s portfolio reacts to significant market movements or shocks, ensuring the NAV can remain robust or that managers can appropriately handle extremes.
 
----
 
 ### Which regulatory document in Canada specifically details liquidity requirements for investment funds?
 
@@ -242,7 +237,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** CSA National Instrument 81-102 outlines requirements for the structure, operation, and liquidity management of Canadian investment funds, including alternative funds.
 
----
 
 ### In the context of alternative funds, what is an essential safeguard against conflicts of interest in the valuation of illiquid assets?
 
@@ -253,7 +247,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** Independent third-party valuation providers or valuation committees that exclude the direct portfolio manager mitigate potential conflicts of interest in pricing illiquid assets.
 
----
 
 ### How does a lock-up period commonly benefit a hedge fund’s strategy?
 
@@ -264,7 +257,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** During the lock-up, investors cannot withdraw funds, so the manager can invest in less liquid or longer-term strategies without constantly worrying about sudden outflows.
 
----
 
 ### A fund invests heavily in micro-cap emerging market equities with minimal trading volume. Which of the following practices helps ensure a more accurate NAV?
 
@@ -275,7 +267,6 @@ Anyway, I hope this helps demystify how alternative mutual funds, closed-end fun
 
 > **Explanation:** For illiquid or thinly traded assets, it’s crucial to gather multiple price references or use committee-based decisions with thorough due diligence to ensure fair valuations.
 
----
 
 ### True or False: Hedge funds are always required by Canadian regulations to offer daily liquidity to their investors.
 

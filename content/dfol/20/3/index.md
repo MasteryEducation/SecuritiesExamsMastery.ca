@@ -230,7 +230,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** In a long straddle, the worst-case scenario is that both options expire worthless, so the trader loses the net premium paid.
 
----
 
 ### Which of the following is a key difference between a long straddle and a long strangle?
 
@@ -241,7 +240,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** A straddle uses the same strike for call and put, while a strangle typically uses different strikes (one above and one below the current market price).
 
----
 
 ### In a short straddle, the strategy profits the most if:
 
@@ -252,7 +250,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** A short straddle involves selling a call and put at the same strike and benefits from minimal movement because both premiums can decay profitably if the price stays near the strike.
 
----
 
 ### When trading a short strangle, one unique risk compared to a short straddle is:
 
@@ -263,7 +260,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** A short strangle sells OTM options, offering a wider â€œprofit range.â€ However, if the market moves beyond those strikes, the resulting losses can still be large.
 
----
 
 ### Which of the following terms refers to the net premium you receive when initiating a short options strategy?
 
@@ -274,7 +270,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** A short options strategy is a â€œcredit strategyâ€ because you collect (receive) premium upfront.
 
----
 
 ### A risk reversal typically involves:
 
@@ -285,7 +280,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** A risk reversal is a combination strategy in which an investor sells an out-of-the-money put and buys an out-of-the-money call (bullish), or the reverse (bearish), to manage cost while expressing a directional view.
 
----
 
 ### Which organization in Canada primarily oversees margin requirements and position limits for derivatives after 2023?
 
@@ -296,7 +290,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** Following the merger of IIROC and MFDA, CIRO is now Canadaâ€™s self-regulatory body responsible for overseeing derivatives and investment dealers.
 
----
 
 ### How can a trader mitigate â€œgamma riskâ€ in a short straddle as expiration approaches?
 
@@ -307,7 +300,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** Rolling short options to new strikes or further expiries can help manage the gamma risk that intensifies near maturity.
 
----
 
 ### A long strangle on a stock is best suited for which type of market outlook?
 
@@ -318,7 +310,6 @@ From a risk-reward standpoint, that $4 premium is your maximum loss. If you canâ
 
 > **Explanation:** A long strangleâ€™s strength is capturing large moves up or down; you just need enough volatility to exceed your total premium cost.
 
----
 
 ### True or False: Selling a short straddle provides the seller with unlimited profit potential if the underlying price remains stable.
 

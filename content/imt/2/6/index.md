@@ -231,7 +231,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** Recency bias is when investors put too much weight on recent events or market performance, ignoring long-term trends.
 
----
 
 ### When addressing a client’s loss aversion, which of the following strategies might be most suitable?
 
@@ -242,7 +241,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** A loss-averse client often benefits from a more conservative portfolio and risk-control measures, such as stop-loss thresholds, to mitigate emotional responses to market downturns.
 
----
 
 ### Combining quantitative models with qualitative behavioral findings primarily helps in:
 
@@ -253,7 +251,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** Quantitative models (e.g., MPT) capture the technical aspects, while qualitative findings from behavioral assessments address emotional or psychological drivers, leading to a more personalized portfolio.
 
----
 
 ### What is the primary purpose of regular portfolio rebalancing to address investor biases?
 
@@ -264,7 +261,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** Rebalancing on a regular schedule helps bring the portfolio back to the target asset mix, preventing emotion-driven overexposure to certain assets.
 
----
 
 ### Documenting the discovery and management of a client’s biases is important because:
 
@@ -275,7 +271,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** Proper documentation shows how decisions align with client needs and risk tolerance, meeting professional and regulatory standards.
 
----
 
 ### Stress testing a portfolio mainly involves:
 
@@ -286,7 +281,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** Stress testing applies hypothetical adverse scenarios (like sharp market drops) to see how the portfolio holds up, preparing both advisor and client for possible downturns.
 
----
 
 ### Which of the following is an example of recency bias in action?
 
@@ -297,7 +291,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** Recency bias leads individuals to overemphasize recent performance, often resulting in “chasing” assets that have recently done well.
 
----
 
 ### In the context of CIRO regulations, why is “Know Your Client” crucial in diagnosing biases?
 
@@ -308,7 +301,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** “Know Your Client” extends beyond collecting data; it involves comprehending the client’s psychological makeup so you can provide more tailored, suitable investment recommendations.
 
----
 
 ### What is a common pitfall of relying solely on tools like Riskalyze or Portfolio Visualizer?
 
@@ -319,7 +311,6 @@ Remember Sarah (from the introduction)? Once she realized that she was letting s
 
 > **Explanation:** While these tools are great for quantitative analysis, they don’t fully account for unseen emotional triggers that often drive client decisions.
 
----
 
 ### True or False: Overconfidence bias can lead investors to believe they have exceptional market timing skills, often resulting in under-diversified and overly speculative portfolios.
 

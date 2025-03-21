@@ -219,7 +219,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** ESG integration evaluates environmental, social, and governance dimensions when selecting and managing investments globally, aiming for both responsible and financially viable outcomes.
 
----
 
 ### What is the main role of the UN’s Principles for Responsible Investment (PRI)?
 
@@ -230,7 +229,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** The PRI provides a framework for responsible investment, urging signatories to adopt ESG practices. It does not regulate or impose fines directly.
 
----
 
 ### Which statement about global ESG reporting standards is most accurate?
 
@@ -241,7 +239,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** While GRI provides widely accepted guidelines, actual adoption can differ from place to place, and there is no single universal requirement for all companies globally.
 
----
 
 ### Why might emerging markets require more in-depth ESG due diligence?
 
@@ -252,7 +249,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** Many emerging markets have less robust enforcement of environmental and governance rules, which makes more thorough research essential for responsible investing.
 
----
 
 ### Which of the following describes a potential downside of negative screening?
 
@@ -263,7 +259,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** By automatically excluding specific sectors, you could reduce the portfolio’s breadth and possibly miss out on strong performers that are improving their ESG practices.
 
----
 
 ### What is greenwashing?
 
@@ -274,7 +269,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** Greenwashing refers to marketing tactics that make something seem more eco-friendly or socially responsible than it truly is, thus misleading investors.
 
----
 
 ### How can governance issues in certain markets impact minority shareholders?
 
@@ -285,7 +279,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** Poor governance structures can result in opaque decision-making, preferential treatment for controlling stakeholders, and limited recourse for minority shareholders.
 
----
 
 ### Which is a primary reason ESG-focused companies may have better risk-adjusted performance over the long term?
 
@@ -296,7 +289,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** Sound ESG practices tend to reduce a firm’s exposure to controversies, litigation, and brand damage, potentially fostering more stable, risk-adjusted returns.
 
----
 
 ### Why are multiple ESG rating sources often consulted by investors?
 
@@ -307,7 +299,6 @@ It’s all about that elegant balance: seeking healthy financial returns while a
 
 > **Explanation:** ESG rating agencies use different methodologies and metrics for evaluating companies. Consulting multiple sources can provide a more comprehensive and balanced view.
 
----
 
 ### True or False: ESG and responsible investing standards are mostly irrelevant to Canadian investors due to CIRO’s rules.
 

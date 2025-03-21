@@ -212,7 +212,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** Fundamental analysis looks at real-world drivers (like GDP growth, inflation, or commodity inventories) to determine the potential future value of a futures contract.
 
----
 
 ### Which of the following is a characteristic of technical analysis?
 
@@ -223,7 +222,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** Technical analysis focuses on patterns and trends derived from historical market data such as price and volume, often employing indicators like RSI and MACD to generate signals.
 
----
 
 ### A trader notices that central bank interest rate hikes are likely, and the short-term moving average is crossing below the long-term moving average on a bond futures chart. This is an example of:
 
@@ -234,7 +232,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** The trader combines fundamental insights (rate hikes) with a technical signal (moving average crossover) to inform the decision—an example of fusion analysis.
 
----
 
 ### Which of the following is least likely to be considered a fundamental factor for commodity futures?
 
@@ -245,7 +242,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** MACD crossovers are a technical indicator, not a fundamental factor.
 
----
 
 ### When a short-term moving average crosses above a long-term moving average, it is commonly referred to as:
 
@@ -256,7 +252,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** A “Golden Cross” occurs when the short-term MA crosses above the long-term MA, considered bullish by many technical analysts.
 
----
 
 ### Which statement about the RSI (Relative Strength Index) is most accurate?
 
@@ -267,7 +262,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** RSI is a momentum oscillator that flags overbought conditions above 70 and oversold conditions below 30; it does not guarantee reversals.
 
----
 
 ### A speculator wants to trade natural gas futures and looks at seasonal weather forecasts, inventory levels, and global economic growth data. This trader is primarily using:
 
@@ -278,7 +272,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** Examining seasonal patterns, inventory data, and macroeconomic trends is characteristic of fundamental analysis.
 
----
 
 ### How do professional Canadian futures traders typically access real-time data and charting tools?
 
@@ -289,7 +282,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** Most professional traders rely on real-time electronic data feeds and robust charting software to make timely decisions.
 
----
 
 ### Which best describes the rationale behind technical analysis?
 
@@ -300,7 +292,6 @@ Anyway, forecasting is a bit like trying to read footprints on the beach when th
 
 > **Explanation:** Technical analysis assumes market psychology and price action repeat themselves, making historical patterns relevant for future forecasts.
 
----
 
 ### True or False: “In futures speculation, combining both fundamental and technical analysis is often referred to as fusion analysis.”
 

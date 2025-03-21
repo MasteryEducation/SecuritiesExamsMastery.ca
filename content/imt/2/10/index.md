@@ -213,7 +213,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Fiduciary duty is about the advisor’s responsibility to put the client’s interests first, which naturally extends to how risk profiling is approached.  
 
----
 
 ### When updating a client’s risk profile, which regulatory body in Canada currently oversees the compliance obligations?
 
@@ -224,7 +223,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** As of 2023, the Mutual Fund Dealers Association of Canada (MFDA) and the Investment Industry Regulatory Organization of Canada (IIROC) were replaced by the new self-regulatory organization, CIRO.  
 
----
 
 ### Which of the following is a key reason for documenting client communications throughout the risk profiling process?
 
@@ -235,7 +233,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Documentation is essential for demonstrating suitability and compliance. It also serves as a reference if there is disagreement in the future.  
 
----
 
 ### Why is it important for advisors to be transparent about how they conduct risk assessments?
 
@@ -246,7 +243,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Transparency fosters a relationship of trust and ensures the client provides informed consent about their investments.  
 
----
 
 ### Which of the following best reflects an unethical practice when recommending an investment based on a client’s risk profile?
 
@@ -257,7 +253,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Placing personal gain over the client’s risk tolerance and objectives violates both ethical and regulatory standards.  
 
----
 
 ### Which of these statements best explains the term “Suitability Requirement?”
 
@@ -268,7 +263,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** The Suitability Requirement ensures that investment recommendations align with the client’s unique variables—objectives, risk tolerance, and time horizon.  
 
----
 
 ### What is an advantage of offering educational materials and disclaimers during the risk profiling process?
 
@@ -279,7 +273,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Providing educational materials and disclaimers is a best practice; it helps ensure clients understand possible outcomes and fosters transparency.  
 
----
 
 ### How should conflicts of interest be managed under Canadian regulations?
 
@@ -290,7 +283,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Canadian Securities Administrators (CSA) client-focused reforms require that conflicts of interest be identified and fully disclosed to the client.  
 
----
 
 ### Why are questionnaires alone insufficient for fully capturing a client’s risk tolerance?
 
@@ -301,7 +293,6 @@ Ethical risk profiling is like building a sturdy bridge between client and advis
 
 > **Explanation:** Questionnaires provide a starting point, but in-depth discussions and ongoing updates are vital to truly understanding a client’s risk tolerance.  
 
----
 
 ### In risk profiling, is it acceptable for an advisor to remain silent about high potential losses if the investment aligns with the client’s “aggressive” label?
 

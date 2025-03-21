@@ -236,7 +236,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** A TFSA is funded with after-tax dollars, grows tax-free, and withdrawals are tax-free.
 
----
 
 ### What happens if you do not use all your TFSA contribution room in a given year?
 
@@ -247,7 +246,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** Unused TFSA room rolls forward indefinitely. It never expires.
 
----
 
 ### Which of the following statements about TFSA withdrawals is correct?
 
@@ -258,7 +256,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** TFSA withdrawals are always tax-free, and the amount withdrawn is added to your next year’s contribution room.
 
----
 
 ### True or False: Holding foreign dividend-paying stocks in a TFSA may result in foreign withholding taxes on the dividends.
 
@@ -267,7 +264,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** TFSAs don’t benefit from the same tax treaties that sometimes exempt RRSPs from foreign dividend withholding taxes.
 
----
 
 ### In the event of your passing, naming your spouse as the “successor holder” of your TFSA generally means:
 
@@ -278,7 +274,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** Designating a spouse or common-law partner as the successor holder allows them to take ownership of the TFSA upon your death, preserving the account’s tax-free nature and often bypassing probate.
 
----
 
 ### Which government body regulates the tax aspects of TFSAs?
 
@@ -289,7 +284,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** The CRA oversees tax rules related to TFSAs.
 
----
 
 ### If you over-contribute to your TFSA, which of the following penalties may apply?
 
@@ -300,7 +294,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** The CRA imposes a 1% per month penalty on the entire over-contributed amount. Some financial institutions might also charge administrative fees if they handle the correction process.
 
----
 
 ### Which of the following investments can be held within a TFSA?
 
@@ -311,7 +304,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** Qualified investments include common investment vehicles such as mutual funds, stocks, bonds, GICs, and certain ETFs. Physical real estate, artwork, or collectibles usually don’t qualify.
 
----
 
 ### Why might a TFSA be a good choice for an investor who anticipates remaining in a high tax bracket during retirement?
 
@@ -322,7 +314,6 @@ If you’re just starting out, you only need to remember: TFSAs provide a unique
 
 > **Explanation:** Because withdrawals from a TFSA aren’t considered taxable income, they won’t push the retiree into a higher bracket nor reduce income-tested government benefits.
 
----
 
 ### TFSA withdrawal amounts affect federal income-tested benefits like OAS or GIS.
 

@@ -273,7 +273,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** Intrinsic value is the immediate value if you were to exercise the option at the current underlying price (for calls, Spot – Strike if that’s positive, otherwise zero).
 
----
 
 ### Which of the following statements best describes the effect of increasing implied volatility on call option prices?
 
@@ -284,7 +283,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** Higher implied volatility means a larger potential range for future asset prices. That increased uncertainty typically raises the value of both calls and puts.
 
----
 
 ### Which mathematical model is most commonly used for pricing European-style options on non-dividend-paying stocks?
 
@@ -295,7 +293,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** The Black–Scholes–Merton model is the classic go-to for valuing European-style options without dividends.
 
----
 
 ### In a one-period binomial model, how is the option’s current fair value generally computed?
 
@@ -306,7 +303,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** The binomial approach calculates the option payoff under “up” and “down” scenarios and then discounts that expected payoff back to the present using appropriate risk-neutral probabilities.
 
----
 
 ### If an option pays no dividends, and the spot price is CAD 100, the strike is CAD 95, and the option is a call, what is the intrinsic value?
 
@@ -317,7 +313,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** A call’s intrinsic value = max(Spot – Strike, 0) = max(100 – 95, 0) = CAD 5.
 
----
 
 ### What is the main reason that American-style options can sometimes have a higher premium than European-style options?
 
@@ -328,7 +323,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** The flexibility to exercise early can give American options extra value in certain scenarios (e.g., when dividends are coming).
 
----
 
 ### Which parameter is typically NOT part of the standard Black–Scholes–Merton formula?
 
@@ -339,7 +333,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** The basic BSM model for non-dividend-paying stocks doesn’t incorporate a dividend yield. If dividends exist, one must adjust the model or use additional techniques.
 
----
 
 ### How might supply and demand cause an option’s market price to deviate from its theoretical fair value?
 
@@ -350,7 +343,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** Real-world markets are influenced by order flow, sentiment, and liquidity. These factors can drive the market price away from the pure theoretical price.
 
----
 
 ### Which entity typically clears exchange-traded options in Canada?
 
@@ -361,7 +353,6 @@ Now that we’ve tackled the fundamentals of pricing, you’re better equipped t
 
 > **Explanation:** The CDCC is responsible for clearing and settling most exchange-traded derivatives in Canada, including listed options on the Bourse de Montréal.
 
----
 
 ### True or False: Implied volatility is derived from actual option prices in the market rather than being an input you provide to the model.
 

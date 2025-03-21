@@ -212,7 +212,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** DB plans promise a defined payout, commonly based on a specified formula related to salary and years of service. In contrast, DC plans specify contributions but the final amount depends on investment performance.
 
----
 
 ### 2. In a Defined Contribution (DC) plan, who typically bears the investment risk?
 
@@ -223,7 +222,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** In DC plans, the employee shoulders the investment risk; the ultimate retirement benefit depends on how the invested contributions perform over time.
 
----
 
 ### 3. Under Canadian pension legislation, which of the following best defines “vesting”?
 
@@ -234,7 +232,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** Vesting specifically refers to the point at which an employee gains full ownership of the employer contributions in their pension plan.
 
----
 
 ### 4. Which statement is correct regarding Pension Adjustments (PA)?
 
@@ -245,7 +242,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** The Pension Adjustment (PA) is designed to prevent individuals from exceeding overall tax-sheltered retirement savings limits by reflecting the value of benefits or contributions made to an RPP or DPSP.
 
----
 
 ### 5. When an employee takes the commuted value from a Defined Benefit (DB) plan upon leaving employment, which of the following describes a potential risk?
 
@@ -256,7 +252,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** By taking the commuted value, the employee trades a guaranteed lifetime pension for a lump sum. They must then invest and manage that money, therefore assuming the investment risk. They also typically lose future DB guarantees.
 
----
 
 ### 6. Which statement about RPPs is generally true?
 
@@ -267,7 +262,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** RPP contributions reduce your taxable income like RRSP contributions. Many RPPs are locked in, some do offer early retirement, and legislation for RPPs is separate from the CPP.
 
----
 
 ### 7. In a DC plan, if an employee wishes to manage underlying investments, what is typically true?
 
@@ -278,7 +272,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** Most DC plans let employees pick from a menu of investment options (money market funds, balanced funds, equity funds, etc.). Meanwhile, employer contributions are defined by the plan terms and stay the same irrespective of the employee’s investment choices.
 
----
 
 ### 8. What does “locked-in” typically mean in the context of RPPs?
 
@@ -289,7 +282,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** Locked-in means pension legislation prevents the money from being cashed out or used until retirement (subject to certain exceptions like small balance unlocks or financial hardship).
 
----
 
 ### 9. How does a Group RRSP compare to a traditional RPP?
 
@@ -300,7 +292,6 @@ Sure, the jargon can be kooky (seriously, “commuted value”?), but at the end
 
 > **Explanation:** Group RRSPs fall under RRSP rules, not pension legislation, making them more flexible. They are not a “defined benefit” setup and can accept employer contributions, although they generally do not provide guaranteed lifetime payouts.
 
----
 
 ### 10. Is it true that the Pension Adjustment (PA) only affects those in a Defined Benefit plan?
 

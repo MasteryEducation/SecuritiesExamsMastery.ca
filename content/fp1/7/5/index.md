@@ -215,7 +215,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** Probate confirms that the will is valid and the specified executor has legal authority to manage the estate on behalf of the deceased.
 
----
 
 ### 2. What is typically the official outcome of a probate application?
 
@@ -226,7 +225,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** After filing the proper documentation and fees, the court issues the Grant of Probate, naming the executor or estate trustee and confirming the will’s validity.
 
----
 
 ### 3. Which of the following assets usually bypass probate?
 
@@ -237,7 +235,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** Assets with a direct beneficiary designation (e.g., registered investments, life insurance policies) often pass outside the estate and thus do not require probate to be transferred.
 
----
 
 ### 4. How are probate fees (or estate administration taxes) determined in most provinces?
 
@@ -248,7 +245,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** Probate fees (or estate administration taxes) vary across provinces and typically depend on the value of the assets passing through the estate.
 
----
 
 ### 5. Which arrangement can help avoid probate, but may introduce potential family-law or tax complications?
 
@@ -259,7 +255,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** Adding another person as joint owner can indeed bypass probate, but it can also expose those assets to that joint owner’s potential legal, creditor, or family disputes.
 
----
 
 ### 6. Identify one major duty of an executor after receiving the Grant of Probate.
 
@@ -270,7 +265,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** The executor has a legal duty to settle all debts, taxes, and other liabilities before distributing remaining estate assets.
 
----
 
 ### 7. In many provinces, what is a common reason a financial institution demands to see a probated will?
 
@@ -281,7 +275,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** Probate is a safeguard for institutions, ensuring they release funds only to the legally authorized executor.
 
----
 
 ### 8. Why might the probate process take more than a year for some estates?
 
@@ -292,7 +285,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** Multiple factors—from complicated assets to disputes and tax reviews—can extend the timeline well beyond a few months.
 
----
 
 ### 9. Which statement about minimizing probate fees is most accurate?
 
@@ -303,7 +295,6 @@ As an advisor or a well-informed personal representative, your role is to guide 
 
 > **Explanation:** While there are strategies to minimize probate, they can create unintended legal or tax consequences that could outweigh the savings.
 
----
 
 ### 10. True or False: The executor’s authority to manage and distribute the deceased’s assets is only confirmed after probate is granted.
 

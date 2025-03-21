@@ -205,7 +205,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** The agreement usually grants the dealer the authority to liquidate positions if margin calls go unmet or if risk levels spike. This step reduces the risk of severe losses for the firm and, indirectly, protects the client from catastrophic shortfalls.
 
----
 
 ### Which section of the Derivatives Trading Agreement typically outlines how the client will receive margin call notifications?
 
@@ -216,7 +215,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** Most derivative agreements include a specific clause on communication methods (e.g., email, phone, text) so clients know when and how margin calls will be conveyed.
 
----
 
 ### True or False: By signing the Derivatives Trading Agreement, the client acknowledges understanding the risks and confirms that potential losses can exceed their initial deposit.
 
@@ -225,7 +223,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** This is a key factor in options trading. The client’s signature usually confirms awareness that options, especially leveraged or uncovered positions, can lead to losses beyond the initial margin deposit.
 
----
 
 ### A Derivatives Trading Agreement often refers to which regulatory body’s guidelines for margin requirements and account oversight in Canada?
 
@@ -236,7 +233,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** CIRO enforces margin and risk oversight guidelines for Canadian investment dealers, especially post-2023, when it replaced IIROC and MFDA.
 
----
 
 ### When might the dealer have the right to liquidate positions immediately, without waiting for client instructions?
 
@@ -247,7 +243,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** Sudden market shocks can leave the account under-margined. The agreement typically allows the dealer to act immediately to mitigate risk and prevent further losses.
 
----
 
 ### Which of the following BEST describes the primary purpose of the liquidation rights clause in a Derivatives Trading Agreement?
 
@@ -258,7 +253,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** The liquidation rights clause ensures the firm can reduce exposure in the event the client cannot or does not meet margin calls, minimizing risk for both parties.
 
----
 
 ### In a corporate account setup, who typically signs the Derivatives Trading Agreement?
 
@@ -269,7 +263,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** For corporate or institutional accounts, the agreement must be signed according to internal governance rules, often requiring designated officers or directors to sign on behalf of the organization.
 
----
 
 ### Which of the following is an example of a scenario specifically covered in the Derivatives Trading Agreement?
 
@@ -280,7 +273,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** Sudden market movements can cause the firm to recalculate margin after hours, leading to immediate calls or forced liquidations. That scenario is typically addressed in the agreement.
 
----
 
 ### When discussing fee and commission provisions within the Derivatives Trading Agreement, which of the following is most likely included?
 
@@ -291,7 +283,6 @@ Stay curious, stay informed, and if you’re still unsure, talk it through with 
 
 > **Explanation:** The agreement often spells out how fees work for exercises, assignments, commissions, and possibly option contract surcharges.
 
----
 
 ### Under which circumstance could a dealer reference the Derivatives Trading Agreement to make immediate changes to margin requirements?
 

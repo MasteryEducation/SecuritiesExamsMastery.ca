@@ -205,7 +205,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** “Volatility crush” typically occurs immediately after an event (like earnings) removes uncertainty, causing implied volatility to drop sharply.
 
----
 
 ### What is a key risk of buying options right before an earnings announcement?
 
@@ -216,7 +215,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** Even if the underlying moves in your favor, a post-event implied volatility drop can reduce, or even offset, any gains.
 
----
 
 ### Which of the following strategies might profit most directly from a post-earnings volatility crush?
 
@@ -227,7 +225,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** Selling a straddle (or strangle) before earnings can help capture premium from the pre-event vol spike. If the actual move is less than implied, you profit when implied volatility collapses.
 
----
 
 ### The “expected move” around an event is often estimated by:
 
@@ -238,7 +235,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** A quick way to gauge the expected range is summing the at-the-money call and put premiums for the relevant expiration.
 
----
 
 ### In Canada, which entity regulates margin requirements and market integrity for options trading?
 
@@ -249,7 +245,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** Since January 1, 2023, CIRO is Canada’s national self-regulatory body overseeing investment dealers, mutual fund dealers, and marketplace integrity on equity and debt markets.
 
----
 
 ### Which term describes the extra implied volatility priced into options just before a key announcement like earnings?
 
@@ -260,7 +255,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** The “earnings volatility premium” is the additional IV that options carry leading up to an earnings release.
 
----
 
 ### A “binary event” is best described as:
 
@@ -271,7 +265,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** “Binary event” typically refers to something that can sharply alter the stock price, with one of two main outcomes (e.g., an approval or rejection).
 
----
 
 ### After earnings, implied volatility typically:
 
@@ -282,7 +275,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** Once the market receives the new information, implied volatility generally contracts “post-event.”
 
----
 
 ### If a trader believes the expected move implied by options is too big, they might:
 
@@ -293,7 +285,6 @@ The best approach? Study. Experiment with small trades. Keep data-driven logs of
 
 > **Explanation:** If you feel the implied move is overstated, you might sell those expensive options, anticipating a smaller actual move that erodes the premium.
 
----
 
 ### True or False: Even if a stock moves in your favor after earnings, an implied volatility drop can reduce the value of your long option.
 

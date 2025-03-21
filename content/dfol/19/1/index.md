@@ -245,7 +245,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** A bearish outlook arises when an investor anticipates a price drop in the underlying asset.
 
----
 
 ### Which scenario best illustrates a "bear market"?
 
@@ -256,7 +255,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** A classic definition of a bear market is a 20% (or greater) decline from a recent peak.
 
----
 
 ### In the context of CIRO’s requirements, why are margin requirements especially crucial for bearish strategies?
 
@@ -267,7 +265,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** Because a stock (or market) can theoretically rise indefinitely, short positions require strict margin to protect against large potential losses.
 
----
 
 ### Which technical indicator is often used to identify overbought conditions that can precede a bearish reversal?
 
@@ -278,7 +275,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** An RSI above 70 commonly indicates overbought conditions, which may signal an upcoming price decline.
 
----
 
 ### What is a primary advantage of buying a put option over short-selling the underlying stock?
 
@@ -289,7 +285,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** Buying a put caps your maximum risk at the premium, whereas shorting a stock can have unlimited downside.
 
----
 
 ### Which of the following factors might drive an investor to adopt a bearish outlook?
 
@@ -300,7 +295,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** Factors like rising interest rates and negative economic data typically encourage a bearish stance.
 
----
 
 ### If a trader wants to reduce the cost of a long put option, what strategy might they consider?
 
@@ -311,7 +305,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** A bear put spread involves buying a higher strike put and selling a lower strike put, lowering the net premium.
 
----
 
 ### What is a potential risk of a short stock position?
 
@@ -322,7 +315,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** When shorting a stock, losses can be theoretically unlimited if the stock’s price surges upward.
 
----
 
 ### Why should scenario analysis be performed prior to initiating a bearish derivative position?
 
@@ -333,7 +325,6 @@ At the end of the day, a bearish outlook can be a prudent tool if used wisely. J
 
 > **Explanation:** Scenario analysis helps traders see how a position might fare under different price moves and plan hedges accordingly.
 
----
 
 ### True or False: A stock's unexpected positive announcement can cause large losses for an investor holding a short position.
 

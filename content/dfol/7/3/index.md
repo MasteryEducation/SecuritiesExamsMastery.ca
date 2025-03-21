@@ -221,7 +221,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** The intrinsic value for a call option is max(0, S − K). It measures how much benefit you’d get if you exercised immediately.
 
----
 
 ### An option’s premium can never be below its intrinsic value. If it is, which of the following concepts is most directly relevant?
 
@@ -232,7 +231,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** If an option trades below intrinsic value, arbitrageurs can buy and immediately exercise it for a risk-free profit.
 
----
 
 ### A call option on Maple Energy has a strike of $40, and the stock is trading at $50. If the option is priced at $9.50, what portion is intrinsic value?
 
@@ -243,7 +241,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** The call’s intrinsic value is max(0, S − K) = $10. At a market price of $9.50, it is below intrinsic value. In practice, this should not happen for more than a fleeting moment because of immediate arbitrage.
 
----
 
 ### How does the intrinsic value of a put option change if the underlying price increases?
 
@@ -254,7 +251,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** A put option gains intrinsic value when the underlying’s price falls below the strike. If the underlying’s price rises, the put’s intrinsic value shrinks.
 
----
 
 ### Which scenario describes an in-the-money call?
 
@@ -265,7 +261,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** A call is in-the-money when S > K. The second correct statement “Option premium is entirely time value” is actually false for an ITM call, so this is a trick. (Note: If your exam setting allows multiple answers, the second bullet is incorrect. If it’s single answer only, pick the underlying-above-strike condition.)
 
----
 
 ### A put option has a strike of $25, but the stock is currently $28. What is the put’s intrinsic value?
 
@@ -276,7 +271,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** For a put, intrinsic value is max(0, K − S). Since K = 25 and S = 28, the difference is negative, so intrinsic value is 0.
 
----
 
 ### In Canadian markets, if a call option’s premium momentarily dips below intrinsic value, what usually corrects the mispricing?
 
@@ -287,7 +281,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** Arbitrage traders will quickly buy the undervalued option and exercise or hedge, which forces the option’s market price back up.
 
----
 
 ### A deep in-the-money call typically has:
 
@@ -298,7 +291,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** Deep ITM calls have a premium that is mostly their intrinsic value, though there will still be some time value component unless very close to expiration.
 
----
 
 ### An option calculator from a brokerage shows a call premium of $7.50, with a time value of $2.50. What is the call’s intrinsic value?
 
@@ -309,7 +301,6 @@ If you’re reading this as part of the broader Chapter 7 coverage, you’ll not
 
 > **Explanation:** Premium = Intrinsic Value + Time Value → 7.50 = Intrinsic Value + 2.50 → Intrinsic Value = $5.00.
 
----
 
 ### True or False: An out-of-the-money option has a positive intrinsic value.
 

@@ -204,7 +204,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** Incorporated companies in Canada use the T2 Corporate Tax Return to report their income, expenses, and any taxes owed.
 
----
 
 ### Which tax benefit allows many Canadian-controlled private corporations (CCPCs) to pay a reduced rate on their first $500,000 of active business income?
 
@@ -215,7 +214,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** The Small Business Deduction (SBD) is a key incentive that provides a preferential tax rate for income earned by CCPCs up to a certain limit.
 
----
 
 ### True or False: GST/HST registrants can claim Input Tax Credits (ITCs) on the business-related taxes they spend, reducing the net amount of GST/HST they owe.
 
@@ -224,7 +222,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** Input Tax Credits (ITCs) allow registrants to recover the GST/HST they pay on valid business purchases and expenses.
 
----
 
 ### What is a primary difference between dividends and salary when paying yourself from your corporation?
 
@@ -235,7 +232,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** Dividends typically are not subject to CPP or EI withholding. Salary is considered employment income and requires withholding at source for taxes, CPP, and EI.
 
----
 
 ### Under what circumstances might a small Canadian business be required to register for GST/HST?
 
@@ -246,7 +242,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** The threshold for mandatory registration is $30,000 in worldwide taxable supplies in a 12-month period; once you exceed that, you must generally register and collect GST/HST.
 
----
 
 ### Which of the following is an example of a payroll tax obligation for Canadian businesses?
 
@@ -257,7 +252,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** Employers must deduct and remit to the CRA the Canada Pension Plan (CPP) contributions, Employment Insurance (EI) premiums, and federal/provincial income tax from employee pay.
 
----
 
 ### Which of the following might disqualify a CCPC from accessing the full Small Business Deduction?
 
@@ -268,7 +262,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** Recent rules can reduce the Small Business Deduction when a CCPC’s passive investment income exceeds certain thresholds, ultimately limiting the preferred tax rate on active business income.
 
----
 
 ### Recall that some provinces/territories offer specific tax credits or incentives. Which of the following industries is a common target of these credits in some regions?
 
@@ -279,7 +272,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** Many provincial tax credits specifically encourage R&D or film/entertainment production, stimulating innovation and job creation.
 
----
 
 ### True or False: One advantage of using the Quick Method for GST/HST is that it can simplify how you calculate net tax owing if you have relatively few input tax credits.
 
@@ -288,7 +280,6 @@ All set? Next time your friend says they incorporated to “not pay taxes,” yo
 
 > **Explanation:** The Quick Method simplifies GST/HST accounting by letting small businesses remit a prescribed rate based on total revenues rather than claim actual ITCs line by line.
 
----
 
 ### Which of the following is the BEST reason for detailed and accurate bookkeeping?
 

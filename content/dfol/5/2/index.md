@@ -226,7 +226,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Intraday traders, also known as day traders, open and close their futures positions within the same day, avoiding overnight risk.
 
----
 
 ### Which strategy involves holding positions for a few days to weeks, aiming to capture short- to medium-term price movements?
 
@@ -237,7 +236,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Swing traders look to capitalize on short- to medium-term market swings over several days to a few weeks.
 
----
 
 ### Which group relies heavily on fundamental market drivers such as supply/demand and macroeconomic conditions for long-term positions?
 
@@ -248,7 +246,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Position traders tend to hold positions for extended periods, basing their decisions primarily on fundamental market dynamics.
 
----
 
 ### In Canada, which regulatory body oversees margin usage and suitability requirements for futures traders?
 
@@ -259,7 +256,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** CIRO is the self-regulatory organization in Canada responsible for overseeing investment dealers and margin/suitability requirements after the amalgamation of IIROC and MFDA.
 
----
 
 ### Why might algorithmic traders have significantly higher infrastructure costs?
 
@@ -270,7 +266,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Algorithmic trading often demands powerful servers, specialized software, co-location, and rapid data feeds, all of which can be quite costly.
 
----
 
 ### Which of the following is a key disadvantage faced by intraday traders?
 
@@ -281,7 +276,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Intraday traders usually place numerous trades in a single session, incurring multiple commissions and fees, which can add up quickly.
 
----
 
 ### A long-term speculator who anticipates changes in central bank policy and holds futures positions for months would be best described as:
 
@@ -292,7 +286,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Position traders maintain their exposure for longer periods, often influenced by macroeconomic trends and central bank policies over weeks or months.
 
----
 
 ### Which type of trader is most likely to blend both technical analysis (price charts) and fundamental analysis (economic data) over a medium-term horizon?
 
@@ -303,7 +296,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Swing traders commonly employ both technical and fundamental tools to capture price moves spanning several days or weeks.
 
----
 
 ### What is a potential advantage of being a position trader?
 
@@ -314,7 +306,6 @@ Good luck with your speculative ventures. Just remember: every trader eventually
 
 > **Explanation:** Position traders stand to benefit significantly if their fundamental outlook on a market proves correct over an extended period.
 
----
 
 ### True or False: Algorithmic traders only hold positions for a few seconds and can never hold longer-term positions.
 

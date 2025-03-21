@@ -262,7 +262,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** The main motivation is that CORRA reflects actual overnight repo transactions, which are collateralized and thus more robust and less prone to manipulation than CDOR.
 
----
 
 ### What is the purpose of the spread adjustment when switching a legacy interest rate swap from CDOR to CORRA?
 
@@ -273,7 +272,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** When transitioning from CDOR (which includes a credit premium) to CORRA (which is risk-free), a spread adjustment is typically added to CORRA to ensure the swap’s economic value remains consistent.
 
----
 
 ### Under the fallback provisions in an ISDA swap agreement, what generally happens when CDOR is permanently discontinued?
 
@@ -284,7 +282,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** If CDOR ceases, most ISDA fallback protocols shift the reference rate to CORRA plus a calculated spread to maintain value parity.
 
----
 
 ### Which of the following best characterizes daily-compounded CORRA in a standard CORRA-based swap?
 
@@ -295,7 +292,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** CORRA-based swaps use a daily-compounded methodology, reflecting each day’s overnight repo rate.
 
----
 
 ### Which organization in Canada is now primarily responsible for self-regulatory oversight of benchmark transitions and derivatives markets?
 
@@ -306,7 +302,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** IIROC and MFDA merged to form CIRO as of January 1, 2023, making CIRO the primary self-regulatory organization for investment dealers and mutual fund dealers in Canada.
 
----
 
 ### Why is CDOR considered less robust than CORRA?
 
@@ -317,7 +312,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** Over time, the bankers acceptance market shrank, making CDOR less representative of broad market conditions. CORRA, by contrast, is based on daily repo transactions, increasing its reliability.
 
----
 
 ### If an existing 3-year swap with a floating leg referencing 3-month CDOR is forced to transition to daily-compounded CORRA plus a 0.04% annual spread, what is the primary goal of adding this 0.04% spread?
 
@@ -328,7 +322,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** The spread is designed to maintain value neutrality, ensuring one party doesn’t gain or lose solely due to the benchmark change.
 
----
 
 ### What is the main reason regulators worldwide are encouraging the move from LIBOR, CDOR, and similar rates to newer risk-free rates (RFRs)?
 
@@ -339,7 +332,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** RFRs (like CORRA, SOFR, SONIA) are based on real, collateralized transactions, which minimize the manipulation risk that undermined legacy rates.
 
----
 
 ### Which of the following is a potential challenge to implementing the CDOR-to-CORRA transition?
 
@@ -350,7 +342,6 @@ Yes, it’s a big change—but with the right preparation and mindset, it’s to
 
 > **Explanation:** Adopting CORRA involves updating internal IT systems, operational processes, fallback language in legal documentation, and staff training.
 
----
 
 ### True or False: CORRA is an unsecured benchmark like CDOR.
 

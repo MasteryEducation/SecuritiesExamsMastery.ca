@@ -211,7 +211,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** The beneficiary of an RDSP must be eligible for the Disability Tax Credit (DTC), a Canadian resident, and have a valid SIN.
 
----
 
 ### What is the maximum annual grant the government may provide via the Canada Disability Savings Grant (CDSG)?
 
@@ -222,7 +221,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** Currently, the CDSG can provide up to $3,500 in matching contributions per year, subject to the beneficiary’s family income and contribution amounts.
 
----
 
 ### Which of the following accurately describes the Canada Disability Savings Bond (CDSB)?
 
@@ -233,7 +231,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** The CDSB is a direct bond provided to low- and modest-income beneficiaries with disabilities, without requiring personal contributions.
 
----
 
 ### How are grants, bonds, and investment earnings taxed upon withdrawal from an RDSP?
 
@@ -244,7 +241,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** When withdrawn, any grants, bonds, and earnings within the RDSP are taxable to the beneficiary, while personal contributions (principal) are returned tax-free.
 
----
 
 ### What is a key consideration of the “10-year hold” rule in an RDSP?
 
@@ -255,7 +251,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** The “assistive holdback” requires you to repay grants and bonds if you withdraw those amounts within 10 years of receipt.
 
----
 
 ### Which term describes recurring payments that can start at any time but must begin by the end of the year the beneficiary turns 60?
 
@@ -266,7 +261,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** LDAPs are periodic withdrawals intended to provide ongoing financial support throughout the beneficiary’s life, starting no later than the end of the year in which they turn 60.
 
----
 
 ### In many provinces, how do RDSP withdrawals affect disability benefits?
 
@@ -277,7 +271,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** Generally, RDSP withdrawals do not reduce an individual’s provincial disability benefits. However, it is crucial to confirm local rules as they may vary.
 
----
 
 ### Which government body replaced the MFDA and IIROC through an amalgamation in 2023?
 
@@ -288,7 +281,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** After amalgamation, the two former self-regulatory organizations (MFDA and IIROC) are now replaced by CIRO, which regulates both investment dealers and mutual fund dealers.
 
----
 
 ### Which provincial or federal department primarily governs the rules and regulations for the RDSP in Canada?
 
@@ -299,7 +291,6 @@ I hope this overview equips you with the knowledge to get started, or to help a 
 
 > **Explanation:** The CRA and ESDC are primarily responsible for the RDSP. CIRO oversees investment dealers but does not set RDSP tax regulations.
 
----
 
 ### True or False: If the beneficiary loses Disability Tax Credit (DTC) eligibility, they can continue the RDSP without changes for as long as they wish.
 

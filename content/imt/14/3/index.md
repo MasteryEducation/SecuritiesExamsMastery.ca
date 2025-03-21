@@ -268,7 +268,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** The MSCI EAFE Index measures the stock performance of developed markets outside North America, specifically Europe, Australasia, and the Far East.
 
----
 
 ### Which global benchmark is composed of seven regional indices, including the S&P 500 and S&P Europe 350?
 
@@ -279,7 +278,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** The S&P Global 1200 pulls together multiple S&P indices from different regions, offering broad global coverage.
 
----
 
 ### What is one main difference between the MSCI World Index and the MSCI EAFE Index?
 
@@ -290,7 +288,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** MSCI World covers 23 developed markets including the U.S. and Canada, while MSCI EAFE focuses on developed markets excluding North America.
 
----
 
 ### Which of the following is a potential advantage of float-adjusted market-cap weighting in an index?
 
@@ -301,7 +298,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** Float-adjusted market-cap weighting considers only the shares available for public trading, reducing the influence of restricted shares on index performance.
 
----
 
 ### Why might Canadian investors consider currency-hedged ETF versions of an international equity benchmark?
 
@@ -312,7 +308,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** Currency-hedged ETFs attempt to remove or reduce currency risk, which can be significant when investing in other countries with different currencies.
 
----
 
 ### If a portfolio is heavily overweight U.S. technology stocks, which global index would likely provide the closest performance comparison?
 
@@ -323,7 +318,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** MSCI World has a large U.S. weighting and covers major developed market tech names, making it a better benchmark for a portfolio overweight in U.S. technology.
 
----
 
 ### Which index would an investor most likely use to gauge the overall performance of large- and mid-cap stocks specifically in developing economies?
 
@@ -334,7 +328,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** The MSCI Emerging Markets Index is the recognized benchmark for large- and mid-cap stocks across developing nations.
 
----
 
 ### In general, why might an ESG-focused global equity benchmark differ in performance from its non-ESG counterpart?
 
@@ -345,7 +338,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** ESG indices exclude or reduce exposure to certain “non-ESG-friendly” industries, thus impacting sector allocation and potentially altering performance outcomes.
 
----
 
 ### Which statement about sector composition and index returns is correct?
 
@@ -356,7 +348,6 @@ And that’s it, folks—your grand tour of the major international equity bench
 
 > **Explanation:** Sector weightings in an index (e.g., tech vs. financials vs. materials) can significantly boost or drag returns based on prevailing market conditions.
 
----
 
 ### True or False: In Canada, the term CIRO refers to the current national entity overseeing investment dealers, mutual fund dealers, and market integrity on public exchanges.
 

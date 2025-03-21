@@ -254,7 +254,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** The discrete cost-of-carry approach for equity index futures is F₀ = S₀ × (1 + (r - q))ᵀ, where r is the risk-free rate, q is the dividend yield, and T is time to maturity.
 
----
 
 ### When pricing a BAX (Bankers’ Acceptance) futures contract, a price of 95.20 suggests:
 
@@ -265,7 +264,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** The implied annualized interest rate on BAX is (100 – price). So 100 – 95.20 = 4.80%. Over 90 days, it’s about 4.80% × (90/360) = 1.20%.
 
----
 
 ### If the actual S&P/TSX 60 Index futures price is trading significantly higher than the theoretical cost-of-carry fair value, an arbitrage strategy might involve:
 
@@ -276,7 +274,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** If the futures are overpriced, you can short the futures and buy the underlying stocks, expecting convergence to fair value.
 
----
 
 ### Quarter-end effects in Canadian short-term interest rates often occur because:
 
@@ -287,7 +284,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** Quarter-end can cause banks to modify their short-term funding strategies, creating temporary distortions in interest rates that affect BAX pricing.
 
----
 
 ### Why is the dividend yield important when valuing an equity index futures contract?
 
@@ -298,7 +294,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** Dividends represent income that physical stockholders receive. Futures holders forego this dividend income, so it lowers the fair value of the futures contract.
 
----
 
 ### An investor forecasts that the actual 3-month interest rate will be higher than the implied rate in a BAX futures contract. Which trade aligns with this view?
 
@@ -309,7 +304,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** If you think the actual interest rate will be higher, the futures price (100 – implied rate) should fall, meaning you want to short the BAX contract.
 
----
 
 ### If the implied annualized yield of a BAX contract is 6.00%, the quoted price of that BAX would be:
 
@@ -320,7 +314,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** The BAX formula is 100 – yield = 100 – 6.00 = 94.00.
 
----
 
 ### A major difference between pricing an equity index future and an interest rate future is:
 
@@ -331,7 +324,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** Equity index futures pricing uses dividend yield in the cost-of-carry calculation, which is not relevant for short-term interest rate futures.
 
----
 
 ### Which factor might not cause a short-term pricing anomaly in Canadian index futures?
 
@@ -342,7 +334,6 @@ Pricing futures can be a rewarding challenge. If you’re up for it, you might e
 
 > **Explanation:** If everything is stable, with no changes to rates or dividends, no anomaly would be expected. Sudden changes in monetary policy, dividend announcements, or quarter-end liquidity constraints can create short-term anomalies.
 
----
 
 ### True or False: In theory, if cost-of-carry assumptions hold, there should be minimal difference between the actual futures price and its fair value after adjusting for transaction costs.
 

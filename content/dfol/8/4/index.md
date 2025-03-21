@@ -250,7 +250,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** Since 2023, the Canadian Investment Regulatory Organization (CIRO) replaced IIROC and MFDA. It now collaborates with the Canadian Securities Administrators (CSA) to ensure consistent application of reporting and clearing rules.
 
----
 
 ### What is the primary purpose of reporting OTC derivatives to a Trade Repository (TR)?
 
@@ -261,7 +260,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** Regulators require reporting to TRs mainly to enhance market transparency, identify risk concentrations, and reduce systemic risk by keeping track of open exposure.
 
----
 
 ### Which of the following is a benefit of mandatory clearing through a CCP?
 
@@ -272,7 +270,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** Clearing reduces bilateral credit risk by having the CCP become the buyer to every seller and the seller to every buyer, thereby offering a strong guarantee of settlement.
 
----
 
 ### Under Canadian regulations, which standardized swaps are most likely subject to mandatory clearing obligations?
 
@@ -283,7 +280,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** The CSA identifies specific classes of swaps—particularly certain interest rate swaps and credit default swaps in major currencies—as falling under clearing obligations. Small or end-user transactions may be exempt.
 
----
 
 ### Firms below certain notional thresholds may qualify for exemptions to mandatory clearing. Which term best describes these volume-based limits?
 
@@ -294,7 +290,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** These volume-based levels are called “thresholds.” Firms trading below these levels might be exempt from mandatory clearing obligations.
 
----
 
 ### What is the main difference between initial margin and variation margin in a cleared OTC derivative?
 
@@ -305,7 +300,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** Initial margin is the upfront collateral deposit to cover potential exposure. Variation margin is continually adjusted to reflect mark-to-market gains or losses.
 
----
 
 ### Who typically has the responsibility to report a new OTC derivative transaction to a Trade Repository in Canada?
 
@@ -316,7 +310,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** In Canada’s framework, a designated reporting counterparty (often the dealer) must transmit complete and accurate data to an approved TR. Rules specify who qualifies as the reporting counterparty.
 
----
 
 ### Which of the following is a common pitfall in OTC derivatives reporting?
 
@@ -327,7 +320,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** Inconsistent or outdated data can cause significant compliance issues. Ensuring that every lifecycle event or restructuring is captured in the TR is vital.
 
----
 
 ### A clearing organization that becomes the buyer to every seller and seller to every buyer is typically called:
 
@@ -338,7 +330,6 @@ At the end of the day, keep your eyes peeled for new bulletins, maintain robust 
 
 > **Explanation:** A CCP interposes itself between the original counterparties to minimize or eliminate their bilateral credit exposures.
 
----
 
 ### True or False: Non-compliance with reporting or clearing requirements in Canada can lead to regulatory penalties.
 

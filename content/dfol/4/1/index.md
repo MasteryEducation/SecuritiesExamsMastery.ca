@@ -184,7 +184,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** The main objective of a hedge is to offset or reduce risk exposure in the spot market by taking an opposite position in the futures market. Speculation and margin avoidance are different matters altogether.
 
----
 
 ### Which of the following is an example of a mismatch that can occur between a futures contract and an actual exposure in the spot market?
 
@@ -195,7 +194,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** Basis risk arises when the futures price and the spot price of the asset being hedged do not move perfectly in tandem. This mismatch can lead to imperfect hedge results.
 
----
 
 ### A Canadian wheat farmer expects to harvest 5,000 bushels of wheat in three months. Which hedging action typically aligns with that exposure?
 
@@ -206,7 +204,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** If you expect to have a physical commodity (wheat) in the future and want to protect against a drop in its price, you would sell (go short) wheat futures now.
 
----
 
 ### What immediate financial obligation does a hedger face when entering a futures contract?
 
@@ -217,7 +214,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** Unlike an options contract (which requires a premium payment), a futures contract requires an initial margin deposit. This margin is adjusted daily through “marking-to-market.”
 
----
 
 ### Cross-hedging refers to:
 
@@ -228,7 +224,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** Cross-hedging is when you use a related but not identical product’s futures contract to hedge exposure because an exact matching contract is unavailable or illiquid.
 
----
 
 ### One potential downside to implementing a full (100%) hedge is:
 
@@ -239,7 +234,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** While a hedge protects you from losses, it also means you don’t benefit as much from favorable price movements, since any gains in the spot market will likely be offset by losses in the futures position.
 
----
 
 ### If you continually roll your hedge forward over multiple contract cycles, one potential cost or risk factor is:
 
@@ -250,7 +244,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** Rolling hedges often involves a cost known as the “roll cost” or “roll yield,” as the futures price for a further-out contract can significantly differ from the near-month expiry.
 
----
 
 ### Which of the following statements about margin calls and futures hedging is correct?
 
@@ -261,7 +254,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** In futures markets, if the market moves against your position and your margin balance falls below the maintenance level, you get a margin call. It applies to futures, not just options.
 
----
 
 ### Selecting a futures contract with insufficient liquidity can result in:
 
@@ -272,7 +264,6 @@ Perhaps you’re a finance student, maybe you’re a new trader, or maybe you’
 
 > **Explanation:** Illiquid contracts may not have enough trading volume or tight bid-offer spreads, causing traders to accept worse execution and face challenges in large orders.
 
----
 
 ### True or False: When hedging, the goal is to ensure that the combined profit/loss from the spot position and the futures position is as volatile as possible.
 

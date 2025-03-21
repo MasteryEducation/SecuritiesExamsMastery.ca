@@ -184,7 +184,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** Hedging is about reducing unwanted risk exposure. It involves taking an offsetting position in a derivative or related instrument so that losses in the underlying are mitigated.
 
----
 
 ### Investors often use derivatives to speculate because:
 
@@ -195,7 +194,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** Speculators often seek leverage and potentially high returns. That said, higher returns come with higher risks, including the possibility of substantial losses.
 
----
 
 ### Arbitrage in derivatives markets generally involves:
 
@@ -206,7 +204,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** Arbitrageurs seek out riskless (or near-riskless) profit by capitalizing on short-term mispricing of related instruments.
 
----
 
 ### Which statement best captures the role of price discovery in futures and options markets?
 
@@ -217,7 +214,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** An active derivatives market pools diverse views from hedgers, speculators, and arbitrageurs. This helps generate up-to-date pricing that often influences the underlying asset’s spot price.
 
----
 
 ### Liquidity in derivative markets is enhanced by all of the following EXCEPT:
 
@@ -228,7 +224,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** Liquidity typically increases when a variety of participants can trade. Restricting access only to hedgers would limit the pool of participants, reducing liquidity.
 
----
 
 ### When a corporation uses an interest rate swap to switch from a floating rate to a fixed rate, this is an example of:
 
@@ -239,7 +234,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** By entering a swap, the corporation is removing the uncertainty of floating rates and gaining a predictable fixed rate. That’s hedging in action.
 
----
 
 ### The hedge ratio refers to:
 
@@ -250,7 +244,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** The hedge ratio measures how much of your underlying exposure is offset by your derivative position.
 
----
 
 ### One key difference between exchange-traded options and OTC options is:
 
@@ -261,7 +254,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** Exchange-traded products are standardized in terms of contract size and settlement. OTC options can be customized but often require credit risk management via credit support annexes or collateral.
 
----
 
 ### Basis trading is a strategy that:
 
@@ -272,7 +264,6 @@ If you’re hungry for more, dig into the Bank of Canada’s Financial System Re
 
 > **Explanation:** Basis trading specifically exploits the gap between spot and futures prices. If the basis deviates from what’s theoretically fair, a trader could lock in a near risk-free profit.
 
----
 
 ### True or False: Using derivatives always guarantees profit, since one can hedge away all market risk.
 

@@ -238,7 +238,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** Common shares generally offer voting rights and the potential for unlimited capital appreciation. Preferred shares often come with fixed dividends and enjoy higher priority in liquidation, though they typically lack voting rights.
 
----
 
 ### Which value is most influenced by the daily interactions of buyers and sellers on the stock market?
 
@@ -249,7 +248,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** Market value is determined in real-time by supply and demand in the markets, whereas par value is a nominal figure, and book value is an accounting measure. Intrinsic value is an analyst’s estimation of a stock’s fair worth.
 
----
 
 ### What is the primary benefit of participating in a Dividend Reinvestment Plan (DRIP)?
 
@@ -260,7 +258,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** DRIPs often allow shareholders to buy more stock from dividends without transaction fees. This automatic reinvestment can accelerate wealth accumulation over time.
 
----
 
 ### Which of the following is a responsibility of a common shareholder?
 
@@ -271,7 +268,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** Common shareholders are entitled to vote on key corporate decisions (e.g., electing directors). They do not set interest rates nor are they guaranteed fixed dividends.
 
----
 
 ### What is a key reason that corporate governance impacts equity valuations?
 
@@ -282,7 +278,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** Strong governance helps ensure accountability and transparency, which can enhance investor confidence and positively affect share prices and risk profiles.
 
----
 
 ### When a company’s shares trade at a market value much lower than its book value, which conclusion might a value-oriented investor draw?
 
@@ -293,7 +288,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** A deeply discounted market price relative to book value could indicate the stock is undervalued or that the market sees risks in the company’s future. Value investors often explore such discrepancies.
 
----
 
 ### Which of the following statements about market capitalization is correct?
 
@@ -317,7 +311,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** Low liquidity stocks can make trading more difficult and potentially force the investor to offer a more attractive price to complete the order.
 
----
 
 ### Which of the following is a role of the board of directors?
 
@@ -328,7 +321,6 @@ Now let’s put your knowledge to the test with some questions to see where you 
 
 > **Explanation:** Directors provide governance and strategic oversight. Regulatory enforcement belongs to regulatory bodies like CIRO.
 
----
 
 ### True or False? In Canada, CIRO is now the single SRO responsible for investment dealers and mutual fund dealers, replacing the defunct IIROC and MFDA.
 

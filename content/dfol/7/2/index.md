@@ -212,7 +212,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** Higher volatility raises the possibility of larger price moves in either direction, increasing premiums for both calls and puts.
 
----
 
 ### Why do higher risk-free interest rates often lead to slightly increased call prices?  
 - [ ] Because investors need to earn less return on capital  
@@ -222,7 +221,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** Higher rates let call buyers theoretically invest their capital at better returns until they exercise, boosting the call’s theoretical value.
 
----
 
 ### How does an upcoming dividend payment typically affect call option premiums on an equity?  
 - [ ] It has no effect on option pricing  
@@ -232,7 +230,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** If a dividend is paid during the life of a call option, the share price often drops ex-dividend, reducing the call’s value.
 
----
 
 ### What is the term for the gradual loss of an option’s time value as expiration approaches?  
 - [x] Theta decay  
@@ -242,7 +239,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** Theta captures how much an option’s price erodes with each passing day, especially if the underlying remains static.
 
----
 
 ### If an underlying asset’s price moves up, which of the following is most likely to happen to a put’s premium, all else being equal?  
 - [ ] No change  
@@ -252,7 +248,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** Puts become less valuable when the asset price rises, as the put’s strike becomes less likely to finish in-the-money.
 
----
 
 ### Which of the following best describes the effect of dividends on put-call parity (assuming the underlying pays a dividend during the life of the option)?  
 - [ ] Dividends have no effect on put-call parity  
@@ -262,7 +257,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** Anticipated dividends make calls less attractive because you don’t collect the dividend if you hold the call. Hence, it modifies the put-call parity relationship.
 
----
 
 ### In the Black–Scholes–Merton model, which factor primarily captures the potential magnitude of the underlying’s price swings?  
 - [x] Volatility (\\(\sigma\\))  
@@ -272,7 +266,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** The model’s “sigma” (volatility) input describes how the underlying’s price can fluctuate, affecting option prices.
 
----
 
 ### Which statement accurately explains how interest rate changes affect put prices?  
 - [x] Rising interest rates tend to reduce put prices  
@@ -282,7 +275,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** Higher risk-free rates can make certain put strategies less attractive because you effectively lose the benefit of investing capital elsewhere.
 
----
 
 ### When the time to expiration increases, how is an option’s premium generally affected, assuming all other factors remain the same?  
 - [x] The option premium increases  
@@ -292,7 +284,6 @@ where \\( C \\) is the call price, \\( P \\) is the put price, \\( S_0 \\) the c
 
 > **Explanation:** More time until expiration gives the underlying additional room to move in favor of the option, thus increasing time value.
 
----
 
 ### True or False: Liquidity constraints or wide bid-ask spreads can cause the actual market price of an option to differ notably from its theoretical fair value.  
 - [x] True  

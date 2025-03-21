@@ -235,7 +235,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** Personal account trading in the same products recommended to clients—without disclosure—can create a blatant conflict of interest, as the registrant’s personal benefit may compete with the client’s best interest.
 
----
 
 ### Why is disclosure of conflicts of interest essential when dealing with clients?
 
@@ -246,7 +245,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** Robust disclosure is a regulatory requirement and an ethical obligation that empowers clients to understand any potential biases or competing interests that could affect their investments.
 
----
 
 ### Which factor is generally NOT part of the “best execution” definition?
 
@@ -257,7 +255,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** While price, speed, liquidity, and reliability of settlement are core elements of best execution, the firm’s compensation is not a consideration for meeting the client’s best outcome.
 
----
 
 ### What is one potential outcome if a firm repeatedly fails to achieve best execution for its clients?
 
@@ -268,7 +265,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** Failing best execution obligations can lead to serious regulatory consequences, including fines and enforcement actions by CIRO and other regulators.
 
----
 
 ### How can firms ensure fair trade allocation among multiple client accounts?
 
@@ -279,7 +275,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** Fair allocation policies often involve pro-rata distribution for partial fills and emphasis on time-stamped orders, removing bias and ensuring no single client is unfairly prioritized.
 
----
 
 ### Which of the following is a potential conflict of interest involving proprietary trading?
 
@@ -290,7 +285,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** If the firm’s proprietary desk trades on information regarding upcoming client orders, it constitutes a conflict of interest—often referred to as front-running or parallel trading.
 
----
 
 ### Which of these steps do CIRO guidelines emphasize for achieving best execution?
 
@@ -301,7 +295,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** CIRO mandates consistent venue analysis, thorough documentation, and a supervisory process to ensure that client trades receive the most favorable terms reasonably available.
 
----
 
 ### Why might simply disclosing a conflict of interest be insufficient?
 
@@ -312,7 +305,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** While disclosure is vital, there are instances where a conflict is so serious that the firm or adviser must avoid or eliminate it to protect clients.
 
----
 
 ### From a regulatory standpoint, what underpins the requirement for “best execution” in Canada?
 
@@ -323,7 +315,6 @@ Stay curious, keep questioning your firm’s processes, and never hesitate to re
 
 > **Explanation:** Best execution obligations in Canada are formalized in NI 23-101 and reinforced by CIRO guidelines, which replaced the roles of the MFDA and IIROC.
 
----
 
 ### True or False: Improperly managing conflicts of interest can result in both regulatory penalties and legal liabilities.
 

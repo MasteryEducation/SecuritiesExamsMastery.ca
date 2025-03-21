@@ -274,7 +274,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** Dealing Representatives generally work in direct contact with retail clients, assisting them in trading and understanding derivatives.
 
----
 
 ### Which of the following is a transitional role for individuals aspiring to become a full Advising Representative?
 
@@ -285,7 +284,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** The Associate Advising Representative category is a stepping stone under the supervision of a fully licensed Advising Representative.
 
----
 
 ### Which registration category usually deals with complex derivative strategies such as interest rate swaps and advanced hedging for institutional clients?
 
@@ -296,7 +294,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** Advising Representatives are more likely to handle sophisticated derivative products and institutional portfolio management.
 
----
 
 ### True or False: You can continue operating in the same registration category even if you move to a new firm without filing additional paperwork.
 
@@ -305,7 +302,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** Switching firms requires notifying CIRO and updating the National Registration Database (NRD). Your new firm must sponsor your registration.
 
----
 
 ### Which regulatory instrument outlines the core requirements and ongoing obligations for registration in Canada?
 
@@ -316,7 +312,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** NI 31-103 covers registration requirements, exemptions, and ongoing registrant obligations, including those for derivatives representatives.
 
----
 
 ### Which of the following is the self-regulatory organization currently responsible for overseeing investment dealers and derivatives activities in Canada?
 
@@ -327,7 +322,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** The Canadian Investment Regulatory Organization (CIRO) is the amalgamated SRO formed in 2023 and now oversees investment dealers, mutual fund dealers, and market integrity.
 
----
 
 ### An Associate Advising Representative must typically:
 
@@ -338,7 +332,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** An Associate must meet certain educational requirements and be supervised by a fully licensed Advising Representative, often to gain the required experience for a future upgrade to a full AR designation.
 
----
 
 ### Which scenario best describes a Dealing Representative’s day-to-day activity?
 
@@ -349,7 +342,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** Dealing Representatives typically work with retail clients, assisting them in account opening, trade execution, and basic product education.
 
----
 
 ### What is the main advantage of maintaining accurate continuing education (CE) records?
 
@@ -360,7 +352,6 @@ Whether you’re focusing on guiding retail investors or designing hedging solut
 
 > **Explanation:** CE is critical for remaining in good standing with CIRO. Accurate records prove you are meeting ongoing educational obligations.
 
----
 
 ### Which of the following statements is TRUE regarding retaining your registration when switching firms?
 

@@ -169,7 +169,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** One of the key advantages of derivatives is the ability to gain significant market exposure (sometimes called “notional exposure”) with a smaller initial investment. None of the other statements are correct because derivatives do not eliminate counterparty risk, guarantee profits, or inherently simplify investing.
 
----
 
 ### When alternative funds use derivatives to hedge, what is the primary objective?
 
@@ -180,7 +179,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** Hedging generally aims to reduce risk by offsetting losses in one position with gains in another. The other answer choices focus on different goals that aren’t typical of a hedging strategy.
 
----
 
 ### Which of the following is a disadvantage often associated with OTC derivatives?
 
@@ -191,7 +189,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** OTC derivatives carry the risk that the counterparty may not fulfill its obligations (also known as counterparty or credit risk). Exchange-traded derivatives generally reduce such risk through clearinghouses, while OTC derivatives must rely on bilateral agreements.
 
----
 
 ### A fund manager wishes to quickly increase exposure to oil for a short-term market play. Why might she opt for oil futures over buying physical oil barrels?
 
@@ -202,7 +199,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** Oil futures allow the manager to gain exposure without transporting or storing physical commodities. This also requires less capital than purchasing actual barrels, and trades can be executed swiftly on a futures exchange.
 
----
 
 ### Which of the following best illustrates why derivatives can be more complex than traditional equities?
 
@@ -213,7 +209,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** Derivatives pricing incorporates numerous variables—such as implied volatility, time to expiration, interest rates, and the possibility of early exercise (for certain options). In contrast, equities generally have more straightforward pricing.
 
----
 
 ### In Canada, which regulatory body oversees margin rules for dealers trading derivatives?
 
@@ -224,7 +219,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** Since 2023, CIRO is the new self-regulatory body in Canada, having replaced IIROC and the MFDA. It oversees margin requirements and other regulatory obligations for investment dealers.
 
----
 
 ### An alternative fund is concerned about daily fluctuations in the value of its futures contracts. Why is mark-to-market essential in this scenario?
 
@@ -235,7 +229,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** Mark-to-market is the process of revaluing derivative positions daily based on current market prices. This procedure ensures margin requirements remain accurate and that both gains and losses are recognized in a timely manner.
 
----
 
 ### Which of the following is true regarding bid-ask spreads in derivatives markets?
 
@@ -246,7 +239,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** Bid-ask spreads are influenced by liquidity and volatility. In thinly traded or highly volatile markets, spreads tend to widen, thereby increasing transaction costs for traders.
 
----
 
 ### Why might a fund that invests primarily in Canadian equities choose to hedge with S&P/TSX 60 Index futures?
 
@@ -257,7 +249,6 @@ If you’re in a position to take advantage of derivatives, always match the sol
 
 > **Explanation:** By shorting index futures, the fund can offset potential losses when the Canadian equity market falls. A hedge on the S&P/TSX 60 Index closely correlates with many Canadian equity portfolios.
 
----
 
 ### True or False: Using derivatives always guarantees a lower overall investment risk level.
 

@@ -275,7 +275,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Scenario analysis generally covers key market variables (price, volatility, and time) and also accounts for liquidity risk.
 
----
 
 ### Which of the following best describes the difference between scenario analysis and stress testing?
 - [x] Scenario analysis looks at a range of plausible outcomes, while stress testing focuses on extreme or unlikely outcomes.
@@ -285,7 +284,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Scenario analysis is broader and covers various possible outcomes, while stress testing specializes in worst-case or tail-risk scenarios.
 
----
 
 ### While conducting scenario analysis on a bear put spread, which factor is NOT typically included?
 - [ ] Price changes
@@ -295,7 +293,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Bear put spreads are affected by the underlying price, volatility fluctuations, and time decay, but not by preferred share dividends (unless the underlying is itself a dividend-paying equity, in which case the direct effect on put option pricing is indirect and typically smaller than for calls).
 
----
 
 ### In a stress test, you assume a sudden 15% rally. If you hold a short call strategy, what is one possible outcome?
 - [x] Significant losses if the underlying rallies well above your short call’s strike.
@@ -305,7 +302,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** A short call has theoretically unlimited upside risk. A sudden rally can push losses to extremely high levels.
 
----
 
 ### CIRO guidelines encourage scenario analysis at which points in a trade?
 - [x] At trade initiation and periodically thereafter.
@@ -315,7 +311,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Initial scenario analysis helps set expectations, and ongoing or event-driven analysis helps adapt to evolving market and position conditions.
 
----
 
 ### If a stress test shows a large potential drawdown, a trader might:
 - [x] Scale down the position or add hedges.
@@ -325,7 +320,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** When a drawdown is too large, the prudent approach is reducing position size or adding protective hedges.
 
----
 
 ### Liquidity risk in scenario analysis refers to:
 - [x] The possibility of wider bid-ask spreads making it hard to exit at a fair price.
@@ -335,7 +329,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Liquidity risk is about being unable to buy or sell without a large price impact or wide spreads.
 
----
 
 ### Monte Carlo simulation in Python or R for scenario analysis:
 - [x] Allows traders to simulate numerous price paths and vol changes for more robust risk assessment.
@@ -345,7 +338,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Python and R can handle complex scenario modeling, giving traders deeper insights into risk.
 
----
 
 ### A common pitfall of scenario analysis is:
 - [ ] Including multiple price levels and volatility shifts.
@@ -355,7 +347,6 @@ Remember: the best scenario analysis is worthless if you never act on its findin
 
 > **Explanation:** Traders often fail to factor in major tail events or large bid-ask spreads when markets get volatile.
 
----
 
 ### True or False: Bearish strategies cannot be stress tested because they already assume a market drop.
 - [x] True 

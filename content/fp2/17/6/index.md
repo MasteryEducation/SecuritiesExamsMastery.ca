@@ -189,7 +189,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** Maintaining clear records is critical because it shows financial transparency and provides evidence that decisions align with the grantor’s interests.
 
----
 
 ### Which scenario most clearly demonstrates a conflict of interest by the attorney under a POA?
 
@@ -200,7 +199,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** Buying the grantor’s property at a discounted rate benefits the attorney and can jeopardize the grantor’s financial interests, reflecting a conflict of interest.
 
----
 
 ### Which of the following best describes revocation in the context of Powers of Attorney?
 
@@ -211,7 +209,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** Revocation is the formal process of canceling a POA. Legally, the grantor can revoke the POA so long as they remain mentally capable of doing so.
 
----
 
 ### True or False: An individual without mental capacity can create a valid Power of Attorney.
 
@@ -220,7 +217,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** A grantor must be mentally capable at the time of signing the POA; otherwise, the POA can be declared invalid.
 
----
 
 ### Which of the following organizations in Canada oversees financial professionals and has guidelines regarding Powers of Attorney and vulnerable clients?
 
@@ -231,7 +227,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** As of June 1, 2023, MFDA and IIROC amalgamated into CIRO, which is now the single national self-regulatory body overseeing investment dealers, mutual fund dealers, and market integrity.
 
----
 
 ### Which of the following best describes financial abuse under a POA?
 
@@ -242,7 +237,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** Financial abuse occurs when the attorney misuses or misappropriates the grantor’s assets for personal gain, such as using the grantor’s funds for the attorney’s own expenses without approval.
 
----
 
 ### When might a formal capacity assessment be most important?
 
@@ -253,7 +247,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** Capacity assessment is crucial if there is any concern or dispute about the grantor’s ability to understand the nature and consequences of granting a POA.
 
----
 
 ### What is one safeguard against the misuse of authority in a POA?
 
@@ -264,7 +257,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** Having a third party review financial statements adds oversight and accountability, making it harder for an attorney to misuse authority undetected.
 
----
 
 ### True or False: Once granted, a Power of Attorney cannot be modified, only fully revoked.
 
@@ -273,7 +265,6 @@ And remember, if you ever find the complexities overwhelming, consult a lawyer o
 
 > **Explanation:** A POA can be amended if the grantor remains mentally capable, allowing for changes in scope or in the choice of attorney.
 
----
 
 ### Which document would be crucial if a client wants to grant someone authority over healthcare decisions?
 

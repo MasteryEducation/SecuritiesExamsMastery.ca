@@ -224,7 +224,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** The Sharpe Ratio takes a portfolio’s excess return over a risk-free rate and divides that by the portfolio’s standard deviation, indicating how much return you’re receiving per unit of risk.
 
----
 
 ### When an investment has a beta of 1.2, what does that imply?
 
@@ -235,7 +234,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** A beta of 1.2 typically signals that if the market moves by a certain percentage, the investment is likely to move by about 1.2 times that amount. That’s sensitivity, not a guarantee of outperformance.
 
----
 
 ### Which statement is correct about Value at Risk (VaR)?
 
@@ -246,7 +244,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** VaR is an estimate of potential loss at a certain confidence level (e.g., 95% or 99%) over a given time horizon, often derived using historical data or statistical modeling.
 
----
 
 ### A portfolio’s alpha (α) represents:
 
@@ -257,7 +254,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** Alpha is the difference between a portfolio’s realized returns and its expected returns given its level of systematic risk (as measured by beta).
 
----
 
 ### What is the key difference between the Sharpe Ratio and the Sortino Ratio?
 
@@ -268,7 +264,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** The Sortino Ratio refines the Sharpe approach by looking only at downside deviation instead of total standard deviation, thus emphasizing negative variations in performance.
 
----
 
 ### A correlation coefficient of -1.0 between two assets means:
 
@@ -279,7 +274,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** A correlation of -1.0 is perfect negative correlation, where one asset’s gain is another asset’s loss at a one-to-one ratio.
 
----
 
 ### Suppose you have an investment that produced 10% returns when the market returned 8%, and your investment’s beta is 1. If the risk-free rate is 2%, how much is alpha?
 
@@ -290,7 +284,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** If beta is 1, your investment is expected to match the market’s return (8%), so the alpha is the difference between your actual return (10%) and the expected market return (8%) = +2%.
 
----
 
 ### If you want to specifically measure only the potential losses from negative returns (rather than all volatility), which metric should you use?
 
@@ -301,7 +294,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** The Sortino Ratio focuses on downside deviation, thus capturing only negative returns in its measure of risk.
 
----
 
 ### In practical portfolio construction, a primary reason to measure correlation is to:
 
@@ -312,7 +304,6 @@ All in all, measuring investment risk is about finding ways to put numbers aroun
 
 > **Explanation:** Correlation helps you understand how assets co-move. Low or negative correlations can offer powerful diversification benefits, reducing overall portfolio volatility.
 
----
 
 ### True or False: Value at Risk (VaR) perfectly captures all extreme (tail) events.
 

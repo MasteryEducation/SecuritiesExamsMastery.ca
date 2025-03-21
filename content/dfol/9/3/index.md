@@ -223,7 +223,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** A swap dealer’s primary function is to make markets and facilitate customer transactions, not simply to speculate or regulate. They provide liquidity by quoting buy and sell rates and act as an intermediary that helps customers hedge or speculate.
 
----
 
 ### A swap dealer offsets the market risk of a newly executed swap in the interdealer market in order to:
 
@@ -234,7 +233,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** Once a dealer executes a new swap with a client, it often offsets (or “lays off”) that risk by entering another position in the interdealer market. This helps the dealer maintain a balanced portfolio rather than accumulating large unhedged positions.
 
----
 
 ### In Canada, which regulatory body oversees the registration and conduct of swap dealers as of 2025?
 
@@ -245,7 +243,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** As of January 1, 2023, the MFDA and IIROC amalgamated into CIRO. CIRO is now the primary self-regulatory body for investment and mutual fund dealers, including the oversight of swap dealers. OSFI still supervises banks’ capital requirements, but CIRO handles day-to-day registration and conduct rules for dealers.
 
----
 
 ### What is a key regulatory requirement for swap dealers regarding cleared derivatives?
 
@@ -256,7 +253,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** Swap dealers must submit eligible swaps for central clearing, collect initial margin from clients when the position is opened, and ensure daily (or intraday) variation margin is posted to the central clearing counterparty. This is a core post-crisis reform.
 
----
 
 ### How does a swap dealer typically manage interest rate risk for a swap where it pays fixed and receives floating?
 
@@ -267,7 +263,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** Entering offsetting trades (either with other dealers or via futures/treasury derivatives) is a common way for the swap dealer to manage and hedge interest rate risk. Holding unhedged positions can be risky and usually contradicts internal risk limits.
 
----
 
 ### Which of the following describes the interdealer market?
 
@@ -278,7 +273,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** The interdealer market is where large institutional dealers trade with each other. By doing so, they redistribute risk from their client deals and maintain liquidity.
 
----
 
 ### A swap dealer’s “book” can include which types of risk?
 
@@ -289,7 +283,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** A swap dealer deals with an array of exposures, such as interest rate risk, foreign exchange risk (in cross-currency swaps), credit risk, and liquidity risk. They continually monitor and hedge these risks.
 
----
 
 ### Why must swap dealers in Canada maintain adequate capital and adhere to CIRO rules?
 
@@ -300,7 +293,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** Keeping adequate capital is crucial because it ensures a dealer can sustain unexpected market shifts or credit events without collapsing. CIRO enforces these requirements to maintain a stable and trustworthy marketplace.
 
----
 
 ### A Canadian swap dealer is helping a client hedge floating-rate debt with a fixed-for-floating interest rate swap. Which margin procedure typically applies if the swap is cleared?
 
@@ -311,7 +303,6 @@ Whether you’re brand new to the idea of swaps or deeply familiar but wanting t
 
 > **Explanation:** Under central clearing mandates, both initial margin (at trade inception) and variation margin (daily or intraday) are standard. This approach reduces systemic risk by ensuring that changes in the trade’s value are regularly collateralized.
 
----
 
 ### True or False: A swap dealer is typically restricted to offering only standardized swap contracts, with no flexibility to customize terms for clients.
 

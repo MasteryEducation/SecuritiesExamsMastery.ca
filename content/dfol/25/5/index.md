@@ -189,7 +189,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** Covered calls are usually permitted because they are a low-risk strategy; the option is covered by shares already held, thus limiting potential downside. They aren’t risk-free, but they’re not prohibited by default in registered accounts.
 
----
 
 ### What is the tax treatment of capital gains realized inside an RRSP?
 
@@ -200,7 +199,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** Gains (interest, dividends, capital gains) inside an RRSP are tax-deferred. They only become taxable upon withdrawal, and they’re taxed as ordinary income regardless of their original nature.
 
----
 
 ### Which of the following is generally considered impermissible in an RRSP, RRIF, or RESP?
 
@@ -211,7 +209,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** Most plan trustees and CRA guidelines prohibit high-risk strategies like writing naked calls because they expose the account to unlimited potential losses. Low-risk or hedged strategies are typically allowed.
 
----
 
 ### When might you pay taxes on gains from exchange-traded options held inside an RRSP?
 
@@ -222,7 +219,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** Gains in an RRSP are tax-deferred until withdrawn, at which point they are taxed as ordinary income according to your marginal tax rate.
 
----
 
 ### In which scenario could an RESP beneficiary pay minimal tax on withdrawal?
 
@@ -233,7 +229,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** A beneficiary with little to no income is likely in a low tax bracket, so the educational assistance payment (which includes the investment growth portion) can be taxed at a lower rate.
 
----
 
 ### What is a potential risk of holding a concentrated position and writing covered calls within an RRSP?
 
@@ -244,7 +239,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** While covered calls can provide premium income, you might have to sell your underlying shares if you’re assigned. You don’t pay immediate capital gains tax inside the RRSP, but you could lose future stock upside.
 
----
 
 ### Which of the following documents offers official guidance on the investment options permissible within registered plans?
 
@@ -255,7 +249,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** The CRA’s Registered Plans Directorate provides official guidance on permissible (and impermissible) investments within Canadian registered accounts. U.S. regulatory bodies have no jurisdiction over Canadian RRSPs, RRIFs, or RESPs.
 
----
 
 ### What role does CIRO play in the context of options trading in registered accounts?
 
@@ -266,7 +259,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** CIRO is Canada’s self-regulatory organization overseeing investment dealers and mutual fund dealers, including rules for derivatives and margin trading in registered accounts.
 
----
 
 ### Which statement best describes the difference between RRIFs and RRSPs when using exchange-traded options?
 
@@ -277,7 +269,6 @@ Remember: The overarching reason Canada offers these registered plans is to enco
 
 > **Explanation:** RRIFs require minimum annual withdrawals after a certain age, which influences the time horizon and liquidity needs for strategies, even though both RRSP and RRIF accounts follow similar tax deferral rules.
 
----
 
 ### True or False: Losses in a registered account can be used to offset capital gains outside the account.
 

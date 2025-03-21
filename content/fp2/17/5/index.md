@@ -194,7 +194,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** A POA for Personal Care covers decisions about personal welfare, such as health care and living arrangements. Financial and property matters are handled under a POA for Property or a similar legal document.
 
----
 
 ### 2. What does “mental capacity” usually refer to in the context of creating a POA for Personal Care?
 
@@ -205,7 +204,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** Mental capacity involves being able to grasp the nature and impact of decisions. Provincial laws often require a formal assessment of capacity before a POA for Personal Care goes into effect.
 
----
 
 ### 3. In most provinces, what happens if your POA for Personal Care lacks specific instructions about a particular medical treatment?
 
@@ -216,7 +214,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** If the grantor has not provided specific instructions, the attorney is obligated to act in the best interests of the grantor, taking into account their known values and previous wishes.
 
----
 
 ### 4. Who is typically the best person to name as your attorney for personal care?
 
@@ -227,7 +224,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** Trust, understanding of your personal preferences, and emotional readiness are critical factors in choosing a suitable attorney for personal care.
 
----
 
 ### 5. Which of the following is NOT one of the recommended steps when creating a POA for Personal Care?
 
@@ -238,7 +234,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** Distributing assets is part of estate distribution and not relevant to setting up a POA for Personal Care.
 
----
 
 ### 6. If you relocate from Ontario to Alberta, what’s the best approach regarding your existing POA for Personal Care?
 
@@ -249,7 +244,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** Because provincially regulated documents can differ in requirements, it’s wise to review and update your POA for Personal Care when you move to another province.
 
----
 
 ### 7. Why might a “living will” differ from a “POA for Personal Care”?
 
@@ -260,7 +254,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** Although the terms sometimes overlap, a living will generally provides instructions about end-of-life care but might not formally designate someone to enforce those instructions.
 
----
 
 ### 8. Which person below is ineligible to serve as a witness for the signing of a POA for Personal Care in many provinces?
 
@@ -271,7 +264,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** In many jurisdictions, the attorney himself/herself and close family members typically cannot be witnesses to avoid conflicts of interest.
 
----
 
 ### 9. If an appointed attorney refuses to act, what is the best course of action?
 
@@ -282,7 +274,6 @@ More than a bureaucratic step, it’s an act of care and consideration for those
 
 > **Explanation:** POAs often provide for alternates. If the first-named attorney cannot or will not serve, the alternate will step in. Otherwise, legal procedures to appoint a new attorney might be necessary.
 
----
 
 ### 10. True or False: A POA for Personal Care always needs to be notarized to be valid in every Canadian province.
 

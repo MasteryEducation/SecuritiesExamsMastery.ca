@@ -199,7 +199,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** CIRO (Canadian Investment Regulatory Organization) was formed to oversee investment dealers, mutual fund dealers, and marketplace functions across Canada.
 
----
 
 ### What is the main advantage of having a single SRO after the amalgamation of IIROC and MFDA?
 
@@ -210,7 +209,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** Merging two separate SROs into one helps streamline compliance and harmonize rules, saving time and confusion.
 
----
 
 ### True or False: The Canadian Investor Protection Fund (CIPF) became Canada’s sole investor protection fund after IIROC and MFDA amalgamated.
 
@@ -219,7 +217,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** With the consolidation, CIPF merged with the MFDA IPC, resulting in CIPF becoming the single investor protection fund in Canada.
 
----
 
 ### Which entity ultimately provides the overarching framework under which CIRO operates?
 
@@ -230,7 +227,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** The CSA (a group of provincial and territorial securities regulators) supervises SROs such as CIRO.
 
----
 
 ### Under the new self-regulatory platform, which of the following is most likely to be emphasized for Approved Persons dealing in derivatives?
 
@@ -241,7 +237,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** One of the goals under the new CIRO framework is to move toward more rigorous, assessment-focused proficiency requirements.
 
----
 
 ### Which statement is most accurate regarding the role of CIPF?
 
@@ -252,7 +247,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** CIPF protects investors primarily against member insolvency, not ordinary trading losses.
 
----
 
 ### Why might the Client-Focused Reforms (CFRs) gain more prominence under CIRO?
 
@@ -263,7 +257,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** CFRs were already in place, but under CIRO, enforcement is more integrated and consistent.
 
----
 
 ### Which of the following best defines the term "Proficiency Standards"?
 
@@ -274,7 +267,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** Proficiency Standards outline the baseline knowledge and competencies needed by individuals who handle regulated activities (including derivatives).
 
----
 
 ### According to the new framework, which of the following is most important for maintaining licensure as an Approved Person?
 
@@ -285,7 +277,6 @@ I’m personally excited to see how this single SRO continues to evolve, especia
 
 > **Explanation:** CIRO emphasizes both initial and ongoing educational requirements, so continuing professional development or CPD is key.
 
----
 
 ### True or False: Foreign dealers operating in Canada may be exempt from CIRO oversight entirely, regardless of any local business activities.
 

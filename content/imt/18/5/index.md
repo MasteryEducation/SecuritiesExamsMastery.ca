@@ -267,7 +267,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** MWR (also known as the internal rate of return, IRR) captures the effect of actual contributions and withdrawals, which can make it more relevant from an investor’s perspective.
 
----
 
 ### Why is it important to explain how rates of return are calculated in performance reports?
 
@@ -278,7 +277,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** Clarifying calculation methods (especially TWR vs. MWR) helps clients comprehend their portfolio performance and fosters transparency.
 
----
 
 ### Which of the following regulatory bodies or frameworks outlines best practices for performance reporting in Canada today?
 
@@ -289,7 +287,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** Both the CIRO and CSA (with its National Instruments and Staff Notices) remain critical to performance reporting in Canada. IIROC and MFDA no longer exist as separate entities, having merged into CIRO in 2023.
 
----
 
 ### What is the main difference between time-weighted return (TWR) and money-weighted return (MWR)?
 
@@ -300,7 +297,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** TWR isolates the performance of the investment strategy, ignoring client-driven cash flows. MWR incorporates the specific timing of contributions and withdrawals.
 
----
 
 ### Which of the following is a recommended tool or framework for global best practices in performance calculation and reporting?
 
@@ -311,7 +307,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** GIPS is a globally recognized set of best practices for performance reporting, frequently used in conjunction with local regulatory requirements.  
 
----
 
 ### According to current Canadian regulations, which risk factors should typically be disclosed in performance reports?
 
@@ -322,7 +317,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** CIRO and CSA guidelines generally require clear disclosure of major risks relevant to the client’s portfolio, including market volatility, liquidity, and credit risks.
 
----
 
 ### What is the primary purpose of benchmark comparisons in a performance report?
 
@@ -333,7 +327,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** Benchmarks help clients see how their portfolio stands relative to a representative market index, adding a vital frame of reference for performance results.
 
----
 
 ### What does CIRO require regarding fee disclosure in performance reports?
 
@@ -344,7 +337,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** CIRO regulations (supported by CSA mandates) emphasize thorough fee disclosure in a manner that’s accessible to clients, including itemizing management fees, commissions, and other charges.
 
----
 
 ### Which statement best describes the role of CIPF in the context of reporting?
 
@@ -355,7 +347,6 @@ As you continue refining your performance reporting, you might explore advanced 
 
 > **Explanation:** The Canadian Investor Protection Fund (CIPF) provides coverage if a member firm becomes insolvent. It is not involved in performance calculation or benchmarking; rather, it serves as a safety net for client assets.
 
----
 
 ### True or False: Adhering to CIRO regulations and CSA National Instruments ensures that an advisor’s performance reporting will always be free of any risks or criticism.
 

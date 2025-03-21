@@ -202,7 +202,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** A major liability lawsuit can derail a client’s entire financial plan. Liability insurance provides a safety net, preventing massive out-of-pocket settlement costs.
 
----
 
 ### Which of the following types of insurance would most likely cover an accident where a restaurant customer slips on a wet floor?
 
@@ -213,7 +212,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** CGL covers bodily injury and property damage claims arising from daily business operations, like slip-and-fall accidents on the premises.
 
----
 
 ### Which statement best describes umbrella insurance?
 
@@ -224,7 +222,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** Umbrella insurance provides extra liability coverage once the limits of underlying policies (home, auto, etc.) are reached, extending protection.
 
----
 
 ### A financial advisor makes an oversight in retirement planning for a client, causing them financial loss. Which type of liability insurance would address this scenario?
 
@@ -235,7 +232,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** E&O insurance is designed for professionals who are sued for errors, omissions, or negligence in the performance of their services.
 
----
 
 ### D&O coverage protects:
 
@@ -246,7 +242,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** Directors and Officers (D&O) insurance covers the personal assets of company leaders who can be sued for decisions made on behalf of the organization.
 
----
 
 ### Vicarious liability typically occurs when:
 
@@ -257,7 +252,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** Vicarious liability means employers can be held liable for actions done by employees in the course of employment.
 
----
 
 ### Which one of the following is a common pitfall for people who purchase liability insurance?
 
@@ -268,7 +262,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** Underestimating coverage limits and forgetting specialized risks are two big oversights that can leave people exposed when a lawsuit arises.
 
----
 
 ### Sarah, a financial advisor, is also on the board of a local nonprofit. Which coverage combination would likely serve her best?
 
@@ -279,7 +272,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** As a financial advisor, Sarah may need E&O coverage, and for her role as a board member, D&O would protect her personal assets.
 
----
 
 ### An employer fails to ensure machinery is safe, and a product harms a consumer. Under “strict liability,” do plaintiffs need to prove negligence?
 
@@ -290,7 +282,6 @@ Liability insurance, as you can see, is not just for big companies or people wit
 
 > **Explanation:** Under strict liability, the plaintiff doesn’t need to prove the defendant was negligent; liability is assumed due to the inherently dangerous or defective nature of the product or activity.
 
----
 
 ### Liability insurance coverage is essential in protecting financial plans because it:
 

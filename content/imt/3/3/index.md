@@ -212,7 +212,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** SAA is about establishing a long-term target mix and periodically rebalancing to maintain that mix. It is not inherently short-term.
 
----
 
 ### What is one primary drawback of Tactical Asset Allocation (TAA)?
 
@@ -223,7 +222,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** Because TAA involves more frequent trades, investors often face increased transaction costs and potentially higher taxes.
 
----
 
 ### Which asset allocation strategy typically relies most heavily on computer-driven, rules-based decision-making?
 
@@ -234,7 +232,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** Dynamic Asset Allocation commonly employs systematic or algorithmic models that continuously adjust portfolio weights according to pre-set rules.
 
----
 
 ### According to this section, how does rebalancing benefit investors?
 
@@ -245,7 +242,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** A key advantage of systematic rebalancing is that it nudges you to buy undervalued assets and sell overvalued ones.
 
----
 
 ### When referring to Dynamic Asset Allocation, which statement is correct?
 
@@ -256,7 +252,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** Dynamic approaches are systematically driven by data, often updated regularly, and can be implemented by sophisticated robo-advisors.
 
----
 
 ### What role does CIRO currently play in Canada for advisors employing asset allocation strategies?
 
@@ -267,7 +262,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** CIRO oversees investment dealers and sets standards for advisors, including risk management guidelines, after the amalgamation of IIROC and MFDA.
 
----
 
 ### A retiree who wants to systematically minimize downside risk by reducing equity exposure when volatility spikes is most aligned with:
 
@@ -278,7 +272,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** Dynamic strategies frequently use volatility-based yardsticks to adjust portfolio exposures automatically.
 
----
 
 ### In Tactical Asset Allocation, which of the following is a common tactic?
 
@@ -289,7 +282,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** TAA often involves sector rotation—shifting investments to sectors poised to benefit from economic changes.
 
----
 
 ### Which of these is a key risk when using a higher-turnover asset allocation strategy?
 
@@ -300,7 +292,6 @@ And if these strategies feel a bit overwhelming, don’t worry. Like I said, I o
 
 > **Explanation:** Higher turnover generally increases transaction costs and creates more taxable events, impacting net returns.
 
----
 
 ### True or False: A purely Strategic Asset Allocation approach never needs rebalancing.
 

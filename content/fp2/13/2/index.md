@@ -255,7 +255,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Third-Party Liability Insurance is mandatory across all provinces and territories; it protects you against claims involving bodily injury and property damage to others.
 
----
 
 ### What is the primary purpose of Accident Benefits (or Section B) coverage?
 
@@ -266,7 +265,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Accident Benefits provide coverage for medical costs, rehabilitation, and income replacement for you and your passengers, regardless of who is at fault during an accident.
 
----
 
 ### In a no-fault system, which insurer generally pays for the policyholder's medical expenses and lost income?
 
@@ -277,7 +275,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Under a no-fault structure, your own insurer covers your medical costs, rehabilitation, or income replacement without requiring proof of fault from another driver.
 
----
 
 ### Which coverage would protect you from property damage caused by theft or vandalism?
 
@@ -288,7 +285,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Comprehensive coverage pays for damage due to non-collision incidents like vandalism, theft, fire, or natural disasters.
 
----
 
 ### Which of the following could help reduce your auto insurance premiums while still maintaining adequate coverage?
 
@@ -299,7 +295,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Telematics rewards safe driving habits with possible discounts. Bundling your insurance policies can lead to multi-line discounts. Opting for lower liability limits or filing small claims often increases long-term costs.
 
----
 
 ### If you are involved in an accident where the at-fault driver has insufficient coverage, the coverage that compensates you for your damages is:
 
@@ -310,7 +305,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Uninsured/Underinsured Motorist Coverage protects you when the at-fault driver doesn’t have enough insurance to cover your losses.
 
----
 
 ### Which organization primarily offers auto insurance in British Columbia?
 
@@ -321,7 +315,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** ICBC is a Crown corporation responsible for providing basic auto insurance in BC. CIRO oversees investment dealers and mutual fund dealers, not auto insurance.
 
----
 
 ### What is a potential drawback of increasing your collision coverage deductible?
 
@@ -332,7 +325,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Raising your deductible can lower premiums, but it means you have to pay more if there’s a collision claim.
 
----
 
 ### Which statement about telematics usage-based insurance is most accurate?
 
@@ -343,7 +335,6 @@ Remember that no matter which province or territory you call home, or how many y
 
 > **Explanation:** Telematics programs record data such as acceleration, braking, and total mileage. Insurers use this data to offer discounts or personalized premium rates.
 
----
 
 ### True or False: Accident Benefits are paid out based solely on who is at fault in a motor vehicle incident.
 

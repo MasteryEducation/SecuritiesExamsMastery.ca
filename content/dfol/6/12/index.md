@@ -185,7 +185,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Gamma describes how Delta itself shifts with changes in the underlying's price. It is essentially the second derivative of the option's price with respect to the underlying.
 
----
 
 ### An investor is long a call option. As the underlying stock price moves higher, what happens to Delta and Gamma if the call is near the money and has a high Gamma?
 
@@ -196,7 +195,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** If a call is near the money, Delta tends to increase rapidly as the stock moves higher. Gamma is what tells us the rate of this Delta adjustment.
 
----
 
 ### Time decay (Theta) is generally most damaging to which type of position?
 
@@ -207,7 +205,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Long out-of-the-money options most acutely suffer from time decay because the option can move toward zero if the underlying doesnâ€™t rise (in the case of a call) or fall (in the case of a put).
 
----
 
 ### An options trader notices that implied volatility has significantly increased just before an anticipated earnings announcement. Which Greek would primarily capture the impact of this volatility change on an existing long option position?
 
@@ -218,7 +215,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Vega measures how much an optionâ€™s price changes with implied volatility. So when volatility spikes prior to earnings, Vega is the key Greek that shows how your long position might benefit in terms of higher premium.
 
----
 
 ### Suppose you have a portfolio of long-dated call options. The central bank indicates a future rise in interest rates. Which Greek should you track closely to understand how your option values might be affected by rising rates?
 
@@ -229,7 +225,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Rho captures how an optionâ€™s value changes in response to interest rate moves. Long-dated options can be more sensitive to such changes than shorter-term options.
 
----
 
 ### Which statement accurately describes a negative Gamma position?
 
@@ -240,7 +235,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Negative Gamma is associated with short option positions. If the underlying moves significantly, the positionâ€™s Delta can shift rapidly in a manner that increases potential losses.
 
----
 
 ### A trader wants to earn profits from time decay. What kind of Greek profile will they most likely aim for?
 
@@ -251,7 +245,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Earning profits from time decay typically involves being short options, which leads to positive Theta (you gain from time passing) and negative Gamma (you lose if the underlying makes large moves).
 
----
 
 ### Which of the following is true regarding Vega?
 
@@ -262,7 +255,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** Vega is typically largest in at-the-money options with longer durations, as they are more sensitive to changes in implied volatility.
 
----
 
 ### How does a higher Gamma in an at-the-money option typically affect hedging needs?
 
@@ -273,7 +265,6 @@ So, next time you set up an option tradeâ€”long or short, single-leg or complexâ
 
 > **Explanation:** The faster Delta changes (high Gamma), the more frequently you must rebalance your hedge to maintain a target Delta level.
 
----
 
 ### If implied volatility decreases sharply after an earnings event, which Greek would help explain why a long straddle might drop in value?
 

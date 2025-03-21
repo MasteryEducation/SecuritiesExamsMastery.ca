@@ -182,7 +182,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** A Depositary Receipt represents shares in a foreign company and trades in the local currency or on a local exchange (e.g., NYSE). This makes it easier for investors to access foreign equity markets.
 
----
 
 ### ADRs (American Depositary Receipts) are typically:
 
@@ -193,7 +192,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** ADRs are primarily traded on U.S. exchanges, denominated in U.S. dollars, and regulated by the SEC. Canadian investors buying ADRs may still face currency risk between CAD and USD.
 
----
 
 ### One advantage of investing in global mutual funds or ETFs is:
 
@@ -204,7 +202,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** Mutual funds or ETFs with an international mandate can provide broad exposure to foreign markets in a single product, helping diversify an investorâ€™s portfolio. However, thereâ€™s no guarantee of higher returns, and they do not automatically bypass regulations or provide free currency hedging.
 
----
 
 ### Foreign Direct Investment (FDI) differs from portfolio investments because:
 
@@ -215,7 +212,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** FDI is characterized by direct ownership or control in a foreign enterprise, whereas portfolio investments (like buying stocks and bonds) do not involve direct operational control of the companies.
 
----
 
 ### In Canada, which regulatory body currently oversees compliance and suitability standards for foreign investments?
 
@@ -226,7 +222,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** Since the amalgamation, CIRO is the national self-regulatory body overseeing investment dealers and mutual fund dealers in Canada, replacing IIROC and MFDA (both defunct).
 
----
 
 ### A GDR (Global Depositary Receipt) is most commonly:
 
@@ -237,7 +232,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** GDRs can be issued in various international markets and different currencies, giving them a global scope compared to ADRs, which focus on the U.S. market.
 
----
 
 ### What is the primary advantage of Canadian Mutual Funds with a global mandate for domestic investors?
 
@@ -248,7 +242,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** These funds allow investors to gain foreign exposure under familiar Canadian regulatory oversight. They do not guarantee capital protection or currency hedging, nor do they replace the need for comprehensive asset allocation planning.
 
----
 
 ### Which of the following is a common pitfall when investing in foreign securities?
 
@@ -259,7 +252,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** Currency risk is significant for cross-border investments. Trading hours, taxation, and research requirements can vary, but ignoring currency dynamics is a widespread risk.
 
----
 
 ### A Canadian investor seeking detailed disclosures and filings for mutual funds with foreign holdings should consult:
 
@@ -270,7 +262,6 @@ If your mission is to broaden your portfolio beyond the Canadian market, thereâ€
 
 > **Explanation:** SEDAR+ is the official system in Canada for accessing regulatory filings and continuous disclosure documents for issuers, including those that offer global mutual funds.
 
----
 
 ### True or False: Large pension funds in Canada often include international assets in their portfolios to enhance diversification.
 

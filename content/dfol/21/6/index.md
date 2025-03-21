@@ -217,7 +217,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** CIRO is Canada’s national self-regulatory organization for investment dealers and plays a key role in derivatives market oversight.
 
----
 
 ### What is the primary purpose of a Membership Agreement between a firm and the Bourse de Montréal?
 
@@ -228,7 +227,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** The Membership Agreement outlines key responsibilities, including capital requirements and compliance standards, not marketing or exclusive branding.
 
----
 
 ### In a CIRO member firm, who typically has overall responsibility for ensuring compliance policies meet regulatory standards?
 
@@ -239,7 +237,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** The CCO manages and enforces compliance policies, ensuring the firm meets CIRO requirements.
 
----
 
 ### Which of the following is a potential outcome if a registrant exceeds position limits for a listed derivative on the Bourse de Montréal?
 
@@ -250,7 +247,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** The Bourse sets strict position limits; exceeding these can result in forced position adjustments and possible sanctions.
 
----
 
 ### Why do daily compliance checks exist at CIRO member firms and Approved Participants?
 
@@ -261,7 +257,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** Daily checks help firms detect compliance issues early, protecting both the firm and its clients from undue risk.
 
----
 
 ### Which statement best captures the flow of regulatory requirements within a firm?
 
@@ -272,7 +267,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** CIRO and the Bourse set the overarching framework, which is adopted into the firm’s policies and carried out at the operational level.
 
----
 
 ### If a firm violates its membership agreement by not maintaining the required financial capital, what is a possible consequence?
 
@@ -283,7 +277,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** Failing to maintain capital triggers regulatory consequences, such as fines or suspension from the exchange.
 
----
 
 ### Which of the following is key to ensuring that daily supervisory structures remain effective?
 
@@ -294,7 +287,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** Well-documented, transparent supervisory structures and processes are vital for compliance and daily oversight.
 
----
 
 ### Why must individual registrants be approved or recognized by the Bourse if they work for an Approved Participant?
 
@@ -305,7 +297,6 @@ It’s not just about avoiding fines or sanctions—it’s about safeguarding ma
 
 > **Explanation:** The exchange ensures that all individuals handling derivatives are properly qualified, reducing the likelihood of market misconduct.
 
----
 
 ### The main purpose of the Code of Conduct required by membership agreements is to:
 
