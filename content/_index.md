@@ -14,14 +14,24 @@ license: "© 2023 Tokenizer Inc. CC BY-NC-SA 4.0"
 
 > Get ready to excel on the Canadian Securities Course (CSC®) exams with targeted practice questions, in-depth rationales, and flexible study plans. Access 5,000 free questions online, plus unlock thousands of advanced scenario-based items in our premium mobile app. Start your free trial today!
 
-## Master the CSC® Exams with 12,000+ Practice Questions & Expert Insights
+## Master the CSC® Exams with 18,000+ Practice Questions & Expert Insights
 
-Prepare for your Canadian Securities Course (CSC®) exams with confidence. Access 5,000 free questions online and unlock an additional 7,000 advanced, scenario-based questions in our premium mobile app—totaling over 12,000 questions meticulously aligned with CIRO 2025 guidelines.
+Prepare for your Canadian Securities Course (CSC®) exams with confidence. Access 10,000+ free questions online and unlock an additional 8,000+ advanced, scenario-based questions with detailed clear explanations in our premium mobile app—totaling over 18,000 questions meticulously aligned with CIRO 2025 guidelines.
 
 **Start Your FREE Trial Today**
 
-[CSC® Mock Exams (iOS)](https://apps.apple.com/app/apple-store/id1667869674?pt=125644195&ct=SecuritiesExamsMastery&mt=8)  
-[CSC® Mock Exams (Android)](https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams)
+
+<a href="https://apps.apple.com/app/apple-store/id1667869674"
+      style="display: inline-block; margin-right: 10px; vertical-align: middle;">
+      <img alt="Download on the App Store" src='/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg'
+         style="height: 60px;">
+</a>
+<a href="https://play.google.com/store/apps/details?id=ca.tokenizer.cscexams"
+      style="display: inline-block; vertical-align: middle;">
+      <img alt='Get it on Google Play' src='/GetItOnGooglePlay_Badge_Web_color_English.png'
+         style="height: 60px;" />
+</a>
+
 
 ---
 
